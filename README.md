@@ -49,7 +49,7 @@ done
 
 ### Keywords/entities extraction
 Extracted keywords and named entities from each transcript txt file using SpaCy
-NLP model for italian ()`it_core_news_lg`), saving the results as CSV files in
+NLP model for italian (`it_core_news_lg`), saving the results as CSV files in
 the `keywords/` and `entities/` folders.
 
 ```shell
