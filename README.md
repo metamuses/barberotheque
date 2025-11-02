@@ -15,7 +15,7 @@ Downloaded the audio of each video using `yt-dlp` into M4A format.
 
 ```shell
 # extract all youtube URLs into a batch file
-tail -n +2 data/barbero.csv | cut -d',' -f1 > .yt-dlp/barbero.lst
+tail -n +2 metadata/barbero.csv | cut -d',' -f1 > .yt-dlp/barbero.lst
 
 # download m4a audio files with yt-dlp
 yt-dlp \
@@ -27,7 +27,7 @@ yt-dlp \
 ```
 
 ### Semantic renaming
-Compiled the `data/barbero.csv` with the reasoned semantic filenames, adding the
+Compiled the `metadata/barbero.csv` with the reasoned semantic filenames, adding the
 column `semantic_filename` and filling it manually.
 Then renamed all files in the `compressed/` folder to their semantic filenames
 using the script `scripts/rename_files.py`.
