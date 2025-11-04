@@ -1,0 +1,2236 @@
+1
+00:00:00,000 --> 00:00:13,520
+Buonasera a tutti. Allora, questa sera concludiamo questa trilogia sulla prima guerra mondiale
+
+2
+00:00:13,520 --> 00:00:21,200
+dell'Italia raccontando l'ultimo anno della guerra, da Caporetto a Vittorio Veneto. Devo
+
+3
+00:00:21,200 --> 00:00:27,720
+essere sincero, fin da subito, è una storia meno surreale rispetto a quella dell'entrata
+
+4
+00:00:27,720 --> 00:00:34,580
+in guerra dell'Italia e meno tragica rispetto alla storia di Caporetto. Ormai siete qui
+
+5
+00:00:34,580 --> 00:00:43,200
+tanto, comunque è un pezzo di storia d'Italia che credo valga comunque la pena di esaminare
+
+6
+00:00:43,200 --> 00:00:50,920
+un po' più da vicino. Dopo Caporetto dunque, l'attacco austriaco e soprattutto tedesco
+
+7
+00:00:50,920 --> 00:00:59,200
+è scattato il 24 ottobre del 1917, nel giro di due settimane quel che resta dell'esercito
+
+8
+00:00:59,200 --> 00:01:07,060
+italiano è stato sbalzato indietro fino al piave. Tanto per capirci, in una guerra in cui
+
+9
+00:01:07,060 --> 00:01:14,560
+si misuravano a chilometri, un chilometro per volta, le avanzate vittoriose. In una guerra
+
+10
+00:01:14,560 --> 00:01:19,940
+dove l'undicesima battaglia del Lisonzo, che noi abbiamo vinto, la battaglia della Bainsizza,
+
+11
+00:01:20,560 --> 00:01:28,580
+ha portato l'esercito italiano a andare avanti di 8-10 chilometri e quegli 8-10 chilometri
+
+12
+00:01:28,580 --> 00:01:34,820
+di avanzata hanno dato ai comandi austriaci la sensazione che la prossima volta crollava
+
+13
+00:01:34,820 --> 00:01:45,180
+tutto. I tedeschi a Caporetto ci hanno ributtato indietro di 150 chilometri. Siamo in Italia, un pezzo
+
+14
+00:01:45,180 --> 00:01:52,880
+d'Italia è occupata, le colonne di prigionieri italiani che marciano verso oriente incrociano
+
+15
+00:01:52,880 --> 00:01:59,560
+le colonne dei tedeschi che vanno avanti, la pancia piena perché si sono fermati a mangiare
+
+16
+00:01:59,560 --> 00:02:07,940
+dappertutto, entusiasti felici per la vittoria. Quando piove con gli ombrelli aperti, perché le
+
+17
+00:02:07,940 --> 00:02:13,020
+colonne tedesche saccheggiano gli ombrelli nelle case e per un po' marciano riparandosi con l'ombrello
+
+18
+00:02:13,020 --> 00:02:18,040
+fino a quando i loro comandi non decidono che non è una cosa adatta a dei veri uomini e quindi lo
+
+19
+00:02:18,040 --> 00:02:24,880
+proibiscono. I tedeschi incrociano le colonne dei nostri prigionieri e scherzando gli dicono
+
+20
+00:02:24,880 --> 00:02:33,580
+a Milano, a Milano, stiamo andando a Milano. Ogni tanto qualche ufficiale italiano prigioniero si
+
+21
+00:02:33,580 --> 00:02:39,160
+trova a fare due chiacchiere con un ufficiale austriaco che parla italiano, un ufficiale austriaco
+
+22
+00:02:39,160 --> 00:02:46,440
+che magari è di Trieste e che gli dice, anche questo ho trovato in una memoria, adesso noi andiamo a Roma
+
+23
+00:02:46,440 --> 00:02:55,320
+a ciappare il gobetto, dove il gobetto sarebbe il revittorio naturalmente. E invece non vanno a Milano
+
+24
+00:02:55,320 --> 00:03:01,440
+e non vanno a Roma, si fermano al Piave. La prima domanda che sempre si pone in questi casi è appunto
+
+25
+00:03:01,440 --> 00:03:08,500
+ma perché si sono fermati al Piave? Com'è che l'esercito italiano è riuscito a fermarsi lì? Qui le risposte
+
+26
+00:03:08,500 --> 00:03:14,440
+in realtà sono tante, come sempre quando uno dice perché è successa una cosa? E non c'è mai un solo
+
+27
+00:03:14,440 --> 00:03:22,560
+motivo, ce ne sono tanti. La tentazione dello storico sarebbe di dire ma avete mai avuto esempi
+
+28
+00:03:22,560 --> 00:03:30,320
+nella storia di una vittoria dopo la quale chi ha vinto conquista tutto il mondo? No, ci si ferma sempre,
+
+29
+00:03:31,260 --> 00:03:39,340
+sempre quando hai vinto prima o poi ti fermi. Fermarsi al Piave dopo 150 chilometri di corsa è il minimo,
+
+30
+00:03:39,340 --> 00:03:45,080
+i tedeschi sono esausti, hanno lasciato indietro tutta la loro artiglieria prima di portarla avanti
+
+31
+00:03:45,080 --> 00:03:52,060
+ce ne vuole, gli aeroporti, i magazzini, le linee ferroviarie, è tutto indietro e le truppe sono
+
+32
+00:03:52,060 --> 00:04:00,460
+stravolte, esauste, non ce la fanno più. Arrivati al Piave e al Grappa in quel novembre del 17, ci
+
+33
+00:04:00,460 --> 00:04:08,420
+provano ancora, ci sperano anche e invece lì non passano. Quel che resta dell'esercito italiano
+
+34
+00:04:08,420 --> 00:04:15,300
+tiene duro ed è la prima sensazione all'improvviso in Italia che forse dopo tutto ecco non tutto è
+
+35
+00:04:15,300 --> 00:04:23,420
+perduto. L'esercito nonostante le botte che ha preso c'è ancora e combatte ancora, anzi a dirla tutta
+
+36
+00:04:23,420 --> 00:04:31,200
+combatte meglio di prima perché quel che resta dell'esercito adesso sta combattendo in Italia ed è
+
+37
+00:04:31,200 --> 00:04:37,560
+più facile spiegare ai soldati perché si combatte. Certo anche prima i soldati dicevano la patria,
+
+38
+00:04:37,660 --> 00:04:43,380
+il risorgimento, l'unità d'Italia, Trento, Trieste, sta di fatto che le truppe italiane che sono state
+
+39
+00:04:43,380 --> 00:04:52,040
+attaccate e travolte a Caporetto vivevano da due anni in un paese straniero, abitato da stranieri,
+
+40
+00:04:52,040 --> 00:04:59,460
+sloveni, i quali li detestavano e li consideravano giustamente degli invasori e i nostri soldati
+
+41
+00:04:59,460 --> 00:05:06,580
+tanto contenti non erano. Adesso invece si combatte in Italia e la propaganda nostra lo capisce subito
+
+42
+00:05:06,580 --> 00:05:14,360
+è su questo che bisogna battere, ai soldati bisogna spiegarlo e non è difficile. Guardate che di là non
+
+43
+00:05:14,360 --> 00:05:19,400
+se ne sono mica andati tutti, certo mezzo milione di profughi se ne sono andati dai territori oltre il
+
+44
+00:05:19,400 --> 00:05:26,740
+piave ma tantissimi sono rimasti e la nostra propaganda ai soldati insiste a dire questo
+
+45
+00:05:26,740 --> 00:05:33,800
+pensate a quelli che sono rimasti dall'altra parte, pensate alle donne, le sentite gridare le donne
+
+46
+00:05:33,800 --> 00:05:41,400
+e loro un po' le sentono davvero e un po' se lo immaginano ma insomma che sul piave vale la pena
+
+47
+00:05:41,400 --> 00:05:46,340
+di resistere è più facile farlo capire e i soldati combattono meglio di prima.
+
+48
+00:05:48,740 --> 00:05:54,420
+Poi ci sono anche altri motivi, non bisogna assolutamente sottovalutare il fatto che i nostri
+
+49
+00:05:54,420 --> 00:06:03,400
+alleati sono venuti giù a darci una mano, non che ci vogliano bene però il pericolo che l'Italia
+
+50
+00:06:03,400 --> 00:06:09,100
+esca dalla guerra, che il nemico davvero arrivi a Milano ecco è troppo forte, perciò gli inglesi e i
+
+51
+00:06:09,100 --> 00:06:15,840
+francesi ci hanno mandato truppe, tante truppe, entro fine novembre per capirci sono schierate sul
+
+52
+00:06:15,840 --> 00:06:25,000
+fronte italiano 11 divisioni inglesi e francesi, 11 divisioni e più dell'intera terza armata, noi nel
+
+53
+00:06:25,000 --> 00:06:31,600
+corso della ritirata abbiamo celebrato la terza armata comandata dal duca d'Aosta che mentre la
+
+54
+00:06:31,600 --> 00:06:39,100
+seconda armata si è fatta sbaragliare a caporetto ecco la terza armata è tornata indietro intatta,
+
+55
+00:06:39,460 --> 00:06:47,100
+invitta, poi per decenni la retorica celebrerà in Italia l'invitta terza armata, le 11 divisioni
+
+56
+00:06:47,100 --> 00:06:53,580
+mandate dai nostri alleati da sole sono di più dell'intera terza armata e non è solo questo,
+
+57
+00:06:53,580 --> 00:07:01,880
+bisogna anche dirlo gli inglesi e i francesi hanno eserciti di qualità superiore, gli inglesi
+
+58
+00:07:01,880 --> 00:07:07,660
+e i francesi combattono da tre anni in Francia contro il migliore esercito del mondo, i tedeschi,
+
+59
+00:07:08,440 --> 00:07:13,260
+noi quando ci siamo trovati di fronte ai tedeschi ci siamo sbriciolati a caporetto, gli inglesi e i
+
+60
+00:07:13,260 --> 00:07:19,000
+francesi sono tre anni che tengono botta anche se con grande fatica bisogna dire, sono altri eserciti,
+
+61
+00:07:19,000 --> 00:07:26,200
+hanno un'altra professionalità e altri mezzi, altre economie alle spalle, già prima di caporetto
+
+62
+00:07:26,200 --> 00:07:32,340
+noi avevamo delle batterie inglesi di artiglieria mandate per amicizia simbolicamente sul nostro
+
+63
+00:07:32,340 --> 00:07:39,180
+fronte e gli ufficiali inglesi di artiglieria, ci sono i loro diari, i loro libri, dicono l'esercito
+
+64
+00:07:39,180 --> 00:07:45,900
+italiano i soldati sono coraggiosissimi, è pazzesco come vanno a farsi ammazzare i soldati, gli uomini
+
+65
+00:07:45,900 --> 00:07:56,700
+ufficiali, ma quanto a tecnica, quanto a competenza poco, l'artiglieria ha tanti cannoni però fa poco e
+
+66
+00:07:56,700 --> 00:08:04,900
+poi hanno poche risorse, fuoco normale per una batteria italiana significa sparare sei colpi
+
+67
+00:08:04,900 --> 00:08:13,760
+all'ora, per una batteria inglese significa sparare trenta colpi all'ora e la differenza si vede, c'è una
+
+68
+00:08:13,760 --> 00:08:19,740
+diversa competenza tattica, diversi armamenti, se ne accorgono gli austriaci, gli austriaci sono
+
+69
+00:08:19,740 --> 00:08:26,420
+abituati a combattere con noi e con noi se la giocano alla pari, ma nel dicembre sul monte tomba
+
+70
+00:08:26,420 --> 00:08:33,980
+gli austriaci si trovano di fronte ai francesi e i francesi li fanno a pezzi, dunque l'aiuto degli inglesi
+
+71
+00:08:33,980 --> 00:08:41,820
+e dei francesi è una cosa consistente, significativa e dà una mano al nostro esercito che si sta in
+
+72
+00:08:41,820 --> 00:08:48,340
+realtà rimettendo in piedi, gli sbandati ammassati in enormi campi di concentramento pian piano vengono
+
+73
+00:08:48,340 --> 00:08:54,840
+rimessi in riga, riprendono il fucile, vengono distribuiti ai reparti e i reparti vanno in linea e
+
+74
+00:08:54,840 --> 00:09:01,160
+combattono, dopodiché naturalmente nella nostra storiografia si è sempre molto insistito sul fatto
+
+75
+00:09:01,160 --> 00:09:08,480
+che dopo il disastro di Caporetto abbiamo imparato qualcosa, è cambiato il comando, è cambiato lo stile
+
+76
+00:09:08,480 --> 00:09:17,100
+di comando, Cadorna è andato via, adesso c'è Diaz e se voi andate a vedere nella divulgazione, nella
+
+77
+00:09:17,100 --> 00:09:25,300
+manualistica, si insiste molto sul diverso modo più umano di comandare che Diaz avrebbe portato con sé,
+
+78
+00:09:25,300 --> 00:09:31,900
+maggior comprensione per i soldati, per la loro mentalità, più licenze, più distrazioni, meno
+
+79
+00:09:32,620 --> 00:09:42,780
+fucilazioni, allora è vero in parte, Diaz personalmente c'entra poco probabilmente, chi è Diaz? Di solito si dice
+
+80
+00:09:42,780 --> 00:09:49,600
+sempre hanno nominato uno sconosciuto con grande sorpresa di tutti, è abbastanza vero, intendiamoci,
+
+81
+00:09:49,600 --> 00:09:55,660
+Armando Diaz non è uno sconosciuto per i suoi colleghi, è un comandante di corpo d'armata e pur
+
+82
+00:09:55,660 --> 00:10:02,900
+sempre sua eccellenza il tenente generale Armando Diaz, ce ne saranno 30 o 40 come lui nell'esercito,
+
+83
+00:10:03,800 --> 00:10:12,140
+sono troppi perché il pubblico li possa conoscere, lo mettono quando lo spiegano agli alleati, il re
+
+84
+00:10:12,140 --> 00:10:17,040
+Vittorio per esempio agli alleati, agli inglesi e ai francesi spiega abbiamo questo Diaz, è bravissimo,
+
+85
+00:10:17,040 --> 00:10:24,060
+e il migliore abbiamo messo lui, la verità vera probabilmente è che hanno messo lui perché non
+
+86
+00:10:24,060 --> 00:10:29,420
+volevano rischiare qualcuno più importante, perché non erano tanto sicuri di come andava a finire,
+
+87
+00:10:30,560 --> 00:10:36,780
+ci sarebbe stato il duca d'Aosta, il comandante della terza armata, cugino del re, ma dai il comando
+
+88
+00:10:36,780 --> 00:10:42,500
+supremo al duca d'Aosta in un momento in cui non sappiamo se non va a finire tutto molto male,
+
+89
+00:10:42,500 --> 00:10:50,280
+si è già bruciato Cadorna, ne bruciamo un altro, il re Vittorio che su questo tema tornava spesso
+
+90
+00:10:50,280 --> 00:10:57,980
+senza immaginare che tanti anni dopo gli sarebbe toccato davvero, il re Vittorio dice beh se va male
+
+91
+00:10:57,980 --> 00:11:04,800
+e mi tocca abdicare è meglio che ci sia mio cugino pronto, quindi non lo mettiamo al comando
+
+92
+00:11:04,800 --> 00:11:10,100
+dell'esercito, mettiamo uno che anche se va tutto male e ci siamo bruciati Diaz, pazienza,
+
+93
+00:11:11,940 --> 00:11:19,360
+poi invece Diaz riesce, Diaz e i suoi collaboratori, fra i quali spiace dirlo, Badoglio il quale ha
+
+94
+00:11:19,360 --> 00:11:25,200
+delle grosse responsabilità per Caporetto ma dopo, dopo come vice capo di stato maggiore è uno che
+
+95
+00:11:25,200 --> 00:11:31,860
+dà un'impronta forte di modernizzazione all'esercito italiano, è anche per quello che poi la commissione
+
+96
+00:11:31,860 --> 00:11:38,220
+l'inchiesta su Caporetto non lo tocca Badoglio perché è diventato un uomo prezioso, Diaz e Badoglio
+
+97
+00:11:38,220 --> 00:11:47,420
+cambiano tante cose, cosa cambia per esempio? Il modo di fare propaganda con i soldati, che con i soldati
+
+98
+00:11:47,420 --> 00:11:53,740
+si debba fare propaganda perché quello che pensano i soldati è importante, Cadorna avrebbe detto ma perché
+
+99
+00:11:53,740 --> 00:12:01,360
+i soldati pensano, ma figuriamoci, milione di analfabeti, invece i soldati pensano e sentono,
+
+100
+00:12:01,680 --> 00:12:10,220
+i nuovi comandanti lo capiscono meglio questo, bisogna fare propaganda quindi, non che non si facesse
+
+101
+00:12:10,220 --> 00:12:16,360
+anche prima la propaganda, prima di Caporetto qualcuno aveva cominciato a capirlo, questa idea,
+
+102
+00:12:16,520 --> 00:12:23,260
+bisogna organizzare dei discorsi, delle conferenze per i soldati, questa idea circolava già un po' prima
+
+103
+00:12:23,260 --> 00:12:28,960
+di Caporetto ma se uno va a vedere come veniva realizzata in pratica, ecco ve lo racconto come
+
+104
+00:12:28,960 --> 00:12:34,900
+veniva realizzata in pratica, una delle divisioni che vengono travolte a Caporetto, la cinquantesima
+
+105
+00:12:34,900 --> 00:12:42,740
+divisione, pochi giorni prima dell'offensiva nemica il generale comandante della cinquantesima
+
+106
+00:12:42,740 --> 00:12:49,180
+divisione in Conca di Plezzo all'improvviso si sveglia, è un vecchio signore, all'improvviso si sveglia
+
+107
+00:12:49,180 --> 00:12:56,020
+già già già la propaganda, la conferenza, è stata fatta la conferenza, si generale gli dicono stia
+
+108
+00:12:56,020 --> 00:13:02,540
+tranquillo è stata fatta la conferenza, la conferenza è consistita in questo, una sala come
+
+109
+00:13:02,540 --> 00:13:10,880
+questa piena di alpini, il conferenziere è un capitano dei bersaglieri, ultra settantenne,
+
+110
+00:13:10,880 --> 00:13:20,160
+veterano della terza guerra di indipendenza, ferito a custozza, grande patriota che allo scoppio
+
+111
+00:13:20,160 --> 00:13:25,740
+della guerra si è di nuovo arruolato, è capitano dei bersaglieri, a settant'anni non sanno cosa fargli
+
+112
+00:13:25,740 --> 00:13:31,120
+fare, adesso c'è questa cosa nuova delle conferenze, gli fanno fare le conferenze, per cui a una sala
+
+113
+00:13:31,120 --> 00:13:38,840
+piena di alpini il veterano di custozza appoggiato alla sua gruccia di mutilato tiene una conferenza
+
+114
+00:13:38,840 --> 00:13:48,400
+sul tema è bello morire per la patria, ho trovato anche il rapporto del comandante di quegli alpini
+
+115
+00:13:48,400 --> 00:13:58,700
+che dice la sala rumoreggiava, adesso invece la propaganda si comincia a prenderla sul serio, nasce
+
+116
+00:13:58,700 --> 00:14:05,660
+nell'esercito italiano il servizio P, propaganda, e la propaganda la fanno gli intellettuali migliori
+
+117
+00:14:05,660 --> 00:14:12,340
+che ci sono sul campo, vengono arruolati in tanti, Prezzolini, Salvemini, Piero Calamandrei,
+
+118
+00:14:12,860 --> 00:14:19,720
+Ardengo Soffici, scrittori, poeti, intellettuali di tutti i tipi, gente in gamba che la prende sul serio
+
+119
+00:14:19,720 --> 00:14:25,440
+questa cosa e che capisce che ai soldati appunto devi cercare di parlare in un certo modo, devi dirgli
+
+120
+00:14:25,440 --> 00:14:32,520
+delle cose semplici, dall'altra parte ci sono le donne, andiamo a liberarle prima o poi, nascono i
+
+121
+00:14:32,520 --> 00:14:38,400
+giornalini per i soldati, alcuni sono famosi, oggi i collezionisti ne hanno appunto gli scaffali pieni,
+
+122
+00:14:38,480 --> 00:14:44,680
+la tradotta, giornalini fatti bene, non roba buttata via, alla tradotta collaborano i giornalisti del
+
+123
+00:14:44,680 --> 00:14:50,860
+Corriere della Sera, il che vuole anche dire i disegnatori della Domenica del Corriere, del Corriere
+
+124
+00:14:50,860 --> 00:14:57,240
+dei Piccoli, ci sarebbe da scrivere un libro su come il Corriere dei Piccoli ha formato generazioni
+
+125
+00:14:57,240 --> 00:15:04,780
+di borghesi italiani e poi si spinge sul fatto che appunto i soldati bisogna trattarli meglio,
+
+126
+00:15:04,900 --> 00:15:10,160
+devono mangiare meglio, prima di Caporetto mangiavano da cani e nella ritirata hanno scoperto
+
+127
+00:15:10,160 --> 00:15:15,780
+che era pieno di depositi strapieni di ogni ben di Dio e hanno dovuto dare fuoco a tutto per non
+
+128
+00:15:15,780 --> 00:15:20,340
+lasciarlo a nemico, non deve più succedere, la roba buona deve arrivare in trincea nelle gamelle
+
+129
+00:15:20,340 --> 00:15:26,720
+dei soldati e poi mandarli in licenza, prima li mandavano il meno possibile perché Cadorna era
+
+130
+00:15:26,720 --> 00:15:32,120
+convinto che il soldato che va in licenza arriva nel paese, nel paese gli dicono oh questa guerra
+
+131
+00:15:32,120 --> 00:15:37,940
+quando è che la finite, basta facciamo la rivoluzione e il soldato torna al fronte e non ha più voglia di
+
+132
+00:15:37,940 --> 00:15:43,520
+combattere, questo era il chiodo fisso di Cadorna, quindi in licenza non li mandiamo, adesso invece li
+
+133
+00:15:43,520 --> 00:15:50,040
+mandano molto di più in licenza e il riposo deve essere vero riposo, non ginnastica, fatica,
+
+134
+00:15:50,140 --> 00:15:54,460
+esercitazioni, il riposo, ci sono degli iscritti, dei generali di quest'epoca che dicono no no,
+
+135
+00:15:55,160 --> 00:15:59,760
+quando si mandano gli uomini a riposo deve essere riposo davvero, ci deve essere un paese, un fiume,
+
+136
+00:15:59,820 --> 00:16:07,000
+un'osteria, delle donne che veramente la gente sappia che dopo aver combattuto un po' vengono anche i
+
+137
+00:16:07,000 --> 00:16:15,560
+momenti belli e tutte queste cose insieme un po' cominciano a incidere, il morale dei combattenti
+
+138
+00:16:15,560 --> 00:16:23,300
+comincia un po' a risalire e anche nel paese in generale è uno di quei rari momenti in cui, come dire,
+
+139
+00:16:23,740 --> 00:16:31,700
+nel paese domina una certa sobrietà, la tendenza è a dire c'eravamo montati la testa, Caporetto ci ha
+
+140
+00:16:31,700 --> 00:16:37,060
+insegnato qualcosa, per esempio gli stessi militari cominciano a criticare i giornalisti,
+
+141
+00:16:38,380 --> 00:16:43,460
+i famosi giornalisti come Luigi Barzini del Corriere della Sera che erano odiati dai soldati
+
+142
+00:16:43,460 --> 00:16:48,400
+perché quando un soldato per caso sentiva leggere un articolo del Corriere della Sera che descriveva
+
+143
+00:16:48,400 --> 00:16:54,160
+una battaglia e non ci ritrovava la sua vita vera, i giornali parlavano di avanzate eroiche,
+
+144
+00:16:54,300 --> 00:17:00,300
+gloriose, ufficiali paterni, bandiere al vento e il soldato che sapeva benissimo che le cose erano
+
+145
+00:17:00,300 --> 00:17:06,260
+diverse, odiava i giornalisti e si deprimeva, gli stessi ufficiali cominciano a dire basta,
+
+146
+00:17:06,360 --> 00:17:12,940
+basta bugie, basta retorica, cominciamo a raccontare le cose come stanno, sarà un breve momento,
+
+147
+00:17:13,160 --> 00:17:18,880
+durano sempre poco i momenti in cui si dice niente retorica, ecco, ma in quel momento c'è
+
+148
+00:17:18,880 --> 00:17:26,720
+l'eterna Italia pomposa e parolaia per un momento attraversa un bagno di sobrietà e di realismo
+
+149
+00:17:26,720 --> 00:17:37,700
+e così nel novembre-dicembre l'offensiva tedesca e austriaca si esaurisce sul piave e sul grappa e a
+
+150
+00:17:37,700 --> 00:17:45,160
+quel punto i tedeschi dicono agli austriaci siete contenti? Siamo venuti, abbiamo fatto quello che
+
+151
+00:17:45,160 --> 00:17:51,060
+volevate, molto di più, li abbiamo ributtati indietro fino al piave, adesso sono fatti i vostri,
+
+152
+00:17:51,060 --> 00:17:57,080
+a noi le truppe tedesche ci servono in Francia, entro gennaio non c'è più un soldato tedesco in
+
+153
+00:17:57,080 --> 00:18:04,940
+Italia, rimangono i soliti vecchi austriaci con i quali già da prima ce la giocavamo alla pari
+
+154
+00:18:04,940 --> 00:18:17,480
+tutto sommato e c'è il piave fra noi e loro, passa l'inverno, passa la primavera, gli austriaci
+
+155
+00:18:17,480 --> 00:18:24,480
+non hanno abbastanza forze per attaccare e noi assolutamente non abbiamo le forze per attaccare
+
+156
+00:18:24,480 --> 00:18:33,180
+noi, quindi si rimane lì a guardarsi da una parte all'altra del piave. Si va avanti, la primavera
+
+157
+00:18:33,180 --> 00:18:40,260
+declina nell'estate e si comincia a avere nel mondo la sensazione che forse quest'anno questa
+
+158
+00:18:40,260 --> 00:18:46,480
+guerra potrebbe arrivare alla conclusione. I tedeschi in Francia, ne riparleremo, scatenano
+
+159
+00:18:46,480 --> 00:18:54,340
+una serie di offensive come dire o la va o la spacca, ci bruciamo tutto, se va bene arriviamo
+
+160
+00:18:54,340 --> 00:19:01,480
+a Parigi. Gli austriaci decidono che anche loro devono fare qualcosa, dopo tutto a Caporetto è andata
+
+161
+00:19:01,480 --> 00:19:08,420
+così bene. Certo ma a Caporetto c'erano i tedeschi, adesso i tedeschi non ci sono più, ma gli austriaci
+
+162
+00:19:08,420 --> 00:19:16,520
+raccolgono lo stesso tutte le forze che gli restano per attaccare di nuovo, attaccheranno per cercare di
+
+163
+00:19:16,520 --> 00:19:26,240
+passare il piave, sfondare e far crollare il fronte italiano. L'offensiva è programmata per giugno, è programmata
+
+164
+00:19:26,240 --> 00:19:33,800
+con attenzione come al solito in tutti i particolari, anche la propaganda, le poste imperiali stampano
+
+165
+00:19:33,800 --> 00:19:41,920
+francobolli in cui si vede un Erculeo guerriero che abbatte a colpi di clava un gatto, il quale gatto
+
+166
+00:19:41,920 --> 00:19:48,740
+siamo noi, gli italiani. Qui faccio una piccola digressione, tanto siamo all'ultima sera ce lo possiamo
+
+167
+00:19:48,740 --> 00:19:57,480
+permettere, perché gli italiani sono accostati ai gatti. Ebbene esiste un soprannome insultante che
+
+168
+00:19:57,480 --> 00:20:02,840
+gli austriaci davano agli italiani, non soltanto l'esercito austriaco durante la guerra mondiale ma
+
+169
+00:20:02,840 --> 00:20:10,240
+un soprannome che risale addirittura al 700, che indicava già nel 700 e nell'800 gli emigranti italiani
+
+170
+00:20:10,240 --> 00:20:18,660
+in Austria, venditori ambulanti e così via. Questo soprannome era Katzelmacher, dove Katzelmacher
+
+171
+00:20:18,660 --> 00:20:26,040
+alla lettera vorrebbe dire fabbricante di gatti. I linguisti si sono interrogati naturalmente da dove
+
+172
+00:20:26,040 --> 00:20:32,580
+diavolo viene fuori questo soprannome e qualcuno dice ma sì sono quelli, gli italiani sono quelli che
+
+173
+00:20:32,580 --> 00:20:38,420
+fanno tanti figli come i gatti, noi diremmo come i conigli, no? Altri dicono no ci deve essere qualcosa
+
+174
+00:20:38,420 --> 00:20:43,280
+in comune con il fatto che gli italiani i gatti li mangiano, almeno gli emigrati italiani erano
+
+175
+00:20:43,280 --> 00:20:52,740
+sospettati di. La verità vera è che probabilmente il soprannome Katzelmacher deriva da una parola,
+
+176
+00:20:52,840 --> 00:21:00,920
+che qui non ripeterò, che gli austriaci sentivano continuamente in bocca agli italiani. Tant'è vero
+
+177
+00:21:00,920 --> 00:21:04,800
+che io ho trovato proprio nelle lettere di un ufficiale austriaco durante la guerra, alla vigilia
+
+178
+00:21:04,800 --> 00:21:10,040
+dell'offensiva del Piave, anche un'altra versione, questo dice adesso gliela faremo vedere ai
+
+179
+00:21:10,040 --> 00:21:17,220
+cazzolini, scritto sempre con la k e il tz naturalmente, ecco. Allora i Katzelmacher sono lì
+
+180
+00:21:17,220 --> 00:21:21,920
+dall'altra parte del Piave e noi austriaci stavolta gliela facciamo vedere. Come la chiamiamo
+
+181
+00:21:21,920 --> 00:21:28,860
+questa operazione? L'attacco di Caporetto fatto insieme da tedeschi e austriaci era stato battezzato
+
+182
+00:21:28,860 --> 00:21:36,340
+l'operazione fratellanza d'armi. Questa, sono gli austriaci da soli, la chiamano operazione
+
+183
+00:21:36,340 --> 00:21:43,360
+radetzchi, con l'idea che insomma gli italiani radetzchi se lo ricordano e ci torniamo a quei
+
+184
+00:21:43,360 --> 00:21:50,760
+bei tempi. Un po' ci credono, un po' devono far finta di crederci. L'imperatore Carlo I, nel frattempo
+
+185
+00:21:50,760 --> 00:21:55,320
+è morto nel XVI già il vecchio Francesco Giuseppe, adesso c'è Carlo d'Asburgo, l'ultimo
+
+186
+00:21:55,320 --> 00:22:02,880
+l'ultimo imperatore d'Austria, uno dei pochissimi santi che si ha occasione di incontrare raccontando
+
+187
+00:22:02,880 --> 00:22:08,060
+queste storie perché l'imperatore Carlo I, che era molto cattolico, è stato fatto santo da Papa
+
+188
+00:22:08,060 --> 00:22:15,040
+Giovanni Paolo II, il cui padre era sergente nel suo esercito. L'imperatore Carlo I dunque fa coniare
+
+189
+00:22:15,040 --> 00:22:22,260
+in anticipo la medaglia ricordo per l'ingresso a Venezia. È un po' presto ma insomma è meglio
+
+190
+00:22:22,260 --> 00:22:29,840
+portarsi avanti, sfonderemo sul piave e andremo a Venezia. Tanto per cambiare gli italiani sanno
+
+191
+00:22:29,840 --> 00:22:34,800
+benissimo che l'offensiva sta arrivando. Come sempre nella prima guerra mondiale è completamente
+
+192
+00:22:34,800 --> 00:22:41,000
+impossibile tenere segreti i preparativi, quindi attraverso le intercettazioni telefoniche, le spie,
+
+193
+00:22:41,260 --> 00:22:48,680
+i disertori, i comandi italiani sanno benissimo che l'ammazzata sta per arrivare. E mentre prima di
+
+194
+00:22:48,680 --> 00:22:55,900
+Caporetto erano stati molto tranquilli e sicuri di sé, adesso vogliono far vedere che hanno imparato
+
+195
+00:22:55,900 --> 00:23:02,780
+la lezione. Cosa è successo a Caporetto? Una marea di sbandati, centinaia di migliaia di sbandati.
+
+196
+00:23:03,100 --> 00:23:10,080
+Abbiamo dovuto allestire all'ultimo momento enormi campi per ospitare tutti questi sbandati.
+
+197
+00:23:10,700 --> 00:23:17,300
+Adesso alla vigilia dell'offensiva del piave, tanto per essere sicuri, i campi per accogliere i nostri
+
+198
+00:23:17,300 --> 00:23:23,540
+sbandati nelle retrovie li preparano già prima. Così se crolla tutto almeno siamo già pronti a
+
+199
+00:23:23,540 --> 00:23:29,560
+recuperare gli sbandati. Dopo Caporetto Cadorna aveva dovuto evacuare in fretta e furia da un giorno
+
+200
+00:23:29,560 --> 00:23:36,340
+all'altro il comando supremo di Vicenza. Adesso il comando supremo è a Padova, però se quelli
+
+201
+00:23:36,340 --> 00:23:43,280
+sfondano sul piave, fatto sta che un gruppetto di ufficiali dello Stato Maggiore viene mandato a
+
+202
+00:23:43,280 --> 00:23:50,140
+salso maggiore, che sembra abbastanza indietro, a cercare gli edifici per l'evacuazione del comando
+
+203
+00:23:50,140 --> 00:23:57,260
+supremo. Se dobbiamo abbandonare Padova almeno sappiamo già dove andare. Ma in realtà a parte questo,
+
+204
+00:23:57,620 --> 00:24:02,300
+questi sono gli aspetti umoristici, ma la preparazione italiana stavolta c'è invece.
+
+205
+00:24:03,900 --> 00:24:10,160
+Stavolta ecco è passato del tempo, sono passati otto besi da Caporetto. Gli eserciti in guerra
+
+206
+00:24:10,160 --> 00:24:15,820
+imparano in fretta. A Caporetto gli italiani si sono trovati di fronte a un nemico, i tedeschi,
+
+207
+00:24:15,880 --> 00:24:21,740
+che combatteva con tattiche tecniche che gli italiani avevano appena cominciato ad annusare ma
+
+208
+00:24:21,740 --> 00:24:27,540
+non le conoscevano ancora veramente ed è per quello che ci siamo sbriciolati. Ma otto mesi in guerra sono
+
+209
+00:24:27,540 --> 00:24:34,120
+un tempo enorme. Il nostro esercito ha imparato, i generali hanno studiato e si sono messe in pratica
+
+210
+00:24:34,120 --> 00:24:40,760
+le cose che sapevano fare i tedeschi e noi invece no. L'esempio più importante è l'uso
+
+211
+00:24:40,760 --> 00:24:46,580
+dell'artiglieria. Adesso entro un po' in un aspetto tecnico, ma non ha senso parlare di queste
+
+212
+00:24:46,580 --> 00:24:52,500
+battaglie senza sapere quali erano le condizioni tecniche in cui quegli uomini si trovavano a
+
+213
+00:24:52,500 --> 00:24:58,820
+combattere e a morire. Cos'è l'artiglieria? L'artiglieria significa questo. Nella prima guerra
+
+214
+00:24:58,820 --> 00:25:03,580
+mondiale quando si attacca si è svantaggiati, il nemico ha le mitragliatrici, le trincee, il filo
+
+215
+00:25:03,580 --> 00:25:09,620
+spinato e tu vai a farti ammazzare. Fin dai primi mesi della prima guerra mondiale si capisce questo.
+
+216
+00:25:10,160 --> 00:25:15,020
+Se tu vai all'attacco come ai vecchi tempi con la baionetta in canna e le bandiere al vento,
+
+217
+00:25:15,420 --> 00:25:23,000
+quelli ti massacrano, non ci arrivi neanche alle loro trincee. Allora la reazione dei generali è stata
+
+218
+00:25:23,000 --> 00:25:32,080
+di dire allora vuol dire che prima di attaccare li bombardiamo. Tanto abbiamo dei cannoni meravigliosi,
+
+219
+00:25:32,200 --> 00:25:37,560
+i cannoni negli ultimi anni hanno avuto dei progressi straordinari, gli scienziati che si
+
+220
+00:25:37,560 --> 00:25:42,760
+dedicano con zelo umanitario a questa cosa in tutti i paesi hanno inventato meravigliosi esplosivi
+
+221
+00:25:42,760 --> 00:25:48,360
+nuovi, non è solo Nobel che ha inventato la dinamite, tutti i laboratori sono lì che lavorano e producono
+
+222
+00:25:48,360 --> 00:25:53,180
+nuovi esplosivi, sempre più potenti. Abbiamo tutti, hanno un'artiglieria di una potenza che non
+
+223
+00:25:53,180 --> 00:25:59,420
+si era mai vista. Allora va bene, se vogliamo attaccare vuol dire che prima li bombardiamo,
+
+224
+00:25:59,540 --> 00:26:04,900
+così con l'artiglieria li radiamo al suolo, le loro trincee, il loro filo spinato, le loro
+
+225
+00:26:04,900 --> 00:26:10,700
+mitragliatrici. Bombardiamo anche per un giorno intero. All'inizio della prima guerra mondiale
+
+226
+00:26:10,700 --> 00:26:16,940
+sembra una cosa da pazzi, invece lo fanno. Per 24 ore si bombarda con tutto quello che costano
+
+227
+00:26:16,940 --> 00:26:23,420
+i proiettili, che hanno un costo infernale. Non importa, per 24 ore si bombarda e poi si va
+
+228
+00:26:23,420 --> 00:26:30,840
+all'attacco, vedrete, l'artiglieria avrà spianato tutto. Si va all'attacco e gli altri vengono fuori
+
+229
+00:26:30,840 --> 00:26:35,300
+dalle trincee e dalle rovine, tirano fuori le mitragliatrici e ti spianano di nuovo come prima.
+
+230
+00:26:36,020 --> 00:26:41,940
+Com'è successo? Succede che la gente in trincea è molto ben difesa contro il bombardamento e quando
+
+231
+00:26:41,940 --> 00:26:46,780
+il bombardamento si accentua la gente fa le trincee più profonde e comincia a fare i ripari
+
+232
+00:26:46,780 --> 00:26:52,840
+di cemento e i bunker e a lasciare in trincea solo qualcuno, le vedette, gli altri ben al riparo
+
+233
+00:26:52,840 --> 00:27:00,260
+dietro. Risultato? Bombardare per un giorno non serve a niente. Come funziona la mente umana? Funziona
+
+234
+00:27:00,260 --> 00:27:07,500
+così, che i generali dicono allora bombardiamo per due giorni e infatti si comincia a bombardare per due
+
+235
+00:27:07,500 --> 00:27:15,620
+giorni prima di attaccare. Va tutto allo stesso modo. Allora bombardiamo per tre giorni. Nel 1916
+
+236
+00:27:15,620 --> 00:27:23,520
+siamo arrivati al punto che prima di attaccare sulla Somme, primo luglio 1916, gli inglesi bombardano
+
+237
+00:27:23,520 --> 00:27:29,900
+per una settimana. Allora ovviamente non è che non fa niente bombardare per una settimana, uno non
+
+238
+00:27:29,900 --> 00:27:35,480
+vorrebbe essere nei panni dei fanti tedeschi che se ne stanno nascosti nei loro bunker per una settimana
+
+239
+00:27:35,480 --> 00:27:42,360
+con il mondo che gli esplode fuori. Fatto sta che neanche dopo una settimana non basta. Quando gli inglesi
+
+240
+00:27:42,360 --> 00:27:49,160
+vanno all'attacco ci sono ancora abbastanza tedeschi pronti per falciarli. A questo punto
+
+241
+00:27:49,160 --> 00:27:56,540
+sono sicuro che ci saranno stati dei generali che avranno detto beh allora otto giorni. Ma ci sono anche
+
+242
+00:27:56,540 --> 00:28:07,160
+dei generali tedeschi che dicono no pensiamoci un po' meglio a questa cosa. Bisogna cambiare sistema
+
+243
+00:28:07,160 --> 00:28:12,660
+totalmente. Tu cominci il bombardamento, gli altri sanno benissimo che tu bombarderai per giorni e
+
+244
+00:28:12,660 --> 00:28:18,480
+giorni e giorni e poi andrai all'attacco. Quindi si preparano, si sistemano e stanno lì ad aspettare.
+
+245
+00:28:18,480 --> 00:28:27,340
+Noi, dicono i tedeschi, potremmo provare a fare così. Bombardiamo solo per un'ora. Quando gli altri
+
+246
+00:28:27,340 --> 00:28:31,800
+hanno appena cominciato a mettersi al riparo il bombardamento finisce e i nostri vanno all'attacco
+
+247
+00:28:31,800 --> 00:28:37,360
+e li prendiamo di sorpresa. Questa cosa la provano, dice proviamola prima contro quelli un po' più
+
+248
+00:28:37,360 --> 00:28:44,640
+deboli. La provano contro i russi nell'estate autunno del 17, funziona a meraviglia. Dicono
+
+249
+00:28:44,640 --> 00:28:51,220
+proviamola contro degli altri anche loro deboli. La provano a Caporetto. Funziona a meraviglia. A
+
+250
+00:28:51,220 --> 00:28:56,600
+Caporetto interi battaglioni italiani vengono catturati nelle loro caverne perché erano lì
+
+251
+00:28:56,600 --> 00:29:01,740
+aspettandosi che il bombardamento durasse tutto il giorno e invece dopo un'ora il bombardamento
+
+252
+00:29:01,740 --> 00:29:07,340
+finisce e a quel punto mentre gli ufficiali dentro si stanno guardando e si stanno dicendo che facciamo
+
+253
+00:29:07,340 --> 00:29:14,300
+sarà una finta oppure usciamo e ci sono già i primi tedeschi all'ingresso della caverna che dicono
+
+254
+00:29:14,300 --> 00:29:24,000
+italiani arrendetevi. Ecco. E gli italiani che a Caporetto avevano una poderosa artiglieria non
+
+255
+00:29:24,000 --> 00:29:30,860
+l'hanno quasi usata. Perché? Perché non sapevano bene come usarla e non erano abituati a difendersi,
+
+256
+00:29:30,940 --> 00:29:37,300
+attaccavamo sempre noi. Quando attacchi tu gli ordini per l'artiglieria sono facili. La vedete
+
+257
+00:29:37,300 --> 00:29:43,620
+quella trincea laggiù, anzi sulla cartina, quel punto sulla cartina a otto chilometri. Voi bombardate
+
+258
+00:29:43,620 --> 00:29:51,040
+quel punto. Bombardatelo, 50 colpi al giorno, non dovete fare nient'altro. È diverso quando sono gli
+
+259
+00:29:51,040 --> 00:29:57,520
+altri che ti attaccano. Dove devi sparare? Chi è che ti dice dove devi sparare? La nostra artiglieria
+
+260
+00:29:57,520 --> 00:30:06,820
+era completamente impreparata. Ma fra Caporetto e il Piave fra l'ottobre 17 e il giugno 18 anche i
+
+261
+00:30:06,820 --> 00:30:12,360
+nostri ufficiali di artiglieria hanno studiato. Come fanno i tedeschi quando vengono attaccati? Ed è
+
+262
+00:30:12,360 --> 00:30:19,300
+passato un nuovo concetto che è la contropreparazione. Che vuol dire questo? Quando gli altri che ti vogliono
+
+263
+00:30:19,300 --> 00:30:26,160
+attaccare cominciano a sparare. Ecco nel caso di Caporetto gli ordini per i nostri cannoni erano
+
+264
+00:30:26,160 --> 00:30:34,420
+state bravi, tranquilli, zitti. Quando avete l'impressione che gli altri attaccano magari
+
+265
+00:30:34,420 --> 00:30:41,100
+cominciate a sparare però poco perché i proiettili costano. Adesso il discorso è completamente diverso.
+
+266
+00:30:41,560 --> 00:30:46,660
+I proiettili costano pazienza per una volta spendiamo. Il Piave bisogna tenerlo, c'è poco da fare, si gioca
+
+267
+00:30:46,660 --> 00:30:53,140
+il paese, si gioca la monarchia. Costi quel che costi che per una volta non vuol dire non importa quanti
+
+268
+00:30:53,140 --> 00:30:58,680
+morti ci saranno ma vuol dire non importa quanti soldi spendiamo. Quindi l'artiglieria ha questi
+
+269
+00:30:58,680 --> 00:31:05,480
+ordini, la contropreparazione che è la forma più moderna appena imparata che significa appena quelli
+
+270
+00:31:05,480 --> 00:31:12,480
+con mille cannoni cominciano a spararci noi rispondiamo con duemila cannoni e loro ci sparano
+
+271
+00:31:12,480 --> 00:31:18,340
+un giorno intero e anche noi gli spariamo un giorno intero. Spariamo ai loro cannoni, spariamo ai loro
+
+272
+00:31:18,340 --> 00:31:24,140
+comandi, ai loro magazzini, alle strade. Le truppe che vengono all'attacco dovranno passare da qualche
+
+273
+00:31:24,140 --> 00:31:31,380
+parte no? E noi spariamo lì continuamente senza risparmiare. È la prima volta che l'artiglieria
+
+274
+00:31:31,380 --> 00:31:36,880
+italiana si comporta sul Piave in modo moderno. La contropreparazione vuol dire che le truppe
+
+275
+00:31:36,880 --> 00:31:43,560
+austriache che si preparano all'attacco vengono schiacciate nelle loro trincee di partenza da una
+
+276
+00:31:43,560 --> 00:31:50,580
+marea di fuoco. Le truppe, i comandi, i centralini saltano i telefoni, comincia già male insomma.
+
+277
+00:31:52,680 --> 00:31:58,260
+Detto questo gli austriaci attaccano e sono talmente disperati che nonostante tutto passano
+
+278
+00:31:58,260 --> 00:32:06,000
+il Piave e costituiscono una testa di ponte al di qua del Piave. L'attacco scatta il 15 giugno e gli
+
+279
+00:32:06,000 --> 00:32:11,600
+austriaci passano sotto il bombardamento italiano che produce perdite spaventose però gli austriaci
+
+280
+00:32:11,600 --> 00:32:19,960
+vanno avanti, passano il Piave, gettano passerelle, portano al di là molte truppe. Intanto piove,
+
+281
+00:32:20,960 --> 00:32:26,760
+piove, piove, piove il 15 giugno, piove talmente tanto che il Piave si gonfia e dalla parte italiana
+
+282
+00:32:26,760 --> 00:32:31,940
+ovviamente stanno a vedere pregando che il fiume salga. Il fiume sale e finalmente porta via le
+
+283
+00:32:31,940 --> 00:32:37,320
+passerelle degli austriaci. Quelli che sono passati di qua rimangono bloccati. Nei giorni seguenti gli
+
+284
+00:32:37,320 --> 00:32:43,440
+austriaci continuamente ributtano passerelle sotto il bombardamento e traghettano gente dalla
+
+285
+00:32:43,440 --> 00:32:51,460
+nostra parte ma non riescono ad allargarsi e fin dal primo giorno le perdite sono spaventose. Già la
+
+286
+00:32:51,460 --> 00:32:59,380
+prima sera un ufficiale austriaco annota nel suo diario l'offensiva è completamente fallita, la nostra
+
+287
+00:32:59,380 --> 00:33:05,900
+artiglieria è miserabile spara sulle nostre stesse truppe, centinaia di uomini sono annegati,
+
+288
+00:33:07,240 --> 00:33:13,280
+continuano per cinque giorni e questa è la battaglia del Piave e dall'altra ci sono i nostri i quali non
+
+289
+00:33:13,280 --> 00:33:19,360
+lo sanno come andrà a finire e l'idea di una nuova caporetto che sta arrivando ce l'hanno in testa
+
+290
+00:33:19,360 --> 00:33:27,640
+tutti però i nostri tengono con fatica con perdite enormi anche i nostri però non crolla il fronte e gli
+
+291
+00:33:27,640 --> 00:33:33,460
+austriaci nella testa di ponte sono sotto il bombardamento e alla fine crollano loro dopo
+
+292
+00:33:33,460 --> 00:33:39,540
+cinque giorni il 20 il comando austriaco decide l'offensiva è fallita basta troppe perdite troppi
+
+293
+00:33:39,540 --> 00:33:46,040
+morti abbandoniamo la testa di ponte le truppe in realtà hanno già cominciato a abbandonarla loro
+
+294
+00:33:46,040 --> 00:33:52,260
+scappando al di là del Piave in tutti i modi anche a nuoto che col Piave in piena non è la migliore
+
+295
+00:33:52,260 --> 00:33:59,940
+delle idee l'ultimo giorno un ufficiale austriaco racconta all'alba dopo che abbiamo respinto un
+
+296
+00:33:59,940 --> 00:34:04,720
+violento attacco degli italiani perché gli italiani attaccano continuamente la testa di
+
+297
+00:34:04,720 --> 00:34:11,120
+ponte per ributtarli al di là del Piave arriva la notizia che a nord la linea è rotta e che le
+
+298
+00:34:11,120 --> 00:34:18,540
+truppe fuggono e la catastrofe i resti della fanteria sgombrano le trincee e corrono verso il
+
+299
+00:34:18,540 --> 00:34:26,260
+fiume un fuoco violentissimo li insegue e l'acqua gialla del Piave ribolle sotto le
+
+300
+00:34:26,260 --> 00:34:33,700
+esplosioni ininterrotte delle granate le acque del Piave portano a valle un numero enorme di
+
+301
+00:34:33,700 --> 00:34:41,020
+cadaveri battaglia del Piave è la vera grande vittoria italiana di questa guerra è la volta che
+
+302
+00:34:41,020 --> 00:34:46,700
+l'esercito italiano da solo da solo ci sono ancora inglesi e francesi ma il grosso siamo noi
+
+303
+00:34:46,700 --> 00:34:53,860
+davanti al nemico tradizionale gli austriaci che è un nemico alla nostra altezza per una volta
+
+304
+00:34:53,860 --> 00:34:59,300
+l'esercito italiano si è dimostrato superiore è superiore come tecnologie come tattiche e le
+
+305
+00:34:59,300 --> 00:35:05,620
+truppe combattono naturalmente la battaglia del Piave scatena anche un'ondata di propaganda e di
+
+306
+00:35:05,620 --> 00:35:13,040
+retorica è inevitabile in tutti i paesi belligeranti la propaganda domina incontrastata e la retorica è
+
+307
+00:35:13,040 --> 00:35:18,040
+spaventosa dappertutto battaglia del Piave ha lasciato alcune tracce nella memoria collettiva
+
+308
+00:35:18,040 --> 00:35:24,720
+italiana ricordate le scritte per esempio le foto che tutti abbiamo visto una volta nella vita il
+
+309
+00:35:24,720 --> 00:35:33,340
+pezzo di muro di una casa di roccata con sopra scritto tutti eroi o il Piave o tutti accoppati e
+
+310
+00:35:33,340 --> 00:35:38,820
+per tanto tempo si cercava di far credere che un soldato spontaneamente aveva scritto quella cosa poi
+
+311
+00:35:38,820 --> 00:35:44,440
+pian piano viene fuori che era il comando supremo che faceva fare queste scritte sui sui muri dentro
+
+312
+00:35:44,440 --> 00:35:51,560
+un'osteria compare un'altra scritta che diventerà molto famosa meglio vivere un giorno da leone che
+
+313
+00:35:51,560 --> 00:35:57,400
+cent'anni da pecora lì anni dopo verrà fuori un soldato che dirà sì sì l'ho scritta io quella cosa
+
+314
+00:35:57,400 --> 00:36:04,600
+mi dettava l'ufficiale e io scrivevo però anche queste cose servono i giornali ne parlano le
+
+315
+00:36:04,600 --> 00:36:13,540
+fotografie circolano tutti eroi e naturalmente un impiegato delle poste napoletano che ha già un
+
+316
+00:36:13,540 --> 00:36:21,700
+certo nome come paroliere autore di canzoni scrive in quei giorni una canzone che anche stamattina gli
+
+317
+00:36:21,700 --> 00:36:27,440
+alpini suonavano qui fuori e che credo tutti noi abbiamo sentito in vita nostra la canzone del Piave
+
+318
+00:36:27,440 --> 00:36:34,880
+il Piave mormorò impiegato delle poste si chiamava Giovanni Gaeta ma firma questa canzone con uno
+
+319
+00:36:34,880 --> 00:36:39,760
+pseudonimo come faceva spesso con le sue canzoni e a Mario
+
+320
+00:36:39,760 --> 00:36:51,100
+canzone a grandissimo successo il re Vittorio vuole conoscere l'autore lo fanno andare al Quirinale il re
+
+321
+00:36:51,100 --> 00:36:57,640
+Vittorio riceve Giovanni Gaeta che ha firmato e a Mario e gli dice ma scusi però questo questo
+
+322
+00:36:57,640 --> 00:37:04,680
+pseudonimo da dove viene fuori dice Gaeta è perché io sono un grande ammiratore di Alberto Mario che era
+
+323
+00:37:04,680 --> 00:37:13,440
+un collaboratore di Mazzini era un grande Mazziniano e il re dice ah capito perché lei si dice Gaeta io
+
+324
+00:37:13,440 --> 00:37:22,000
+sono repubblicano dopodiché se è vera la cosa che circola ma pare sia vera o comunque è stata
+
+325
+00:37:22,000 --> 00:37:30,320
+venduta così segno dei vecchi tempi il re dice vabbè i repubblicani sono sempre stati dei fedeli
+
+326
+00:37:30,320 --> 00:37:38,420
+servitori del paese la nomino commendatore della corona d'Italia dopodiché naturalmente io mi fermerei
+
+327
+00:37:38,420 --> 00:37:44,880
+ancora un attimo perché questa canzone che tutti conosciamo è uno straordinario esempio di propaganda
+
+328
+00:37:44,880 --> 00:37:52,500
+e di mistificazione propagandistica perché qual è la situazione noi siamo sul piave e stiamo
+
+329
+00:37:52,500 --> 00:37:59,820
+combattendo per difendere il paese da un'invasione nemica sul piave l'esercito resiste per impedire che
+
+330
+00:37:59,820 --> 00:38:07,460
+il nemico che già occupa un pezzo d'Italia vada anche oltre non passa lo straniero ma come tutti
+
+331
+00:38:07,460 --> 00:38:16,320
+ricordate la canzone evoca il 24 maggio il piave mormorava calmo e placido al passaggio dei primi
+
+332
+00:38:16,320 --> 00:38:22,960
+fanti il 24 maggio l'esercito marciava per raggiungere la frontiera per far contro il nemico
+
+333
+00:38:22,960 --> 00:38:28,680
+una barriera dove sta la mistificazione intanto che il 24 maggio il piave non c'entrava niente era
+
+334
+00:38:28,680 --> 00:38:35,760
+nelle retrovie lontanissimo dal fronte ma soprattutto nel fatto che il 24 maggio del 15 l'esercito non
+
+335
+00:38:35,760 --> 00:38:41,240
+marciava verso la frontiera per far contro il nemico una barriera andavamo noi a invadere loro
+
+336
+00:38:41,240 --> 00:38:48,300
+siamo noi che il 24 maggio abbiamo sfondato la frontiera e invaso la slovenia austriaca il
+
+337
+00:38:48,300 --> 00:38:55,740
+trentino austriaco stavamo invadendo il paese nemico adesso dopo caporetto non se ne ricorda più
+
+338
+00:38:55,740 --> 00:39:00,940
+nessuno dopo caporetto la parola d'ordine si fa questa guerra per difendere l'italia dall'invasione
+
+339
+00:39:00,940 --> 00:39:09,820
+e anche il piave viene arruolato in questa battaglia bene entro il 20 giugno 1918 l'offensiva
+
+340
+00:39:09,820 --> 00:39:18,140
+austriaca la battaglia del solstizio come viene chiamata è fallita abbiamo vinto teniamo la linea
+
+341
+00:39:18,140 --> 00:39:24,300
+del piave intanto nel mondo cosa sta succedendo bene il mondo ormai vuol dire in francia perché la
+
+342
+00:39:24,300 --> 00:39:29,460
+russia è fuori dalla guerra dopo la rivoluzione lenin ha mantenuto la parola che aveva dato pace
+
+343
+00:39:29,460 --> 00:39:36,600
+subito e ha firmato la pace i tedeschi ormai combattono solo sul fronte occidentale dove hanno
+
+344
+00:39:36,600 --> 00:39:43,120
+di fronte i soliti vecchi nemici i francesi e gli inglesi però anche un nemico nuovo che non è magari
+
+345
+00:39:43,120 --> 00:39:51,340
+tanto esperto ma arriva con tanti uomini e tanta roba gli americani tutti hanno fatto gli stessi calcoli
+
+346
+00:39:51,340 --> 00:39:57,080
+gli americani entro pochi mesi avranno un milione di uomini in francia per fine anno ne avranno tre
+
+347
+00:39:57,080 --> 00:40:02,700
+milioni è completamente impossibile continuare perciò il comando supremo tedesco decide che
+
+348
+00:40:02,700 --> 00:40:09,740
+bisogna finire la guerra subito ci giochiamo il tutto per tutto e ludendorpe il capo di stato
+
+349
+00:40:09,740 --> 00:40:17,280
+maggiore tedesco pianifica una serie di offensive sul fronte francese che dovranno arrivare una dopo
+
+350
+00:40:17,280 --> 00:40:24,760
+l'altra con le stesse tattiche che erano servite a sbriciolare gli italiani a caporetto tattiche nuove
+
+351
+00:40:24,760 --> 00:40:31,000
+di movimento della fanteria di uso delle armi leggere di uso dell'artiglieria queste cinque
+
+352
+00:40:31,000 --> 00:40:37,660
+offensive partono una dopo l'altra a partire da marzo e le prime hanno un successo schiacciante
+
+353
+00:40:37,660 --> 00:40:43,400
+eco e consolante i tedeschi con gli stessi sistemi con cui avevano fracassato noi a caporetto nel marzo
+
+354
+00:40:43,400 --> 00:40:51,340
+del 18 fracassano gli inglesi annientano un'intera armata inglese vanno avanti di 60 chilometri poi però gli
+
+355
+00:40:51,340 --> 00:40:58,280
+altri sono troppi e questa offensiva si ferma parte la seconda va avanti e si ferma parte la terza
+
+356
+00:40:58,280 --> 00:41:05,780
+marzo aprile maggio giugno parte la quarta luglio parte la quinta ognuna di queste offensive sono
+
+357
+00:41:05,780 --> 00:41:13,560
+centinaia di migliaia di morti feriti dispersi ogni volta i tedeschi vanno un po più avanti sono
+
+358
+00:41:13,560 --> 00:41:21,480
+quasi a parigi ma quasi e intanto stanno finendo tutto però stanno finendo le riserve gli uomini i
+
+359
+00:41:21,480 --> 00:41:28,100
+soldi le munizioni tutto e anche la voglia la quinta offensiva che parte il 15 luglio è un disastro
+
+360
+00:41:28,100 --> 00:41:35,040
+viene fermata subito tanto che entro tre giorni il comando tedesco decide di sospenderla e a questo
+
+361
+00:41:35,040 --> 00:41:41,440
+punto gli alleati partono all'attacco loro ormai c'è il milione di americani ci sono le armi nuove i
+
+362
+00:41:41,440 --> 00:41:47,800
+carri armati che hanno appena inventato e che funzionano l'otto agosto per la prima volta da
+
+363
+00:41:47,800 --> 00:41:54,700
+anni gli alleati passano all'attacco in francia e i tedeschi cedono i tedeschi cominciano a
+
+364
+00:41:54,700 --> 00:42:01,440
+arretrare a partire da quel momento non si fermano più a metà settembre i tedeschi sono stati respinti
+
+365
+00:42:01,440 --> 00:42:06,700
+fino alla frontiera sapete che la guerra lì si è combattuta tutta in francia perché in belgio e
+
+366
+00:42:06,700 --> 00:42:12,420
+francia perché i tedeschi nel 14 erano entrati in belgio e in francia avevano conquistato un grosso
+
+367
+00:42:12,420 --> 00:42:18,940
+pezzo di terreno e l'hanno sempre tenuto nel settembre del 18 i tedeschi sono stati ributtati
+
+368
+00:42:18,940 --> 00:42:26,120
+alle loro frontiere e non sembra che riescano a fermarsi è chiaro a tutti che la guerra sta finendo
+
+369
+00:42:26,120 --> 00:42:34,000
+e che i tedeschi e gli austriaci hanno perso il 13 settembre l'imperatore carlo d'asburgo comunica
+
+370
+00:42:34,000 --> 00:42:40,000
+agli alleati che vuole aprire dei negoziati per chiedere la pace il 5 ottobre anche i tedeschi
+
+371
+00:42:40,000 --> 00:42:45,300
+contatteranno il presidente americano wilson per dire che loro sarebbero disposti a discutere della
+
+372
+00:42:45,300 --> 00:42:53,220
+pace e dunque attraverso tutti questi mesi noi il 20 giugno abbiamo assistito al fallimento
+
+373
+00:42:53,220 --> 00:42:58,460
+dell'offensiva austriaca mentre in francia si combatteva la quarta delle grandi offensive tedesche
+
+374
+00:42:58,460 --> 00:43:04,820
+a luglio si scatena la quinta offensiva tedesca in francia e fallisce subito e noi stiamo fermi
+
+375
+00:43:04,820 --> 00:43:11,420
+sul piave ad agosto gli alleati attaccano in francia e respingono i tedeschi e noi stiamo fermi
+
+376
+00:43:11,420 --> 00:43:19,020
+sul piave a settembre l'imperatore carlo comunica che lui vuole trattare la pace e noi stiamo fermi
+
+377
+00:43:19,020 --> 00:43:26,200
+sul piave perché nessuno al comando supremo italiano pensa che abbiamo le forze per provare
+
+378
+00:43:26,200 --> 00:43:36,660
+ad attaccare noi noi stiamo fermi a roma i politici cominciano a preoccuparsi perché vista da roma la
+
+379
+00:43:36,660 --> 00:43:43,580
+situazione è signori qui questa guerra sta per finire e se questa guerra finisce e gli altri in francia
+
+380
+00:43:43,580 --> 00:43:49,600
+ributtano i tedeschi in germania invadono la germania e noi siamo ancora sul piave col nemico
+
+381
+00:43:49,600 --> 00:43:57,760
+in casa e la guerra finisce e noi abbiamo il nemico in casa che figura ci facciamo con che faccia andiamo
+
+382
+00:43:57,760 --> 00:44:04,720
+poi dagli alleati a dire noi vogliamo bolzano l'istria la dalmazia quelli ci diranno ma intanto se vi
+
+383
+00:44:04,720 --> 00:44:11,000
+ridiamo il veneto perciò la politica a roma che ha perfettamente ragione su questo e vede chiarissimamente
+
+384
+00:44:11,000 --> 00:44:18,900
+come andranno le cose comincia a essere preoccupata perché l'esercito non si muove a luglio da roma
+
+385
+00:44:18,900 --> 00:44:26,840
+cominciano le prime telefonate a diaz e a badoglio suo vice per dire ragazzi forse dovreste muovervi
+
+386
+00:44:26,840 --> 00:44:34,340
+non siamo ancora pronti ad agosto il presidente del consiglio vittorio emmanuele orlando va di
+
+387
+00:44:34,340 --> 00:44:40,240
+persona a padova al comando supremo per dire a diaz e a badoglio dovete assolutamente attaccare
+
+388
+00:44:40,240 --> 00:44:49,380
+ci serve una vittoria testualmente anche una piccola vittoria una cosa da niente ma una vittoria
+
+389
+00:44:49,380 --> 00:44:56,640
+dobbiamo poterla mettere sul piatto diaz risponde che lui non accetta pressioni politiche e che piuttosto
+
+390
+00:44:56,640 --> 00:45:03,740
+si dimette orlando presidente del consiglio nelle sue memorie dirà a quel punto ci ho pensato ma non
+
+391
+00:45:03,740 --> 00:45:10,420
+sapevo chi mettere al suo posto quindi non se ne fa niente però insiste orlando dovete attaccare alla
+
+392
+00:45:10,420 --> 00:45:17,380
+fine il capo di stato maggiore badoglio scusate il vice del capo badoglio gli dice sentite noi sappiamo
+
+393
+00:45:17,380 --> 00:45:22,200
+che non siamo pronti ad attaccare se il governo ci vuole obbligare ad attaccare ci deve dare l'ordine
+
+394
+00:45:22,200 --> 00:45:27,120
+scritto è una roba che non si è mai vista il governo non va a dare ordini ai militari in questi
+
+395
+00:45:27,120 --> 00:45:32,940
+termini orlando dice no l'ordine scritto non ve lo do la responsabilità è vostra badoglio risponde
+
+396
+00:45:32,940 --> 00:45:42,920
+ma allora perché viene fin quassù a infelicitarci pare che badoglio da buon contadino piemontese con
+
+397
+00:45:42,920 --> 00:45:50,700
+l'italiano abbia sempre avuto qualche momento di a questo punto diaz ha la grande idea dobbiamo fare
+
+398
+00:45:50,700 --> 00:45:56,980
+qualcosa ma da soli non ci riusciamo andiamo a vedere se gli alleati sono disposti a trasferire
+
+399
+00:45:56,980 --> 00:46:05,240
+tutto il loro esercito in italia e attaccare insieme a noi diaz va a parigi il 6 settembre e porta la
+
+400
+00:46:05,240 --> 00:46:11,520
+proposta di trasferire in italia il grosso dell'esercito francese dicendo e voi con i tedeschi è
+
+401
+00:46:11,520 --> 00:46:19,320
+difficile quelli sono dei duri se venite da noi gli austriaci crollano i francesi gli dicono abbi pazienza
+
+402
+00:46:19,320 --> 00:46:26,700
+diaz ma a questo punto diaz ha un'altra idea brillante ci sono gli americani va dal generale
+
+403
+00:46:26,700 --> 00:46:32,040
+comandante l'esercito americano in francia il generale pershing il quale generale pershing nelle
+
+404
+00:46:32,040 --> 00:46:39,260
+sue memorie lo racconta dice è arrivato diaz e mi dice avremmo bisogno in italia di 20 divisioni
+
+405
+00:46:39,260 --> 00:46:49,980
+americani un milione di uomini pershing dice ero abituato a sentirmi chiedere di tutto perché
+
+406
+00:46:49,980 --> 00:46:54,940
+capite come sono arrivati gli americani e lo zio d'america sono straricchi hanno tutto tutti vanno
+
+407
+00:46:54,940 --> 00:47:00,680
+da loro e quindi pershing dice non ho battuto ciglio perché ero abituato a sentirmi chiedere le
+
+408
+00:47:00,680 --> 00:47:07,200
+cose più folli diaz vedendo che non battevo ciglio ha subito aumentato dice 25 divisioni
+
+409
+00:47:07,200 --> 00:47:14,080
+pershing dice ahimè mi son stupito che un uomo in quella posizione potesse fare sul serio dei
+
+410
+00:47:14,080 --> 00:47:22,300
+discorsi del genere e gli chiede diaz ma perché non attaccate voi e diaz dice stiamo studiando la
+
+411
+00:47:22,300 --> 00:47:28,960
+cosa però se attacchiamo adesso rischiamo di restare senza riserve in primavera capite il
+
+412
+00:47:28,960 --> 00:47:34,680
+settembre del 18 i tedeschi sono quasi stati respinti fino alle loro frontiere e diaz tira
+
+413
+00:47:34,680 --> 00:47:42,040
+fuori che attaccheremo la primavera prossima ecco da roma insistono no dovete attaccare prima a questo
+
+414
+00:47:42,040 --> 00:47:49,700
+punto diaz studia un piano lo fa studiare i suoi uffici per un piccolo attacco al di là del piave il
+
+415
+00:47:49,700 --> 00:47:58,460
+piano è pronto alla fine di settembre il 29 settembre si tiene una riunione dei generali per decidere voi
+
+416
+00:47:58,460 --> 00:48:03,940
+credete che dovessero decidere la data dell'offensiva invece decidono la data di una nuova riunione
+
+417
+00:48:03,940 --> 00:48:10,280
+futura in cui decideranno la data dell'offensiva la riunione la fissano fra due settimane per il 12
+
+418
+00:48:10,280 --> 00:48:16,560
+ottobre a quel punto sarà un mese che l'imperatore carlo ha già detto che lui vuole la pace e perfino i
+
+419
+00:48:16,560 --> 00:48:25,280
+tedeschi l'hanno già detto a roma la politica tumultua si va a finire come nel 1866 una guerra
+
+420
+00:48:25,280 --> 00:48:30,200
+ridicola in cui gli alleati i nostri alleati vincono e noi ci facciamo la solita figura è una
+
+421
+00:48:30,200 --> 00:48:36,420
+vergogna non si può la camera tumultua bisogna che l'esercito attacchi orlando presidente del
+
+422
+00:48:36,420 --> 00:48:43,120
+consiglio manda un telegramma al comando supremo tra l'inazione e la sconfitta preferisco la sconfitta
+
+423
+00:48:43,120 --> 00:48:50,860
+muovetevi nel frattempo il mondo sta crollando il 29 settembre la bulgaria alleata degli imperi
+
+424
+00:48:50,860 --> 00:48:58,160
+centrali ha firmato la pace è chiaro che è questione di poche settimane non solo il mondo
+
+425
+00:48:58,160 --> 00:49:05,320
+sta crollando ecco mi fermo un momento su questo l'austria sta crollando l'impero austriaco si sta
+
+426
+00:49:05,320 --> 00:49:13,940
+disgregando da solo perché mentre l'imperatore carlo ha contattato wilson presidente americano ed è
+
+427
+00:49:13,940 --> 00:49:20,220
+disposto a fare la pace sulla base dei 14 punti di wilson che dicevano autodeterminazione per i popoli
+
+428
+00:49:20,220 --> 00:49:27,320
+e l'imperatore carlo va avanti addirittura precede wilson il 16 ottobre l'imperatore carlo pubblica un
+
+429
+00:49:27,320 --> 00:49:33,520
+proclama in cui dichiara che le regioni polacche dell'impero sono libere di andarsene se vogliono
+
+430
+00:49:33,520 --> 00:49:39,960
+unirsi con altri territori polacchi e formare una nuova polonia lo possono fare e la parte ungherese
+
+431
+00:49:39,960 --> 00:49:46,720
+può essere indipendente se vuole e la parte austriaca diventerà uno stato federale di quattro
+
+432
+00:49:46,720 --> 00:49:54,180
+nazionalità tedesca cieca jugoslava e ucraina questo proclama ufficialmente l'imperatore carlo
+
+433
+00:49:54,180 --> 00:50:00,440
+il 16 ottobre gli americani rispondono ormai è troppo tardi questi popoli faranno quello che
+
+434
+00:50:00,440 --> 00:50:07,960
+vogliono loro e non quello che gli offri tu la pace si farà soltanto sulla base del fatto che ogni
+
+435
+00:50:07,960 --> 00:50:14,000
+nazionalità dell'impero austriaco decide in piena libertà tutto quello che vuole fare in effetti
+
+436
+00:50:14,000 --> 00:50:20,620
+il 14 ottobre si è già formato un governo nazionale ciecoslovacco all'interno dell'impero
+
+437
+00:50:20,620 --> 00:50:27,000
+austriaco che ha dichiarato guerra all'austria la croazia regione dell'impero austriaco sta
+
+438
+00:50:27,000 --> 00:50:34,140
+negoziando con la serbia paese nemico per creare la jugoslavia il 28 ottobre è proclamata la
+
+439
+00:50:34,140 --> 00:50:39,860
+ciecoslovacchia indipendente il 29 ottobre è proclamata la jugoslavia il 31 ottobre l'ungheria
+
+440
+00:50:39,860 --> 00:50:47,020
+si proclama indipendente questo è quello che succede nel corso del mese di ottobre da noi il
+
+441
+00:50:47,020 --> 00:50:55,700
+12 ottobre si è fatta la riunione per decidere quando cominciare l'attacco hanno deciso lo cominciamo
+
+442
+00:50:55,700 --> 00:51:05,080
+il 18 ottobre senza fretta per l'appunto si scoprirà in seguito che i parlamentari austriaci
+
+443
+00:51:05,080 --> 00:51:13,460
+designati per venire a chiederci l'armistizio erano pronti già dal 13 ottobre le loro credenziali
+
+444
+00:51:13,460 --> 00:51:19,840
+per negoziare erano datate 13 ottobre però il comando austriaco ha detto beh però finché gli
+
+445
+00:51:19,840 --> 00:51:27,740
+italiani non si muovono e finché il nostro esercito regge stiamo a vedere e aspettiamo
+
+446
+00:51:27,740 --> 00:51:38,500
+diaz ha ordinato l'attacco per il 18 ottobre cosa succede il 18 ottobre sul piave che piove diluvia il
+
+447
+00:51:38,500 --> 00:51:46,880
+piave in piena intransitabile rimandano di una settimana al 24 ottobre c'è di buono che l'anniversario
+
+448
+00:51:46,880 --> 00:51:54,500
+di caporetto intanto l'esercito austriaco sta cominciando a disgregarsi da solo il 20 ottobre i primi
+
+449
+00:51:54,500 --> 00:51:59,740
+reggimenti ungheresi in val sugana decidono di ammutinarsi e si mettono in marcia per tornarsene
+
+450
+00:51:59,740 --> 00:52:07,700
+in ungheria finalmente il 24 ottobre attacchiamo attacchiamo prima sul grappa per attirare lì
+
+451
+00:52:07,700 --> 00:52:15,580
+l'attenzione degli austriaci e poi dopo due giorni sul piave per passarlo e sfondare comincia la battaglia
+
+452
+00:52:15,580 --> 00:52:22,200
+di vittorio veneto che nei primi giorni è una vera battaglia questo va detto quei primi due giorni in cui
+
+453
+00:52:22,200 --> 00:52:29,680
+i nostri attaccano sul grappa sono giorni pesanti perché l'esercito austriaco nonostante tutto
+
+454
+00:52:29,680 --> 00:52:39,140
+l'esercito di un impero che sta finendo di esistere questo esercito contro gli italiani ha ancora voglia
+
+455
+00:52:39,140 --> 00:52:47,820
+di combattere per cui nei primi giorni gli austriaci tengono la sera del 26 si gettano le prime passerelle
+
+456
+00:52:47,820 --> 00:52:57,040
+sul piave la notte la piena spazza via tutto la notte del 27 si rifanno i ponti il 28 il piave li spazza via di nuovo
+
+457
+00:52:57,040 --> 00:53:04,860
+però intanto i nostri stanno passando c'è una prima testa di ponte al di là del piave entro il 29 abbiamo
+
+458
+00:53:04,860 --> 00:53:09,820
+grosse forze al di là del piave e a questo punto la battaglia di vittorio veneto in realtà è finita
+
+459
+00:53:09,820 --> 00:53:16,540
+perché l'esercito austriaco decide che basta le truppe austriache sono fatte in gran parte di uomini
+
+460
+00:53:16,540 --> 00:53:23,560
+nella cui patria nuovi governi stanno proclamando l'indipendenza la pace e così via nessuno ha più
+
+461
+00:53:23,560 --> 00:53:28,660
+voglia di combattere al di là del fatto che crepano di fame i prigionieri austriaci catturati a vittorio
+
+462
+00:53:28,660 --> 00:53:36,660
+veneto peseranno in media 45 chili l'uno dopodiché dopo di che gli austriaci l'esercito comincia a
+
+463
+00:53:36,660 --> 00:53:46,040
+ritirarsi e il 29 ottobre 10 del mattino il giorno in cui è proclamata a zagabria l'indipendenza
+
+464
+00:53:46,040 --> 00:53:53,040
+della jugoslavia i parlamentari austriaci arrivano a chiedere l'armistizio mentre il comando austriaco
+
+465
+00:53:53,040 --> 00:53:58,800
+ordina alle truppe a quei pochi che ancora obbediscono la ritirata fino alla frontiera e
+
+466
+00:53:58,800 --> 00:54:03,620
+quella cosa che dirà diaz nel proclama della vittoria no risalgono in disordine le valli che
+
+467
+00:54:03,620 --> 00:54:10,900
+avevano disceso con orgogliosa sicurezza bene apparentemente va tutto meravigliosamente l'impero
+
+468
+00:54:10,900 --> 00:54:18,500
+austriaco il nostro vecchio nemico secolare sta scomparendo al suo posto nascono nuovi paesi
+
+469
+00:54:18,500 --> 00:54:27,420
+dovremmo essere contentissimi in realtà attenzione la politica italiana fin dall'inizio sa che questa
+
+470
+00:54:27,420 --> 00:54:36,000
+guerra si fa per imporre la nostra egemonia nell'adriatico nei balcani e allora non è detto
+
+471
+00:54:36,000 --> 00:54:41,920
+che siamo così contenti certo se nasce la polonia non ci importa niente la cecoslovacchia va anche
+
+472
+00:54:41,920 --> 00:54:50,620
+bene ma la jugoslavia no la jugoslavia ai nostri politici non piace per niente l'idea che invece di
+
+473
+00:54:50,620 --> 00:54:57,240
+tanti piccoli stati nasca un grosso stato alla nostra frontiera e si sa già benissimo che gli
+
+474
+00:54:57,240 --> 00:55:04,680
+jugoslavi ai negoziati per la pace diranno trieste ma trieste è slava gorizia ma gorizia è slava l'istria
+
+475
+00:55:04,680 --> 00:55:10,140
+fiume la dalmazia neanche per idea quindi per i nostri in realtà la jugoslavia è un incubo
+
+476
+00:55:10,140 --> 00:55:18,360
+vi racconto uno specifico episodio molti di voi l'avranno sentito forse nominare perché da
+
+477
+00:55:18,360 --> 00:55:23,960
+bambini si studiava addirittura a scuola l'affondamento della viribus unitis la viribus
+
+478
+00:55:23,960 --> 00:55:32,460
+unitis è una corazzata austriaca una delle poche che gli rimangono ancorata nel porto di pola la notte
+
+479
+00:55:32,460 --> 00:55:38,340
+del tre la sera del 31 ottobre con un'azione di gruppi d'assalto con cui siamo in cui siamo così
+
+480
+00:55:38,340 --> 00:55:44,360
+bravi la nostra marina è sempre stata brava in queste cose due fegatacci entrano nel porto di
+
+481
+00:55:44,360 --> 00:55:51,120
+pola con una nuova arma speciale una mina semovente che viene agganciata di nascosto sotto la tolda
+
+482
+00:55:51,120 --> 00:55:57,460
+della corazzata viribus unitis poi i due sommozzatori paolucci e rossetti che becheranno la medaglia d'oro
+
+483
+00:55:57,460 --> 00:56:04,020
+tutti e due per questo ovviamente escono fuori gli austriaci li vedono li catturano e dopodiché poche
+
+484
+00:56:04,020 --> 00:56:10,040
+ore dopo la viribus unitis salta e affonda con gran parte del suo equipaggio con il suo comandante
+
+485
+00:56:10,040 --> 00:56:11,880
+31 ottobre
+
+486
+00:56:11,880 --> 00:56:18,700
+peccato che il 29 ottobre era stata proclamata l'indipendenza della jugoslavia
+
+487
+00:56:18,700 --> 00:56:24,680
+e il 30 ottobre l'imperatore carlo aveva regalato la sua flotta alla jugoslavia
+
+488
+00:56:24,680 --> 00:56:31,800
+quindi il 31 ottobre poche ore prima che paolucci e rossetti arrivassero nel porto di pola a minare la
+
+489
+00:56:31,800 --> 00:56:38,040
+corazzata a bordo della corazzata viribus unitis il nome è un vecchio slogan dell'impero austriaco
+
+490
+00:56:38,040 --> 00:56:44,120
+no vuol dire a forze unite e piaceva anche gli jugoslavi evidentemente a bordo della viribus
+
+491
+00:56:44,120 --> 00:56:49,860
+unitis l'ammiraglio horti comandante in capo della marina austriaca aveva solennemente consegnato la
+
+492
+00:56:49,860 --> 00:56:56,620
+corazzata ai rappresentanti jugoslavi la corazzata aveva innalzato bandiera jugoslava e il comandante
+
+493
+00:56:56,620 --> 00:57:03,760
+della corazzata capitano di vascello ianko wukovic von pod kapelski aveva preso il comando della flotta
+
+494
+00:57:03,760 --> 00:57:10,840
+jugoslava poche ore dopo noi affondiamo la principale corazzata della flotta jugoslava con il suo equipaggio
+
+495
+00:57:10,840 --> 00:57:16,600
+croato a bordo e con a bordo il comandante della marina jugoslava che affoga durante l'affondamento
+
+496
+00:57:16,600 --> 00:57:26,140
+della corazzata e io non so se paolucci e rossetti lo sapessero ma i loro comandi lo sapevano benissimo
+
+497
+00:57:26,140 --> 00:57:32,180
+che cosa stava succedendo e nessuno ha detto vabbè visto che adesso la corazzata jugoslava lasciamo
+
+498
+00:57:32,180 --> 00:57:41,100
+perdere anzi dunque il 29 ottobre gli austriaci chiedono l'armistizio sarebbero pronti a firmare
+
+499
+00:57:41,100 --> 00:57:46,400
+anche subito tanto ormai è finita l'austria non esiste più e l'esercito si sta ritirando in
+
+500
+00:57:46,400 --> 00:57:53,400
+disordine e gli italiani inseguono a questo punto siamo noi che tiriamo in lungo perché dovremmo
+
+501
+00:57:53,400 --> 00:58:01,720
+firmare un armistizio quando il nemico sta scappando noi lo inseguiamo catturiamo prigionieri e liberiamo
+
+502
+00:58:01,720 --> 00:58:09,900
+la patria occupata e andiamo avanti e saremmo così stupidi da fermarci no no comando austriaco
+
+503
+00:58:09,900 --> 00:58:16,960
+cioè il negoziatore austriaco a villa giusti a padova il generale weber von webenau appena cominciano i
+
+504
+00:58:16,960 --> 00:58:24,080
+colloqui dichiara che loro in pratica hanno già deposto le armi non intendono più combattere e
+
+505
+00:58:24,080 --> 00:58:30,640
+chiedono di cessare immediatamente i combattimenti e fermare l'avanzata italiana i negoziatori italiani
+
+506
+00:58:30,640 --> 00:58:37,920
+rispondono non se ne parla neanche adesso discutiamo le clausole dell'armistizio e finché
+
+507
+00:58:37,920 --> 00:58:43,380
+non abbiamo messo nero su bianco le clausole dell'armistizio il nostro esercito continua a
+
+508
+00:58:43,380 --> 00:58:51,100
+attaccare e a inseguire si tira avanti il più che si può finalmente quando non ci sono più pretesti
+
+509
+00:58:51,100 --> 00:58:58,400
+gli austriaci hanno ceduto tutto quello che chiedevamo alle 18 e 40 del 3 novembre viene firmato
+
+510
+00:58:58,400 --> 00:59:05,760
+l'armistizio riusciamo ancora a infilarci un trucco è firmato alle 18 40 del 3 novembre ma
+
+511
+00:59:05,760 --> 00:59:12,880
+entrerà in vigore alle 15 del giorno dopo migliaia di soldati austriaci che non hanno capito questa
+
+512
+00:59:12,880 --> 00:59:18,680
+cosa quella sera quella notte quel mattino dopo vedono arrivare gli italiani li salutano allegramente
+
+513
+00:59:18,680 --> 00:59:25,340
+e vengono immediatamente catturati e fatti prigionieri alla fine di tutto questo i nostri
+
+514
+00:59:25,340 --> 00:59:33,440
+sono quasi a innsbruck siamo sbarcati a trieste per il rotto della cuffia siamo riusciti a prenderci
+
+515
+00:59:33,440 --> 00:59:41,060
+quel che volevamo abbiamo in mano 300.000 prigionieri quasi tutti uomini che credevano che la guerra fosse
+
+516
+00:59:41,060 --> 00:59:48,060
+finita e stavano tornando a casa invece resteranno ancora parecchi mesi in prigionia italiana adibiti ai
+
+517
+00:59:48,060 --> 00:59:53,620
+lavori forzati devo dire ci sono rarissime testimonianze di questi prigionieri austriaci che
+
+518
+00:59:53,620 --> 00:59:59,780
+sono rimasti in prigionia appunto fino al marzo aprile del 19 in italia la prigionia degli italiani
+
+519
+00:59:59,780 --> 01:00:06,740
+in austria era stata spaventosa per la fame tremenda nei lager ma anche le testimonianze dei prigionieri
+
+520
+01:00:06,740 --> 01:00:14,200
+austriaci trattenuti in italia fino al 19 le poche che ho letto parlano solo di quello fame fame
+
+521
+01:00:14,200 --> 01:00:22,560
+disperata maltrattamenti la stessa identica cosa che i nostri hanno subito nei lager dopodiché abbiamo
+
+522
+01:00:22,560 --> 01:00:30,900
+vinto abbiamo vinto la battaglia di vittorio veneto e abbiamo vinto la guerra e come dire non è un bel
+
+523
+01:00:30,900 --> 01:00:38,740
+momento a guardarlo da adesso perché i nostri perdono la testa diaz diaz scrive alla moglie nei
+
+524
+01:00:38,740 --> 01:00:45,580
+giorni dei negoziati noi negoziamo e imponiamo le nostre condizioni se per caso gli austriaci non
+
+525
+01:00:45,580 --> 01:00:52,900
+accettassero le nostre condizioni e qui cito continueremo e sarà un disastro per l'esercito
+
+526
+01:00:52,900 --> 01:01:00,060
+nemico dopo del quale muoveremo contro la germania ove resista e così saremo noi a dare la pace alla
+
+527
+01:01:00,060 --> 01:01:06,000
+francia invece di riceverla questo scrive il comandante dell'esercito italiano in quei giorni
+
+528
+01:01:06,000 --> 01:01:11,640
+in cui i tedeschi stanno crollando anche sul fronte occidentale e i francesi stanno per entrare in germania
+
+529
+01:01:11,640 --> 01:01:19,120
+ma noi diciamo noi abbiamo vinto la guerra per tutti i giornali italiani ovviamente si scatenano
+
+530
+01:01:19,120 --> 01:01:26,740
+mussolini più di tutti un titolo fra tutti del popolo d'italia emblematico dello spirito del tempo la causa
+
+531
+01:01:26,740 --> 01:01:32,780
+santa della civiltà trionfa dove noi siamo la causa santa della civiltà
+
+532
+01:01:32,780 --> 01:01:39,960
+leggere oggi è facile lo so che è facile la mentalità di allora era quella forse perfino
+
+533
+01:01:39,960 --> 01:01:45,780
+ingeneroso prendere le distanze adesso però bisogna farlo uno legge certi articoli dei giornalisti
+
+534
+01:01:45,780 --> 01:01:50,920
+italiani al seguito delle truppe di queste truppe che stanno via via respingendo gli austriaci e
+
+535
+01:01:50,920 --> 01:01:58,860
+rioccupando i territori occupati scrive guelfo civinini sul corriere della sera dove è stato
+
+536
+01:01:58,860 --> 01:02:07,600
+l'austriaco è rimasto il suo tanfo e il suo sudiciume e le strade per cui è fuggito sono seminate di
+
+537
+01:02:07,600 --> 01:02:17,380
+elmetti di armi di cenci luridi di mollettiere fangose scioltesi nella fuga dai suoi stinchi
+
+538
+01:02:17,380 --> 01:02:24,720
+pidocchiosi non sembra di battere le strade della ritirata di un esercito ma quelle per cui un'invasione
+
+539
+01:02:24,720 --> 01:02:32,160
+di zingari è stata scacciata dai suoi feti di accampamenti e insomma per finire aveva ragione
+
+540
+01:02:32,160 --> 01:02:37,920
+prezzolini il quale amava i paradossi e a un certo punto è scritto che per l'italia caporetto è stata
+
+541
+01:02:37,920 --> 01:02:45,120
+una vittoria e vittorio veneto una sconfitta caporetto ci ha fatto bene e vittorio veneto ci ha fatto male
+
+542
+01:02:45,120 --> 01:02:52,280
+caporetto ci ha innalzati dice prezzolini e vittorio veneto ci ha abbassati perché ci si fa grandi
+
+543
+01:02:52,280 --> 01:03:01,620
+resistendo a una sventura e spiando le proprie colpe e si diventa invece piccoli gonfiandosi con
+
+544
+01:03:01,620 --> 01:03:09,740
+le menzogne e facendo risorgere i cattivi istinti per il fatto di vincere questo diceva prezzolini non lo
+
+545
+01:03:09,740 --> 01:03:16,320
+dico io però del vero c'era il che non toglie niente al fatto che i nostri nonni hanno combattuto
+
+546
+01:03:16,320 --> 01:03:22,840
+quella mia nonno anche era lì terza armata l'invitta terza armata del duca d'aosta i nostri nonni e
+
+547
+01:03:22,840 --> 01:03:30,980
+bisnonni hanno combattuto quella guerra si sono fatti ammazzare in 600.000 hanno passato delle cose
+
+548
+01:03:30,980 --> 01:03:38,560
+che oggi sono inimmaginabili alla fine hanno vinto però quel paese vittorioso ha scoperto alla fine di
+
+549
+01:03:38,560 --> 01:03:46,140
+essere un paese con le ossa rotte indebitato fino al collo con una disoccupazione spaventosa un
+
+550
+01:03:46,140 --> 01:03:53,660
+malessere sociale dilagante e tutti che dicevano noi dovremmo avere molto da questa vittoria non ci
+
+551
+01:03:53,660 --> 01:04:00,140
+vogliono dare tutto quello che ci spetta noi dovremmo essere forti potenti comandare avere un impero non ce lo
+
+552
+01:04:00,140 --> 01:04:05,540
+vogliono dare gliela faremo vedere noi la prossima volta ecco non è uscita bene da quella guerra
+
+553
+01:04:05,540 --> 01:04:12,500
+l'italia se ci pensate i paesi che hanno vinto quella guerra l'inghilterra la francia sono usciti
+
+554
+01:04:12,500 --> 01:04:20,440
+anche loro disastrati con un'economia molto mal ridotta disoccupazione spaventosa scioperi ma lì non ci
+
+555
+01:04:20,440 --> 01:04:26,060
+sono stati sono movimenti sociali la democrazia ha tenuto la democrazia è andata al diavolo nel
+
+556
+01:04:26,060 --> 01:04:33,060
+dopoguerra nei paesi sconfitti tra rivoluzioni e contro rivoluzioni in germania in austria in
+
+557
+01:04:33,060 --> 01:04:41,000
+ungheria l'italia se uno guarda quello che c'è successo nel dopoguerra assomiglia più ai paesi
+
+558
+01:04:41,000 --> 01:04:46,600
+sconfitti che non ai paesi che la guerra l'avevano vinta davvero e anche questa è una cosa su cui come
+
+559
+01:04:46,600 --> 01:04:48,340
+dire vale la pena di riflettere grazie
+

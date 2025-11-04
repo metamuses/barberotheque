@@ -1,0 +1,13964 @@
+1
+00:00:00,000 --> 00:00:27,220
+Il bravo storico assomiglia all'orco delle leggende,
+
+2
+00:00:27,220 --> 00:00:33,960
+«Quando sente odore di carne umana, sa che lì c'è la sua preda».
+
+3
+00:00:33,960 --> 00:00:37,440
+Fra quelli che fanno il mio mestiere è una delle frasi più famose,
+
+4
+00:00:37,660 --> 00:00:39,800
+ed è la frase più famosa di Mark Bloch,
+
+5
+00:00:40,640 --> 00:00:44,820
+il grande storico che ha rivoluzionato la storiografia del Novecento
+
+6
+00:00:44,820 --> 00:00:48,440
+e che proviamo a raccontare questa sera.
+
+7
+00:00:49,880 --> 00:00:53,360
+Tra noi storici il nome di Mark Bloch è un nome leggendario,
+
+8
+00:00:53,360 --> 00:00:58,780
+per il suo lavoro di storico e anche per la sua vita e per la sua morte.
+
+9
+00:01:00,020 --> 00:01:02,200
+Lui, a dire il vero, sembrava tutt'altro che un orco.
+
+10
+00:01:02,740 --> 00:01:05,460
+Io qui non ho le fotografie, ma le trovate su internet.
+
+11
+00:01:05,640 --> 00:01:08,620
+È un uomo tranquillo, con i baffetti,
+
+12
+00:01:08,760 --> 00:01:12,560
+con gli occhialini rotondi da intellettuale dell'inizio del Novecento,
+
+13
+00:01:12,860 --> 00:01:15,380
+anche un po' corpulento verso la fine della sua vita,
+
+14
+00:01:15,380 --> 00:01:22,540
+e però dietro quegli occhialini rotondi, come vedremo, c'era molto di inaspettato.
+
+15
+00:01:24,080 --> 00:01:29,480
+Allora, Mark Bloch nasce nel 1886 a Lione,
+
+16
+00:01:31,080 --> 00:01:34,400
+per caso, perché suo papà è professore all'Università di Lione,
+
+17
+00:01:35,220 --> 00:01:37,760
+ma quasi subito si trasferiscono a Parigi,
+
+18
+00:01:37,760 --> 00:01:41,740
+perché ovviamente nella carriera accademica francese
+
+19
+00:01:41,740 --> 00:01:46,260
+l'obiettivo di tutti i professori è arrivare a Parigi.
+
+20
+00:01:46,360 --> 00:01:50,060
+Sapete che la Francia è un paese molto stratificato e piramidale,
+
+21
+00:01:50,560 --> 00:01:54,340
+per cui le carriere consistono nel fatto di arrivare a Parigi.
+
+22
+00:01:54,700 --> 00:01:57,240
+Quindi Mark Bloch cresce a Parigi,
+
+23
+00:01:57,400 --> 00:02:00,760
+studia in uno dei grandi licei di Parigi,
+
+24
+00:02:00,860 --> 00:02:01,500
+Louis Le Grand,
+
+25
+00:02:02,660 --> 00:02:04,420
+dove hanno trovato le sue pagelle,
+
+26
+00:02:04,420 --> 00:02:07,140
+doveva essere un primo della classe insopportabile,
+
+27
+00:02:07,760 --> 00:02:09,900
+poi entra all'Ecole Normale.
+
+28
+00:02:11,220 --> 00:02:13,880
+È un percorso assolutamente standard.
+
+29
+00:02:14,580 --> 00:02:18,700
+Andate a vedere le biografie di tutti i grandi intellettuali francesi del Novecento
+
+30
+00:02:18,700 --> 00:02:21,420
+e troverete questo percorso qua, un grande liceo,
+
+31
+00:02:21,640 --> 00:02:23,400
+poi l'Ecole Normale o la Sorbona,
+
+32
+00:02:23,840 --> 00:02:29,120
+poi la cattedra in qualche liceo per qualche anno in provincia
+
+33
+00:02:29,120 --> 00:02:31,820
+in attesa di arrivare all'università.
+
+34
+00:02:32,600 --> 00:02:34,580
+È tutto normalissimo,
+
+35
+00:02:35,220 --> 00:02:37,420
+tranne per un dettaglio.
+
+36
+00:02:37,760 --> 00:02:40,960
+quel cognome che suona tedesco,
+
+37
+00:02:41,400 --> 00:02:41,880
+Bloch.
+
+38
+00:02:43,560 --> 00:02:47,020
+I Bloch sono ebrei alsaziani
+
+39
+00:02:47,020 --> 00:02:50,380
+e quando nel 1870,
+
+40
+00:02:50,580 --> 00:02:52,620
+sapete la guerra franco-prussiana,
+
+41
+00:02:53,320 --> 00:02:54,940
+nasce il Reich tedesco
+
+42
+00:02:54,940 --> 00:02:58,640
+e i tedeschi si impadroniscono dell'Alsazia e della Lorena
+
+43
+00:02:58,640 --> 00:03:04,620
+e ai cittadini viene offerta l'opzione di restare lì e diventare sudditi tedeschi
+
+44
+00:03:04,620 --> 00:03:08,980
+oppure restare francesi ed emigrare in Francia.
+
+45
+00:03:08,980 --> 00:03:15,180
+Il papà di Marc Bloch è uno di quella minoranza di alsaziani che decidono che loro sono francesi
+
+46
+00:03:15,180 --> 00:03:17,360
+e quindi torna in Francia.
+
+47
+00:03:18,980 --> 00:03:22,100
+Sono francesi al 100% i Bloch, sono ebrei,
+
+48
+00:03:22,760 --> 00:03:28,220
+ma l'antenato di cui Marc Bloch è più fiero ha combattuto per la rivoluzione francese
+
+49
+00:03:28,220 --> 00:03:32,060
+al tempo dell'assedio di Magonza nel 1793.
+
+50
+00:03:32,980 --> 00:03:37,560
+Sono francesi al 100% e per Marc Bloch per molto tempo
+
+51
+00:03:37,560 --> 00:03:42,260
+il fatto di essere ebreo per lui sarà solo un cognome, nient'altro.
+
+52
+00:03:42,260 --> 00:03:47,620
+C'è un dettaglio eloquente, è una stupidaggine ma ve la dico lo stesso.
+
+53
+00:03:48,220 --> 00:03:53,180
+In una cittadina di provincia francese c'è un liceo intitolato a Marc Bloch
+
+54
+00:03:53,180 --> 00:03:58,940
+e i ragazzi del liceo hanno messo su internet un testo
+
+55
+00:03:58,940 --> 00:04:04,600
+in cui si sforzano di dire qualcosa di questo grand'uomo a cui è intitolata la loro scuola
+
+56
+00:04:04,600 --> 00:04:11,220
+e dicono sì, questo mondo ebraico con questa sua grande tradizione culturale
+
+57
+00:04:11,220 --> 00:04:16,780
+questo mondo ebraico con il suo attaccamento alla famiglia, alla memoria familiare
+
+58
+00:04:16,780 --> 00:04:19,760
+chissà come ha influenzato Marc Bloch.
+
+59
+00:04:20,760 --> 00:04:27,480
+Il figlio di Bloch, uno dei figli, Etienne, che ha tenuto più di tutti gli altri fratelli
+
+60
+00:04:27,480 --> 00:04:31,560
+si è dato molto da fare per tenere viva la memoria del padre, ha costruito un sito,
+
+61
+00:04:31,660 --> 00:04:38,440
+pubblicato documenti e così via, Etienne sul suo sito di questa cosa scritta dai ragazzini del liceo
+
+62
+00:04:38,440 --> 00:04:40,780
+ha detto scemenze.
+
+63
+00:04:42,100 --> 00:04:46,160
+A casa nostra di essere ebrei non importava niente a nessuno, non erano credenti
+
+64
+00:04:46,160 --> 00:04:50,400
+e non si è mai minimamente parlato del fatto che avevamo gli antenati ebrei.
+
+65
+00:04:52,120 --> 00:04:57,440
+Dunque Marc è avviato una tranquilla carriera intellettuale, però naturalmente stiamo attenti agli anni come al solito.
+
+66
+00:04:57,440 --> 00:05:06,680
+È nato nel 1886, quindi ha 28 anni e ha già fatto come tutti il suo servizio militare,
+
+67
+00:05:07,040 --> 00:05:14,760
+è sergente della riserva, professore di liceo, quando a 28 anni gli capita quello che è capitato a Salvemini
+
+68
+00:05:14,760 --> 00:05:19,920
+che abbiamo raccontato ieri e capiterà anche a Kantorowicz che racconteremo domani per chi ci sarà.
+
+69
+00:05:19,920 --> 00:05:25,200
+Capita a tutti nel 1914 questa cosa che scoppia la prima guerra mondiale
+
+70
+00:05:25,200 --> 00:05:29,580
+e Marc Bloch viene mobilitato come sergente di fanteria
+
+71
+00:05:29,580 --> 00:05:36,940
+e si fa tutta la guerra, quattro anni al fronte e finisce la guerra da capitano.
+
+72
+00:05:38,020 --> 00:05:42,820
+Ora non tutti hanno presente il significato dei termini della gerarchia militare
+
+73
+00:05:42,820 --> 00:05:46,740
+ma cominciare da sergente ed essere promosso alla fine capitano
+
+74
+00:05:46,740 --> 00:05:52,500
+significa aver fatto una grossa carriera, vuol dire che tu quel mestiere lo sai fare.
+
+75
+00:05:54,000 --> 00:05:57,920
+Etienne Bloch, il figlio, ricorda che una volta un colonnello
+
+76
+00:05:57,920 --> 00:06:01,920
+che faceva di mestiere lo storico dell'esercito francese
+
+77
+00:06:01,920 --> 00:06:05,320
+gli ha detto io non conosco nessun altro caso
+
+78
+00:06:05,320 --> 00:06:08,900
+di uno che ha cominciato la guerra da sergente nel 1914
+
+79
+00:06:08,900 --> 00:06:11,520
+e la finita nel 1918 da capitano.
+
+80
+00:06:12,480 --> 00:06:14,240
+Magari gliel'ha detto per fargli piacere
+
+81
+00:06:14,240 --> 00:06:16,360
+magari ci sarà anche qualche altro caso
+
+82
+00:06:16,360 --> 00:06:19,320
+ma sicuramente vuol dire che il professor Bloch
+
+83
+00:06:19,320 --> 00:06:22,880
+si è rivelato un bravissimo ufficiale
+
+84
+00:06:22,880 --> 00:06:26,080
+si è fatto i suoi quattro anni di trincea
+
+85
+00:06:26,080 --> 00:06:28,580
+e nel corso di quei quattro anni
+
+86
+00:06:28,580 --> 00:06:31,860
+vi racconto questo aspetto perché lui ci teneva molto
+
+87
+00:06:31,860 --> 00:06:36,740
+è stato citato quattro volte per atti di valore all'ordine del giorno
+
+88
+00:06:36,740 --> 00:06:39,160
+cosa vuol dire citato all'ordine del giorno
+
+89
+00:06:39,160 --> 00:06:40,940
+vuol dire che ogni tanto, non tutti i giorni
+
+90
+00:06:40,940 --> 00:06:43,700
+il comandante della divisione pubblica un rapporto
+
+91
+00:06:43,700 --> 00:06:46,720
+in cui dice quali reparti si sono distinti
+
+92
+00:06:46,720 --> 00:06:50,460
+quali ufficiali si sono segnalati per imprese valorose
+
+93
+00:06:50,460 --> 00:06:51,780
+sprezzo del pericolo
+
+94
+00:06:51,780 --> 00:06:56,620
+Mark Bloch viene citato quattro volte per atti di valore
+
+95
+00:06:56,620 --> 00:07:00,480
+ci tiene così tanto, per questo lo dico anch'io
+
+96
+00:07:00,480 --> 00:07:03,280
+ci tiene così tanto che nel suo testamento
+
+97
+00:07:03,280 --> 00:07:06,120
+redatto in tutt'altra epoca
+
+98
+00:07:06,120 --> 00:07:07,580
+durante la resistenza
+
+99
+00:07:07,580 --> 00:07:09,900
+nel suo testamento Bloch dice
+
+100
+00:07:09,900 --> 00:07:10,900
+al mio funerale
+
+101
+00:07:10,900 --> 00:07:14,020
+voglio che siano lette le mie quattro citazioni
+
+102
+00:07:14,020 --> 00:07:16,120
+se si potranno trovare
+
+103
+00:07:16,120 --> 00:07:17,660
+perché voi capite in quel momento
+
+104
+00:07:17,660 --> 00:07:19,700
+la gente aveva altro per la testa
+
+105
+00:07:19,700 --> 00:07:25,600
+siccome noi siamo molto lontani da quel mondo
+
+106
+00:07:25,600 --> 00:07:28,620
+giusto per ricordarci cosa voleva dire
+
+107
+00:07:28,620 --> 00:07:30,420
+aver fatto quattro anni di guerra
+
+108
+00:07:30,420 --> 00:07:33,500
+vi leggo un brano scelto non dico a caso
+
+109
+00:07:33,500 --> 00:07:35,620
+ma quasi, ce ne sarebbero tanti
+
+110
+00:07:35,620 --> 00:07:37,480
+anzi ne avevo messi tanti all'inizio
+
+111
+00:07:37,480 --> 00:07:39,940
+poi li ho sforbiciati perché altrimenti stiamo qua fino domattina
+
+112
+00:07:39,940 --> 00:07:41,300
+ma ve ne leggo uno
+
+113
+00:07:41,300 --> 00:07:43,380
+dai ricordi di guerra di Bloch
+
+114
+00:07:43,380 --> 00:07:48,040
+quando la pallottola colpisce il cranio
+
+115
+00:07:48,040 --> 00:07:50,120
+da una determinata angolatura
+
+116
+00:07:50,120 --> 00:07:51,840
+lo fa esplodere
+
+117
+00:07:51,840 --> 00:07:54,940
+in questo modo morì il mio amico lui
+
+118
+00:07:54,940 --> 00:07:59,300
+metà del volto pendeva come un'imposta scardinata
+
+119
+00:07:59,300 --> 00:08:02,700
+e si vedeva all'interno della scatola cranica
+
+120
+00:08:02,700 --> 00:08:03,780
+quasi vuota
+
+121
+00:08:03,780 --> 00:08:06,060
+con un asciugamano
+
+122
+00:08:06,060 --> 00:08:08,720
+ricoprì quell'orribile ferita
+
+123
+00:08:08,720 --> 00:08:11,900
+volevo nasconderla ai miei soldati
+
+124
+00:08:11,900 --> 00:08:14,480
+i contadini e gli operai
+
+125
+00:08:14,480 --> 00:08:16,720
+considerati dei duri
+
+126
+00:08:16,720 --> 00:08:20,000
+spesso sono particolarmente impressionabili
+
+127
+00:08:20,000 --> 00:08:21,880
+da parte mia
+
+128
+00:08:21,880 --> 00:08:24,300
+sopporto senza troppa difficoltà
+
+129
+00:08:24,300 --> 00:08:26,500
+difficoltà gli spettacoli cruenti
+
+130
+00:08:26,500 --> 00:08:32,040
+allora nel 1918 finisce la guerra
+
+131
+00:08:32,040 --> 00:08:34,120
+il capitano Bloch è smobilitato
+
+132
+00:08:34,120 --> 00:08:38,360
+proviamo a ragionare su che cosa si riporta dalla guerra
+
+133
+00:08:38,360 --> 00:08:42,520
+dal punto di vista fisico si riporta una salute compromessa
+
+134
+00:08:42,520 --> 00:08:44,120
+è stato ferito due volte
+
+135
+00:08:44,120 --> 00:08:45,240
+vabbè leggermente
+
+136
+00:08:45,240 --> 00:08:48,980
+dopo cinque mesi in trincea si è preso il tifo
+
+137
+00:08:48,980 --> 00:08:50,860
+ha rischiato di morire di tifo
+
+138
+00:08:50,860 --> 00:08:52,200
+ha fatto mesi in ospedale
+
+139
+00:08:52,200 --> 00:08:54,380
+poi è tornato in trincea
+
+140
+00:08:54,380 --> 00:08:58,640
+e si riporta un'artrite alle mani
+
+141
+00:08:58,640 --> 00:09:01,420
+che si porterà dietro per tutta la vita
+
+142
+00:09:01,420 --> 00:09:03,700
+e che gli dà molte difficoltà
+
+143
+00:09:03,700 --> 00:09:06,760
+quando fa la cosa più importante del suo mestiere
+
+144
+00:09:06,760 --> 00:09:07,700
+cioè scrivere
+
+145
+00:09:07,700 --> 00:09:10,420
+tenete conto che quella è un'epoca
+
+146
+00:09:10,420 --> 00:09:11,940
+in cui si scrive tutto a mano
+
+147
+00:09:11,940 --> 00:09:14,240
+vabbè quella è un'epoca
+
+148
+00:09:14,240 --> 00:09:15,040
+l'ho ancora fatto io
+
+149
+00:09:15,040 --> 00:09:15,840
+i miei primi libri
+
+150
+00:09:15,840 --> 00:09:17,600
+prima del computer
+
+151
+00:09:17,600 --> 00:09:19,300
+si scriveva tutto a mano
+
+152
+00:09:19,300 --> 00:09:21,640
+poi si batteva a macchina una stesura
+
+153
+00:09:21,640 --> 00:09:22,820
+poi si correggeva
+
+154
+00:09:22,820 --> 00:09:23,860
+ma la prima stesura a mano
+
+155
+00:09:23,860 --> 00:09:25,680
+Bloch per tutta la vita scriverà
+
+156
+00:09:25,680 --> 00:09:27,400
+avendo nelle dita l'artrite
+
+157
+00:09:27,400 --> 00:09:29,520
+che si è portato dietro dalle trincee delle fiandre
+
+158
+00:09:29,520 --> 00:09:32,120
+ma questo è il meno
+
+159
+00:09:32,120 --> 00:09:33,840
+Bloch in guerra
+
+160
+00:09:33,840 --> 00:09:35,240
+si è guardato intorno
+
+161
+00:09:35,240 --> 00:09:37,160
+e ha imparato un po' di cose
+
+162
+00:09:37,160 --> 00:09:40,460
+che gli interessano per il suo mestiere di storico
+
+163
+00:09:40,460 --> 00:09:43,700
+per esempio ha imparato
+
+164
+00:09:43,700 --> 00:09:46,980
+che cosa fragile è la memoria umana
+
+165
+00:09:46,980 --> 00:09:49,360
+a un certo punto si è messo lì
+
+166
+00:09:49,360 --> 00:09:50,760
+anche lui scrive naturalmente
+
+167
+00:09:50,760 --> 00:09:53,200
+dicevamo ieri che Salvemini
+
+168
+00:09:53,200 --> 00:09:54,980
+è stato due settimane in trincea
+
+169
+00:09:54,980 --> 00:09:56,620
+e voleva già scrivere un libro
+
+170
+00:09:56,620 --> 00:09:58,160
+perché gli sembrava così importante
+
+171
+00:09:58,160 --> 00:10:00,020
+trasmettere queste esperienze
+
+172
+00:10:00,020 --> 00:10:02,480
+Bloch ha poi scritto i suoi ricordi di guerra
+
+173
+00:10:02,480 --> 00:10:05,140
+ma si è accorto quasi subito
+
+174
+00:10:05,140 --> 00:10:06,640
+che non si ricordava mica bene
+
+175
+00:10:06,640 --> 00:10:09,540
+il primo giorno che siamo stati al fuoco
+
+176
+00:10:09,540 --> 00:10:11,000
+sotto la mitraglia
+
+177
+00:10:11,000 --> 00:10:13,220
+abbiamo visto i primi morti
+
+178
+00:10:13,220 --> 00:10:15,520
+lui dice sì certo che li ho i ricordi
+
+179
+00:10:15,520 --> 00:10:17,940
+alcune immagini anche vivide
+
+180
+00:10:17,940 --> 00:10:19,700
+però separate
+
+181
+00:10:19,700 --> 00:10:21,520
+come fotogrammi di un film
+
+182
+00:10:21,520 --> 00:10:22,740
+montati a casaccio
+
+183
+00:10:22,740 --> 00:10:25,840
+non riesco più a ricostruire il filo completo
+
+184
+00:10:25,840 --> 00:10:28,080
+ma allora che roba è la nostra memoria
+
+185
+00:10:28,080 --> 00:10:30,200
+se è una cosa così importante
+
+186
+00:10:30,200 --> 00:10:31,480
+me la ricordo male
+
+187
+00:10:31,480 --> 00:10:33,660
+e nasce un problema
+
+188
+00:10:33,660 --> 00:10:35,280
+che per lo storico è fondamentale
+
+189
+00:10:35,280 --> 00:10:36,440
+perché noi
+
+190
+00:10:36,440 --> 00:10:40,160
+tante volte quando ricostruiamo gli avvenimenti
+
+191
+00:10:40,160 --> 00:10:41,920
+su cosa ci fondiamo
+
+192
+00:10:41,920 --> 00:10:43,940
+sui ricordi
+
+193
+00:10:43,940 --> 00:10:45,900
+che la gente ha scritto
+
+194
+00:10:45,900 --> 00:10:48,540
+e delle testimonianze
+
+195
+00:10:48,540 --> 00:10:49,500
+di chi c'era
+
+196
+00:10:49,500 --> 00:10:51,500
+ecco il professor Bloch scopre
+
+197
+00:10:51,500 --> 00:10:53,180
+che non ci si può fidare
+
+198
+00:10:53,180 --> 00:10:54,260
+delle testimonianze
+
+199
+00:10:54,260 --> 00:10:56,820
+non è soltanto perché uno ti dice
+
+200
+00:10:56,820 --> 00:10:57,620
+è successo questo
+
+201
+00:10:57,620 --> 00:10:58,440
+era così e così
+
+202
+00:10:58,440 --> 00:10:59,440
+certe volte
+
+203
+00:10:59,440 --> 00:11:01,360
+certe volte le testimonianze
+
+204
+00:11:01,360 --> 00:11:03,020
+sono molto precise nei particolari
+
+205
+00:11:03,020 --> 00:11:05,140
+c'era il sole
+
+206
+00:11:05,140 --> 00:11:08,020
+Bloch analizzando
+
+207
+00:11:08,020 --> 00:11:09,500
+discutendo con i soldati
+
+208
+00:11:09,500 --> 00:11:10,980
+vedendo cosa ricordano
+
+209
+00:11:10,980 --> 00:11:12,380
+si accorge di una cosa
+
+210
+00:11:12,380 --> 00:11:13,760
+che all'inizio gli sembra pazzesca
+
+211
+00:11:13,760 --> 00:11:15,520
+sono proprio i particolari
+
+212
+00:11:15,520 --> 00:11:16,540
+che sono inaffidabili
+
+213
+00:11:16,540 --> 00:11:18,300
+in dieci persone
+
+214
+00:11:18,300 --> 00:11:19,180
+giurano che quel giorno
+
+215
+00:11:19,180 --> 00:11:19,880
+c'era il sole
+
+216
+00:11:19,880 --> 00:11:21,520
+e invece lui sa che pioveva
+
+217
+00:11:21,520 --> 00:11:24,440
+e a Bloch viene da dire
+
+218
+00:11:24,440 --> 00:11:25,820
+non siamo solo noi storici
+
+219
+00:11:25,820 --> 00:11:26,940
+che abbiamo questo problema
+
+220
+00:11:26,940 --> 00:11:29,120
+c'è un'altra professione
+
+221
+00:11:29,120 --> 00:11:31,700
+che ha lo stesso problema nostro
+
+222
+00:11:31,700 --> 00:11:33,640
+e sono i magistrati
+
+223
+00:11:33,640 --> 00:11:37,140
+lo storico è come il giudice istruttore
+
+224
+00:11:37,140 --> 00:11:38,680
+che legge le carte
+
+225
+00:11:38,680 --> 00:11:40,220
+interroga i testimoni
+
+226
+00:11:40,220 --> 00:11:42,020
+e deve cercare di ricostruire
+
+227
+00:11:42,020 --> 00:11:42,620
+una verità
+
+228
+00:11:42,620 --> 00:11:43,500
+e guai a lui
+
+229
+00:11:43,500 --> 00:11:44,900
+se crede a tutti quelli
+
+230
+00:11:44,900 --> 00:11:45,700
+che gli parlano
+
+231
+00:11:45,700 --> 00:11:47,420
+nasce tutto il tema
+
+232
+00:11:47,420 --> 00:11:48,340
+della psicologia
+
+233
+00:11:48,340 --> 00:11:49,600
+della testimonianza
+
+234
+00:11:49,600 --> 00:11:51,340
+che nel lavoro dello storico
+
+235
+00:11:51,340 --> 00:11:52,700
+è fondamentale
+
+236
+00:11:52,700 --> 00:11:53,960
+e Bloch per tutta la vita
+
+237
+00:11:53,960 --> 00:11:54,960
+penserà noi siamo
+
+238
+00:11:54,960 --> 00:11:56,240
+come i giudici istruttori
+
+239
+00:11:56,240 --> 00:11:59,300
+vi racconto anche questa
+
+240
+00:11:59,300 --> 00:12:00,120
+tanto per capire
+
+241
+00:12:00,120 --> 00:12:01,060
+no per capire
+
+242
+00:12:01,060 --> 00:12:02,120
+per vedere come è facile
+
+243
+00:12:02,120 --> 00:12:03,640
+fra intendersi fra esseri umani
+
+244
+00:12:03,640 --> 00:12:06,400
+Bloch ha un amico carissimo
+
+245
+00:12:06,400 --> 00:12:08,520
+con cui litiga continuamente
+
+246
+00:12:08,520 --> 00:12:11,360
+che è un altro grande storico francese
+
+247
+00:12:11,360 --> 00:12:12,280
+Lucien Fevre
+
+248
+00:12:12,280 --> 00:12:14,340
+insieme fondano
+
+249
+00:12:14,340 --> 00:12:16,180
+la celeberrima rivista Annale
+
+250
+00:12:16,180 --> 00:12:17,260
+di cui parleremo
+
+251
+00:12:17,260 --> 00:12:18,500
+a un certo punto
+
+252
+00:12:18,500 --> 00:12:19,560
+Bloch dice a Fevre
+
+253
+00:12:19,560 --> 00:12:20,280
+questa cosa
+
+254
+00:12:20,280 --> 00:12:22,120
+che lui ha sempre pensato
+
+255
+00:12:22,120 --> 00:12:24,180
+noi siamo come giudici istruttori
+
+256
+00:12:24,180 --> 00:12:25,900
+Fevre
+
+257
+00:12:25,900 --> 00:12:28,400
+legge solo la prima parola
+
+258
+00:12:28,400 --> 00:12:28,980
+giudici
+
+259
+00:12:28,980 --> 00:12:30,120
+e si arrabbia
+
+260
+00:12:30,120 --> 00:12:31,520
+dice ma come?
+
+261
+00:12:32,120 --> 00:12:33,480
+ma noi storici abbiamo sempre detto
+
+262
+00:12:33,480 --> 00:12:35,580
+che noi non dobbiamo giudicare
+
+263
+00:12:35,580 --> 00:12:37,360
+non è il nostro compito
+
+264
+00:12:37,360 --> 00:12:38,340
+giudicare
+
+265
+00:12:38,340 --> 00:12:39,480
+noi dobbiamo descrivere
+
+266
+00:12:39,480 --> 00:12:40,440
+cosa è successo
+
+267
+00:12:40,440 --> 00:12:41,800
+gli manda una letteraccia
+
+268
+00:12:41,800 --> 00:12:43,320
+e Bloch risponde
+
+269
+00:12:43,320 --> 00:12:45,040
+ma non intendevo mica dire quello
+
+270
+00:12:45,040 --> 00:12:46,080
+leggi tutto
+
+271
+00:12:46,080 --> 00:12:47,960
+il giudice
+
+272
+00:12:47,960 --> 00:12:49,220
+istruttore
+
+273
+00:12:49,220 --> 00:12:50,460
+che conduce un'inchiesta
+
+274
+00:12:50,460 --> 00:12:50,900
+però Fevre
+
+275
+00:12:50,900 --> 00:12:51,820
+insomma litigano
+
+276
+00:12:51,820 --> 00:12:52,740
+tanto per cambiare
+
+277
+00:12:52,740 --> 00:12:54,560
+dopodiché Bloch
+
+278
+00:12:54,560 --> 00:12:56,700
+aveva perfettamente ragione
+
+279
+00:12:56,700 --> 00:12:57,300
+a me è capitato
+
+280
+00:12:57,300 --> 00:12:57,780
+di parlare
+
+281
+00:12:57,780 --> 00:12:58,780
+con giudici istruttori
+
+282
+00:12:58,780 --> 00:12:59,360
+che mi hanno detto
+
+283
+00:12:59,360 --> 00:13:00,180
+l'ho sempre pensato
+
+284
+00:13:00,180 --> 00:13:01,520
+noi facciamo lo stesso mestiere
+
+285
+00:13:01,520 --> 00:13:02,420
+in un certo senso
+
+286
+00:13:02,420 --> 00:13:06,400
+Bloch si accorge
+
+287
+00:13:06,400 --> 00:13:07,180
+facendo la guerra
+
+288
+00:13:07,180 --> 00:13:08,320
+anche di un'altra cosa
+
+289
+00:13:08,320 --> 00:13:09,820
+è strano
+
+290
+00:13:09,820 --> 00:13:10,640
+come la gente
+
+291
+00:13:10,640 --> 00:13:12,120
+in certe circostanze
+
+292
+00:13:12,120 --> 00:13:13,500
+specialmente nelle circostanze
+
+293
+00:13:13,500 --> 00:13:14,680
+estreme della guerra
+
+294
+00:13:14,680 --> 00:13:16,740
+si convince
+
+295
+00:13:16,740 --> 00:13:17,580
+di certe cose
+
+296
+00:13:17,580 --> 00:13:18,100
+che non stanno
+
+297
+00:13:18,100 --> 00:13:18,420
+né in cielo
+
+298
+00:13:18,420 --> 00:13:18,940
+né in terra
+
+299
+00:13:18,940 --> 00:13:20,800
+tra i soldati
+
+300
+00:13:20,800 --> 00:13:21,580
+dice Bloch
+
+301
+00:13:21,580 --> 00:13:23,760
+girano delle notizie
+
+302
+00:13:23,760 --> 00:13:24,560
+assurde
+
+303
+00:13:24,560 --> 00:13:26,720
+e tutti ci credono
+
+304
+00:13:26,720 --> 00:13:28,200
+questa cosa
+
+305
+00:13:28,200 --> 00:13:30,080
+comincia a interessargli
+
+306
+00:13:30,080 --> 00:13:30,700
+parecchio
+
+307
+00:13:30,700 --> 00:13:32,100
+alla fine della guerra
+
+308
+00:13:32,100 --> 00:13:33,300
+tornato nel suo studio
+
+309
+00:13:33,300 --> 00:13:34,260
+ci ragiona su
+
+310
+00:13:34,260 --> 00:13:35,640
+e scrive un famoso saggio
+
+311
+00:13:35,640 --> 00:13:36,720
+la guerra
+
+312
+00:13:36,720 --> 00:13:38,160
+e le false notizie
+
+313
+00:13:38,160 --> 00:13:40,080
+dove analizza proprio
+
+314
+00:13:40,080 --> 00:13:41,040
+com'è che succede
+
+315
+00:13:41,040 --> 00:13:41,860
+questa cosa
+
+316
+00:13:41,860 --> 00:13:42,960
+a un certo punto
+
+317
+00:13:42,960 --> 00:13:44,200
+tutti cominciano a ripetere
+
+318
+00:13:44,200 --> 00:13:45,120
+che è successa
+
+319
+00:13:45,120 --> 00:13:45,940
+una certa cosa
+
+320
+00:13:45,940 --> 00:13:46,980
+tu vai a vedere
+
+321
+00:13:46,980 --> 00:13:48,680
+non è vero niente
+
+322
+00:13:48,680 --> 00:13:50,980
+ma com'è che succede
+
+323
+00:13:50,980 --> 00:13:53,180
+lui racconta un episodio
+
+324
+00:13:53,180 --> 00:13:54,060
+che è successo a lui
+
+325
+00:13:54,060 --> 00:13:55,860
+a un certo punto
+
+326
+00:13:55,860 --> 00:13:57,780
+sono in un posto
+
+327
+00:13:57,780 --> 00:13:59,180
+vicino a una cittadina
+
+328
+00:13:59,180 --> 00:14:00,200
+che si chiama Bren
+
+329
+00:14:00,200 --> 00:14:03,360
+a un certo punto
+
+330
+00:14:03,360 --> 00:14:04,980
+catturano un prigioniero tedesco
+
+331
+00:14:04,980 --> 00:14:06,260
+lui lo interroga
+
+332
+00:14:06,260 --> 00:14:07,900
+perché lui sa il tedesco
+
+333
+00:14:07,900 --> 00:14:09,020
+ha studiato anche in Germania
+
+334
+00:14:09,020 --> 00:14:10,320
+e viene fuori
+
+335
+00:14:10,320 --> 00:14:11,680
+che questo soldato tedesco
+
+336
+00:14:11,680 --> 00:14:12,460
+è un riservista
+
+337
+00:14:12,460 --> 00:14:13,160
+anzianotto
+
+338
+00:14:13,160 --> 00:14:14,360
+che da civile
+
+339
+00:14:14,360 --> 00:14:16,020
+faceva il commerciante
+
+340
+00:14:16,020 --> 00:14:16,800
+a Brema
+
+341
+00:14:16,800 --> 00:14:19,220
+nota città della Germania
+
+342
+00:14:19,220 --> 00:14:20,420
+Brema
+
+343
+00:14:20,420 --> 00:14:21,280
+che in francese
+
+344
+00:14:21,280 --> 00:14:21,660
+si dice
+
+345
+00:14:21,660 --> 00:14:22,140
+Brem
+
+346
+00:14:22,140 --> 00:14:24,180
+lì accanto
+
+347
+00:14:24,180 --> 00:14:24,940
+c'è la cittadina
+
+348
+00:14:24,940 --> 00:14:25,500
+di Bren
+
+349
+00:14:25,500 --> 00:14:28,420
+dopo qualche settimana
+
+350
+00:14:28,420 --> 00:14:29,320
+Bloch
+
+351
+00:14:29,320 --> 00:14:30,680
+sente i suoi soldati
+
+352
+00:14:30,680 --> 00:14:31,360
+che dicono
+
+353
+00:14:31,360 --> 00:14:33,540
+questi tedeschi
+
+354
+00:14:33,540 --> 00:14:35,280
+sono gente incredibile
+
+355
+00:14:35,280 --> 00:14:37,380
+erano preparatissimi
+
+356
+00:14:37,380 --> 00:14:38,100
+alla guerra
+
+357
+00:14:38,100 --> 00:14:39,920
+avevano piazzato
+
+358
+00:14:39,920 --> 00:14:40,420
+spie
+
+359
+00:14:40,420 --> 00:14:41,580
+dappertutto
+
+360
+00:14:41,580 --> 00:14:43,260
+pensate
+
+361
+00:14:43,260 --> 00:14:44,700
+perfino qua
+
+362
+00:14:44,700 --> 00:14:45,880
+vicino a noi
+
+363
+00:14:45,880 --> 00:14:47,160
+a Bren
+
+364
+00:14:47,160 --> 00:14:48,640
+prima della guerra
+
+365
+00:14:48,640 --> 00:14:49,600
+c'era un tedesco
+
+366
+00:14:49,600 --> 00:14:50,560
+che stava lì
+
+367
+00:14:50,560 --> 00:14:51,100
+faceva fitte
+
+368
+00:14:51,100 --> 00:14:52,200
+di fare il commerciante
+
+369
+00:14:52,200 --> 00:14:53,360
+in realtà era una spia
+
+370
+00:14:53,360 --> 00:14:54,880
+e Bloch
+
+371
+00:14:54,880 --> 00:14:55,320
+indaga
+
+372
+00:14:55,320 --> 00:14:56,060
+semplicemente
+
+373
+00:14:56,060 --> 00:14:56,700
+questa cosa
+
+374
+00:14:56,700 --> 00:14:57,240
+del tedesco
+
+375
+00:14:57,240 --> 00:14:57,800
+di Brema
+
+376
+00:14:57,800 --> 00:14:59,440
+i soldati
+
+377
+00:14:59,440 --> 00:15:00,180
+hanno sentito
+
+378
+00:15:00,180 --> 00:15:00,940
+questa voce
+
+379
+00:15:00,940 --> 00:15:01,660
+hanno confuso
+
+380
+00:15:01,660 --> 00:15:02,200
+il nome
+
+381
+00:15:02,200 --> 00:15:03,380
+ma non hanno
+
+382
+00:15:03,380 --> 00:15:04,160
+solo confuso
+
+383
+00:15:04,160 --> 00:15:04,560
+il nome
+
+384
+00:15:04,560 --> 00:15:05,040
+Bloch dice
+
+385
+00:15:05,040 --> 00:15:05,980
+ma perché ci credono
+
+386
+00:15:05,980 --> 00:15:06,440
+tutti
+
+387
+00:15:06,440 --> 00:15:08,200
+e scopre
+
+388
+00:15:08,200 --> 00:15:09,760
+una cosa fondamentale
+
+389
+00:15:09,760 --> 00:15:11,200
+ci credono
+
+390
+00:15:11,200 --> 00:15:12,480
+perché corrisponde
+
+391
+00:15:12,480 --> 00:15:14,060
+a quello che si aspettavano
+
+392
+00:15:14,060 --> 00:15:16,040
+loro sono ossessionati
+
+393
+00:15:16,040 --> 00:15:16,700
+dalle spie
+
+394
+00:15:16,700 --> 00:15:18,000
+spie tedesche
+
+395
+00:15:18,000 --> 00:15:18,760
+dappertutto
+
+396
+00:15:18,760 --> 00:15:20,040
+i tedeschi
+
+397
+00:15:20,040 --> 00:15:20,920
+sono bravissimi
+
+398
+00:15:20,920 --> 00:15:22,000
+e pericolosissimi
+
+399
+00:15:22,000 --> 00:15:23,620
+quando una cosa
+
+400
+00:15:23,620 --> 00:15:24,240
+quadra
+
+401
+00:15:24,240 --> 00:15:25,620
+con i tuoi pregiudizi
+
+402
+00:15:25,620 --> 00:15:27,240
+ci credi
+
+403
+00:15:27,240 --> 00:15:28,900
+ora questo
+
+404
+00:15:28,900 --> 00:15:29,660
+vuole anche dire
+
+405
+00:15:29,660 --> 00:15:30,260
+notate
+
+406
+00:15:30,260 --> 00:15:31,840
+vuol dire
+
+407
+00:15:31,840 --> 00:15:32,900
+porsi delle domande
+
+408
+00:15:32,900 --> 00:15:33,600
+che gli storici
+
+409
+00:15:33,600 --> 00:15:34,660
+prima non si ponevano
+
+410
+00:15:34,660 --> 00:15:35,040
+vuol dire
+
+411
+00:15:35,040 --> 00:15:36,200
+qui non stiamo discutendo
+
+412
+00:15:36,200 --> 00:15:36,860
+sui fatti
+
+413
+00:15:36,860 --> 00:15:38,640
+Bloch sta ragionando
+
+414
+00:15:38,640 --> 00:15:40,240
+sulla psicologia collettiva
+
+415
+00:15:40,240 --> 00:15:42,100
+come pensa la gente
+
+416
+00:15:42,100 --> 00:15:44,100
+è un problema
+
+417
+00:15:44,100 --> 00:15:44,880
+storico
+
+418
+00:15:44,880 --> 00:15:46,300
+uno dei
+
+419
+00:15:46,300 --> 00:15:47,100
+grandi libri
+
+420
+00:15:47,100 --> 00:15:47,800
+di Mark Bloch
+
+421
+00:15:47,800 --> 00:15:48,620
+il primo che scrive
+
+422
+00:15:48,620 --> 00:15:49,360
+dopo la guerra
+
+423
+00:15:49,360 --> 00:15:50,800
+si intitola
+
+424
+00:15:50,800 --> 00:15:52,420
+i re taumaturghi
+
+425
+00:15:52,420 --> 00:15:54,040
+ed è la storia
+
+426
+00:15:54,040 --> 00:15:54,740
+di una credenza
+
+427
+00:15:54,740 --> 00:15:55,420
+collettiva
+
+428
+00:15:55,420 --> 00:15:56,480
+in passato
+
+429
+00:15:56,480 --> 00:15:57,020
+la gente
+
+430
+00:15:57,020 --> 00:15:57,800
+credeva
+
+431
+00:15:57,800 --> 00:15:59,180
+che i re di Francia
+
+432
+00:15:59,180 --> 00:16:00,740
+potessero curare
+
+433
+00:16:00,740 --> 00:16:01,880
+una certa malattia
+
+434
+00:16:01,880 --> 00:16:02,740
+la scrofola
+
+435
+00:16:02,740 --> 00:16:04,680
+toccando i malati
+
+436
+00:16:04,680 --> 00:16:06,380
+e regolarmente
+
+437
+00:16:06,380 --> 00:16:07,620
+ma fino all'ottocento
+
+438
+00:16:07,620 --> 00:16:08,860
+i re di Francia
+
+439
+00:16:08,860 --> 00:16:09,560
+inscenavano
+
+440
+00:16:09,560 --> 00:16:10,420
+queste cerimonie
+
+441
+00:16:10,420 --> 00:16:11,060
+in cui venivano
+
+442
+00:16:11,060 --> 00:16:11,740
+i malati
+
+443
+00:16:11,740 --> 00:16:12,600
+e il re
+
+444
+00:16:12,600 --> 00:16:13,500
+li toccava
+
+445
+00:16:13,500 --> 00:16:14,940
+e poi c'era sempre
+
+446
+00:16:14,940 --> 00:16:15,360
+qualcuno
+
+447
+00:16:15,360 --> 00:16:15,800
+che diceva
+
+448
+00:16:15,800 --> 00:16:16,760
+di essere guarito
+
+449
+00:16:16,760 --> 00:16:18,480
+prima di Bloch
+
+450
+00:16:18,480 --> 00:16:19,080
+gli storici
+
+451
+00:16:19,080 --> 00:16:19,480
+dicono
+
+452
+00:16:19,480 --> 00:16:19,740
+vabbè
+
+453
+00:16:19,740 --> 00:16:20,520
+è una superstizione
+
+454
+00:16:20,520 --> 00:16:21,020
+popolare
+
+455
+00:16:21,020 --> 00:16:21,760
+chi se ne frega
+
+456
+00:16:21,760 --> 00:16:23,340
+a noi non interessa
+
+457
+00:16:23,340 --> 00:16:25,500
+e invece a Bloch
+
+458
+00:16:25,500 --> 00:16:26,160
+interessa
+
+459
+00:16:26,160 --> 00:16:26,700
+e come
+
+460
+00:16:26,700 --> 00:16:28,040
+come funzionano
+
+461
+00:16:28,040 --> 00:16:28,780
+come pensa
+
+462
+00:16:28,780 --> 00:16:29,380
+la gente
+
+463
+00:16:29,380 --> 00:16:31,040
+come è la mentalità
+
+464
+00:16:31,040 --> 00:16:31,580
+ecco oggi
+
+465
+00:16:31,580 --> 00:16:32,100
+noi per noi
+
+466
+00:16:32,100 --> 00:16:32,740
+dire storia
+
+467
+00:16:32,740 --> 00:16:33,640
+della mentalità
+
+468
+00:16:33,640 --> 00:16:35,060
+sembra una cosa ovvia
+
+469
+00:16:35,060 --> 00:16:35,720
+la gente
+
+470
+00:16:35,720 --> 00:16:36,280
+in passato
+
+471
+00:16:36,280 --> 00:16:37,040
+non pensava
+
+472
+00:16:37,040 --> 00:16:37,580
+come noi
+
+473
+00:16:37,580 --> 00:16:38,760
+pensava in un altro modo
+
+474
+00:16:38,760 --> 00:16:40,340
+ma studiarlo
+
+475
+00:16:40,340 --> 00:16:43,060
+i primi a cui è venuto in mente
+
+476
+00:16:43,060 --> 00:16:43,780
+sono Bloch
+
+477
+00:16:43,780 --> 00:16:45,360
+e quelli della sua generazione
+
+478
+00:16:45,360 --> 00:16:48,060
+ultima
+
+479
+00:16:48,060 --> 00:16:48,680
+la faccio lunga
+
+480
+00:16:48,680 --> 00:16:49,620
+sì la faccio troppo lunga
+
+481
+00:16:49,620 --> 00:16:50,020
+pazienza
+
+482
+00:16:50,020 --> 00:16:50,920
+l'ultima cosa
+
+483
+00:16:50,920 --> 00:16:51,740
+che Bloch impara
+
+484
+00:16:51,740 --> 00:16:52,380
+dalla guerra
+
+485
+00:16:52,380 --> 00:16:53,920
+è il contatto
+
+486
+00:16:53,920 --> 00:16:55,920
+col popolo francese
+
+487
+00:16:55,920 --> 00:16:56,480
+voi capite
+
+488
+00:16:56,480 --> 00:16:57,700
+l'intellettuale parigino
+
+489
+00:16:57,700 --> 00:16:59,240
+privilegiato
+
+490
+00:16:59,240 --> 00:17:00,560
+in guerra
+
+491
+00:17:00,560 --> 00:17:01,680
+incontra i contadini
+
+492
+00:17:01,680 --> 00:17:02,440
+i minatori
+
+493
+00:17:02,440 --> 00:17:04,520
+incontra i contadini
+
+494
+00:17:04,520 --> 00:17:05,540
+fin dal primo momento
+
+495
+00:17:05,540 --> 00:17:06,720
+non solo fra i soldati
+
+496
+00:17:06,720 --> 00:17:07,760
+perché voi sapete
+
+497
+00:17:07,760 --> 00:17:08,280
+che all'inizio
+
+498
+00:17:08,280 --> 00:17:09,340
+della prima guerra mondiale
+
+499
+00:17:09,340 --> 00:17:10,780
+i francesi
+
+500
+00:17:10,780 --> 00:17:12,240
+stavano perdendo
+
+501
+00:17:12,240 --> 00:17:12,780
+i tedeschi
+
+502
+00:17:12,780 --> 00:17:13,460
+hanno invaso
+
+503
+00:17:13,460 --> 00:17:14,300
+la Francia
+
+504
+00:17:14,300 --> 00:17:15,980
+poi all'ultimo momento
+
+505
+00:17:15,980 --> 00:17:16,580
+i francesi
+
+506
+00:17:16,580 --> 00:17:17,120
+con la battaglia
+
+507
+00:17:17,120 --> 00:17:17,780
+della Marna
+
+508
+00:17:17,780 --> 00:17:18,760
+hanno salvato
+
+509
+00:17:18,760 --> 00:17:19,480
+la situazione
+
+510
+00:17:19,480 --> 00:17:20,180
+ma intanto
+
+511
+00:17:20,180 --> 00:17:20,660
+i tedeschi
+
+512
+00:17:20,660 --> 00:17:21,280
+erano dentro
+
+513
+00:17:21,280 --> 00:17:22,120
+la guerra
+
+514
+00:17:22,120 --> 00:17:22,760
+si è combattuta
+
+515
+00:17:22,760 --> 00:17:23,420
+tutta sul suolo
+
+516
+00:17:23,420 --> 00:17:24,660
+francese
+
+517
+00:17:24,660 --> 00:17:25,180
+e Bloch
+
+518
+00:17:25,180 --> 00:17:25,800
+ricorda
+
+519
+00:17:25,800 --> 00:17:26,580
+nei primi giorni
+
+520
+00:17:26,580 --> 00:17:27,140
+di guerra
+
+521
+00:17:27,140 --> 00:17:28,420
+questo effetto
+
+522
+00:17:28,420 --> 00:17:28,880
+di vedere
+
+523
+00:17:28,880 --> 00:17:29,940
+i profughi
+
+524
+00:17:29,940 --> 00:17:31,020
+dalle zone
+
+525
+00:17:31,020 --> 00:17:31,800
+invase
+
+526
+00:17:31,800 --> 00:17:33,200
+e lui dice
+
+527
+00:17:33,200 --> 00:17:35,000
+questi contadini
+
+528
+00:17:35,000 --> 00:17:35,760
+di Francia
+
+529
+00:17:35,760 --> 00:17:37,260
+in fuga
+
+530
+00:17:37,260 --> 00:17:37,800
+davanti
+
+531
+00:17:37,800 --> 00:17:38,680
+a un nemico
+
+532
+00:17:38,680 --> 00:17:39,560
+da cui
+
+533
+00:17:39,560 --> 00:17:40,500
+non potevamo
+
+534
+00:17:40,500 --> 00:17:41,720
+proteggerli
+
+535
+00:17:41,720 --> 00:17:42,960
+e qui c'è anche
+
+536
+00:17:42,960 --> 00:17:43,500
+tutto il senso
+
+537
+00:17:43,500 --> 00:17:44,000
+di colpa
+
+538
+00:17:44,000 --> 00:17:45,200
+del militare
+
+539
+00:17:45,200 --> 00:17:46,160
+che sta perdendo
+
+540
+00:17:46,160 --> 00:17:46,880
+la guerra
+
+541
+00:17:46,880 --> 00:17:48,040
+e che si sente
+
+542
+00:17:48,040 --> 00:17:48,820
+responsabile
+
+543
+00:17:48,820 --> 00:17:49,740
+verso una popolazione
+
+544
+00:17:49,740 --> 00:17:50,160
+civile
+
+545
+00:17:50,160 --> 00:17:50,840
+che non può
+
+546
+00:17:50,840 --> 00:17:51,540
+proteggere
+
+547
+00:17:51,540 --> 00:17:52,660
+da quel momento
+
+548
+00:17:52,660 --> 00:17:53,480
+Bloch comincia
+
+549
+00:17:53,480 --> 00:17:54,060
+a guardare
+
+550
+00:17:54,060 --> 00:17:55,140
+il popolo
+
+551
+00:17:55,140 --> 00:17:56,200
+i contadini
+
+552
+00:17:56,200 --> 00:17:57,240
+gli operai
+
+553
+00:17:57,240 --> 00:17:59,300
+suo figlio
+
+554
+00:17:59,300 --> 00:18:00,060
+sempre Etienne
+
+555
+00:18:00,060 --> 00:18:00,920
+che citerò spesso
+
+556
+00:18:00,920 --> 00:18:01,360
+perché da lui
+
+557
+00:18:01,360 --> 00:18:01,860
+abbiamo imparato
+
+558
+00:18:01,860 --> 00:18:02,700
+un sacco di cose
+
+559
+00:18:02,700 --> 00:18:03,720
+Etienne dice
+
+560
+00:18:03,720 --> 00:18:04,320
+mio padre
+
+561
+00:18:04,320 --> 00:18:06,300
+quando eravamo
+
+562
+00:18:06,300 --> 00:18:07,020
+in campagna
+
+563
+00:18:07,020 --> 00:18:08,160
+si chiudeva
+
+564
+00:18:08,160 --> 00:18:08,880
+nel suo studio
+
+565
+00:18:08,880 --> 00:18:09,920
+e non si poteva
+
+566
+00:18:09,920 --> 00:18:10,680
+disturbarlo
+
+567
+00:18:10,680 --> 00:18:12,260
+a meno che non ci fosse
+
+568
+00:18:12,260 --> 00:18:12,900
+un contadino
+
+569
+00:18:12,900 --> 00:18:13,500
+del posto
+
+570
+00:18:13,500 --> 00:18:14,240
+che voleva parlare
+
+571
+00:18:14,240 --> 00:18:14,700
+con lui
+
+572
+00:18:14,700 --> 00:18:16,200
+se c'era un contadino
+
+573
+00:18:16,200 --> 00:18:16,840
+che voleva parlare
+
+574
+00:18:16,840 --> 00:18:17,280
+con lui
+
+575
+00:18:17,280 --> 00:18:17,780
+mio padre
+
+576
+00:18:17,780 --> 00:18:18,560
+c'era sempre
+
+577
+00:18:18,560 --> 00:18:20,820
+era molto consapevole
+
+578
+00:18:20,820 --> 00:18:21,640
+dice Etienne
+
+579
+00:18:21,640 --> 00:18:22,820
+mio padre
+
+580
+00:18:22,820 --> 00:18:23,900
+era molto consapevole
+
+581
+00:18:23,900 --> 00:18:25,300
+di essere un privilegiato
+
+582
+00:18:25,300 --> 00:18:26,480
+e aveva
+
+583
+00:18:26,480 --> 00:18:27,400
+una grandissima
+
+584
+00:18:27,400 --> 00:18:28,220
+ammirazione
+
+585
+00:18:28,220 --> 00:18:28,840
+per quelli
+
+586
+00:18:28,840 --> 00:18:29,500
+che non avevano
+
+587
+00:18:29,500 --> 00:18:30,260
+studiato
+
+588
+00:18:30,260 --> 00:18:31,100
+e però
+
+589
+00:18:31,100 --> 00:18:32,640
+sapevano ragionare
+
+590
+00:18:32,640 --> 00:18:34,160
+e sapevano vedere il mondo
+
+591
+00:18:34,160 --> 00:18:35,900
+con la loro testa
+
+592
+00:18:35,900 --> 00:18:37,180
+ora questo vuol dire
+
+593
+00:18:37,180 --> 00:18:38,400
+scoprire anche qui
+
+594
+00:18:38,400 --> 00:18:40,060
+a guardare il mondo
+
+595
+00:18:40,060 --> 00:18:40,900
+con altri occhi
+
+596
+00:18:40,900 --> 00:18:41,720
+i contadini
+
+597
+00:18:41,720 --> 00:18:42,700
+chi sono
+
+598
+00:18:42,700 --> 00:18:43,940
+cosa pensano
+
+599
+00:18:43,940 --> 00:18:45,680
+e il loro lavoro
+
+600
+00:18:45,680 --> 00:18:47,080
+cos'è il loro lavoro
+
+601
+00:18:47,080 --> 00:18:48,900
+blocchia il primo storico
+
+602
+00:18:48,900 --> 00:18:49,400
+che va in giro
+
+603
+00:18:49,400 --> 00:18:50,240
+per la campagna
+
+604
+00:18:50,240 --> 00:18:51,960
+guarda i campi
+
+605
+00:18:51,960 --> 00:18:52,640
+e dice
+
+606
+00:18:52,640 --> 00:18:53,760
+guarda che strano
+
+607
+00:18:53,760 --> 00:18:54,520
+in Normandia
+
+608
+00:18:54,520 --> 00:18:55,840
+i campi sono piccoli
+
+609
+00:18:55,840 --> 00:18:56,860
+e tutti cintati
+
+610
+00:18:56,860 --> 00:18:57,560
+da siepi
+
+611
+00:18:57,560 --> 00:18:58,520
+e invece
+
+612
+00:18:58,520 --> 00:18:59,280
+in Piccardia
+
+613
+00:18:59,280 --> 00:19:00,460
+sono tutti aperti
+
+614
+00:19:00,460 --> 00:19:01,380
+a strisce lunghe
+
+615
+00:19:01,380 --> 00:19:01,980
+lunghe lunghe lunghe
+
+616
+00:19:01,980 --> 00:19:02,820
+perché
+
+617
+00:19:02,820 --> 00:19:04,240
+cosa vuol dire
+
+618
+00:19:04,240 --> 00:19:05,060
+come lavorano
+
+619
+00:19:05,060 --> 00:19:06,080
+questi contadini
+
+620
+00:19:06,080 --> 00:19:07,720
+e con che attrezzi
+
+621
+00:19:07,720 --> 00:19:08,400
+lavorano
+
+622
+00:19:08,400 --> 00:19:10,000
+com'è l'aratro
+
+623
+00:19:10,000 --> 00:19:11,280
+di un contadino medievale
+
+624
+00:19:11,280 --> 00:19:12,620
+e quando è che cambia
+
+625
+00:19:12,620 --> 00:19:13,760
+e cosa vuol dire
+
+626
+00:19:13,760 --> 00:19:15,240
+lavorare con quella roba lì
+
+627
+00:19:15,240 --> 00:19:16,720
+sono tutte domande
+
+628
+00:19:16,720 --> 00:19:17,440
+che oggi
+
+629
+00:19:17,440 --> 00:19:19,140
+oggi ci sembrano ovvie
+
+630
+00:19:19,140 --> 00:19:19,680
+perché oggi
+
+631
+00:19:19,680 --> 00:19:20,600
+noi passiamo la vita
+
+632
+00:19:20,600 --> 00:19:21,860
+a studiare anche queste cose
+
+633
+00:19:21,860 --> 00:19:22,500
+ma prima
+
+634
+00:19:22,500 --> 00:19:24,480
+sapete la vecchia cosa
+
+635
+00:19:24,480 --> 00:19:25,060
+che la storia
+
+636
+00:19:25,060 --> 00:19:25,980
+si occupa dei re
+
+637
+00:19:25,980 --> 00:19:26,900
+delle battaglie
+
+638
+00:19:26,900 --> 00:19:27,640
+ecco
+
+639
+00:19:27,640 --> 00:19:28,800
+prima non c'era
+
+640
+00:19:28,800 --> 00:19:30,080
+questo sguardo sul mondo
+
+641
+00:19:30,080 --> 00:19:32,320
+capite che stagione
+
+642
+00:19:32,320 --> 00:19:33,040
+sta vivendo
+
+643
+00:19:33,040 --> 00:19:34,080
+la storiografia
+
+644
+00:19:34,080 --> 00:19:35,660
+e Bloch
+
+645
+00:19:35,660 --> 00:19:37,400
+è un protagonista
+
+646
+00:19:37,400 --> 00:19:38,540
+di questo rinnovamento
+
+647
+00:19:38,540 --> 00:19:39,760
+appena finita la guerra
+
+648
+00:19:39,760 --> 00:19:41,400
+si apre un mondo nuovo
+
+649
+00:19:41,400 --> 00:19:42,160
+c'è la pace
+
+650
+00:19:42,160 --> 00:19:43,920
+gli danno la cattedra
+
+651
+00:19:43,920 --> 00:19:44,660
+all'università
+
+652
+00:19:44,660 --> 00:19:46,880
+una nuova università
+
+653
+00:19:46,880 --> 00:19:48,780
+a Strasburgo
+
+654
+00:19:48,780 --> 00:19:50,300
+nell'Alsazia
+
+655
+00:19:50,300 --> 00:19:51,320
+recuperata
+
+656
+00:19:51,320 --> 00:19:52,520
+dove la Francia
+
+657
+00:19:52,520 --> 00:19:53,220
+per prima cosa
+
+658
+00:19:53,220 --> 00:19:54,680
+chiude l'università tedesca
+
+659
+00:19:54,680 --> 00:19:56,320
+rispedisce in Germania
+
+660
+00:19:56,320 --> 00:19:57,660
+tutti i professori tedeschi
+
+661
+00:19:57,660 --> 00:19:59,100
+e apre una nuova
+
+662
+00:19:59,100 --> 00:20:00,640
+università francese
+
+663
+00:20:00,640 --> 00:20:01,840
+chiamando i giovani
+
+664
+00:20:01,840 --> 00:20:02,600
+più in gamba
+
+665
+00:20:02,600 --> 00:20:03,560
+fra cui
+
+666
+00:20:03,560 --> 00:20:04,560
+il professor Bloch
+
+667
+00:20:04,560 --> 00:20:06,840
+Bloch va a Strasburgo
+
+668
+00:20:06,840 --> 00:20:07,920
+la terra dei suoi avi
+
+669
+00:20:07,920 --> 00:20:09,440
+va anche a dare un'occhiata
+
+670
+00:20:09,440 --> 00:20:10,060
+al villaggio
+
+671
+00:20:10,060 --> 00:20:10,780
+da dove venivano
+
+672
+00:20:10,780 --> 00:20:11,900
+i suoi antenati ebrei
+
+673
+00:20:11,900 --> 00:20:12,800
+forse è la prima volta
+
+674
+00:20:12,800 --> 00:20:13,540
+che gli viene in mente
+
+675
+00:20:13,540 --> 00:20:14,420
+questa cosa
+
+676
+00:20:14,420 --> 00:20:15,440
+degli antenati ebrei
+
+677
+00:20:15,440 --> 00:20:17,000
+una curiosità interessante
+
+678
+00:20:17,000 --> 00:20:19,960
+Bloch lavora a Strasburgo
+
+679
+00:20:19,960 --> 00:20:20,880
+quasi tutta la vita
+
+680
+00:20:20,880 --> 00:20:22,920
+dei vent'anni
+
+681
+00:20:22,920 --> 00:20:23,900
+fra il 19
+
+682
+00:20:23,900 --> 00:20:24,520
+e il 39
+
+683
+00:20:24,520 --> 00:20:26,140
+fra una guerra e l'altra
+
+684
+00:20:26,140 --> 00:20:27,420
+ne passa 17
+
+685
+00:20:27,420 --> 00:20:28,140
+a Strasburgo
+
+686
+00:20:28,140 --> 00:20:28,760
+solo alla fine
+
+687
+00:20:28,760 --> 00:20:29,640
+lo chiamano a Parigi
+
+688
+00:20:29,640 --> 00:20:31,520
+e a Strasburgo
+
+689
+00:20:31,520 --> 00:20:33,060
+nel 1929
+
+690
+00:20:33,060 --> 00:20:34,380
+Marc Bloch
+
+691
+00:20:34,380 --> 00:20:35,440
+e Lucien Fevre
+
+692
+00:20:35,440 --> 00:20:36,780
+pubblicano
+
+693
+00:20:36,780 --> 00:20:37,840
+la rivista
+
+694
+00:20:37,840 --> 00:20:39,040
+il primo numero
+
+695
+00:20:39,040 --> 00:20:40,200
+della rivista
+
+696
+00:20:40,200 --> 00:20:40,980
+che è diventata
+
+697
+00:20:40,980 --> 00:20:41,800
+leggendaria
+
+698
+00:20:41,800 --> 00:20:42,780
+nel nostro mestiere
+
+699
+00:20:42,780 --> 00:20:43,760
+le Annale
+
+700
+00:20:43,760 --> 00:20:45,460
+Annale d'histoire
+
+701
+00:20:45,460 --> 00:20:46,140
+économique
+
+702
+00:20:46,140 --> 00:20:46,980
+e sociale
+
+703
+00:20:46,980 --> 00:20:47,740
+la chiamano
+
+704
+00:20:47,740 --> 00:20:49,640
+quello che vogliono fare
+
+705
+00:20:49,640 --> 00:20:50,480
+è una rivista
+
+706
+00:20:50,480 --> 00:20:52,040
+che esprima
+
+707
+00:20:52,040 --> 00:20:52,720
+tutto quello
+
+708
+00:20:52,720 --> 00:20:53,720
+che c'è di nuovo
+
+709
+00:20:53,720 --> 00:20:54,860
+nella storiografia
+
+710
+00:20:54,860 --> 00:20:56,180
+e che fino a quel momento
+
+711
+00:20:56,180 --> 00:20:56,620
+nessuno
+
+712
+00:20:56,620 --> 00:20:57,800
+a cui nessuno
+
+713
+00:20:57,800 --> 00:20:58,620
+dava importanza
+
+714
+00:20:58,620 --> 00:21:00,000
+la storia economica
+
+715
+00:21:00,000 --> 00:21:01,560
+che vuol dire
+
+716
+00:21:01,560 --> 00:21:02,260
+prezzi
+
+717
+00:21:02,260 --> 00:21:03,020
+moneta
+
+718
+00:21:03,020 --> 00:21:04,060
+lavoro
+
+719
+00:21:04,060 --> 00:21:07,420
+oggi si parla
+
+720
+00:21:07,420 --> 00:21:08,320
+di scuola delle Annale
+
+721
+00:21:08,320 --> 00:21:08,940
+è diventato un modo
+
+722
+00:21:08,940 --> 00:21:09,280
+di dire
+
+723
+00:21:09,280 --> 00:21:10,340
+una cosa quasi mitica
+
+724
+00:21:10,340 --> 00:21:11,280
+come se fosse stato
+
+725
+00:21:11,280 --> 00:21:11,860
+un gruppo
+
+726
+00:21:11,860 --> 00:21:12,960
+in realtà non è un gruppo
+
+727
+00:21:12,960 --> 00:21:13,760
+è una rivista
+
+728
+00:21:13,760 --> 00:21:14,660
+che pubblica di tutto
+
+729
+00:21:14,660 --> 00:21:15,640
+che chiede a tutti
+
+730
+00:21:15,640 --> 00:21:16,720
+dei contributi
+
+731
+00:21:16,720 --> 00:21:17,760
+purché ci sia
+
+732
+00:21:17,760 --> 00:21:19,320
+una visione nuova
+
+733
+00:21:19,320 --> 00:21:20,920
+del mestiere di storico
+
+734
+00:21:20,920 --> 00:21:22,740
+lo storico deve essere
+
+735
+00:21:22,740 --> 00:21:24,420
+deve essere economista
+
+736
+00:21:24,420 --> 00:21:25,160
+anche appunto
+
+737
+00:21:25,160 --> 00:21:26,340
+perché deve sapere
+
+738
+00:21:26,340 --> 00:21:26,960
+di prezzi
+
+739
+00:21:26,960 --> 00:21:27,540
+di salari
+
+740
+00:21:27,540 --> 00:21:28,200
+di moneta
+
+741
+00:21:28,200 --> 00:21:30,860
+deve essere sociologo
+
+742
+00:21:30,860 --> 00:21:31,740
+perché deve sapere
+
+743
+00:21:31,740 --> 00:21:32,660
+come si comportano
+
+744
+00:21:32,660 --> 00:21:34,060
+i diversi gruppi sociali
+
+745
+00:21:34,060 --> 00:21:35,240
+deve saper distinguere
+
+746
+00:21:35,240 --> 00:21:35,960
+un imprenditore
+
+747
+00:21:35,960 --> 00:21:36,860
+da un operaio
+
+748
+00:21:36,860 --> 00:21:39,080
+deve essere antropologo
+
+749
+00:21:39,080 --> 00:21:39,700
+lo storico
+
+750
+00:21:39,700 --> 00:21:40,720
+perché deve conoscere
+
+751
+00:21:40,720 --> 00:21:42,000
+le credenze
+
+752
+00:21:42,000 --> 00:21:42,540
+appunto
+
+753
+00:21:42,540 --> 00:21:43,720
+le false credenze
+
+754
+00:21:43,720 --> 00:21:44,440
+i riti
+
+755
+00:21:44,440 --> 00:21:45,520
+i miti
+
+756
+00:21:45,520 --> 00:21:46,740
+basta con le discipline
+
+757
+00:21:46,740 --> 00:21:47,480
+separate
+
+758
+00:21:47,480 --> 00:21:49,140
+bisogna cucirle
+
+759
+00:21:49,140 --> 00:21:51,340
+bisogna far cadere
+
+760
+00:21:51,340 --> 00:21:51,900
+le barriere
+
+761
+00:21:51,900 --> 00:21:52,640
+il medioevo
+
+762
+00:21:52,640 --> 00:21:53,860
+che roba è questo medioevo
+
+763
+00:21:53,860 --> 00:21:55,160
+noi ci siamo arrivati
+
+764
+00:21:55,160 --> 00:21:55,960
+ancora neanche adesso
+
+765
+00:21:55,960 --> 00:21:56,620
+all'università
+
+766
+00:21:56,620 --> 00:21:58,340
+a far cadere questa cosa
+
+767
+00:21:58,340 --> 00:21:59,380
+c'è il medioevo
+
+768
+00:21:59,380 --> 00:22:00,140
+l'età moderna
+
+769
+00:22:00,140 --> 00:22:01,340
+l'età contemporanea
+
+770
+00:22:01,340 --> 00:22:02,320
+ma i bloc
+
+771
+00:22:02,320 --> 00:22:03,200
+e i fevr
+
+772
+00:22:03,200 --> 00:22:03,780
+sanno
+
+773
+00:22:03,780 --> 00:22:05,320
+quanto c'è di falso
+
+774
+00:22:05,320 --> 00:22:06,240
+in queste barriere
+
+775
+00:22:06,240 --> 00:22:07,760
+e allora
+
+776
+00:22:07,760 --> 00:22:09,700
+mi fermo ancora
+
+777
+00:22:09,700 --> 00:22:10,340
+un attimo
+
+778
+00:22:10,340 --> 00:22:11,400
+solo un attimo
+
+779
+00:22:11,400 --> 00:22:13,580
+su questo rinnovamento
+
+780
+00:22:13,580 --> 00:22:14,800
+della storiografia
+
+781
+00:22:14,800 --> 00:22:15,920
+che vi sto raccontando
+
+782
+00:22:15,920 --> 00:22:16,860
+troppo in fretta
+
+783
+00:22:16,860 --> 00:22:18,800
+ma vado come dire
+
+784
+00:22:18,800 --> 00:22:19,620
+a campionatura
+
+785
+00:22:19,620 --> 00:22:21,060
+cosa vuol dire
+
+786
+00:22:21,060 --> 00:22:21,760
+quando vi dico
+
+787
+00:22:21,760 --> 00:22:22,700
+che bloc è uno
+
+788
+00:22:22,700 --> 00:22:23,600
+che si pone
+
+789
+00:22:23,600 --> 00:22:24,820
+delle domande nuove
+
+790
+00:22:24,820 --> 00:22:26,140
+che nessuno storico
+
+791
+00:22:26,140 --> 00:22:27,440
+prima si era posto
+
+792
+00:22:27,440 --> 00:22:28,260
+vi leggo
+
+793
+00:22:28,260 --> 00:22:30,160
+da una lettera
+
+794
+00:22:30,160 --> 00:22:30,960
+di mark bloc
+
+795
+00:22:30,960 --> 00:22:31,960
+al suo complice
+
+796
+00:22:31,960 --> 00:22:32,840
+lucien fevre
+
+797
+00:22:32,840 --> 00:22:34,940
+1935
+
+798
+00:22:34,940 --> 00:22:37,520
+mi sto occupando
+
+799
+00:22:37,520 --> 00:22:38,680
+di alimentazione
+
+800
+00:22:38,680 --> 00:22:40,340
+ho solo paura
+
+801
+00:22:40,340 --> 00:22:41,100
+che l'argomento
+
+802
+00:22:41,100 --> 00:22:42,260
+mi appassioni troppo
+
+803
+00:22:42,260 --> 00:22:44,180
+perché è appassionante
+
+804
+00:22:44,180 --> 00:22:46,020
+avete mai pensato
+
+805
+00:22:46,020 --> 00:22:46,560
+al problema
+
+806
+00:22:46,560 --> 00:22:47,580
+delle marmellate
+
+807
+00:22:47,580 --> 00:22:50,100
+avete dei dati
+
+808
+00:22:50,100 --> 00:22:51,540
+non penso
+
+809
+00:22:51,540 --> 00:22:52,300
+alle confetture
+
+810
+00:22:52,300 --> 00:22:52,960
+di lusso
+
+811
+00:22:52,960 --> 00:22:54,800
+penso alle marmellate
+
+812
+00:22:54,800 --> 00:22:55,700
+che sono
+
+813
+00:22:55,700 --> 00:22:57,000
+un rito borghese
+
+814
+00:22:57,000 --> 00:22:58,700
+è una parte importante
+
+815
+00:22:58,700 --> 00:22:59,480
+dell'alimentazione
+
+816
+00:22:59,480 --> 00:23:00,080
+invernale
+
+817
+00:23:00,080 --> 00:23:00,500
+tutti fanno
+
+818
+00:23:00,500 --> 00:23:01,120
+le marmellate
+
+819
+00:23:01,120 --> 00:23:01,640
+in casa
+
+820
+00:23:01,640 --> 00:23:02,360
+a quell'epoca
+
+821
+00:23:02,360 --> 00:23:04,500
+ma marmellata
+
+822
+00:23:04,500 --> 00:23:05,620
+vuol dire
+
+823
+00:23:05,620 --> 00:23:06,460
+zucchero
+
+824
+00:23:06,460 --> 00:23:07,900
+qui mi fermo
+
+825
+00:23:07,900 --> 00:23:08,320
+un attimo
+
+826
+00:23:08,320 --> 00:23:09,180
+per farvi capire
+
+827
+00:23:09,180 --> 00:23:10,200
+qual è il ragionamento
+
+828
+00:23:10,200 --> 00:23:10,800
+di bloc
+
+829
+00:23:10,800 --> 00:23:12,220
+lo zucchero
+
+830
+00:23:12,220 --> 00:23:13,380
+da quando è
+
+831
+00:23:13,380 --> 00:23:14,200
+che non costa niente
+
+832
+00:23:14,200 --> 00:23:14,760
+lo zucchero
+
+833
+00:23:14,760 --> 00:23:17,040
+dall'ottocento
+
+834
+00:23:17,040 --> 00:23:17,860
+quando hanno scoperto
+
+835
+00:23:17,860 --> 00:23:18,660
+le barbabietole
+
+836
+00:23:18,660 --> 00:23:20,500
+prima lo zucchero
+
+837
+00:23:20,500 --> 00:23:21,480
+si importava
+
+838
+00:23:21,480 --> 00:23:22,360
+dalle indie
+
+839
+00:23:22,360 --> 00:23:23,020
+c'era solo
+
+840
+00:23:23,020 --> 00:23:23,560
+lo zucchero
+
+841
+00:23:23,560 --> 00:23:24,260
+di canna
+
+842
+00:23:24,260 --> 00:23:26,480
+ed era costosissimo
+
+843
+00:23:26,480 --> 00:23:28,100
+dunque bloc
+
+844
+00:23:28,100 --> 00:23:28,400
+dice
+
+845
+00:23:28,400 --> 00:23:28,860
+le nonne
+
+846
+00:23:28,860 --> 00:23:29,920
+fanno la marmellata
+
+847
+00:23:29,920 --> 00:23:30,320
+certo
+
+848
+00:23:30,320 --> 00:23:31,340
+ma da quando
+
+849
+00:23:31,340 --> 00:23:33,240
+le marmellate
+
+850
+00:23:33,240 --> 00:23:33,840
+della nonna
+
+851
+00:23:33,840 --> 00:23:34,200
+sì
+
+852
+00:23:34,200 --> 00:23:35,980
+ma della trisavola
+
+853
+00:23:35,980 --> 00:23:36,280
+no
+
+854
+00:23:36,280 --> 00:23:37,340
+perché al tempo
+
+855
+00:23:37,340 --> 00:23:37,940
+della trisavola
+
+856
+00:23:37,940 --> 00:23:38,940
+non c'era lo zucchero
+
+857
+00:23:38,940 --> 00:23:39,240
+in casa
+
+858
+00:23:39,240 --> 00:23:39,880
+della gente
+
+859
+00:23:39,880 --> 00:23:42,300
+a voi
+
+860
+00:23:42,300 --> 00:23:42,780
+potrà venire
+
+861
+00:23:42,780 --> 00:23:43,080
+da dire
+
+862
+00:23:43,080 --> 00:23:43,920
+che esagerava
+
+863
+00:23:43,920 --> 00:23:44,480
+ma bloc
+
+864
+00:23:44,480 --> 00:23:44,960
+conclude
+
+865
+00:23:44,960 --> 00:23:45,760
+questa lettera
+
+866
+00:23:45,760 --> 00:23:46,260
+dicendo
+
+867
+00:23:46,260 --> 00:23:47,220
+ecco
+
+868
+00:23:47,220 --> 00:23:47,900
+una grande
+
+869
+00:23:47,900 --> 00:23:48,880
+rivelazione
+
+870
+00:23:48,880 --> 00:23:50,500
+del tutto
+
+871
+00:23:50,500 --> 00:23:51,620
+dimenticata
+
+872
+00:23:51,620 --> 00:23:52,360
+dalle nostre
+
+873
+00:23:52,360 --> 00:23:52,920
+povere
+
+874
+00:23:52,920 --> 00:23:53,500
+storie
+
+875
+00:23:53,500 --> 00:23:54,280
+di Francia
+
+876
+00:23:54,280 --> 00:23:55,380
+le quali
+
+877
+00:23:55,380 --> 00:23:55,940
+si affannano
+
+878
+00:23:55,940 --> 00:23:56,220
+a dire
+
+879
+00:23:56,220 --> 00:23:56,860
+quando è morto
+
+880
+00:23:56,860 --> 00:23:57,640
+Luigi XVI
+
+881
+00:23:57,640 --> 00:23:58,740
+e quando è stato
+
+882
+00:23:58,740 --> 00:23:59,140
+abolito
+
+883
+00:23:59,140 --> 00:23:59,480
+l'editto
+
+884
+00:23:59,480 --> 00:23:59,960
+di Nantes
+
+885
+00:23:59,960 --> 00:24:00,720
+ma quando
+
+886
+00:24:00,720 --> 00:24:01,320
+i francesi
+
+887
+00:24:01,320 --> 00:24:01,800
+hanno cominciato
+
+888
+00:24:01,800 --> 00:24:02,140
+a farsi
+
+889
+00:24:02,140 --> 00:24:02,720
+la marmellata
+
+890
+00:24:02,720 --> 00:24:03,060
+in casa
+
+891
+00:24:03,060 --> 00:24:03,760
+non lo dicono
+
+892
+00:24:03,760 --> 00:24:05,120
+e invece
+
+893
+00:24:05,120 --> 00:24:05,820
+è importante
+
+894
+00:24:05,820 --> 00:24:06,500
+anche quello
+
+895
+00:24:06,500 --> 00:24:08,600
+ancora un esempio
+
+896
+00:24:08,600 --> 00:24:10,180
+Etienne
+
+897
+00:24:10,180 --> 00:24:10,820
+ci dice
+
+898
+00:24:10,820 --> 00:24:11,320
+papà
+
+899
+00:24:11,320 --> 00:24:11,860
+adorava
+
+900
+00:24:11,860 --> 00:24:12,440
+il cinema
+
+901
+00:24:12,440 --> 00:24:14,080
+e non
+
+902
+00:24:14,080 --> 00:24:15,360
+se ne
+
+903
+00:24:15,360 --> 00:24:16,420
+vergognava
+
+904
+00:24:16,420 --> 00:24:17,720
+notate
+
+905
+00:24:17,720 --> 00:24:18,340
+come cambiano
+
+906
+00:24:18,340 --> 00:24:19,440
+i tempi
+
+907
+00:24:19,440 --> 00:24:19,920
+quando ero
+
+908
+00:24:19,920 --> 00:24:20,440
+bambino io
+
+909
+00:24:20,440 --> 00:24:21,140
+gli intellettuali
+
+910
+00:24:21,140 --> 00:24:21,620
+snobbavano
+
+911
+00:24:21,620 --> 00:24:23,000
+la televisione
+
+912
+00:24:23,000 --> 00:24:24,000
+adesso la televisione
+
+913
+00:24:24,000 --> 00:24:24,360
+ovviamente
+
+914
+00:24:24,360 --> 00:24:25,120
+viene studiata
+
+915
+00:24:25,120 --> 00:24:26,120
+ai tempi
+
+916
+00:24:26,120 --> 00:24:26,580
+di bloc
+
+917
+00:24:26,580 --> 00:24:26,980
+negli anni
+
+918
+00:24:26,980 --> 00:24:27,900
+20 e 30
+
+919
+00:24:27,900 --> 00:24:28,720
+gli intellettuali
+
+920
+00:24:28,720 --> 00:24:29,160
+snobbavano
+
+921
+00:24:29,160 --> 00:24:29,640
+il cinema
+
+922
+00:24:29,640 --> 00:24:31,420
+ma il figlio
+
+923
+00:24:31,420 --> 00:24:32,100
+dice mio papà
+
+924
+00:24:32,100 --> 00:24:33,120
+adorava il cinema
+
+925
+00:24:33,120 --> 00:24:34,240
+e non lo nascondeva
+
+926
+00:24:34,240 --> 00:24:35,300
+non se ne vergognava
+
+927
+00:24:35,300 --> 00:24:36,640
+ma faceva
+
+928
+00:24:36,640 --> 00:24:37,420
+anche di peggio
+
+929
+00:24:37,420 --> 00:24:38,720
+lettera di
+
+930
+00:24:38,720 --> 00:24:39,440
+Marc Bloch
+
+931
+00:24:39,440 --> 00:24:40,400
+a Lucien Fevre
+
+932
+00:24:40,400 --> 00:24:42,100
+sogno
+
+933
+00:24:42,100 --> 00:24:43,340
+di chiedere
+
+934
+00:24:43,340 --> 00:24:43,940
+un articolo
+
+935
+00:24:43,940 --> 00:24:44,600
+sul cinema
+
+936
+00:24:44,600 --> 00:24:45,940
+per le annal
+
+937
+00:24:45,940 --> 00:24:46,300
+capite
+
+938
+00:24:46,300 --> 00:24:46,820
+per una rivista
+
+939
+00:24:46,820 --> 00:24:47,480
+di storia
+
+940
+00:24:47,480 --> 00:24:48,980
+non rida
+
+941
+00:24:48,980 --> 00:24:50,840
+si sono dati
+
+942
+00:24:50,840 --> 00:24:51,200
+del lei
+
+943
+00:24:51,200 --> 00:24:52,060
+per tutta la vita
+
+944
+00:24:52,060 --> 00:24:52,920
+questi due
+
+945
+00:24:52,920 --> 00:24:53,760
+collaboratori
+
+946
+00:24:53,760 --> 00:24:54,200
+amici
+
+947
+00:24:54,200 --> 00:24:54,800
+intimi
+
+948
+00:24:54,800 --> 00:24:56,180
+non rida
+
+949
+00:24:56,180 --> 00:24:57,580
+quel che penso
+
+950
+00:24:57,580 --> 00:24:58,480
+è che il cinema
+
+951
+00:24:58,480 --> 00:24:59,960
+è uno dei fenomeni
+
+952
+00:24:59,960 --> 00:25:00,820
+più curiosi
+
+953
+00:25:00,820 --> 00:25:01,740
+del nostro tempo
+
+954
+00:25:01,740 --> 00:25:02,920
+la nascita
+
+955
+00:25:02,920 --> 00:25:03,780
+dell'industria
+
+956
+00:25:03,780 --> 00:25:05,080
+il passaggio
+
+957
+00:25:05,080 --> 00:25:05,860
+da una scoperta
+
+958
+00:25:05,860 --> 00:25:06,780
+scientifica
+
+959
+00:25:06,780 --> 00:25:07,940
+a uno spettacolo
+
+960
+00:25:07,940 --> 00:25:09,460
+industrializzato
+
+961
+00:25:09,460 --> 00:25:10,860
+poi dice
+
+962
+00:25:10,860 --> 00:25:12,200
+pensate questa rivoluzione
+
+963
+00:25:12,200 --> 00:25:12,880
+per cui la gente
+
+964
+00:25:12,880 --> 00:25:13,560
+va al cinema
+
+965
+00:25:13,560 --> 00:25:14,160
+tutti
+
+966
+00:25:14,160 --> 00:25:15,080
+negli anni 30
+
+967
+00:25:15,080 --> 00:25:15,840
+tutti andavano al cinema
+
+968
+00:25:15,840 --> 00:25:16,560
+continuamente
+
+969
+00:25:16,560 --> 00:25:17,500
+tutta gente
+
+970
+00:25:17,500 --> 00:25:17,900
+che prima
+
+971
+00:25:17,900 --> 00:25:18,620
+non andava mica
+
+972
+00:25:18,620 --> 00:25:19,180
+a teatro
+
+973
+00:25:19,180 --> 00:25:19,940
+e adesso
+
+974
+00:25:19,940 --> 00:25:20,960
+vanno al cinema
+
+975
+00:25:20,960 --> 00:25:22,320
+è una rivoluzione
+
+976
+00:25:22,320 --> 00:25:22,960
+anche quella
+
+977
+00:25:22,960 --> 00:25:23,980
+poi nascono
+
+978
+00:25:23,980 --> 00:25:24,860
+nuovi mestieri
+
+979
+00:25:24,860 --> 00:25:25,960
+e i soldi
+
+980
+00:25:25,960 --> 00:25:26,820
+chi li mette
+
+981
+00:25:26,820 --> 00:25:29,840
+selvaggina
+
+982
+00:25:29,840 --> 00:25:30,720
+per noi
+
+983
+00:25:30,720 --> 00:25:31,820
+dice Bloch
+
+984
+00:25:31,820 --> 00:25:32,720
+veramente
+
+985
+00:25:32,720 --> 00:25:33,520
+ecco
+
+986
+00:25:33,520 --> 00:25:34,020
+non gli è ancora
+
+987
+00:25:34,020 --> 00:25:34,640
+venuto in mente
+
+988
+00:25:34,640 --> 00:25:35,560
+l'orco delle fiabe
+
+989
+00:25:35,560 --> 00:25:36,900
+ma ragiona
+
+990
+00:25:36,900 --> 00:25:38,080
+già da cacciatore
+
+991
+00:25:38,080 --> 00:25:39,100
+che va in giro
+
+992
+00:25:39,100 --> 00:25:40,000
+a guardare
+
+993
+00:25:40,000 --> 00:25:41,520
+cosa c'è da acchiappare
+
+994
+00:25:41,520 --> 00:25:42,860
+a noi interessa
+
+995
+00:25:42,860 --> 00:25:43,480
+tutto
+
+996
+00:25:43,480 --> 00:25:48,660
+adesso io vorrei
+
+997
+00:25:48,660 --> 00:25:49,740
+fermarmi brevemente
+
+998
+00:25:49,740 --> 00:25:50,640
+ad accennarvi
+
+999
+00:25:50,640 --> 00:25:51,620
+alcuni aspetti
+
+1000
+00:25:51,620 --> 00:25:52,160
+della vita
+
+1001
+00:25:52,160 --> 00:25:53,020
+di Mark Bloch
+
+1002
+00:25:53,020 --> 00:25:53,760
+durante quei
+
+1003
+00:25:53,760 --> 00:25:54,460
+vent'anni
+
+1004
+00:25:54,460 --> 00:25:55,800
+in cui ha fatto
+
+1005
+00:25:55,800 --> 00:25:57,080
+il suo mestiere
+
+1006
+00:25:57,080 --> 00:25:58,000
+perché Mark Bloch
+
+1007
+00:25:58,000 --> 00:25:58,860
+ha fatto il professore
+
+1008
+00:25:58,860 --> 00:25:59,760
+universitario
+
+1009
+00:25:59,760 --> 00:26:00,660
+e lo studioso
+
+1010
+00:26:00,660 --> 00:26:01,380
+a tempo pieno
+
+1011
+00:26:01,380 --> 00:26:02,140
+per vent'anni
+
+1012
+00:26:02,140 --> 00:26:04,120
+19-39
+
+1013
+00:26:04,120 --> 00:26:06,120
+due guerre mondiali
+
+1014
+00:26:06,120 --> 00:26:06,940
+sono pochi
+
+1015
+00:26:06,940 --> 00:26:09,340
+io sono più di 30 anni
+
+1016
+00:26:09,340 --> 00:26:10,300
+che faccio questo mestiere
+
+1017
+00:26:10,300 --> 00:26:10,860
+già adesso
+
+1018
+00:26:10,860 --> 00:26:12,380
+sono incredibilmente
+
+1019
+00:26:12,380 --> 00:26:13,380
+pochi quei vent'anni
+
+1020
+00:26:13,380 --> 00:26:16,280
+vi voglio raccontare
+
+1021
+00:26:16,280 --> 00:26:16,680
+qualcosa
+
+1022
+00:26:16,680 --> 00:26:17,560
+del modo di vita
+
+1023
+00:26:17,560 --> 00:26:18,320
+di Mark Bloch
+
+1024
+00:26:18,320 --> 00:26:18,940
+in quell'epoca
+
+1025
+00:26:18,940 --> 00:26:19,920
+perché anche questa
+
+1026
+00:26:19,920 --> 00:26:20,980
+è ormai
+
+1027
+00:26:20,980 --> 00:26:21,660
+storia
+
+1028
+00:26:21,660 --> 00:26:23,060
+quel genere di vita
+
+1029
+00:26:23,060 --> 00:26:24,040
+di un agiato
+
+1030
+00:26:24,040 --> 00:26:25,760
+professore universitario
+
+1031
+00:26:25,760 --> 00:26:26,440
+degli anni
+
+1032
+00:26:26,440 --> 00:26:27,500
+venti e trenta
+
+1033
+00:26:27,500 --> 00:26:28,920
+oggi non esiste più
+
+1034
+00:26:28,920 --> 00:26:29,560
+ed è
+
+1035
+00:26:29,560 --> 00:26:30,420
+selvaggina
+
+1036
+00:26:30,420 --> 00:26:30,860
+per noi
+
+1037
+00:26:30,860 --> 00:26:31,540
+per l'appunto
+
+1038
+00:26:31,540 --> 00:26:33,040
+allora
+
+1039
+00:26:33,040 --> 00:26:33,800
+Bloch naturalmente
+
+1040
+00:26:33,800 --> 00:26:34,480
+nel 19
+
+1041
+00:26:34,480 --> 00:26:35,280
+oltre a avere
+
+1042
+00:26:35,280 --> 00:26:35,960
+la cattedra
+
+1043
+00:26:35,960 --> 00:26:36,820
+si è sposato
+
+1044
+00:26:36,820 --> 00:26:39,080
+ha sposato
+
+1045
+00:26:39,080 --> 00:26:40,580
+una bella ragazza
+
+1046
+00:26:40,580 --> 00:26:41,140
+anche lei
+
+1047
+00:26:41,140 --> 00:26:42,240
+di una famiglia ebraica
+
+1048
+00:26:42,240 --> 00:26:43,520
+Simone
+
+1049
+00:26:43,520 --> 00:26:44,700
+Simone Vidal
+
+1050
+00:26:44,700 --> 00:26:45,660
+più giovane
+
+1051
+00:26:45,660 --> 00:26:46,120
+di lui
+
+1052
+00:26:46,120 --> 00:26:48,280
+ricchissima
+
+1053
+00:26:48,280 --> 00:26:49,220
+cosa che non guasta
+
+1054
+00:26:49,220 --> 00:26:50,560
+grande famiglia
+
+1055
+00:26:50,560 --> 00:26:51,560
+di petrolieri
+
+1056
+00:26:51,560 --> 00:26:53,420
+ed è un matrimonio
+
+1057
+00:26:53,420 --> 00:26:54,120
+felicissimo
+
+1058
+00:26:54,120 --> 00:26:54,520
+e fanno
+
+1059
+00:26:54,520 --> 00:26:55,480
+sei figli
+
+1060
+00:26:55,480 --> 00:26:58,280
+matrimonio felicissimo
+
+1061
+00:26:58,280 --> 00:26:59,400
+sei figli
+
+1062
+00:26:59,400 --> 00:27:00,940
+ovviamente
+
+1063
+00:27:00,940 --> 00:27:01,500
+come dire
+
+1064
+00:27:01,500 --> 00:27:02,380
+ci sono soldi
+
+1065
+00:27:02,380 --> 00:27:03,400
+questa è una famiglia
+
+1066
+00:27:03,400 --> 00:27:04,440
+dell'alta borghesia
+
+1067
+00:27:04,440 --> 00:27:05,520
+una famiglia
+
+1068
+00:27:05,520 --> 00:27:06,360
+dell'alta borghesia
+
+1069
+00:27:06,360 --> 00:27:07,480
+oggi ci siamo dimenticati
+
+1070
+00:27:07,480 --> 00:27:08,080
+cosa vuol dire
+
+1071
+00:27:08,080 --> 00:27:09,020
+vuol dire
+
+1072
+00:27:09,020 --> 00:27:10,300
+tre persone di servizio
+
+1073
+00:27:10,300 --> 00:27:11,080
+fisse in casa
+
+1074
+00:27:11,080 --> 00:27:12,500
+la cuoca
+
+1075
+00:27:12,500 --> 00:27:13,160
+la domestica
+
+1076
+00:27:13,160 --> 00:27:13,960
+e la babysitter
+
+1077
+00:27:13,960 --> 00:27:15,860
+vuol dire avere
+
+1078
+00:27:15,860 --> 00:27:16,580
+la macchina
+
+1079
+00:27:16,580 --> 00:27:17,800
+negli anni trenta
+
+1080
+00:27:17,800 --> 00:27:18,540
+loro fanno dei viaggi
+
+1081
+00:27:18,540 --> 00:27:19,060
+in macchina
+
+1082
+00:27:19,060 --> 00:27:19,800
+in Inghilterra
+
+1083
+00:27:19,800 --> 00:27:20,480
+in Italia
+
+1084
+00:27:20,480 --> 00:27:22,240
+vuol dire
+
+1085
+00:27:22,240 --> 00:27:23,360
+la casa di campagna
+
+1086
+00:27:23,360 --> 00:27:24,440
+fondamentale
+
+1087
+00:27:24,440 --> 00:27:25,700
+in un mondo
+
+1088
+00:27:25,700 --> 00:27:26,100
+in cui
+
+1089
+00:27:26,100 --> 00:27:27,080
+tra la città
+
+1090
+00:27:27,080 --> 00:27:27,720
+e la campagna
+
+1091
+00:27:27,720 --> 00:27:28,980
+c'è un tale distacco
+
+1092
+00:27:28,980 --> 00:27:30,440
+un conto è vivere in città
+
+1093
+00:27:30,440 --> 00:27:31,580
+poi quando vai in campagna
+
+1094
+00:27:31,580 --> 00:27:32,420
+ci vogliono due giorni
+
+1095
+00:27:32,420 --> 00:27:33,020
+per arrivarci
+
+1096
+00:27:33,020 --> 00:27:33,840
+anche con la macchina
+
+1097
+00:27:33,840 --> 00:27:35,280
+attraverso queste stradine
+
+1098
+00:27:35,280 --> 00:27:36,120
+in questo posticino
+
+1099
+00:27:36,120 --> 00:27:36,800
+sperduto
+
+1100
+00:27:36,800 --> 00:27:38,520
+dove bloc si fa mettere
+
+1101
+00:27:38,520 --> 00:27:39,260
+il telefono
+
+1102
+00:27:39,260 --> 00:27:40,960
+ed è il secondo telefono
+
+1103
+00:27:40,960 --> 00:27:41,580
+del paese
+
+1104
+00:27:41,580 --> 00:27:42,800
+il primo
+
+1105
+00:27:42,800 --> 00:27:44,540
+è al posto pubblico
+
+1106
+00:27:44,540 --> 00:27:45,080
+il telefono
+
+1107
+00:27:45,080 --> 00:27:45,820
+del professor bloc
+
+1108
+00:27:45,820 --> 00:27:46,800
+nel paesino di Fougère
+
+1109
+00:27:46,800 --> 00:27:47,760
+ha il seguente numero
+
+1110
+00:27:47,760 --> 00:27:48,140
+due
+
+1111
+00:27:48,140 --> 00:27:52,560
+la casa di campagna
+
+1112
+00:27:52,560 --> 00:27:53,480
+è fondamentale
+
+1113
+00:27:53,480 --> 00:27:54,620
+per lo stile di vita
+
+1114
+00:27:54,620 --> 00:27:55,600
+di un intellettuale
+
+1115
+00:27:55,600 --> 00:27:56,020
+di allora
+
+1116
+00:27:56,020 --> 00:27:57,000
+perché vuol dire
+
+1117
+00:27:57,000 --> 00:27:58,820
+che passi tutta l'estate
+
+1118
+00:27:58,820 --> 00:27:59,600
+in campagna
+
+1119
+00:27:59,600 --> 00:28:01,180
+i ragazzi giocano
+
+1120
+00:28:01,180 --> 00:28:03,420
+la mamma cucina
+
+1121
+00:28:03,420 --> 00:28:04,260
+ma ci sono tre persone
+
+1122
+00:28:04,260 --> 00:28:05,060
+di servizio
+
+1123
+00:28:05,060 --> 00:28:06,700
+e il professor bloc
+
+1124
+00:28:06,700 --> 00:28:08,100
+ricorda suo figlio
+
+1125
+00:28:08,100 --> 00:28:09,360
+in campagna
+
+1126
+00:28:09,360 --> 00:28:12,160
+dopo colazione
+
+1127
+00:28:12,160 --> 00:28:13,080
+papà si chiudeva
+
+1128
+00:28:13,080 --> 00:28:13,700
+nello studio
+
+1129
+00:28:13,700 --> 00:28:15,140
+che era in un
+
+1130
+00:28:15,140 --> 00:28:16,680
+fabbricato a parte
+
+1131
+00:28:16,680 --> 00:28:18,060
+e ricompariva
+
+1132
+00:28:18,060 --> 00:28:19,540
+all'ora di pranzo
+
+1133
+00:28:19,540 --> 00:28:20,980
+lavorava tutta la mattina
+
+1134
+00:28:20,980 --> 00:28:22,620
+sono i famosi momenti
+
+1135
+00:28:22,620 --> 00:28:23,140
+in cui non bisognava
+
+1136
+00:28:23,140 --> 00:28:23,700
+disturbarlo
+
+1137
+00:28:23,700 --> 00:28:24,400
+a meno che non venisse
+
+1138
+00:28:24,400 --> 00:28:25,000
+un contadino
+
+1139
+00:28:25,000 --> 00:28:25,920
+che voleva parlare con lui
+
+1140
+00:28:25,920 --> 00:28:27,460
+poi dopo pranzo
+
+1141
+00:28:27,460 --> 00:28:28,960
+c'era il caffè
+
+1142
+00:28:28,960 --> 00:28:30,280
+dice Etienne
+
+1143
+00:28:30,280 --> 00:28:30,880
+che per papà
+
+1144
+00:28:30,880 --> 00:28:31,880
+era una specie di rito
+
+1145
+00:28:31,880 --> 00:28:33,440
+anzi per noi figli
+
+1146
+00:28:33,440 --> 00:28:34,860
+arrivati a una certa età
+
+1147
+00:28:34,860 --> 00:28:35,840
+essere ammessi
+
+1148
+00:28:35,840 --> 00:28:36,540
+a partecipare
+
+1149
+00:28:36,540 --> 00:28:37,480
+al rito del caffè
+
+1150
+00:28:37,480 --> 00:28:39,080
+era una specie di promozione
+
+1151
+00:28:39,080 --> 00:28:39,860
+poi
+
+1152
+00:28:39,860 --> 00:28:40,980
+poi tornava
+
+1153
+00:28:40,980 --> 00:28:41,900
+a chiudersi in studio
+
+1154
+00:28:41,900 --> 00:28:43,080
+e lavorava
+
+1155
+00:28:43,080 --> 00:28:44,080
+tutto il pomeriggio
+
+1156
+00:28:44,080 --> 00:28:45,340
+e ricompariva
+
+1157
+00:28:45,340 --> 00:28:46,600
+soltanto per la cena
+
+1158
+00:28:46,600 --> 00:28:49,600
+quindi uno va in campagna
+
+1159
+00:28:49,600 --> 00:28:50,280
+tutta l'estate
+
+1160
+00:28:50,280 --> 00:28:50,800
+e lavora
+
+1161
+00:28:50,800 --> 00:28:52,380
+non deve far lezione
+
+1162
+00:28:52,380 --> 00:28:53,920
+c'è il telefono
+
+1163
+00:28:53,920 --> 00:28:54,640
+che è già uno sbaglio
+
+1164
+00:28:54,640 --> 00:28:54,880
+ma insomma
+
+1165
+00:28:54,880 --> 00:28:55,800
+a parte quello
+
+1166
+00:28:55,800 --> 00:28:56,780
+lavori
+
+1167
+00:28:56,780 --> 00:28:57,340
+sono i momenti
+
+1168
+00:28:57,340 --> 00:28:57,900
+in cui davvero
+
+1169
+00:28:57,900 --> 00:28:58,380
+studi
+
+1170
+00:28:58,380 --> 00:28:59,020
+scrivi
+
+1171
+00:28:59,020 --> 00:29:00,880
+e Simone
+
+1172
+00:29:00,880 --> 00:29:01,540
+la moglie
+
+1173
+00:29:01,540 --> 00:29:02,120
+e la moglie
+
+1174
+00:29:02,120 --> 00:29:03,460
+fa trovare pronto il pranzo
+
+1175
+00:29:03,460 --> 00:29:04,320
+e fa trovare pronta
+
+1176
+00:29:04,320 --> 00:29:04,920
+la cena
+
+1177
+00:29:04,920 --> 00:29:06,020
+è un modo di vita
+
+1178
+00:29:06,020 --> 00:29:06,460
+che appunto
+
+1179
+00:29:06,460 --> 00:29:07,260
+non esiste più
+
+1180
+00:29:07,260 --> 00:29:08,200
+in questi termini
+
+1181
+00:29:08,200 --> 00:29:09,460
+ma c'è ben altro
+
+1182
+00:29:09,460 --> 00:29:11,760
+Etienne
+
+1183
+00:29:11,760 --> 00:29:12,380
+ricorda
+
+1184
+00:29:12,380 --> 00:29:12,560
+e
+
+1185
+00:29:12,560 --> 00:29:13,580
+come dire
+
+1186
+00:29:13,580 --> 00:29:14,620
+ascoltate fino in fondo
+
+1187
+00:29:14,620 --> 00:29:15,740
+prima di scandalizzarvi
+
+1188
+00:29:15,740 --> 00:29:17,040
+perché può sembrare scandaloso
+
+1189
+00:29:17,040 --> 00:29:18,040
+a un certo punto di vista
+
+1190
+00:29:18,040 --> 00:29:20,180
+Simone batte a macchina
+
+1191
+00:29:20,180 --> 00:29:21,140
+tutto ciò che scrive
+
+1192
+00:29:21,140 --> 00:29:21,660
+il marito
+
+1193
+00:29:21,660 --> 00:29:23,560
+perché bisogna battere a macchina
+
+1194
+00:29:23,560 --> 00:29:24,120
+è una corvea
+
+1195
+00:29:24,120 --> 00:29:25,080
+spesso più di una volta
+
+1196
+00:29:25,080 --> 00:29:26,100
+Etienne dice
+
+1197
+00:29:26,100 --> 00:29:27,380
+mia mamma batteva a macchina
+
+1198
+00:29:27,380 --> 00:29:27,860
+tutto
+
+1199
+00:29:27,860 --> 00:29:29,480
+il che vuol dire
+
+1200
+00:29:29,480 --> 00:29:31,180
+che leggeva per prima
+
+1201
+00:29:31,180 --> 00:29:31,880
+tutto quello
+
+1202
+00:29:31,880 --> 00:29:33,280
+che mio padre scriveva
+
+1203
+00:29:33,280 --> 00:29:34,060
+e mio padre
+
+1204
+00:29:34,060 --> 00:29:35,060
+non ha mai pubblicato
+
+1205
+00:29:35,060 --> 00:29:35,680
+una riga
+
+1206
+00:29:35,680 --> 00:29:36,320
+senza prima
+
+1207
+00:29:36,320 --> 00:29:37,060
+averlo discusso
+
+1208
+00:29:37,060 --> 00:29:37,820
+con mia madre
+
+1209
+00:29:37,820 --> 00:29:38,880
+ora io
+
+1210
+00:29:38,880 --> 00:29:39,620
+queste coppie
+
+1211
+00:29:39,620 --> 00:29:40,500
+io le ho ancora viste
+
+1212
+00:29:40,500 --> 00:29:41,460
+lo dico
+
+1213
+00:29:41,460 --> 00:29:42,460
+come dire
+
+1214
+00:29:42,460 --> 00:29:43,320
+è una cosa soggettiva
+
+1215
+00:29:43,320 --> 00:29:44,040
+vabbè non importa
+
+1216
+00:29:44,040 --> 00:29:45,360
+ma è davvero
+
+1217
+00:29:45,360 --> 00:29:46,040
+un modo di vita
+
+1218
+00:29:46,040 --> 00:29:46,520
+sparito
+
+1219
+00:29:46,520 --> 00:29:47,740
+ma che io ho ancora visto
+
+1220
+00:29:47,740 --> 00:29:48,440
+nella generazione
+
+1221
+00:29:48,440 --> 00:29:49,420
+dei miei maestri
+
+1222
+00:29:49,420 --> 00:29:50,300
+storici
+
+1223
+00:29:50,300 --> 00:29:52,180
+che ormai sono morti
+
+1224
+00:29:52,180 --> 00:29:53,020
+ma che sono nati
+
+1225
+00:29:53,020 --> 00:29:53,720
+nel 14
+
+1226
+00:29:53,720 --> 00:29:54,380
+o nel 15
+
+1227
+00:29:54,380 --> 00:29:54,960
+sono vissuti
+
+1228
+00:29:54,960 --> 00:29:56,180
+fino all'inizio del 2000
+
+1229
+00:29:56,180 --> 00:29:58,280
+lì c'erano queste coppie
+
+1230
+00:29:58,280 --> 00:29:59,940
+erano normali
+
+1231
+00:29:59,940 --> 00:30:00,560
+il marito
+
+1232
+00:30:00,560 --> 00:30:01,220
+studioso
+
+1233
+00:30:01,220 --> 00:30:01,920
+e la moglie
+
+1234
+00:30:01,920 --> 00:30:02,560
+che gli batteva
+
+1235
+00:30:02,560 --> 00:30:03,300
+la macchina le cose
+
+1236
+00:30:03,300 --> 00:30:04,260
+correggeva le bozze
+
+1237
+00:30:04,260 --> 00:30:04,720
+con lui
+
+1238
+00:30:04,720 --> 00:30:06,040
+sapeva tutto quello
+
+1239
+00:30:06,040 --> 00:30:07,020
+che studiava
+
+1240
+00:30:07,020 --> 00:30:08,040
+e il marito
+
+1241
+00:30:08,040 --> 00:30:08,660
+sarebbe stato
+
+1242
+00:30:08,660 --> 00:30:10,200
+totalmente perduto
+
+1243
+00:30:10,200 --> 00:30:11,200
+senza la moglie
+
+1244
+00:30:11,200 --> 00:30:12,660
+e in questo rapporto
+
+1245
+00:30:12,660 --> 00:30:13,420
+squilibrato
+
+1246
+00:30:13,420 --> 00:30:14,220
+rispetto ai nostri
+
+1247
+00:30:14,220 --> 00:30:15,240
+criteri di oggi
+
+1248
+00:30:15,240 --> 00:30:16,760
+però erano matrimoni
+
+1249
+00:30:16,760 --> 00:30:18,020
+fortissimi
+
+1250
+00:30:18,020 --> 00:30:19,680
+con una dipendenza
+
+1251
+00:30:19,680 --> 00:30:20,220
+reciproca
+
+1252
+00:30:20,220 --> 00:30:21,500
+e un amore reciproco
+
+1253
+00:30:21,500 --> 00:30:22,700
+Etienne dice
+
+1254
+00:30:22,700 --> 00:30:24,740
+era evidente
+
+1255
+00:30:24,740 --> 00:30:25,160
+che mio padre
+
+1256
+00:30:25,160 --> 00:30:25,520
+e mia madre
+
+1257
+00:30:25,520 --> 00:30:26,400
+erano innamorati
+
+1258
+00:30:26,400 --> 00:30:28,260
+non ho mai saputo
+
+1259
+00:30:28,260 --> 00:30:29,020
+quanto
+
+1260
+00:30:29,020 --> 00:30:31,300
+fino a dopo la guerra
+
+1261
+00:30:31,300 --> 00:30:32,760
+quando trova
+
+1262
+00:30:32,760 --> 00:30:33,500
+le carte
+
+1263
+00:30:33,500 --> 00:30:34,260
+del padre
+
+1264
+00:30:34,260 --> 00:30:35,820
+scopre
+
+1265
+00:30:35,820 --> 00:30:36,400
+che il padre
+
+1266
+00:30:36,400 --> 00:30:37,600
+negli anni peggiori
+
+1267
+00:30:37,600 --> 00:30:38,700
+che stiamo per raccontare
+
+1268
+00:30:38,700 --> 00:30:39,980
+poi della clandestinità
+
+1269
+00:30:39,980 --> 00:30:41,020
+della resistenza
+
+1270
+00:30:41,020 --> 00:30:41,820
+il padre
+
+1271
+00:30:41,820 --> 00:30:42,580
+si mette a scrivere
+
+1272
+00:30:42,580 --> 00:30:43,320
+poesie
+
+1273
+00:30:43,320 --> 00:30:44,180
+dedicate
+
+1274
+00:30:44,180 --> 00:30:45,160
+alla moglie
+
+1275
+00:30:45,160 --> 00:30:46,920
+in cui ricorda
+
+1276
+00:30:46,920 --> 00:30:48,200
+la prima notte
+
+1277
+00:30:48,200 --> 00:30:48,940
+in cui al buio
+
+1278
+00:30:48,940 --> 00:30:49,940
+hanno fatto l'amore
+
+1279
+00:30:49,940 --> 00:30:51,200
+o
+
+1280
+00:30:51,200 --> 00:30:52,060
+le dice
+
+1281
+00:30:52,060 --> 00:30:53,940
+scusami
+
+1282
+00:30:53,940 --> 00:30:54,980
+se questa nostra giornata
+
+1283
+00:30:54,980 --> 00:30:55,340
+insieme
+
+1284
+00:30:55,340 --> 00:30:56,560
+finirà prima della sera
+
+1285
+00:30:56,560 --> 00:30:57,680
+perché da come
+
+1286
+00:30:57,680 --> 00:30:58,460
+si sta mettendo
+
+1287
+00:30:58,460 --> 00:30:59,600
+rischia di finire
+
+1288
+00:30:59,600 --> 00:31:00,420
+prima del tempo
+
+1289
+00:31:00,420 --> 00:31:02,840
+ovviamente i figli
+
+1290
+00:31:02,840 --> 00:31:03,600
+non potevano sospettare
+
+1291
+00:31:03,600 --> 00:31:03,780
+niente
+
+1292
+00:31:03,780 --> 00:31:04,220
+figurati
+
+1293
+00:31:04,220 --> 00:31:05,080
+le poesie d'amore
+
+1294
+00:31:05,080 --> 00:31:06,040
+sulla prima notte
+
+1295
+00:31:06,040 --> 00:31:06,660
+in cui abbiamo fatto
+
+1296
+00:31:06,660 --> 00:31:07,000
+l'amore
+
+1297
+00:31:07,000 --> 00:31:07,400
+ai figli
+
+1298
+00:31:07,400 --> 00:31:08,300
+non si dice niente
+
+1299
+00:31:08,300 --> 00:31:09,080
+Etienne dice
+
+1300
+00:31:09,080 --> 00:31:10,380
+mio padre era severissimo
+
+1301
+00:31:10,380 --> 00:31:11,760
+noi non immaginavamo
+
+1302
+00:31:11,760 --> 00:31:12,300
+niente
+
+1303
+00:31:12,300 --> 00:31:13,480
+della sua interiorità
+
+1304
+00:31:13,480 --> 00:31:13,960
+allora
+
+1305
+00:31:13,960 --> 00:31:15,520
+allora si usava così
+
+1306
+00:31:15,520 --> 00:31:17,640
+poi ci sono anche
+
+1307
+00:31:17,640 --> 00:31:18,160
+altre cose
+
+1308
+00:31:18,160 --> 00:31:18,480
+perché
+
+1309
+00:31:18,480 --> 00:31:19,340
+quando poi
+
+1310
+00:31:19,340 --> 00:31:20,240
+il professor Bloch
+
+1311
+00:31:20,240 --> 00:31:21,020
+come racconteremo
+
+1312
+00:31:21,020 --> 00:31:21,460
+fra poco
+
+1313
+00:31:21,460 --> 00:31:23,020
+parte per una seconda guerra
+
+1314
+00:31:23,020 --> 00:31:23,920
+e i figli
+
+1315
+00:31:23,920 --> 00:31:24,420
+sono ormai
+
+1316
+00:31:24,420 --> 00:31:25,500
+già grandicelli
+
+1317
+00:31:25,500 --> 00:31:27,460
+vanno a aprire
+
+1318
+00:31:27,460 --> 00:31:28,140
+finalmente
+
+1319
+00:31:28,140 --> 00:31:28,800
+di nascosto
+
+1320
+00:31:28,800 --> 00:31:29,680
+il famoso armadio
+
+1321
+00:31:29,680 --> 00:31:30,400
+chiuso a chiave
+
+1322
+00:31:30,400 --> 00:31:31,080
+nella biblioteca
+
+1323
+00:31:31,080 --> 00:31:31,620
+del padre
+
+1324
+00:31:31,620 --> 00:31:34,040
+e nel famoso armadio
+
+1325
+00:31:34,040 --> 00:31:34,960
+chiuso a chiave
+
+1326
+00:31:34,960 --> 00:31:35,820
+Etienne Bloch
+
+1327
+00:31:35,820 --> 00:31:37,500
+dice con un certo divertimento
+
+1328
+00:31:37,500 --> 00:31:38,640
+e anche un pizzico
+
+1329
+00:31:38,640 --> 00:31:39,340
+di fierezza
+
+1330
+00:31:39,340 --> 00:31:41,460
+era la stessa cosa
+
+1331
+00:31:41,460 --> 00:31:42,080
+del famoso
+
+1332
+00:31:42,080 --> 00:31:42,580
+infer
+
+1333
+00:31:42,580 --> 00:31:44,160
+il famoso inferno
+
+1334
+00:31:44,160 --> 00:31:45,340
+della biblioteca nazionale
+
+1335
+00:31:45,340 --> 00:31:45,820
+a Parigi
+
+1336
+00:31:45,820 --> 00:31:47,140
+cioè il reparto
+
+1337
+00:31:47,140 --> 00:31:48,040
+dei libri erotici
+
+1338
+00:31:48,040 --> 00:31:49,380
+mio padre
+
+1339
+00:31:49,380 --> 00:31:50,400
+era un grande lettore
+
+1340
+00:31:50,400 --> 00:31:51,340
+di libri erotici
+
+1341
+00:31:51,340 --> 00:31:51,940
+noi figli
+
+1342
+00:31:51,940 --> 00:31:52,840
+mai e poi mai
+
+1343
+00:31:52,840 --> 00:31:53,360
+avremmo potuto
+
+1344
+00:31:53,360 --> 00:31:54,100
+sospettarlo
+
+1345
+00:31:54,100 --> 00:31:55,020
+ma mentre il papà
+
+1346
+00:31:55,020 --> 00:31:55,560
+è in guerra
+
+1347
+00:31:55,560 --> 00:31:56,580
+gli altarini
+
+1348
+00:31:56,580 --> 00:31:58,000
+si scoprono
+
+1349
+00:31:58,000 --> 00:32:00,080
+ultima cosa
+
+1350
+00:32:00,080 --> 00:32:01,320
+quello che ricorda
+
+1351
+00:32:01,320 --> 00:32:01,760
+Etienne
+
+1352
+00:32:01,760 --> 00:32:02,560
+dello stile di vita
+
+1353
+00:32:02,560 --> 00:32:03,100
+di suo padre
+
+1354
+00:32:03,100 --> 00:32:03,560
+ricordate
+
+1355
+00:32:03,560 --> 00:32:04,380
+si chiude in studio
+
+1356
+00:32:04,380 --> 00:32:05,460
+e lavora tutto il giorno
+
+1357
+00:32:05,460 --> 00:32:06,440
+mio padre aveva
+
+1358
+00:32:06,440 --> 00:32:08,540
+l'ansia di non perdere tempo
+
+1359
+00:32:08,540 --> 00:32:10,040
+aveva la sensazione
+
+1360
+00:32:10,040 --> 00:32:11,240
+che uno deve lavorare
+
+1361
+00:32:11,240 --> 00:32:12,220
+e non può permettersi
+
+1362
+00:32:12,220 --> 00:32:13,260
+di fermarsi
+
+1363
+00:32:13,260 --> 00:32:15,800
+esagerava anche
+
+1364
+00:32:15,800 --> 00:32:17,100
+noi ragazzi
+
+1365
+00:32:17,100 --> 00:32:18,160
+sentivamo le canzonette
+
+1366
+00:32:18,160 --> 00:32:18,720
+alla radio
+
+1367
+00:32:18,720 --> 00:32:19,960
+mio padre si scocciava
+
+1368
+00:32:19,960 --> 00:32:21,520
+non bisogna perdere tempo
+
+1369
+00:32:21,520 --> 00:32:22,600
+a sentire questa robaccia
+
+1370
+00:32:22,600 --> 00:32:24,080
+giocare a carte
+
+1371
+00:32:24,080 --> 00:32:26,620
+in compenso
+
+1372
+00:32:26,620 --> 00:32:28,360
+leggeva libri gialli
+
+1373
+00:32:28,360 --> 00:32:29,300
+il professor Bloch
+
+1374
+00:32:29,300 --> 00:32:30,600
+Agatha Christie
+
+1375
+00:32:30,600 --> 00:32:31,900
+all'epoca
+
+1376
+00:32:31,900 --> 00:32:32,620
+giovane
+
+1377
+00:32:32,620 --> 00:32:33,760
+e in piena attività
+
+1378
+00:32:33,760 --> 00:32:34,920
+li leggeva
+
+1379
+00:32:34,920 --> 00:32:35,760
+in inglese
+
+1380
+00:32:35,760 --> 00:32:36,560
+e così diceva
+
+1381
+00:32:36,560 --> 00:32:37,100
+a se stesso
+
+1382
+00:32:37,100 --> 00:32:37,580
+che in fondo
+
+1383
+00:32:37,580 --> 00:32:38,660
+era per uno scopo utile
+
+1384
+00:32:38,660 --> 00:32:39,740
+perché così
+
+1385
+00:32:39,740 --> 00:32:41,140
+migliorava il suo inglese
+
+1386
+00:32:41,140 --> 00:32:42,240
+imparava a conoscerli
+
+1387
+00:32:42,240 --> 00:32:43,060
+in Inghilterra
+
+1388
+00:32:43,060 --> 00:32:43,720
+di fatto
+
+1389
+00:32:43,720 --> 00:32:44,360
+dice Etienne
+
+1390
+00:32:44,360 --> 00:32:45,620
+papà adorava i gialli
+
+1391
+00:32:45,620 --> 00:32:47,460
+tanto che a un certo punto
+
+1392
+00:32:47,460 --> 00:32:49,040
+gli è venuto in mente
+
+1393
+00:32:49,040 --> 00:32:49,580
+di scrivere
+
+1394
+00:32:49,580 --> 00:32:50,000
+un giallo
+
+1395
+00:32:50,000 --> 00:32:50,600
+anche lui
+
+1396
+00:32:50,600 --> 00:32:51,980
+abbiamo trovato
+
+1397
+00:32:51,980 --> 00:32:52,740
+fra le sue carte
+
+1398
+00:32:52,740 --> 00:32:53,700
+c'era tutto il progetto
+
+1399
+00:32:53,700 --> 00:32:54,100
+la trama
+
+1400
+00:32:54,100 --> 00:32:54,940
+i personaggi
+
+1401
+00:32:54,940 --> 00:32:56,180
+poi non ha fatto in tempo
+
+1402
+00:32:56,180 --> 00:32:56,820
+a scriverlo
+
+1403
+00:32:56,820 --> 00:32:59,100
+cosa daremmo noi oggi
+
+1404
+00:32:59,100 --> 00:32:59,840
+noi del mestiere
+
+1405
+00:32:59,840 --> 00:33:00,960
+almeno per avere un giallo
+
+1406
+00:33:00,960 --> 00:33:02,020
+scritto da Mark Bloch
+
+1407
+00:33:02,020 --> 00:33:03,720
+in ogni caso però
+
+1408
+00:33:03,720 --> 00:33:05,040
+vedete che comunque
+
+1409
+00:33:05,040 --> 00:33:05,860
+c'è qualcosa
+
+1410
+00:33:05,860 --> 00:33:07,500
+che non stupisce
+
+1411
+00:33:07,500 --> 00:33:08,880
+perché un giallo
+
+1412
+00:33:08,880 --> 00:33:10,020
+vuol dire
+
+1413
+00:33:10,020 --> 00:33:10,760
+comunque
+
+1414
+00:33:10,760 --> 00:33:12,260
+la storia
+
+1415
+00:33:12,260 --> 00:33:13,100
+di come si scopre
+
+1416
+00:33:13,100 --> 00:33:13,700
+la verità
+
+1417
+00:33:13,700 --> 00:33:15,240
+alla fine
+
+1418
+00:33:15,240 --> 00:33:16,560
+arrivi sempre a quello
+
+1419
+00:33:16,560 --> 00:33:17,900
+scoprire la verità
+
+1420
+00:33:17,900 --> 00:33:20,620
+bene
+
+1421
+00:33:20,620 --> 00:33:21,520
+fin qua
+
+1422
+00:33:21,520 --> 00:33:22,200
+tutto bene
+
+1423
+00:33:22,200 --> 00:33:22,920
+in apparenza
+
+1424
+00:33:22,920 --> 00:33:23,640
+vent'anni
+
+1425
+00:33:23,640 --> 00:33:24,540
+di vita familiare
+
+1426
+00:33:24,540 --> 00:33:24,980
+felice
+
+1427
+00:33:24,980 --> 00:33:26,140
+di grande produttività
+
+1428
+00:33:26,140 --> 00:33:27,020
+rivoluzionano
+
+1429
+00:33:27,020 --> 00:33:28,100
+la storiografia mondiale
+
+1430
+00:33:28,100 --> 00:33:28,680
+benissimo
+
+1431
+00:33:28,680 --> 00:33:30,800
+ma sono gli anni venti
+
+1432
+00:33:30,800 --> 00:33:31,860
+e poi soprattutto
+
+1433
+00:33:31,860 --> 00:33:33,740
+gli anni trenta
+
+1434
+00:33:33,740 --> 00:33:34,780
+negli anni trenta
+
+1435
+00:33:34,780 --> 00:33:35,900
+nessun europeo
+
+1436
+00:33:35,900 --> 00:33:36,640
+può vivere
+
+1437
+00:33:36,640 --> 00:33:38,280
+specialmente un intellettuale
+
+1438
+00:33:38,280 --> 00:33:39,060
+che sa cosa succede
+
+1439
+00:33:39,060 --> 00:33:39,560
+al mondo
+
+1440
+00:33:39,560 --> 00:33:40,980
+nessun europeo
+
+1441
+00:33:40,980 --> 00:33:41,740
+vive la sua vita
+
+1442
+00:33:41,740 --> 00:33:42,480
+tranquilla
+
+1443
+00:33:42,480 --> 00:33:44,040
+senza sentire
+
+1444
+00:33:44,040 --> 00:33:45,240
+che sta salendo
+
+1445
+00:33:45,240 --> 00:33:46,480
+qualche cosa
+
+1446
+00:33:46,480 --> 00:33:47,780
+di molto brutto
+
+1447
+00:33:47,780 --> 00:33:49,380
+e senza un senso
+
+1448
+00:33:49,380 --> 00:33:50,920
+di angoscia crescente
+
+1449
+00:33:50,920 --> 00:33:52,120
+per quello
+
+1450
+00:33:52,120 --> 00:33:52,800
+che si vede
+
+1451
+00:33:52,800 --> 00:33:53,780
+arrivare
+
+1452
+00:33:53,780 --> 00:33:56,620
+Bloch lo scopre
+
+1453
+00:33:56,620 --> 00:33:57,880
+per prima cosa
+
+1454
+00:33:57,880 --> 00:34:00,500
+quando si accorge
+
+1455
+00:34:00,500 --> 00:34:01,800
+che il suo cognome
+
+1456
+00:34:01,800 --> 00:34:02,840
+dopo tutto
+
+1457
+00:34:02,840 --> 00:34:04,180
+vuol dire
+
+1458
+00:34:04,180 --> 00:34:05,360
+qualche cosa
+
+1459
+00:34:05,360 --> 00:34:07,740
+lo scopre lentamente
+
+1460
+00:34:07,740 --> 00:34:08,560
+vi racconto ancora
+
+1461
+00:34:08,560 --> 00:34:09,200
+questo aspetto
+
+1462
+00:34:09,200 --> 00:34:09,780
+entro un po'
+
+1463
+00:34:09,820 --> 00:34:10,380
+nel dettaglio
+
+1464
+00:34:10,380 --> 00:34:11,180
+per capirci
+
+1465
+00:34:11,180 --> 00:34:12,820
+Bloch è a Strasburgo
+
+1466
+00:34:12,820 --> 00:34:13,780
+dopo un po'
+
+1467
+00:34:13,820 --> 00:34:14,320
+si secca
+
+1468
+00:34:14,320 --> 00:34:15,300
+un professore francese
+
+1469
+00:34:15,300 --> 00:34:16,200
+deve tornare a Parigi
+
+1470
+00:34:16,200 --> 00:34:17,620
+se vuole che la sua carriera
+
+1471
+00:34:17,620 --> 00:34:18,700
+sia veramente riuscita
+
+1472
+00:34:18,700 --> 00:34:20,300
+comincia a trafficare
+
+1473
+00:34:20,300 --> 00:34:21,120
+come tutti noi
+
+1474
+00:34:21,120 --> 00:34:22,420
+per il trasferimento
+
+1475
+00:34:22,420 --> 00:34:23,020
+a Parigi
+
+1476
+00:34:23,020 --> 00:34:24,300
+a Parigi
+
+1477
+00:34:24,300 --> 00:34:25,820
+è molto ambizioso
+
+1478
+00:34:25,820 --> 00:34:27,440
+il meglio
+
+1479
+00:34:27,440 --> 00:34:28,180
+che c'è a Parigi
+
+1480
+00:34:28,180 --> 00:34:29,140
+non è la Sorbona
+
+1481
+00:34:29,140 --> 00:34:30,280
+è il Collège
+
+1482
+00:34:30,280 --> 00:34:31,640
+il Collège de France
+
+1483
+00:34:31,640 --> 00:34:32,880
+il Collège
+
+1484
+00:34:32,880 --> 00:34:33,660
+è una istituzione
+
+1485
+00:34:33,660 --> 00:34:34,420
+meravigliosa
+
+1486
+00:34:34,420 --> 00:34:35,540
+dove una cinquantina
+
+1487
+00:34:35,540 --> 00:34:36,420
+di studiosi
+
+1488
+00:34:36,420 --> 00:34:38,020
+di altissimo livello
+
+1489
+00:34:38,020 --> 00:34:38,980
+di tutte le discipline
+
+1490
+00:34:38,980 --> 00:34:40,800
+sono pagati
+
+1491
+00:34:40,800 --> 00:34:41,720
+profumatamente
+
+1492
+00:34:41,720 --> 00:34:43,100
+per studiare
+
+1493
+00:34:43,100 --> 00:34:44,000
+quello che vogliono
+
+1494
+00:34:44,000 --> 00:34:46,100
+con l'unico obbligo
+
+1495
+00:34:46,100 --> 00:34:47,000
+di fare una volta
+
+1496
+00:34:47,000 --> 00:34:47,740
+alla settimana
+
+1497
+00:34:47,740 --> 00:34:48,400
+una lezione
+
+1498
+00:34:48,400 --> 00:34:50,180
+per il grande pubblico
+
+1499
+00:34:50,180 --> 00:34:51,340
+una lezione come questa
+
+1500
+00:34:51,340 --> 00:34:53,240
+non lezioni universitarie
+
+1501
+00:34:53,240 --> 00:34:54,320
+quindi specialistiche
+
+1502
+00:34:54,320 --> 00:34:54,980
+ma una lezione
+
+1503
+00:34:54,980 --> 00:34:55,720
+per tutti
+
+1504
+00:34:55,720 --> 00:34:56,420
+a Parigi
+
+1505
+00:34:56,420 --> 00:34:57,400
+chiunque può andare
+
+1506
+00:34:57,400 --> 00:34:58,500
+sedersi nella sala
+
+1507
+00:34:58,500 --> 00:34:59,120
+del Collège
+
+1508
+00:34:59,120 --> 00:35:00,580
+e arrivano i più grandi
+
+1509
+00:35:00,580 --> 00:35:01,720
+intellettuali di Francia
+
+1510
+00:35:01,720 --> 00:35:02,300
+a parlargli
+
+1511
+00:35:02,300 --> 00:35:03,180
+delle loro cose
+
+1512
+00:35:03,180 --> 00:35:04,360
+Bloch vorrebbe
+
+1513
+00:35:04,360 --> 00:35:05,320
+andare al Collège
+
+1514
+00:35:05,320 --> 00:35:06,720
+il suo amico Fevre
+
+1515
+00:35:06,720 --> 00:35:07,380
+ci è riuscito
+
+1516
+00:35:07,380 --> 00:35:09,080
+Bloch ci prova
+
+1517
+00:35:09,080 --> 00:35:10,480
+si candida
+
+1518
+00:35:10,480 --> 00:35:11,440
+diverse volte
+
+1519
+00:35:11,440 --> 00:35:12,580
+il Collège
+
+1520
+00:35:12,580 --> 00:35:13,400
+è un'istituzione
+
+1521
+00:35:13,400 --> 00:35:14,440
+che si gestisce
+
+1522
+00:35:14,440 --> 00:35:14,880
+da solo
+
+1523
+00:35:14,880 --> 00:35:16,860
+per cooptazione
+
+1524
+00:35:16,860 --> 00:35:18,400
+quando muore uno
+
+1525
+00:35:18,400 --> 00:35:20,300
+i sopravvissuti
+
+1526
+00:35:20,300 --> 00:35:20,820
+votano
+
+1527
+00:35:20,820 --> 00:35:21,960
+chi chiamare
+
+1528
+00:35:21,960 --> 00:35:23,120
+quindi bisogna fare
+
+1529
+00:35:23,120 --> 00:35:24,040
+delle telefonate
+
+1530
+00:35:24,040 --> 00:35:25,220
+muovere delle amicizie
+
+1531
+00:35:25,220 --> 00:35:25,880
+insomma tutta roba
+
+1532
+00:35:25,880 --> 00:35:26,380
+che è normale
+
+1533
+00:35:26,380 --> 00:35:27,240
+nel nostro mestiere
+
+1534
+00:35:27,240 --> 00:35:27,980
+e
+
+1535
+00:35:27,980 --> 00:35:30,060
+e Bloch ci prova
+
+1536
+00:35:30,060 --> 00:35:30,740
+una volta
+
+1537
+00:35:30,740 --> 00:35:32,300
+e una seconda volta
+
+1538
+00:35:32,300 --> 00:35:33,340
+e una terza volta
+
+1539
+00:35:33,340 --> 00:35:34,020
+e ogni volta
+
+1540
+00:35:34,020 --> 00:35:35,120
+non ce la fa
+
+1541
+00:35:35,120 --> 00:35:37,260
+e ogni volta
+
+1542
+00:35:37,260 --> 00:35:38,020
+c'è qualcuno
+
+1543
+00:35:38,020 --> 00:35:38,760
+che gli dice
+
+1544
+00:35:38,760 --> 00:35:39,380
+ma sai
+
+1545
+00:35:39,380 --> 00:35:41,820
+è per il tuo cognome
+
+1546
+00:35:41,820 --> 00:35:43,440
+ci sono già
+
+1547
+00:35:43,440 --> 00:35:44,400
+troppi ebrei
+
+1548
+00:35:44,400 --> 00:35:45,160
+nel Collège
+
+1549
+00:35:45,160 --> 00:35:47,180
+e c'è tanta gente
+
+1550
+00:35:47,180 --> 00:35:47,760
+che pensa
+
+1551
+00:35:47,760 --> 00:35:48,840
+che sono troppi
+
+1552
+00:35:48,840 --> 00:35:50,020
+e che non bisogna
+
+1553
+00:35:50,020 --> 00:35:51,220
+chiamarne altri
+
+1554
+00:35:51,220 --> 00:35:52,900
+e lì Bloch
+
+1555
+00:35:52,900 --> 00:35:53,640
+è la prima volta
+
+1556
+00:35:53,640 --> 00:35:54,400
+che a un certo punto
+
+1557
+00:35:54,400 --> 00:35:54,720
+scrive
+
+1558
+00:35:54,720 --> 00:35:54,920
+lui
+
+1559
+00:35:54,920 --> 00:35:56,260
+a questa corrispondenza
+
+1560
+00:35:56,260 --> 00:35:56,740
+con Fevre
+
+1561
+00:35:56,740 --> 00:35:57,720
+lui è rimasto a Strasburgo
+
+1562
+00:35:57,720 --> 00:35:58,460
+l'altro è a Parigi
+
+1563
+00:35:58,460 --> 00:35:59,560
+per nostra fortuna
+
+1564
+00:35:59,560 --> 00:36:00,720
+così si scrivono
+
+1565
+00:36:00,720 --> 00:36:02,300
+e noi abbiamo le lettere
+
+1566
+00:36:02,300 --> 00:36:03,780
+e lì Bloch
+
+1567
+00:36:03,780 --> 00:36:04,320
+a un certo punto
+
+1568
+00:36:04,320 --> 00:36:04,620
+dice sì
+
+1569
+00:36:04,620 --> 00:36:05,900
+è proprio vero
+
+1570
+00:36:05,900 --> 00:36:07,320
+qui l'antisemitismo
+
+1571
+00:36:07,320 --> 00:36:08,320
+sta tornando
+
+1572
+00:36:08,320 --> 00:36:10,020
+nel nostro paese
+
+1573
+00:36:10,020 --> 00:36:10,700
+sta tornando
+
+1574
+00:36:10,700 --> 00:36:11,820
+l'antisemitismo
+
+1575
+00:36:11,820 --> 00:36:16,620
+e di fronte a questo
+
+1576
+00:36:16,620 --> 00:36:17,320
+Bloch
+
+1577
+00:36:17,320 --> 00:36:18,420
+per la prima volta
+
+1578
+00:36:18,420 --> 00:36:19,240
+comincia a dirsi
+
+1579
+00:36:19,240 --> 00:36:19,540
+ma dunque
+
+1580
+00:36:19,540 --> 00:36:20,380
+io sono ebreo
+
+1581
+00:36:20,380 --> 00:36:22,080
+chi ci aveva mai pensato
+
+1582
+00:36:22,080 --> 00:36:23,320
+e invece è vero
+
+1583
+00:36:23,320 --> 00:36:24,200
+sono ebreo
+
+1584
+00:36:24,200 --> 00:36:25,460
+che ci devo fare
+
+1585
+00:36:25,460 --> 00:36:26,460
+con questa scoperta
+
+1586
+00:36:26,460 --> 00:36:30,900
+sono ebreo
+
+1587
+00:36:30,900 --> 00:36:31,860
+scrive a un certo punto
+
+1588
+00:36:31,860 --> 00:36:32,280
+a Fevre
+
+1589
+00:36:32,280 --> 00:36:34,500
+se non per la religione
+
+1590
+00:36:34,500 --> 00:36:35,640
+è che non pratico
+
+1591
+00:36:35,640 --> 00:36:36,960
+come non ne pratico
+
+1592
+00:36:36,960 --> 00:36:37,620
+nessuna
+
+1593
+00:36:37,620 --> 00:36:39,420
+almeno per nascita
+
+1594
+00:36:39,420 --> 00:36:41,340
+non ne traggo
+
+1595
+00:36:41,340 --> 00:36:42,320
+né orgoglio
+
+1596
+00:36:42,320 --> 00:36:43,260
+né vergogna
+
+1597
+00:36:43,260 --> 00:36:45,160
+perché sono
+
+1598
+00:36:45,160 --> 00:36:45,600
+spero
+
+1599
+00:36:45,600 --> 00:36:46,780
+abbastanza buono storico
+
+1600
+00:36:46,780 --> 00:36:47,640
+da sapere
+
+1601
+00:36:47,640 --> 00:36:48,820
+che le predisposizioni
+
+1602
+00:36:48,820 --> 00:36:49,640
+razziali
+
+1603
+00:36:49,640 --> 00:36:51,200
+sono un mito
+
+1604
+00:36:51,200 --> 00:36:51,980
+stamattina
+
+1605
+00:36:51,980 --> 00:36:52,440
+il nostro amico
+
+1606
+00:36:52,440 --> 00:36:53,260
+Guido Barbujani
+
+1607
+00:36:53,260 --> 00:36:53,940
+ci ha confermato
+
+1608
+00:36:53,940 --> 00:36:54,600
+la stessa cosa
+
+1609
+00:36:54,600 --> 00:36:55,260
+dal punto di vista
+
+1610
+00:36:55,260 --> 00:36:55,840
+della scienza
+
+1611
+00:36:55,840 --> 00:36:56,660
+di oggi
+
+1612
+00:36:56,660 --> 00:36:58,320
+non rivendico mai
+
+1613
+00:36:58,320 --> 00:36:59,140
+la mia origine
+
+1614
+00:36:59,140 --> 00:37:00,420
+tranne
+
+1615
+00:37:00,420 --> 00:37:01,200
+quando mi trovo
+
+1616
+00:37:01,200 --> 00:37:01,620
+davanti
+
+1617
+00:37:01,620 --> 00:37:02,520
+a un antisemita
+
+1618
+00:37:02,520 --> 00:37:04,180
+quando mi trovo
+
+1619
+00:37:04,180 --> 00:37:04,480
+davanti
+
+1620
+00:37:04,480 --> 00:37:05,220
+a un antisemita
+
+1621
+00:37:05,220 --> 00:37:06,280
+allora divento
+
+1622
+00:37:06,280 --> 00:37:06,760
+ebreo
+
+1623
+00:37:06,760 --> 00:37:07,560
+effettivamente
+
+1624
+00:37:07,560 --> 00:37:09,940
+ma non è solo
+
+1625
+00:37:09,940 --> 00:37:10,980
+l'antisemitismo
+
+1626
+00:37:10,980 --> 00:37:11,600
+che nella Francia
+
+1627
+00:37:11,600 --> 00:37:12,080
+di quegli anni
+
+1628
+00:37:12,080 --> 00:37:12,740
+potrebbe sembrare
+
+1629
+00:37:12,740 --> 00:37:13,600
+un problema privato
+
+1630
+00:37:13,600 --> 00:37:14,340
+il problema è
+
+1631
+00:37:14,340 --> 00:37:15,940
+regge questa democrazia
+
+1632
+00:37:15,940 --> 00:37:17,680
+o verrà la dittatura
+
+1633
+00:37:17,680 --> 00:37:18,760
+in Italia
+
+1634
+00:37:18,760 --> 00:37:19,820
+c'è già la dittatura
+
+1635
+00:37:19,820 --> 00:37:21,540
+a un certo punto
+
+1636
+00:37:21,540 --> 00:37:22,100
+c'è una lettera
+
+1637
+00:37:22,100 --> 00:37:22,820
+in cui Bloch dice
+
+1638
+00:37:22,820 --> 00:37:23,860
+di questo passo
+
+1639
+00:37:23,860 --> 00:37:24,640
+ci faranno finire
+
+1640
+00:37:24,640 --> 00:37:25,520
+come Matteotti
+
+1641
+00:37:25,520 --> 00:37:27,240
+e non è molto bello
+
+1642
+00:37:27,240 --> 00:37:27,960
+vedere che l'Italia
+
+1643
+00:37:27,960 --> 00:37:28,840
+offriva questo tipo
+
+1644
+00:37:28,840 --> 00:37:29,440
+di esempio
+
+1645
+00:37:29,440 --> 00:37:30,620
+a chi la guardava
+
+1646
+00:37:30,620 --> 00:37:31,620
+dalla Francia
+
+1647
+00:37:31,620 --> 00:37:33,920
+e poi nel 33
+
+1648
+00:37:33,920 --> 00:37:34,540
+la dittatura
+
+1649
+00:37:34,540 --> 00:37:35,560
+arriva anche in Germania
+
+1650
+00:37:35,560 --> 00:37:36,180
+dall'altra parte
+
+1651
+00:37:36,180 --> 00:37:36,620
+del Reno
+
+1652
+00:37:36,620 --> 00:37:37,200
+Strasburgo
+
+1653
+00:37:37,200 --> 00:37:38,360
+e lì c'è il confide
+
+1654
+00:37:38,360 --> 00:37:39,420
+e dall'altra parte
+
+1655
+00:37:39,420 --> 00:37:40,780
+sfilano le camice brune
+
+1656
+00:37:40,780 --> 00:37:44,120
+e nella corrispondenza
+
+1657
+00:37:44,120 --> 00:37:45,140
+di Mark Bloch
+
+1658
+00:37:45,140 --> 00:37:46,380
+si sente appunto
+
+1659
+00:37:46,380 --> 00:37:46,920
+questa cosa
+
+1660
+00:37:46,920 --> 00:37:47,780
+che dicevo prima
+
+1661
+00:37:47,780 --> 00:37:48,980
+questa sensazione
+
+1662
+00:37:48,980 --> 00:37:49,560
+di chi vive
+
+1663
+00:37:49,560 --> 00:37:50,280
+in un'epoca
+
+1664
+00:37:50,280 --> 00:37:51,700
+che sta diventando
+
+1665
+00:37:51,700 --> 00:37:52,740
+molto brutta
+
+1666
+00:37:52,740 --> 00:37:54,800
+e si accorge
+
+1667
+00:37:54,800 --> 00:37:55,700
+che sta arrivando
+
+1668
+00:37:55,700 --> 00:37:57,260
+qualcosa di spaventoso
+
+1669
+00:37:57,260 --> 00:37:58,360
+e non sa bene
+
+1670
+00:37:58,360 --> 00:37:59,460
+cosa può fare
+
+1671
+00:37:59,460 --> 00:38:01,240
+a un certo punto
+
+1672
+00:38:01,240 --> 00:38:01,740
+racconta
+
+1673
+00:38:01,740 --> 00:38:02,200
+vuoi un segno
+
+1674
+00:38:02,200 --> 00:38:02,760
+dei tempi
+
+1675
+00:38:02,760 --> 00:38:03,080
+dice
+
+1676
+00:38:03,080 --> 00:38:04,360
+mio ultimo figlio
+
+1677
+00:38:04,360 --> 00:38:04,900
+Jean Paul
+
+1678
+00:38:04,900 --> 00:38:06,220
+sei anni
+
+1679
+00:38:06,220 --> 00:38:07,180
+lo vedo
+
+1680
+00:38:07,180 --> 00:38:07,800
+che gioca
+
+1681
+00:38:07,800 --> 00:38:08,640
+con i soldatini
+
+1682
+00:38:08,640 --> 00:38:10,860
+francesi e tedeschi
+
+1683
+00:38:10,860 --> 00:38:12,200
+e naturalmente
+
+1684
+00:38:12,200 --> 00:38:13,020
+fanno la guerra
+
+1685
+00:38:13,020 --> 00:38:14,620
+e Jean Paul
+
+1686
+00:38:14,620 --> 00:38:15,380
+ne alza uno
+
+1687
+00:38:15,380 --> 00:38:15,660
+e mi dice
+
+1688
+00:38:15,660 --> 00:38:16,160
+papà
+
+1689
+00:38:16,160 --> 00:38:17,060
+guarda qui
+
+1690
+00:38:17,060 --> 00:38:17,840
+Hitler
+
+1691
+00:38:17,840 --> 00:38:20,160
+perfino i bambini
+
+1692
+00:38:20,160 --> 00:38:20,800
+di sei anni
+
+1693
+00:38:20,800 --> 00:38:21,840
+sanno che c'è Hitler
+
+1694
+00:38:21,840 --> 00:38:23,000
+e che verrà la guerra
+
+1695
+00:38:23,000 --> 00:38:23,580
+tra la Francia
+
+1696
+00:38:23,580 --> 00:38:24,160
+e la Germania
+
+1697
+00:38:24,160 --> 00:38:24,760
+prima o poi
+
+1698
+00:38:24,760 --> 00:38:26,960
+in Francia
+
+1699
+00:38:26,960 --> 00:38:27,640
+il clima politico
+
+1700
+00:38:27,640 --> 00:38:28,660
+è pesantissimo
+
+1701
+00:38:28,660 --> 00:38:29,840
+nel 34
+
+1702
+00:38:29,840 --> 00:38:31,140
+ci sono manifestazioni
+
+1703
+00:38:31,140 --> 00:38:31,720
+di piazza
+
+1704
+00:38:31,720 --> 00:38:32,520
+della destra
+
+1705
+00:38:32,520 --> 00:38:33,420
+che rovesciano
+
+1706
+00:38:33,420 --> 00:38:34,100
+il governo
+
+1707
+00:38:34,100 --> 00:38:35,460
+e molti hanno paura
+
+1708
+00:38:35,460 --> 00:38:36,420
+di essere a un passo
+
+1709
+00:38:36,420 --> 00:38:37,360
+dalla marcia su Roma
+
+1710
+00:38:37,360 --> 00:38:38,280
+dalla marcia su Parigi
+
+1711
+00:38:38,280 --> 00:38:39,840
+dal colpo di stato fascista
+
+1712
+00:38:39,840 --> 00:38:41,320
+Fevra
+
+1713
+00:38:41,320 --> 00:38:41,920
+in una lettera
+
+1714
+00:38:41,920 --> 00:38:42,520
+di quei giorni
+
+1715
+00:38:42,520 --> 00:38:42,980
+scrive
+
+1716
+00:38:42,980 --> 00:38:44,840
+nei licei
+
+1717
+00:38:44,840 --> 00:38:45,920
+si compra una pistola
+
+1718
+00:38:45,920 --> 00:38:47,040
+per 10 franchi
+
+1719
+00:38:47,040 --> 00:38:48,980
+allora
+
+1720
+00:38:48,980 --> 00:38:50,500
+come reagiscono
+
+1721
+00:38:50,500 --> 00:38:51,240
+questi uomini
+
+1722
+00:38:51,240 --> 00:38:51,840
+come reagisce
+
+1723
+00:38:51,840 --> 00:38:52,660
+Mark Bloch
+
+1724
+00:38:52,660 --> 00:38:53,500
+di fronte
+
+1725
+00:38:53,500 --> 00:38:54,220
+a queste cose
+
+1726
+00:38:54,220 --> 00:38:55,380
+e soprattutto
+
+1727
+00:38:55,380 --> 00:38:56,380
+che idee politiche
+
+1728
+00:38:56,380 --> 00:38:57,260
+ha Mark Bloch
+
+1729
+00:38:57,260 --> 00:38:58,960
+suo figlio
+
+1730
+00:38:58,960 --> 00:38:59,420
+Etienne
+
+1731
+00:38:59,420 --> 00:39:01,280
+provate a indovinare
+
+1732
+00:39:01,280 --> 00:39:01,760
+secondo voi
+
+1733
+00:39:01,760 --> 00:39:02,260
+ne parlava
+
+1734
+00:39:02,260 --> 00:39:02,720
+ai figli
+
+1735
+00:39:02,720 --> 00:39:04,260
+non ne parlava
+
+1736
+00:39:04,260 --> 00:39:04,800
+per niente
+
+1737
+00:39:04,800 --> 00:39:06,260
+Etienne dice
+
+1738
+00:39:06,260 --> 00:39:07,000
+secondo me
+
+1739
+00:39:07,000 --> 00:39:07,640
+mio padre
+
+1740
+00:39:07,640 --> 00:39:09,300
+non so quali erano
+
+1741
+00:39:09,300 --> 00:39:10,260
+le sue idee politiche
+
+1742
+00:39:10,260 --> 00:39:12,380
+credo di poter dire
+
+1743
+00:39:12,380 --> 00:39:13,100
+che era un uomo
+
+1744
+00:39:13,100 --> 00:39:14,100
+di sinistra
+
+1745
+00:39:14,100 --> 00:39:15,960
+ma era altrettanto
+
+1746
+00:39:15,960 --> 00:39:16,400
+un uomo
+
+1747
+00:39:16,400 --> 00:39:17,140
+d'ordine
+
+1748
+00:39:17,140 --> 00:39:18,840
+e se voi pensate
+
+1749
+00:39:18,840 --> 00:39:19,440
+chi sono
+
+1750
+00:39:19,440 --> 00:39:20,280
+questi uomini
+
+1751
+00:39:20,280 --> 00:39:22,700
+è gente
+
+1752
+00:39:22,700 --> 00:39:23,620
+che non fa politica
+
+1753
+00:39:23,620 --> 00:39:24,580
+perché non l'ha mai fatta
+
+1754
+00:39:24,580 --> 00:39:25,360
+perché sono grandi
+
+1755
+00:39:25,360 --> 00:39:26,200
+borghesi
+
+1756
+00:39:26,200 --> 00:39:27,300
+ricchi
+
+1757
+00:39:27,300 --> 00:39:28,860
+il loro ceto
+
+1758
+00:39:28,860 --> 00:39:29,380
+è tutto
+
+1759
+00:39:29,380 --> 00:39:30,160
+di destra
+
+1760
+00:39:30,160 --> 00:39:32,300
+anche il cognato
+
+1761
+00:39:32,300 --> 00:39:32,720
+ebreo
+
+1762
+00:39:32,720 --> 00:39:33,840
+che però è un petroliere
+
+1763
+00:39:33,840 --> 00:39:34,600
+e che magari
+
+1764
+00:39:34,600 --> 00:39:35,580
+finirà ad Auschwitz
+
+1765
+00:39:35,580 --> 00:39:36,520
+però in quel momento
+
+1766
+00:39:36,520 --> 00:39:37,660
+non ci pensa mica
+
+1767
+00:39:37,660 --> 00:39:38,520
+al fatto che lui è ebreo
+
+1768
+00:39:38,520 --> 00:39:39,240
+è un petroliere
+
+1769
+00:39:39,240 --> 00:39:39,760
+un grande industria
+
+1770
+00:39:39,760 --> 00:39:40,840
+sono tutti di destra
+
+1771
+00:39:40,840 --> 00:39:41,980
+nel loro mondo
+
+1772
+00:39:41,980 --> 00:39:43,740
+però questi
+
+1773
+00:39:43,740 --> 00:39:44,880
+sono storici
+
+1774
+00:39:44,880 --> 00:39:47,680
+e hanno troppa curiosità
+
+1775
+00:39:47,680 --> 00:39:48,600
+hanno troppa voglia
+
+1776
+00:39:48,600 --> 00:39:49,840
+di scoprire la verità
+
+1777
+00:39:49,840 --> 00:39:51,480
+hanno troppa capacità
+
+1778
+00:39:51,480 --> 00:39:52,280
+di non credere
+
+1779
+00:39:52,280 --> 00:39:53,300
+alla propaganda
+
+1780
+00:39:53,300 --> 00:39:55,300
+anzi hanno orrore
+
+1781
+00:39:55,300 --> 00:39:56,180
+della propaganda
+
+1782
+00:39:56,180 --> 00:39:57,600
+faccio una piccola
+
+1783
+00:39:57,600 --> 00:39:58,380
+anticipazione
+
+1784
+00:39:58,380 --> 00:39:59,200
+quando scoppia
+
+1785
+00:39:59,200 --> 00:40:00,380
+la seconda guerra mondiale
+
+1786
+00:40:00,380 --> 00:40:01,960
+bloc è richiamato
+
+1787
+00:40:01,960 --> 00:40:03,480
+e c'è l'ipotesi
+
+1788
+00:40:03,480 --> 00:40:04,020
+che lo mandino
+
+1789
+00:40:04,020 --> 00:40:04,900
+all'ufficio propaganda
+
+1790
+00:40:04,900 --> 00:40:05,700
+dell'esercito
+
+1791
+00:40:05,700 --> 00:40:07,180
+ci starebbe benissimo
+
+1792
+00:40:07,180 --> 00:40:09,600
+bloc scrive a fevre
+
+1793
+00:40:09,600 --> 00:40:11,040
+tutto ma non
+
+1794
+00:40:11,040 --> 00:40:12,060
+alla propaganda
+
+1795
+00:40:12,060 --> 00:40:13,780
+avrei orrore
+
+1796
+00:40:13,780 --> 00:40:14,260
+di un lavoro
+
+1797
+00:40:14,260 --> 00:40:15,120
+nella propaganda
+
+1798
+00:40:15,120 --> 00:40:16,940
+bisogna che gli storici
+
+1799
+00:40:16,940 --> 00:40:18,360
+abbiano le mani pulite
+
+1800
+00:40:18,360 --> 00:40:19,480
+in altre parole
+
+1801
+00:40:19,480 --> 00:40:20,240
+con le bugie
+
+1802
+00:40:20,240 --> 00:40:21,540
+neanche a fin di bene
+
+1803
+00:40:21,540 --> 00:40:23,220
+ci si può mescolare
+
+1804
+00:40:23,220 --> 00:40:25,140
+e dunque
+
+1805
+00:40:25,140 --> 00:40:26,180
+il loro mondo
+
+1806
+00:40:26,180 --> 00:40:27,060
+è tutto di destra
+
+1807
+00:40:27,060 --> 00:40:28,040
+loro però
+
+1808
+00:40:28,040 --> 00:40:29,080
+sono gente che ragiona
+
+1809
+00:40:29,080 --> 00:40:30,320
+che non crede alla propaganda
+
+1810
+00:40:30,320 --> 00:40:32,120
+non sono comunisti
+
+1811
+00:40:32,120 --> 00:40:33,260
+assolutamente
+
+1812
+00:40:33,260 --> 00:40:34,320
+perché hanno orrore
+
+1813
+00:40:34,320 --> 00:40:35,520
+del dogmatismo
+
+1814
+00:40:35,520 --> 00:40:37,040
+anche qui
+
+1815
+00:40:37,040 --> 00:40:37,960
+piccola parentesi
+
+1816
+00:40:37,960 --> 00:40:38,660
+spero che non diventi
+
+1817
+00:40:38,660 --> 00:40:39,480
+difficile seguire
+
+1818
+00:40:39,480 --> 00:40:40,880
+c'è una lettera
+
+1819
+00:40:40,880 --> 00:40:41,800
+di bloc in cui parla
+
+1820
+00:40:41,800 --> 00:40:42,600
+di un articolo
+
+1821
+00:40:42,600 --> 00:40:43,460
+per la rivista
+
+1822
+00:40:43,460 --> 00:40:44,260
+per le annal
+
+1823
+00:40:44,260 --> 00:40:45,900
+che va fatto riscrivere
+
+1824
+00:40:45,900 --> 00:40:47,320
+perché l'autore
+
+1825
+00:40:47,320 --> 00:40:48,560
+è troppo dogmatico
+
+1826
+00:40:48,560 --> 00:40:49,720
+afferma le cose
+
+1827
+00:40:49,720 --> 00:40:50,860
+con troppa sicurezza
+
+1828
+00:40:50,860 --> 00:40:52,280
+e bloc dice a fevre
+
+1829
+00:40:52,280 --> 00:40:53,740
+glielo ridì
+
+1830
+00:40:53,740 --> 00:40:54,260
+all'articolo
+
+1831
+00:40:54,260 --> 00:40:54,800
+all'autore
+
+1832
+00:40:54,800 --> 00:40:56,320
+glielo faccia riscrivere
+
+1833
+00:40:56,320 --> 00:40:58,060
+gli ricordi
+
+1834
+00:40:58,060 --> 00:40:59,940
+in caso di bisogno
+
+1835
+00:40:59,940 --> 00:41:02,020
+che il dogma
+
+1836
+00:41:02,020 --> 00:41:02,860
+è al suo posto
+
+1837
+00:41:02,860 --> 00:41:03,520
+in un bollettino
+
+1838
+00:41:03,520 --> 00:41:04,200
+parrocchiale
+
+1839
+00:41:04,200 --> 00:41:06,320
+meno nelle annal
+
+1840
+00:41:06,320 --> 00:41:07,820
+e dunque
+
+1841
+00:41:07,820 --> 00:41:08,640
+non sono certamente
+
+1842
+00:41:08,640 --> 00:41:09,200
+comunisti
+
+1843
+00:41:09,200 --> 00:41:10,520
+ma hanno il senso
+
+1844
+00:41:10,520 --> 00:41:11,880
+dei movimenti popolari
+
+1845
+00:41:11,880 --> 00:41:13,100
+delle ingiustizie
+
+1846
+00:41:13,100 --> 00:41:13,920
+sociali
+
+1847
+00:41:13,920 --> 00:41:14,860
+bloc a un certo punto
+
+1848
+00:41:14,860 --> 00:41:15,400
+arriva a dire
+
+1849
+00:41:15,400 --> 00:41:17,000
+marx doveva essere
+
+1850
+00:41:17,000 --> 00:41:18,020
+un tipo insopportabile
+
+1851
+00:41:18,020 --> 00:41:19,260
+come filosofo
+
+1852
+00:41:19,260 --> 00:41:19,920
+non credo che fosse
+
+1853
+00:41:19,920 --> 00:41:20,380
+un granché
+
+1854
+00:41:20,380 --> 00:41:22,100
+però quando dice
+
+1855
+00:41:22,100 --> 00:41:23,040
+proletari di tutto
+
+1856
+00:41:23,040 --> 00:41:23,400
+il mondo
+
+1857
+00:41:23,400 --> 00:41:23,960
+unitevi
+
+1858
+00:41:23,960 --> 00:41:25,080
+lo storico
+
+1859
+00:41:25,080 --> 00:41:26,140
+vede che c'è
+
+1860
+00:41:26,140 --> 00:41:26,860
+qualcosa
+
+1861
+00:41:26,860 --> 00:41:28,240
+di vero
+
+1862
+00:41:28,240 --> 00:41:29,040
+in questo
+
+1863
+00:41:29,040 --> 00:41:30,780
+risultato
+
+1864
+00:41:30,780 --> 00:41:32,040
+a un certo punto
+
+1865
+00:41:32,040 --> 00:41:33,060
+bloc e i suoi amici
+
+1866
+00:41:33,060 --> 00:41:33,780
+si accorgono
+
+1867
+00:41:33,780 --> 00:41:34,460
+che agli occhi
+
+1868
+00:41:34,460 --> 00:41:35,380
+del loro mondo
+
+1869
+00:41:35,380 --> 00:41:36,700
+dell'editore
+
+1870
+00:41:36,700 --> 00:41:37,460
+dell'annal
+
+1871
+00:41:37,460 --> 00:41:38,040
+che è un grande
+
+1872
+00:41:38,040 --> 00:41:38,920
+imprenditore
+
+1873
+00:41:38,920 --> 00:41:40,280
+loro sono
+
+1874
+00:41:40,280 --> 00:41:41,740
+dei rossi
+
+1875
+00:41:41,740 --> 00:41:43,340
+perché quel mondo
+
+1876
+00:41:43,340 --> 00:41:44,020
+si deve stare
+
+1877
+00:41:44,020 --> 00:41:44,700
+da una parte
+
+1878
+00:41:44,700 --> 00:41:45,680
+in quegli anni
+
+1879
+00:41:45,680 --> 00:41:46,860
+si deve stare
+
+1880
+00:41:46,860 --> 00:41:47,380
+da una parte
+
+1881
+00:41:47,380 --> 00:41:47,940
+o dall'altra
+
+1882
+00:41:47,940 --> 00:41:49,260
+se non sei
+
+1883
+00:41:49,260 --> 00:41:50,240
+tutto schierato
+
+1884
+00:41:50,240 --> 00:41:51,120
+con l'esercito
+
+1885
+00:41:51,120 --> 00:41:52,160
+con il nazionalismo
+
+1886
+00:41:52,160 --> 00:41:53,280
+ecco allora
+
+1887
+00:41:53,280 --> 00:41:54,580
+allora sei un rosso
+
+1888
+00:41:54,580 --> 00:41:55,780
+sei uno pericoloso
+
+1889
+00:41:55,780 --> 00:41:58,660
+e cosa fare?
+
+1890
+00:42:00,540 --> 00:42:01,740
+firmano appelli
+
+1891
+00:42:01,740 --> 00:42:03,720
+che non sanno bene
+
+1892
+00:42:03,720 --> 00:42:04,780
+cos'altro fare
+
+1893
+00:42:04,780 --> 00:42:07,340
+comitato di vigilanza
+
+1894
+00:42:07,340 --> 00:42:08,420
+degli intellettuali
+
+1895
+00:42:08,420 --> 00:42:09,260
+antifascisti
+
+1896
+00:42:09,260 --> 00:42:10,360
+firmano
+
+1897
+00:42:10,360 --> 00:42:12,140
+appello ai lavoratori
+
+1898
+00:42:12,140 --> 00:42:13,400
+lo leggono
+
+1899
+00:42:13,400 --> 00:42:14,880
+fra loro si dicono
+
+1900
+00:42:14,880 --> 00:42:15,860
+quante fregnacce
+
+1901
+00:42:15,860 --> 00:42:16,480
+in questo appello
+
+1902
+00:42:16,480 --> 00:42:17,100
+come scritto
+
+1903
+00:42:17,100 --> 00:42:18,460
+però cosa vuoi fare
+
+1904
+00:42:18,460 --> 00:42:19,300
+lo firmiamo
+
+1905
+00:42:19,300 --> 00:42:21,220
+e non fanno altro
+
+1906
+00:42:21,220 --> 00:42:22,360
+e insegnano
+
+1907
+00:42:22,360 --> 00:42:22,960
+e studiano
+
+1908
+00:42:22,960 --> 00:42:23,900
+e pubblicano libri
+
+1909
+00:42:23,900 --> 00:42:25,200
+e pubblicano la rivista
+
+1910
+00:42:25,200 --> 00:42:26,240
+e di fronte
+
+1911
+00:42:26,240 --> 00:42:26,840
+ai tempi
+
+1912
+00:42:26,840 --> 00:42:27,700
+che cambiano
+
+1913
+00:42:27,700 --> 00:42:29,360
+si dicono
+
+1914
+00:42:29,360 --> 00:42:31,140
+e adesso cosa succederà?
+
+1915
+00:42:32,720 --> 00:42:33,840
+una lettera di bloc
+
+1916
+00:42:33,840 --> 00:42:34,640
+del 35
+
+1917
+00:42:34,640 --> 00:42:37,080
+non essendo profeta
+
+1918
+00:42:37,080 --> 00:42:38,080
+quando vi dico
+
+1919
+00:42:38,080 --> 00:42:38,660
+che vedono
+
+1920
+00:42:38,660 --> 00:42:39,800
+quello che sta arrivando
+
+1921
+00:42:39,800 --> 00:42:40,920
+e uno non ci crede quasi
+
+1922
+00:42:40,920 --> 00:42:43,000
+lettera del dicembre 35
+
+1923
+00:42:43,000 --> 00:42:45,180
+non essendo profeta
+
+1924
+00:42:45,180 --> 00:42:46,580
+non so dove sarò
+
+1925
+00:42:46,580 --> 00:42:47,640
+nell'agosto 38
+
+1926
+00:42:47,640 --> 00:42:48,860
+voglio dire
+
+1927
+00:42:48,860 --> 00:42:49,620
+in che mondo
+
+1928
+00:42:49,620 --> 00:42:51,600
+e se in questo
+
+1929
+00:42:51,600 --> 00:42:53,160
+sotto che cielo
+
+1930
+00:42:53,160 --> 00:42:54,380
+o magari
+
+1931
+00:42:54,380 --> 00:42:55,040
+in un rifugio
+
+1932
+00:42:55,040 --> 00:42:55,880
+antiaereo
+
+1933
+00:42:55,880 --> 00:42:57,060
+o in un campo
+
+1934
+00:42:57,060 --> 00:42:58,060
+di concentramento
+
+1935
+00:42:58,060 --> 00:42:59,500
+la vita
+
+1936
+00:42:59,500 --> 00:43:00,160
+con i tempi
+
+1937
+00:43:00,160 --> 00:43:00,920
+che corrono
+
+1938
+00:43:00,920 --> 00:43:02,020
+non abbonda
+
+1939
+00:43:02,020 --> 00:43:03,100
+in certezze
+
+1940
+00:43:03,100 --> 00:43:05,980
+altra lettera
+
+1941
+00:43:05,980 --> 00:43:06,820
+del 37
+
+1942
+00:43:06,820 --> 00:43:07,960
+da Londra
+
+1943
+00:43:07,960 --> 00:43:09,160
+è in viaggio a Londra
+
+1944
+00:43:09,160 --> 00:43:09,900
+scopre che
+
+1945
+00:43:09,900 --> 00:43:10,460
+a Londra
+
+1946
+00:43:10,460 --> 00:43:12,240
+Hitler sta simpatico
+
+1947
+00:43:12,240 --> 00:43:12,620
+a tutti
+
+1948
+00:43:12,620 --> 00:43:14,100
+e che l'Inghilterra
+
+1949
+00:43:14,100 --> 00:43:15,240
+farebbe tanto volentieri
+
+1950
+00:43:15,240 --> 00:43:16,260
+un accordo con Hitler
+
+1951
+00:43:16,260 --> 00:43:17,660
+qui è dove si lascia andare
+
+1952
+00:43:17,660 --> 00:43:18,280
+più di tutti
+
+1953
+00:43:18,280 --> 00:43:19,680
+più di tutte le altre lettere
+
+1954
+00:43:19,680 --> 00:43:20,240
+che ho letto
+
+1955
+00:43:20,240 --> 00:43:22,160
+vorrei vedere
+
+1956
+00:43:22,160 --> 00:43:22,900
+impiccare
+
+1957
+00:43:22,900 --> 00:43:23,760
+Mussolini
+
+1958
+00:43:23,760 --> 00:43:24,480
+Hitler
+
+1959
+00:43:24,480 --> 00:43:25,200
+e Laval
+
+1960
+00:43:25,200 --> 00:43:25,940
+che è
+
+1961
+00:43:25,940 --> 00:43:27,360
+il filofascista francese
+
+1962
+00:43:27,360 --> 00:43:29,160
+non succederà
+
+1963
+00:43:29,160 --> 00:43:30,340
+e in fondo
+
+1964
+00:43:30,340 --> 00:43:31,240
+sarebbe una magra
+
+1965
+00:43:31,240 --> 00:43:32,160
+consolazione
+
+1966
+00:43:32,160 --> 00:43:33,540
+uno
+
+1967
+00:43:33,540 --> 00:43:34,960
+nel suo angolino
+
+1968
+00:43:34,960 --> 00:43:36,100
+non vede modo
+
+1969
+00:43:36,100 --> 00:43:37,040
+di far niente
+
+1970
+00:43:37,040 --> 00:43:38,540
+mi scusi
+
+1971
+00:43:38,540 --> 00:43:39,520
+per questi discorsi
+
+1972
+00:43:39,520 --> 00:43:40,060
+inutili
+
+1973
+00:43:40,060 --> 00:43:41,900
+meglio lavorare
+
+1974
+00:43:41,900 --> 00:43:42,460
+penso
+
+1975
+00:43:42,460 --> 00:43:43,720
+ecco
+
+1976
+00:43:43,720 --> 00:43:45,240
+in questo momento
+
+1977
+00:43:45,240 --> 00:43:45,980
+vedremo poi
+
+1978
+00:43:45,980 --> 00:43:46,420
+abbiamo ancora
+
+1979
+00:43:46,420 --> 00:43:46,900
+insomma sì
+
+1980
+00:43:46,900 --> 00:43:47,420
+lo vedremo
+
+1981
+00:43:47,420 --> 00:43:48,700
+che farà in tempo
+
+1982
+00:43:48,700 --> 00:43:49,460
+a dirsi come abbiamo
+
+1983
+00:43:49,460 --> 00:43:50,160
+sbagliato
+
+1984
+00:43:50,160 --> 00:43:51,520
+ma in questo momento
+
+1985
+00:43:51,520 --> 00:43:52,480
+fra le due guerre
+
+1986
+00:43:52,480 --> 00:43:53,480
+Bloch si dice
+
+1987
+00:43:53,480 --> 00:43:54,820
+cosa possiamo fare
+
+1988
+00:43:54,820 --> 00:43:55,860
+lavoriamo
+
+1989
+00:43:55,860 --> 00:43:58,740
+e poi scoppia
+
+1990
+00:43:58,740 --> 00:43:59,440
+la nuova guerra
+
+1991
+00:43:59,440 --> 00:44:00,620
+nel 39
+
+1992
+00:44:00,620 --> 00:44:01,720
+scoppia la seconda
+
+1993
+00:44:01,720 --> 00:44:02,360
+guerra mondiale
+
+1994
+00:44:02,360 --> 00:44:03,460
+e il capitano
+
+1995
+00:44:03,460 --> 00:44:04,240
+Mark Bloch
+
+1996
+00:44:04,240 --> 00:44:05,180
+viene richiamato
+
+1997
+00:44:05,180 --> 00:44:06,200
+per fare la guerra
+
+1998
+00:44:06,200 --> 00:44:08,380
+e potrebbe anche
+
+1999
+00:44:08,380 --> 00:44:10,220
+farsi esentare
+
+2000
+00:44:10,220 --> 00:44:11,220
+perché ormai
+
+2001
+00:44:11,220 --> 00:44:12,280
+ha più di 50 anni
+
+2002
+00:44:12,280 --> 00:44:13,320
+e tiene sei figli
+
+2003
+00:44:13,320 --> 00:44:14,600
+ma non vuole
+
+2004
+00:44:14,600 --> 00:44:15,540
+chiedere l'esonero
+
+2005
+00:44:15,540 --> 00:44:16,680
+e quindi va in guerra
+
+2006
+00:44:16,680 --> 00:44:17,980
+stavolta non va più
+
+2007
+00:44:17,980 --> 00:44:18,680
+in trincea
+
+2008
+00:44:18,680 --> 00:44:20,220
+va nello stato maggiore
+
+2009
+00:44:20,220 --> 00:44:20,940
+di un'armata
+
+2010
+00:44:20,940 --> 00:44:23,120
+scherza
+
+2011
+00:44:23,120 --> 00:44:23,660
+dice devo essere
+
+2012
+00:44:23,660 --> 00:44:24,620
+il capitano più vecchio
+
+2013
+00:44:24,620 --> 00:44:26,060
+dell'esercito francese
+
+2014
+00:44:26,060 --> 00:44:28,240
+lo mettono in un ufficio
+
+2015
+00:44:28,240 --> 00:44:29,700
+all'inizio
+
+2016
+00:44:29,700 --> 00:44:30,220
+gli fanno fare
+
+2017
+00:44:30,220 --> 00:44:31,320
+una cosa che sa fare bene
+
+2018
+00:44:31,320 --> 00:44:32,860
+l'ufficiale di collegamento
+
+2019
+00:44:32,860 --> 00:44:34,460
+con gli alleati inglesi
+
+2020
+00:44:34,460 --> 00:44:34,920
+lui è uno
+
+2021
+00:44:34,920 --> 00:44:36,080
+che sa le lingue
+
+2022
+00:44:36,080 --> 00:44:37,440
+ma gli eserciti
+
+2023
+00:44:37,440 --> 00:44:38,620
+hanno le loro logiche
+
+2024
+00:44:38,620 --> 00:44:39,560
+dopo un po'
+
+2025
+00:44:39,600 --> 00:44:40,340
+lo spostano
+
+2026
+00:44:40,340 --> 00:44:41,780
+lo mettono
+
+2027
+00:44:41,780 --> 00:44:42,480
+a gestire
+
+2028
+00:44:42,480 --> 00:44:43,700
+i rifornimenti
+
+2029
+00:44:43,700 --> 00:44:44,400
+di benzina
+
+2030
+00:44:44,400 --> 00:44:45,300
+di un'armata
+
+2031
+00:44:45,300 --> 00:44:47,860
+per capirci
+
+2032
+00:44:47,860 --> 00:44:49,240
+gestire i rifornimenti
+
+2033
+00:44:49,240 --> 00:44:49,720
+di benzina
+
+2034
+00:44:49,720 --> 00:44:50,400
+di un'armata
+
+2035
+00:44:50,400 --> 00:44:50,880
+vuol dire
+
+2036
+00:44:50,880 --> 00:44:52,340
+che tu sei l'uomo
+
+2037
+00:44:52,340 --> 00:44:54,100
+che deve garantire
+
+2038
+00:44:54,100 --> 00:44:55,260
+che alcune migliaia
+
+2039
+00:44:55,260 --> 00:44:56,120
+di carri armati
+
+2040
+00:44:56,120 --> 00:44:56,800
+e camion
+
+2041
+00:44:56,800 --> 00:44:57,680
+ricevono
+
+2042
+00:44:57,680 --> 00:44:58,800
+trovano ogni giorno
+
+2043
+00:44:58,800 --> 00:44:59,440
+la benzina
+
+2044
+00:44:59,440 --> 00:45:00,200
+che gli serve
+
+2045
+00:45:00,200 --> 00:45:00,980
+nel deposito
+
+2046
+00:45:00,980 --> 00:45:01,420
+che si trova
+
+2047
+00:45:01,420 --> 00:45:02,520
+in quel certo posto
+
+2048
+00:45:02,520 --> 00:45:03,560
+e tu gli hai rilasciato
+
+2049
+00:45:03,560 --> 00:45:04,140
+il buono
+
+2050
+00:45:04,140 --> 00:45:05,020
+con la garanzia
+
+2051
+00:45:05,020 --> 00:45:05,560
+che la benzina
+
+2052
+00:45:05,560 --> 00:45:06,140
+la trovano
+
+2053
+00:45:06,140 --> 00:45:06,640
+e intanto
+
+2054
+00:45:06,640 --> 00:45:07,360
+ne arriva dell'eco
+
+2055
+00:45:07,360 --> 00:45:08,260
+tu devi gestire
+
+2056
+00:45:08,260 --> 00:45:09,000
+tutto questo
+
+2057
+00:45:09,000 --> 00:45:09,960
+blocca all'inizio
+
+2058
+00:45:09,960 --> 00:45:10,460
+dice oddio
+
+2059
+00:45:10,460 --> 00:45:11,200
+speriamo che Hitler
+
+2060
+00:45:11,200 --> 00:45:12,080
+non attacchi subito
+
+2061
+00:45:12,080 --> 00:45:14,340
+perché altrimenti
+
+2062
+00:45:14,340 --> 00:45:15,760
+poi però impara
+
+2063
+00:45:15,760 --> 00:45:17,600
+e si scopre
+
+2064
+00:45:17,600 --> 00:45:18,300
+una cosa
+
+2065
+00:45:18,300 --> 00:45:20,100
+che un po'
+
+2066
+00:45:20,140 --> 00:45:21,040
+già si intuiva
+
+2067
+00:45:21,040 --> 00:45:22,440
+che in realtà
+
+2068
+00:45:22,440 --> 00:45:24,040
+il capitano Bloch
+
+2069
+00:45:24,040 --> 00:45:25,160
+in guerra
+
+2070
+00:45:25,160 --> 00:45:25,620
+si trova
+
+2071
+00:45:25,620 --> 00:45:26,560
+nel suo elemento
+
+2072
+00:45:26,560 --> 00:45:27,740
+e che tutto quello
+
+2073
+00:45:27,740 --> 00:45:28,500
+che comincia a fare
+
+2074
+00:45:28,500 --> 00:45:29,180
+lo fa bene
+
+2075
+00:45:29,180 --> 00:45:30,920
+si impadronisce
+
+2076
+00:45:30,920 --> 00:45:32,200
+di questo meccanismo
+
+2077
+00:45:32,200 --> 00:45:33,040
+e comincia
+
+2078
+00:45:33,040 --> 00:45:33,980
+a piacergli
+
+2079
+00:45:33,980 --> 00:45:36,500
+vanno avanti
+
+2080
+00:45:36,500 --> 00:45:36,960
+per un po'
+
+2081
+00:45:37,020 --> 00:45:37,560
+di mesi
+
+2082
+00:45:37,560 --> 00:45:38,740
+qui vi devo richiamare
+
+2083
+00:45:38,740 --> 00:45:40,820
+vi seguite sempre
+
+2084
+00:45:40,820 --> 00:45:41,520
+ormai siamo arrivati
+
+2085
+00:45:41,520 --> 00:45:42,160
+al 40
+
+2086
+00:45:42,160 --> 00:45:43,840
+vi devo richiamare
+
+2087
+00:45:43,840 --> 00:45:44,220
+l'inizio
+
+2088
+00:45:44,220 --> 00:45:45,460
+della seconda guerra mondiale
+
+2089
+00:45:45,460 --> 00:45:47,380
+sul fronte occidentale
+
+2090
+00:45:47,380 --> 00:45:48,000
+ricordate
+
+2091
+00:45:48,000 --> 00:45:49,320
+la drolle de guerre
+
+2092
+00:45:49,320 --> 00:45:50,860
+la guerra assurda
+
+2093
+00:45:50,860 --> 00:45:51,920
+la finta guerra
+
+2094
+00:45:51,920 --> 00:45:53,300
+cosa è successo
+
+2095
+00:45:53,300 --> 00:45:53,940
+in breve
+
+2096
+00:45:53,940 --> 00:45:55,320
+Hitler ha attaccato
+
+2097
+00:45:55,320 --> 00:45:55,920
+la Polonia
+
+2098
+00:45:55,920 --> 00:45:56,920
+questo lo sappiamo tutti
+
+2099
+00:45:56,920 --> 00:45:57,680
+se l'è mangiata
+
+2100
+00:45:57,680 --> 00:45:59,160
+la Francia
+
+2101
+00:45:59,160 --> 00:45:59,900
+e l'Inghilterra
+
+2102
+00:45:59,900 --> 00:46:00,540
+gli hanno dichiarato
+
+2103
+00:46:00,540 --> 00:46:01,460
+guerra per difendere
+
+2104
+00:46:01,460 --> 00:46:02,060
+la Polonia
+
+2105
+00:46:02,060 --> 00:46:04,100
+però non hanno osato
+
+2106
+00:46:04,100 --> 00:46:04,880
+attaccare
+
+2107
+00:46:04,880 --> 00:46:07,060
+e neanche Hitler
+
+2108
+00:46:07,060 --> 00:46:08,220
+ha attaccato
+
+2109
+00:46:08,220 --> 00:46:10,220
+dal settembre 39
+
+2110
+00:46:10,220 --> 00:46:11,880
+al maggio del 40
+
+2111
+00:46:11,880 --> 00:46:13,280
+questi eserciti
+
+2112
+00:46:13,280 --> 00:46:14,040
+stanno l'uno
+
+2113
+00:46:14,040 --> 00:46:15,180
+di fronte all'altro
+
+2114
+00:46:15,180 --> 00:46:16,340
+praticamente
+
+2115
+00:46:16,340 --> 00:46:17,500
+senza sparare
+
+2116
+00:46:17,500 --> 00:46:18,200
+un colpo
+
+2117
+00:46:18,200 --> 00:46:20,260
+e il capitano
+
+2118
+00:46:20,260 --> 00:46:21,040
+Mark Bloch
+
+2119
+00:46:21,040 --> 00:46:21,720
+mentre gestisce
+
+2120
+00:46:21,720 --> 00:46:22,620
+la sua benzina
+
+2121
+00:46:22,620 --> 00:46:25,180
+annota
+
+2122
+00:46:25,180 --> 00:46:26,440
+come l'umore
+
+2123
+00:46:26,440 --> 00:46:27,560
+dell'esercito
+
+2124
+00:46:27,560 --> 00:46:28,320
+pian piano
+
+2125
+00:46:28,320 --> 00:46:29,320
+si guasta
+
+2126
+00:46:29,320 --> 00:46:31,160
+in questi lunghi
+
+2127
+00:46:31,160 --> 00:46:31,680
+mesi
+
+2128
+00:46:31,680 --> 00:46:32,840
+in cui non sai
+
+2129
+00:46:32,840 --> 00:46:33,900
+non sai
+
+2130
+00:46:33,900 --> 00:46:34,500
+se stai facendo
+
+2131
+00:46:34,500 --> 00:46:35,480
+davvero la guerra
+
+2132
+00:46:35,480 --> 00:46:36,200
+non sai
+
+2133
+00:46:36,200 --> 00:46:37,300
+perché la fai
+
+2134
+00:46:37,300 --> 00:46:40,440
+nell'aprile del 40
+
+2135
+00:46:40,440 --> 00:46:41,200
+in una sua lettera
+
+2136
+00:46:41,200 --> 00:46:41,400
+dice
+
+2137
+00:46:41,400 --> 00:46:41,700
+qui
+
+2138
+00:46:41,700 --> 00:46:42,420
+qui si vive
+
+2139
+00:46:42,420 --> 00:46:43,020
+nella noia
+
+2140
+00:46:43,020 --> 00:46:43,820
+più totale
+
+2141
+00:46:43,820 --> 00:46:45,560
+nell'attesa
+
+2142
+00:46:45,560 --> 00:46:46,760
+di qualche cosa
+
+2143
+00:46:46,760 --> 00:46:49,220
+magari spaventoso
+
+2144
+00:46:49,220 --> 00:46:50,560
+ma che renda
+
+2145
+00:46:50,560 --> 00:46:51,160
+un po' meno
+
+2146
+00:46:51,160 --> 00:46:51,860
+assurda
+
+2147
+00:46:51,860 --> 00:46:53,000
+la nostra esistenza
+
+2148
+00:46:53,000 --> 00:46:53,320
+qui
+
+2149
+00:46:53,320 --> 00:46:54,880
+così sta vivendo
+
+2150
+00:46:54,880 --> 00:46:55,680
+tutto l'esercito
+
+2151
+00:46:55,680 --> 00:46:56,500
+francese
+
+2152
+00:46:56,500 --> 00:46:57,500
+e così vive
+
+2153
+00:46:57,500 --> 00:46:58,540
+tutta la Francia
+
+2154
+00:46:58,540 --> 00:47:01,460
+poi il 10 maggio
+
+2155
+00:47:01,460 --> 00:47:02,280
+1940
+
+2156
+00:47:02,280 --> 00:47:03,020
+i tedeschi
+
+2157
+00:47:03,020 --> 00:47:03,600
+attaccano
+
+2158
+00:47:03,600 --> 00:47:05,020
+e nel giro
+
+2159
+00:47:05,020 --> 00:47:06,040
+di pochi giorni
+
+2160
+00:47:06,040 --> 00:47:07,100
+sbaragliano
+
+2161
+00:47:07,100 --> 00:47:08,420
+l'esercito francese
+
+2162
+00:47:08,420 --> 00:47:10,000
+sfondano il fronte
+
+2163
+00:47:10,000 --> 00:47:11,240
+e invadono
+
+2164
+00:47:11,240 --> 00:47:11,960
+la Francia
+
+2165
+00:47:11,960 --> 00:47:13,360
+e gran parte
+
+2166
+00:47:13,360 --> 00:47:14,440
+dell'esercito francese
+
+2167
+00:47:14,440 --> 00:47:15,520
+compresa l'armata
+
+2168
+00:47:15,520 --> 00:47:16,140
+dove Bloch
+
+2169
+00:47:16,140 --> 00:47:17,060
+è come dice lui
+
+2170
+00:47:17,060 --> 00:47:18,120
+il gran capo
+
+2171
+00:47:18,120 --> 00:47:18,880
+della benzina
+
+2172
+00:47:18,880 --> 00:47:20,860
+si trova circondata
+
+2173
+00:47:20,860 --> 00:47:21,700
+dai tedeschi
+
+2174
+00:47:21,700 --> 00:47:22,840
+e in rotta
+
+2175
+00:47:22,840 --> 00:47:23,560
+in ritirata
+
+2176
+00:47:23,560 --> 00:47:24,420
+frenetica
+
+2177
+00:47:24,420 --> 00:47:25,640
+per arrivare
+
+2178
+00:47:25,640 --> 00:47:26,320
+a un porto
+
+2179
+00:47:26,320 --> 00:47:26,900
+qualunque
+
+2180
+00:47:26,900 --> 00:47:27,960
+e imbarcarsi
+
+2181
+00:47:27,960 --> 00:47:29,660
+per mettersi in salvo
+
+2182
+00:47:29,660 --> 00:47:30,200
+dai tedeschi
+
+2183
+00:47:30,200 --> 00:47:30,920
+che incalzano
+
+2184
+00:47:30,920 --> 00:47:31,700
+arrivano
+
+2185
+00:47:31,700 --> 00:47:32,680
+come sapete tutti
+
+2186
+00:47:32,680 --> 00:47:33,520
+a Dunkirk
+
+2187
+00:47:33,520 --> 00:47:35,600
+dove la flotta inglese
+
+2188
+00:47:35,600 --> 00:47:36,460
+effettivamente
+
+2189
+00:47:36,460 --> 00:47:38,120
+riesce a salvare
+
+2190
+00:47:38,120 --> 00:47:38,720
+e portare
+
+2191
+00:47:38,720 --> 00:47:39,680
+in Inghilterra
+
+2192
+00:47:39,680 --> 00:47:40,580
+gran parte
+
+2193
+00:47:40,580 --> 00:47:41,700
+delle forze inglesi
+
+2194
+00:47:41,700 --> 00:47:42,760
+e francesi
+
+2195
+00:47:42,760 --> 00:47:43,500
+che erano state
+
+2196
+00:47:43,500 --> 00:47:44,180
+circondate
+
+2197
+00:47:44,180 --> 00:47:45,200
+Bloch
+
+2198
+00:47:45,200 --> 00:47:46,340
+è lì
+
+2199
+00:47:46,340 --> 00:47:47,660
+nella ritirata
+
+2200
+00:47:47,660 --> 00:47:49,800
+e più che mai
+
+2201
+00:47:49,800 --> 00:47:51,140
+è nel suo elemento
+
+2202
+00:47:51,140 --> 00:47:53,520
+sapete
+
+2203
+00:47:53,520 --> 00:47:54,540
+era il re della benzina
+
+2204
+00:47:54,540 --> 00:47:55,200
+aveva la mappa
+
+2205
+00:47:55,200 --> 00:47:56,100
+di tutti i depositi
+
+2206
+00:47:56,100 --> 00:47:56,560
+di benzina
+
+2207
+00:47:56,560 --> 00:47:57,200
+dell'armata
+
+2208
+00:47:57,200 --> 00:47:58,260
+adesso che si stanno
+
+2209
+00:47:58,260 --> 00:47:59,360
+ritirando di corsa
+
+2210
+00:47:59,360 --> 00:48:00,040
+con i tedeschi
+
+2211
+00:48:00,040 --> 00:48:00,560
+dietro
+
+2212
+00:48:00,560 --> 00:48:01,960
+qual è il suo compito
+
+2213
+00:48:01,960 --> 00:48:02,880
+con ordini
+
+2214
+00:48:02,880 --> 00:48:03,700
+o senza ordini
+
+2215
+00:48:03,700 --> 00:48:04,720
+bruciare tutto
+
+2216
+00:48:04,720 --> 00:48:07,520
+da Mons a Lille
+
+2217
+00:48:07,520 --> 00:48:09,180
+ho fatto bruciare
+
+2218
+00:48:09,180 --> 00:48:11,000
+a tutti gli incroci
+
+2219
+00:48:11,000 --> 00:48:11,880
+della ritirata
+
+2220
+00:48:11,880 --> 00:48:13,760
+migliaia di ettolitri
+
+2221
+00:48:13,760 --> 00:48:14,520
+di benzina
+
+2222
+00:48:14,520 --> 00:48:16,040
+ho appiccato
+
+2223
+00:48:16,040 --> 00:48:16,840
+più incendi
+
+2224
+00:48:16,840 --> 00:48:17,280
+di quelli
+
+2225
+00:48:17,280 --> 00:48:17,620
+che può
+
+2226
+00:48:17,620 --> 00:48:18,400
+aver appiccato
+
+2227
+00:48:18,400 --> 00:48:18,900
+Attila
+
+2228
+00:48:18,900 --> 00:48:21,120
+dopodiché
+
+2229
+00:48:21,120 --> 00:48:21,700
+a uno storico
+
+2230
+00:48:21,700 --> 00:48:22,860
+capitano strani incontri
+
+2231
+00:48:22,860 --> 00:48:23,620
+sulla spiaggia
+
+2232
+00:48:23,620 --> 00:48:24,640
+di Dunkirk
+
+2233
+00:48:24,640 --> 00:48:25,360
+con i bombardieri
+
+2234
+00:48:25,360 --> 00:48:25,820
+tedeschi
+
+2235
+00:48:25,820 --> 00:48:26,560
+che scendono giù
+
+2236
+00:48:26,560 --> 00:48:27,380
+e tutti lì
+
+2237
+00:48:27,380 --> 00:48:27,880
+che aspettano
+
+2238
+00:48:27,880 --> 00:48:28,220
+di vedere
+
+2239
+00:48:28,220 --> 00:48:29,020
+se si salvano
+
+2240
+00:48:29,020 --> 00:48:29,880
+incontra
+
+2241
+00:48:29,880 --> 00:48:30,820
+un giovane ufficiale
+
+2242
+00:48:30,820 --> 00:48:31,220
+dice ma lei
+
+2243
+00:48:31,220 --> 00:48:31,980
+era un mio studente
+
+2244
+00:48:31,980 --> 00:48:32,480
+certo
+
+2245
+00:48:32,480 --> 00:48:33,900
+professor Bloch
+
+2246
+00:48:33,900 --> 00:48:35,300
+ho appena letto
+
+2247
+00:48:35,300 --> 00:48:35,840
+il suo libro
+
+2248
+00:48:35,840 --> 00:48:37,180
+sulla società feudale
+
+2249
+00:48:37,180 --> 00:48:38,980
+che capolavoro
+
+2250
+00:48:38,980 --> 00:48:40,300
+e stanno lì
+
+2251
+00:48:40,300 --> 00:48:41,220
+a parlare di questo
+
+2252
+00:48:41,220 --> 00:48:41,760
+con gli stuca
+
+2253
+00:48:41,760 --> 00:48:43,180
+che vengono giù
+
+2254
+00:48:43,180 --> 00:48:45,300
+Bloch è nel suo elemento
+
+2255
+00:48:45,300 --> 00:48:46,980
+un collega
+
+2256
+00:48:46,980 --> 00:48:48,260
+un ufficiale di mestiere
+
+2257
+00:48:48,260 --> 00:48:49,580
+gli dice una cosa
+
+2258
+00:48:49,580 --> 00:48:51,080
+che gli fa un piacere enorme
+
+2259
+00:48:51,080 --> 00:48:52,180
+tanto che lui la scrive
+
+2260
+00:48:52,180 --> 00:48:53,060
+nei suoi ricordi
+
+2261
+00:48:53,060 --> 00:48:54,140
+il collega
+
+2262
+00:48:54,140 --> 00:48:54,560
+gli dice
+
+2263
+00:48:54,560 --> 00:48:55,060
+guardi
+
+2264
+00:48:55,060 --> 00:48:57,040
+ci sono dei militari
+
+2265
+00:48:57,040 --> 00:48:57,640
+di mestiere
+
+2266
+00:48:57,640 --> 00:48:58,960
+che non saranno mai
+
+2267
+00:48:58,960 --> 00:48:59,680
+dei guerrieri
+
+2268
+00:48:59,680 --> 00:49:01,720
+e ci sono dei civili
+
+2269
+00:49:01,720 --> 00:49:02,160
+che invece
+
+2270
+00:49:02,160 --> 00:49:02,700
+per natura
+
+2271
+00:49:02,700 --> 00:49:03,760
+sono dei guerrieri
+
+2272
+00:49:03,760 --> 00:49:06,080
+prima del 10 maggio
+
+2273
+00:49:06,080 --> 00:49:06,920
+il giorno
+
+2274
+00:49:06,920 --> 00:49:08,040
+dell'attacco tedesco
+
+2275
+00:49:08,040 --> 00:49:10,180
+non l'avrei mai
+
+2276
+00:49:10,180 --> 00:49:10,940
+immaginato
+
+2277
+00:49:10,940 --> 00:49:12,020
+ma lei
+
+2278
+00:49:12,020 --> 00:49:13,960
+lei è un guerriero
+
+2279
+00:49:13,960 --> 00:49:15,160
+ecco Bloch
+
+2280
+00:49:15,160 --> 00:49:16,320
+sentirsi dire questa cosa
+
+2281
+00:49:16,320 --> 00:49:17,520
+da un ufficiale di mestiere
+
+2282
+00:49:17,520 --> 00:49:19,160
+non è che la guerra
+
+2283
+00:49:19,160 --> 00:49:19,720
+gli piaccia
+
+2284
+00:49:19,720 --> 00:49:20,460
+ma l'avventura
+
+2285
+00:49:20,460 --> 00:49:21,260
+gli piace
+
+2286
+00:49:21,260 --> 00:49:22,900
+e di avventura
+
+2287
+00:49:22,900 --> 00:49:23,880
+ne ha finché si vuole
+
+2288
+00:49:23,880 --> 00:49:25,580
+si imbarca a Dunkerque
+
+2289
+00:49:25,580 --> 00:49:27,020
+lo portano in Inghilterra
+
+2290
+00:49:27,020 --> 00:49:28,880
+sarebbe in salvo
+
+2291
+00:49:28,880 --> 00:49:30,820
+ma il comando francese
+
+2292
+00:49:30,820 --> 00:49:31,500
+non ha mica capito
+
+2293
+00:49:31,500 --> 00:49:31,920
+che la guerra
+
+2294
+00:49:31,920 --> 00:49:32,480
+è perduta
+
+2295
+00:49:32,480 --> 00:49:33,960
+l'intera armata
+
+2296
+00:49:33,960 --> 00:49:35,280
+trasferita in Inghilterra
+
+2297
+00:49:35,280 --> 00:49:36,360
+viene reimbarcata
+
+2298
+00:49:36,360 --> 00:49:36,960
+il giorno dopo
+
+2299
+00:49:36,960 --> 00:49:37,980
+e riportata in Francia
+
+2300
+00:49:37,980 --> 00:49:39,720
+un po' più lontano
+
+2301
+00:49:39,720 --> 00:49:40,700
+in Normandia
+
+2302
+00:49:40,700 --> 00:49:41,880
+con l'idea
+
+2303
+00:49:41,880 --> 00:49:42,900
+di rimetterla in piedi
+
+2304
+00:49:42,900 --> 00:49:43,980
+e continuare la guerra
+
+2305
+00:49:43,980 --> 00:49:45,120
+quindi il professor Bloch
+
+2306
+00:49:45,120 --> 00:49:46,200
+il capitano Bloch
+
+2307
+00:49:46,200 --> 00:49:47,180
+con tutti gli altri
+
+2308
+00:49:47,180 --> 00:49:48,440
+viene reimbarcato
+
+2309
+00:49:48,440 --> 00:49:49,260
+la sera stessa
+
+2310
+00:49:49,260 --> 00:49:50,340
+e il mattino dopo
+
+2311
+00:49:50,340 --> 00:49:50,980
+sbarca di nuovo
+
+2312
+00:49:50,980 --> 00:49:51,580
+in Francia
+
+2313
+00:49:51,580 --> 00:49:53,060
+lì cercano
+
+2314
+00:49:53,060 --> 00:49:54,000
+di rimettere in piedi
+
+2315
+00:49:54,000 --> 00:49:54,660
+l'armata
+
+2316
+00:49:54,660 --> 00:49:56,240
+i tedeschi avanzano
+
+2317
+00:49:56,240 --> 00:49:56,920
+continuamente
+
+2318
+00:49:56,920 --> 00:49:57,540
+dice ogni giorno
+
+2319
+00:49:57,540 --> 00:49:58,400
+ci spostavamo indietro
+
+2320
+00:49:58,400 --> 00:49:59,260
+di 20 chilometri
+
+2321
+00:49:59,260 --> 00:50:00,860
+non abbiamo mica capito
+
+2322
+00:50:00,860 --> 00:50:01,800
+che bisognava spostarsi
+
+2323
+00:50:01,800 --> 00:50:03,400
+di 200 chilometri
+
+2324
+00:50:03,400 --> 00:50:04,420
+non avevamo capito
+
+2325
+00:50:04,420 --> 00:50:04,940
+niente
+
+2326
+00:50:04,940 --> 00:50:05,320
+dice
+
+2327
+00:50:05,320 --> 00:50:07,340
+finalmente un bel giorno
+
+2328
+00:50:07,340 --> 00:50:08,360
+nella città di Rennes
+
+2329
+00:50:08,360 --> 00:50:09,740
+il capitano Bloch
+
+2330
+00:50:09,740 --> 00:50:10,740
+esce dal suo ufficio
+
+2331
+00:50:10,740 --> 00:50:11,620
+attraversa la strada
+
+2332
+00:50:11,620 --> 00:50:12,540
+poi sente un rumore
+
+2333
+00:50:12,540 --> 00:50:13,080
+si volta
+
+2334
+00:50:13,080 --> 00:50:14,300
+e ci sono i tedeschi
+
+2335
+00:50:14,300 --> 00:50:15,160
+che stanno attraversando
+
+2336
+00:50:15,160 --> 00:50:15,680
+la strada
+
+2337
+00:50:15,680 --> 00:50:17,660
+la colonna corazzata tedesca
+
+2338
+00:50:17,660 --> 00:50:19,100
+che è entrata in città
+
+2339
+00:50:19,100 --> 00:50:19,980
+a questo punto
+
+2340
+00:50:19,980 --> 00:50:20,980
+il capitano Bloch
+
+2341
+00:50:20,980 --> 00:50:22,020
+si guarda intorno
+
+2342
+00:50:22,020 --> 00:50:24,780
+poi va all'albergo
+
+2343
+00:50:24,780 --> 00:50:25,100
+no
+
+2344
+00:50:25,100 --> 00:50:26,240
+passa da un conoscente
+
+2345
+00:50:26,240 --> 00:50:27,340
+si fa dare
+
+2346
+00:50:27,340 --> 00:50:28,600
+un abito civile
+
+2347
+00:50:28,600 --> 00:50:30,280
+giacca e cravatta
+
+2348
+00:50:30,280 --> 00:50:31,220
+i pantaloni della divisa
+
+2349
+00:50:31,220 --> 00:50:32,020
+si confondevano
+
+2350
+00:50:32,020 --> 00:50:33,080
+si fa dare
+
+2351
+00:50:33,080 --> 00:50:34,040
+giacca e cravatta
+
+2352
+00:50:34,040 --> 00:50:35,320
+smette l'uniforme
+
+2353
+00:50:35,320 --> 00:50:36,780
+va all'albergo
+
+2354
+00:50:36,780 --> 00:50:38,140
+e prende una stanza
+
+2355
+00:50:38,140 --> 00:50:38,760
+all'albergo
+
+2356
+00:50:38,760 --> 00:50:39,900
+a nome del professor Bloch
+
+2357
+00:50:39,900 --> 00:50:40,440
+di Parigi
+
+2358
+00:50:40,440 --> 00:50:42,960
+non mi hanno mai cercato
+
+2359
+00:50:42,960 --> 00:50:43,460
+i tedeschi
+
+2360
+00:50:43,460 --> 00:50:43,740
+dice
+
+2361
+00:50:43,740 --> 00:50:44,340
+del resto
+
+2362
+00:50:44,340 --> 00:50:45,020
+ne avevano talmente
+
+2363
+00:50:45,020 --> 00:50:46,080
+tanti di prigionieri
+
+2364
+00:50:46,080 --> 00:50:46,760
+non gli importava
+
+2365
+00:50:46,760 --> 00:50:47,380
+già più niente
+
+2366
+00:50:47,380 --> 00:50:48,420
+di prenderne degli altri
+
+2367
+00:50:48,420 --> 00:50:49,540
+e quindi lui
+
+2368
+00:50:49,540 --> 00:50:50,260
+se ne sta per un po'
+
+2369
+00:50:50,280 --> 00:50:50,860
+all'albergo
+
+2370
+00:50:50,860 --> 00:50:51,420
+poi si sposta
+
+2371
+00:50:51,420 --> 00:50:52,300
+in un'altra città
+
+2372
+00:50:52,300 --> 00:50:53,000
+e finalmente
+
+2373
+00:50:53,000 --> 00:50:54,100
+all'inizio di luglio
+
+2374
+00:50:54,100 --> 00:50:55,660
+riesce
+
+2375
+00:50:55,660 --> 00:50:57,460
+a ritrovare la famiglia
+
+2376
+00:50:57,460 --> 00:50:58,860
+che non vede
+
+2377
+00:50:58,860 --> 00:50:59,740
+da un sacco di tempo
+
+2378
+00:50:59,740 --> 00:51:00,020
+ah sì
+
+2379
+00:51:00,020 --> 00:51:00,620
+vedi
+
+2380
+00:51:00,620 --> 00:51:01,300
+dimenticavo
+
+2381
+00:51:01,300 --> 00:51:01,560
+questo
+
+2382
+00:51:01,560 --> 00:51:02,580
+non guardo mai il foglio
+
+2383
+00:51:02,580 --> 00:51:04,360
+vi volevo ancora
+
+2384
+00:51:04,360 --> 00:51:05,220
+raccontare questo
+
+2385
+00:51:05,220 --> 00:51:05,900
+la moglie
+
+2386
+00:51:05,900 --> 00:51:07,140
+lo ha incontrato
+
+2387
+00:51:07,140 --> 00:51:08,040
+durante la ritirata
+
+2388
+00:51:08,040 --> 00:51:08,780
+a un certo punto
+
+2389
+00:51:08,780 --> 00:51:09,880
+e la moglie
+
+2390
+00:51:09,880 --> 00:51:10,480
+lo ha trovato
+
+2391
+00:51:10,480 --> 00:51:11,220
+abbronzato
+
+2392
+00:51:11,220 --> 00:51:12,520
+dimagrito
+
+2393
+00:51:12,520 --> 00:51:14,620
+pieno di energia
+
+2394
+00:51:14,620 --> 00:51:16,020
+convinto
+
+2395
+00:51:16,020 --> 00:51:16,880
+che vinceremo
+
+2396
+00:51:16,880 --> 00:51:17,640
+ancora noi
+
+2397
+00:51:17,640 --> 00:51:18,320
+alla fine
+
+2398
+00:51:18,320 --> 00:51:20,140
+e comunque
+
+2399
+00:51:20,140 --> 00:51:21,740
+dice Bloch
+
+2400
+00:51:21,740 --> 00:51:22,360
+alla moglie
+
+2401
+00:51:22,360 --> 00:51:23,400
+dopo
+
+2402
+00:51:23,400 --> 00:51:24,700
+ci saranno
+
+2403
+00:51:24,700 --> 00:51:25,400
+molti conti
+
+2404
+00:51:25,400 --> 00:51:26,060
+da regolare
+
+2405
+00:51:26,060 --> 00:51:27,660
+emerge
+
+2406
+00:51:27,660 --> 00:51:28,200
+in lui
+
+2407
+00:51:28,200 --> 00:51:29,080
+in mezzo a questo
+
+2408
+00:51:29,080 --> 00:51:29,860
+sfacelo
+
+2409
+00:51:29,860 --> 00:51:30,560
+dell'esercito
+
+2410
+00:51:30,560 --> 00:51:31,160
+francese
+
+2411
+00:51:31,160 --> 00:51:32,020
+e della Francia
+
+2412
+00:51:32,020 --> 00:51:32,860
+una nota
+
+2413
+00:51:32,860 --> 00:51:33,700
+di durezza
+
+2414
+00:51:33,700 --> 00:51:34,700
+di spietatezza
+
+2415
+00:51:34,700 --> 00:51:35,300
+che poi vedremo
+
+2416
+00:51:35,300 --> 00:51:35,780
+ancora
+
+2417
+00:51:35,780 --> 00:51:36,800
+venire fuori
+
+2418
+00:51:36,800 --> 00:51:38,200
+insomma
+
+2419
+00:51:38,200 --> 00:51:38,800
+la moglie
+
+2420
+00:51:38,800 --> 00:51:39,120
+gli dice
+
+2421
+00:51:39,120 --> 00:51:39,500
+meno male
+
+2422
+00:51:39,500 --> 00:51:40,020
+che sei vivo
+
+2423
+00:51:40,020 --> 00:51:40,620
+ti vedevo già
+
+2424
+00:51:40,620 --> 00:51:41,040
+prigioniero
+
+2425
+00:51:41,040 --> 00:51:41,700
+dei tedeschi
+
+2426
+00:51:41,700 --> 00:51:42,940
+e conoscendoti
+
+2427
+00:51:42,940 --> 00:51:43,940
+ti vedevo
+
+2428
+00:51:43,940 --> 00:51:44,660
+che li provocavi
+
+2429
+00:51:44,660 --> 00:51:45,360
+senza motivo
+
+2430
+00:51:45,360 --> 00:51:46,320
+e loro ti fucilavano
+
+2431
+00:51:46,320 --> 00:51:47,800
+invece per fortuna
+
+2432
+00:51:47,800 --> 00:51:48,360
+sei vivo
+
+2433
+00:51:48,360 --> 00:51:50,860
+che fare
+
+2434
+00:51:50,860 --> 00:51:53,020
+una nuova estate
+
+2435
+00:51:53,020 --> 00:51:54,240
+nella casa di campagna
+
+2436
+00:51:54,240 --> 00:51:55,440
+salvo che adesso
+
+2437
+00:51:55,440 --> 00:51:55,920
+la Francia
+
+2438
+00:51:55,920 --> 00:51:56,300
+è invasa
+
+2439
+00:51:56,300 --> 00:51:57,060
+dai tedeschi
+
+2440
+00:51:57,060 --> 00:51:58,360
+e loro sono lì
+
+2441
+00:51:58,360 --> 00:51:59,160
+tagliati fuori
+
+2442
+00:51:59,160 --> 00:51:59,800
+da Parigi
+
+2443
+00:51:59,800 --> 00:52:01,140
+non si sa
+
+2444
+00:52:01,140 --> 00:52:02,160
+cosa sarà il futuro
+
+2445
+00:52:02,160 --> 00:52:03,260
+si campa
+
+2446
+00:52:03,260 --> 00:52:03,800
+da un giorno
+
+2447
+00:52:03,800 --> 00:52:04,480
+all'altro
+
+2448
+00:52:04,480 --> 00:52:05,480
+il personale
+
+2449
+00:52:05,480 --> 00:52:06,000
+di servizio
+
+2450
+00:52:06,000 --> 00:52:06,500
+non c'è più
+
+2451
+00:52:06,500 --> 00:52:07,100
+soldi
+
+2452
+00:52:07,100 --> 00:52:07,740
+ce ne è pochi
+
+2453
+00:52:07,740 --> 00:52:09,160
+questa lunga estate
+
+2454
+00:52:09,160 --> 00:52:10,400
+nella casa di campagna
+
+2455
+00:52:10,400 --> 00:52:11,820
+cosa fa lo storico
+
+2456
+00:52:11,820 --> 00:52:13,040
+scrive
+
+2457
+00:52:13,040 --> 00:52:14,680
+e Bloch
+
+2458
+00:52:14,680 --> 00:52:15,160
+scrive
+
+2459
+00:52:15,160 --> 00:52:15,820
+uno dei suoi più
+
+2460
+00:52:15,820 --> 00:52:16,620
+grandi libri
+
+2461
+00:52:16,620 --> 00:52:17,240
+la strana
+
+2462
+00:52:17,240 --> 00:52:18,140
+disfatta
+
+2463
+00:52:18,140 --> 00:52:20,080
+in cui racconta
+
+2464
+00:52:20,080 --> 00:52:20,640
+la guerra
+
+2465
+00:52:20,640 --> 00:52:21,400
+che ha visto
+
+2466
+00:52:21,400 --> 00:52:22,860
+e cerca
+
+2467
+00:52:22,860 --> 00:52:23,500
+di capire
+
+2468
+00:52:23,500 --> 00:52:24,640
+perché la Francia
+
+2469
+00:52:24,640 --> 00:52:25,960
+è stata sbaragliata
+
+2470
+00:52:25,960 --> 00:52:26,820
+in questo modo
+
+2471
+00:52:26,820 --> 00:52:28,140
+è una diagnosi
+
+2472
+00:52:28,140 --> 00:52:28,860
+di malucidità
+
+2473
+00:52:28,860 --> 00:52:29,700
+pazzesca
+
+2474
+00:52:29,700 --> 00:52:30,920
+dice noi eravamo
+
+2475
+00:52:30,920 --> 00:52:32,260
+vecchi e i tedeschi
+
+2476
+00:52:32,260 --> 00:52:33,080
+sono giovani
+
+2477
+00:52:33,080 --> 00:52:34,380
+noi eravamo
+
+2478
+00:52:34,380 --> 00:52:34,960
+comandati
+
+2479
+00:52:34,960 --> 00:52:35,860
+da vegliardi
+
+2480
+00:52:35,860 --> 00:52:37,420
+noi abbiamo
+
+2481
+00:52:37,420 --> 00:52:38,160
+combattuto
+
+2482
+00:52:38,160 --> 00:52:38,700
+una guerra
+
+2483
+00:52:38,700 --> 00:52:39,760
+di altri tempi
+
+2484
+00:52:39,760 --> 00:52:40,240
+una volta
+
+2485
+00:52:40,240 --> 00:52:40,740
+si facevano
+
+2486
+00:52:40,740 --> 00:52:41,780
+le guerre coloniali
+
+2487
+00:52:41,780 --> 00:52:42,860
+e noi col fucile
+
+2488
+00:52:42,860 --> 00:52:43,740
+sconfiggevamo
+
+2489
+00:52:43,740 --> 00:52:44,200
+i neri
+
+2490
+00:52:44,200 --> 00:52:45,500
+armati di zagaglie
+
+2491
+00:52:45,500 --> 00:52:46,620
+qui è stata
+
+2492
+00:52:46,620 --> 00:52:47,520
+la stessa cosa
+
+2493
+00:52:47,520 --> 00:52:48,320
+solo che noi
+
+2494
+00:52:48,320 --> 00:52:48,980
+eravamo quelli
+
+2495
+00:52:48,980 --> 00:52:49,760
+con la zagaglia
+
+2496
+00:52:49,760 --> 00:52:51,120
+e i tedeschi
+
+2497
+00:52:51,120 --> 00:52:51,940
+quelli col fucile
+
+2498
+00:52:51,940 --> 00:52:53,060
+i tedeschi correvano
+
+2499
+00:52:53,060 --> 00:52:53,940
+in macchina
+
+2500
+00:52:53,940 --> 00:52:54,780
+con i motori
+
+2501
+00:52:54,780 --> 00:52:55,720
+e noi non abbiamo
+
+2502
+00:52:55,720 --> 00:52:56,700
+capito niente
+
+2503
+00:52:56,700 --> 00:52:57,760
+di cos'era questa guerra
+
+2504
+00:52:57,760 --> 00:52:59,560
+e poi fa un'analisi
+
+2505
+00:52:59,560 --> 00:52:59,820
+però
+
+2506
+00:52:59,820 --> 00:53:00,420
+mi fermo ancora
+
+2507
+00:53:00,420 --> 00:53:01,480
+un istante su questo
+
+2508
+00:53:01,480 --> 00:53:02,240
+il blocco
+
+2509
+00:53:02,240 --> 00:53:03,400
+che non è certo comunista
+
+2510
+00:53:03,400 --> 00:53:03,920
+anzi
+
+2511
+00:53:03,920 --> 00:53:04,740
+uomo d'ordine
+
+2512
+00:53:04,740 --> 00:53:05,380
+però
+
+2513
+00:53:05,380 --> 00:53:06,840
+però dice
+
+2514
+00:53:06,840 --> 00:53:07,520
+non è possibile
+
+2515
+00:53:07,520 --> 00:53:08,240
+questo paese
+
+2516
+00:53:08,240 --> 00:53:09,500
+come si è spaccato
+
+2517
+00:53:09,500 --> 00:53:10,420
+prima della guerra
+
+2518
+00:53:10,420 --> 00:53:11,980
+c'erano le manifestazioni
+
+2519
+00:53:11,980 --> 00:53:12,600
+degli operai
+
+2520
+00:53:12,600 --> 00:53:13,260
+in piazza
+
+2521
+00:53:13,260 --> 00:53:14,080
+certo
+
+2522
+00:53:14,080 --> 00:53:15,060
+rumorose
+
+2523
+00:53:15,060 --> 00:53:16,460
+piene di rancore
+
+2524
+00:53:16,460 --> 00:53:17,480
+pugni alzati
+
+2525
+00:53:17,480 --> 00:53:18,280
+ostili
+
+2526
+00:53:18,280 --> 00:53:19,440
+ma
+
+2527
+00:53:19,440 --> 00:53:20,680
+c'era anche
+
+2528
+00:53:20,680 --> 00:53:22,060
+così tanta speranza
+
+2529
+00:53:22,060 --> 00:53:22,740
+in questa gente
+
+2530
+00:53:22,740 --> 00:53:23,660
+che manifestava
+
+2531
+00:53:23,660 --> 00:53:25,660
+così tanto candore
+
+2532
+00:53:25,660 --> 00:53:26,820
+e invece
+
+2533
+00:53:26,820 --> 00:53:27,700
+tutta la classe
+
+2534
+00:53:27,700 --> 00:53:28,860
+dirigente francese
+
+2535
+00:53:28,860 --> 00:53:30,040
+si è presa paura
+
+2536
+00:53:30,040 --> 00:53:32,120
+i politici
+
+2537
+00:53:32,120 --> 00:53:33,060
+i militari
+
+2538
+00:53:33,060 --> 00:53:33,740
+il clero
+
+2539
+00:53:33,740 --> 00:53:34,900
+gli industriali
+
+2540
+00:53:34,900 --> 00:53:36,020
+hanno tutti
+
+2541
+00:53:36,020 --> 00:53:36,920
+avuti una tale
+
+2542
+00:53:36,920 --> 00:53:37,540
+paura
+
+2543
+00:53:37,540 --> 00:53:38,500
+che hanno cominciato
+
+2544
+00:53:38,500 --> 00:53:38,760
+a dire
+
+2545
+00:53:38,760 --> 00:53:39,700
+meglio Hitler
+
+2546
+00:53:39,700 --> 00:53:40,460
+piuttosto
+
+2547
+00:53:40,460 --> 00:53:41,920
+meglio Hitler
+
+2548
+00:53:41,920 --> 00:53:43,380
+che i rossi
+
+2549
+00:53:43,380 --> 00:53:44,080
+e lì
+
+2550
+00:53:44,080 --> 00:53:44,820
+dice bloc
+
+2551
+00:53:44,820 --> 00:53:45,960
+noi ci siamo fregati
+
+2552
+00:53:45,960 --> 00:53:46,720
+la Francia
+
+2553
+00:53:46,720 --> 00:53:48,020
+si è fatta fregare
+
+2554
+00:53:48,020 --> 00:53:48,500
+così
+
+2555
+00:53:48,500 --> 00:53:50,340
+e poi però
+
+2556
+00:53:50,340 --> 00:53:50,860
+naturalmente
+
+2557
+00:53:50,860 --> 00:53:51,760
+siccome è un uomo onesto
+
+2558
+00:53:51,760 --> 00:53:52,600
+dice ed è colpa
+
+2559
+00:53:52,600 --> 00:53:53,320
+anche nostra
+
+2560
+00:53:53,320 --> 00:53:54,620
+è lì che comincia
+
+2561
+00:53:54,620 --> 00:53:55,080
+a dire noi
+
+2562
+00:53:55,080 --> 00:53:55,840
+fra le due guerre
+
+2563
+00:53:55,840 --> 00:53:56,800
+cosa abbiamo fatto
+
+2564
+00:53:56,800 --> 00:53:57,940
+abbiamo studiato
+
+2565
+00:53:57,940 --> 00:53:59,320
+abbiamo insegnato
+
+2566
+00:53:59,320 --> 00:54:00,400
+ci siamo detti
+
+2567
+00:54:00,400 --> 00:54:00,940
+che era quella
+
+2568
+00:54:00,940 --> 00:54:01,580
+la cosa migliore
+
+2569
+00:54:01,580 --> 00:54:02,600
+che potevamo fare
+
+2570
+00:54:02,600 --> 00:54:04,140
+avevamo talmente
+
+2571
+00:54:04,140 --> 00:54:05,100
+voglia di studiare
+
+2572
+00:54:05,100 --> 00:54:06,280
+dopo la prima guerra mondiale
+
+2573
+00:54:06,280 --> 00:54:07,640
+quattro anni in trincea
+
+2574
+00:54:07,640 --> 00:54:09,040
+abbiamo fatto quello
+
+2575
+00:54:09,040 --> 00:54:11,900
+non abbiamo osato
+
+2576
+00:54:11,900 --> 00:54:12,860
+essere la voce
+
+2577
+00:54:12,860 --> 00:54:14,700
+che grida nel deserto
+
+2578
+00:54:14,700 --> 00:54:16,320
+che all'inizio
+
+2579
+00:54:16,320 --> 00:54:17,080
+è nel deserto
+
+2580
+00:54:17,080 --> 00:54:17,980
+magari dopo no
+
+2581
+00:54:17,980 --> 00:54:19,240
+e che comunque
+
+2582
+00:54:19,240 --> 00:54:20,200
+avrà gridato
+
+2583
+00:54:20,200 --> 00:54:21,100
+la sua fede
+
+2584
+00:54:21,100 --> 00:54:22,460
+noi ci siamo chiusi
+
+2585
+00:54:22,460 --> 00:54:23,560
+nei nostri studi
+
+2586
+00:54:23,560 --> 00:54:25,420
+che possano i giovani
+
+2587
+00:54:25,420 --> 00:54:26,500
+perdonarci
+
+2588
+00:54:26,500 --> 00:54:27,220
+il sangue
+
+2589
+00:54:27,220 --> 00:54:27,680
+che abbiamo
+
+2590
+00:54:27,680 --> 00:54:28,500
+sulle mani
+
+2591
+00:54:28,500 --> 00:54:31,080
+e poi dice anche
+
+2592
+00:54:31,080 --> 00:54:31,980
+un'altra cosa bloc
+
+2593
+00:54:31,980 --> 00:54:33,000
+noi storici
+
+2594
+00:54:33,000 --> 00:54:33,860
+in particolare
+
+2595
+00:54:33,860 --> 00:54:35,300
+non abbiamo fatto niente
+
+2596
+00:54:35,300 --> 00:54:36,800
+perché eravamo
+
+2597
+00:54:36,800 --> 00:54:37,760
+talmente abituati
+
+2598
+00:54:37,760 --> 00:54:38,320
+a pensare
+
+2599
+00:54:38,320 --> 00:54:39,200
+che la storia
+
+2600
+00:54:39,200 --> 00:54:40,300
+la fanno le masse
+
+2601
+00:54:40,300 --> 00:54:41,820
+le grandi forze
+
+2602
+00:54:41,820 --> 00:54:42,980
+sotterranee
+
+2603
+00:54:42,980 --> 00:54:44,400
+l'individuo
+
+2604
+00:54:44,400 --> 00:54:45,460
+cosa può fare
+
+2605
+00:54:45,460 --> 00:54:47,880
+c'è qualcuno
+
+2606
+00:54:47,880 --> 00:54:48,360
+che sta male
+
+2607
+00:54:48,360 --> 00:54:48,840
+per caso
+
+2608
+00:54:48,840 --> 00:54:50,760
+no ok
+
+2609
+00:54:50,760 --> 00:54:51,160
+grazie
+
+2610
+00:54:51,160 --> 00:54:51,780
+benissimo
+
+2611
+00:54:51,780 --> 00:54:52,700
+nessun problema
+
+2612
+00:54:52,700 --> 00:54:54,540
+la storia
+
+2613
+00:54:54,540 --> 00:54:55,280
+la fanno le masse
+
+2614
+00:54:55,280 --> 00:54:56,060
+le grandi forze
+
+2615
+00:54:56,060 --> 00:54:56,480
+e l'individuo
+
+2616
+00:54:56,480 --> 00:54:57,300
+non può fare niente
+
+2617
+00:54:57,300 --> 00:54:58,480
+e lì il professor
+
+2618
+00:54:58,480 --> 00:54:59,220
+Mark Block
+
+2619
+00:54:59,220 --> 00:54:59,680
+dice
+
+2620
+00:54:59,680 --> 00:55:01,940
+pensare questo
+
+2621
+00:55:01,940 --> 00:55:03,120
+significava
+
+2622
+00:55:03,120 --> 00:55:03,980
+non aver capito
+
+2623
+00:55:03,980 --> 00:55:04,720
+la storia
+
+2624
+00:55:04,720 --> 00:55:06,340
+non è che non abbiamo capito
+
+2625
+00:55:06,340 --> 00:55:06,900
+il nostro dovere
+
+2626
+00:55:06,900 --> 00:55:07,440
+di cittadini
+
+2627
+00:55:07,440 --> 00:55:08,340
+neanche la storia
+
+2628
+00:55:08,340 --> 00:55:08,920
+abbiamo capito
+
+2629
+00:55:08,920 --> 00:55:09,820
+perché l'individuo
+
+2630
+00:55:09,820 --> 00:55:10,820
+può fare anche
+
+2631
+00:55:10,820 --> 00:55:11,580
+la storia
+
+2632
+00:55:11,580 --> 00:55:13,020
+ci deve stare dentro
+
+2633
+00:55:13,020 --> 00:55:13,980
+e deve fare
+
+2634
+00:55:13,980 --> 00:55:14,680
+non può chiudersi
+
+2635
+00:55:14,680 --> 00:55:15,260
+nello studio
+
+2636
+00:55:15,260 --> 00:55:18,040
+poi a forza di pensarci
+
+2637
+00:55:18,040 --> 00:55:19,160
+dice anche a un certo punto
+
+2638
+00:55:19,160 --> 00:55:20,000
+sempre in una lettera
+
+2639
+00:55:20,000 --> 00:55:20,340
+a Fevre
+
+2640
+00:55:20,340 --> 00:55:21,120
+vabbè senti
+
+2641
+00:55:21,120 --> 00:55:22,080
+è inutile ormai
+
+2642
+00:55:22,080 --> 00:55:23,300
+stare ad avere rimpianti
+
+2643
+00:55:23,300 --> 00:55:23,920
+alla fine
+
+2644
+00:55:23,920 --> 00:55:25,120
+sai che c'è
+
+2645
+00:55:25,120 --> 00:55:26,680
+tutto sommato
+
+2646
+00:55:26,680 --> 00:55:27,940
+avremmo avuto
+
+2647
+00:55:27,940 --> 00:55:28,800
+delle strane vite
+
+2648
+00:55:28,800 --> 00:55:31,460
+e noi che siamo storici
+
+2649
+00:55:31,460 --> 00:55:32,540
+avremmo avuto
+
+2650
+00:55:32,540 --> 00:55:33,980
+anche altre esperienze
+
+2651
+00:55:33,980 --> 00:55:34,460
+oltre
+
+2652
+00:55:34,460 --> 00:55:35,380
+alla ricerca
+
+2653
+00:55:35,380 --> 00:55:36,040
+d'archivio
+
+2654
+00:55:36,040 --> 00:55:37,540
+ma Block
+
+2655
+00:55:37,540 --> 00:55:38,200
+non sa ancora
+
+2656
+00:55:38,200 --> 00:55:38,840
+quali esperienze
+
+2657
+00:55:38,840 --> 00:55:39,460
+sta per fare
+
+2658
+00:55:39,460 --> 00:55:40,740
+io non ho più molto tempo
+
+2659
+00:55:40,740 --> 00:55:41,760
+ma questo ve lo devo raccontare
+
+2660
+00:55:41,760 --> 00:55:42,360
+a tutti i costi
+
+2661
+00:55:42,360 --> 00:55:43,280
+quindi avrete dieci minuti
+
+2662
+00:55:43,280 --> 00:55:43,920
+di pazienza
+
+2663
+00:55:43,920 --> 00:55:45,120
+perché Block
+
+2664
+00:55:45,120 --> 00:55:46,060
+va in clandestinità
+
+2665
+00:55:46,060 --> 00:55:46,820
+a un certo punto
+
+2666
+00:55:46,820 --> 00:55:48,380
+Block è ebreo
+
+2667
+00:55:48,380 --> 00:55:49,720
+in una Francia
+
+2668
+00:55:49,720 --> 00:55:51,360
+occupata dai tedeschi
+
+2669
+00:55:51,360 --> 00:55:52,820
+e per un po'
+
+2670
+00:55:52,980 --> 00:55:53,860
+riesce a continuare
+
+2671
+00:55:53,860 --> 00:55:54,660
+a insegnare
+
+2672
+00:55:54,660 --> 00:55:56,040
+perché in qualche modo
+
+2673
+00:55:56,040 --> 00:55:57,280
+alcuni ebrei
+
+2674
+00:55:57,280 --> 00:55:58,240
+sono esentati
+
+2675
+00:55:58,240 --> 00:55:59,580
+per meriti di guerra
+
+2676
+00:55:59,580 --> 00:56:00,360
+però
+
+2677
+00:56:00,360 --> 00:56:01,280
+spedito
+
+2678
+00:56:01,280 --> 00:56:02,280
+in una piccola università
+
+2679
+00:56:02,280 --> 00:56:02,920
+di provincia
+
+2680
+00:56:02,920 --> 00:56:03,380
+a Parigi
+
+2681
+00:56:03,380 --> 00:56:04,200
+non può tornare
+
+2682
+00:56:04,200 --> 00:56:05,580
+perché lì ci sono i tedeschi
+
+2683
+00:56:05,580 --> 00:56:06,320
+lui è nella Francia
+
+2684
+00:56:06,320 --> 00:56:06,860
+di Vichy
+
+2685
+00:56:06,860 --> 00:56:08,300
+che non è occupata
+
+2686
+00:56:08,300 --> 00:56:09,320
+tecnicamente
+
+2687
+00:56:09,320 --> 00:56:11,180
+nella sua casa
+
+2688
+00:56:11,180 --> 00:56:11,680
+a Parigi
+
+2689
+00:56:11,680 --> 00:56:12,480
+confiscata
+
+2690
+00:56:12,480 --> 00:56:13,900
+ci vanno i tedeschi
+
+2691
+00:56:13,900 --> 00:56:15,160
+la sua biblioteca
+
+2692
+00:56:15,160 --> 00:56:15,780
+a Parigi
+
+2693
+00:56:15,780 --> 00:56:17,040
+messa in scatoloni
+
+2694
+00:56:17,040 --> 00:56:18,100
+e sparisce
+
+2695
+00:56:18,100 --> 00:56:18,900
+in Germania
+
+2696
+00:56:18,900 --> 00:56:20,340
+i figli
+
+2697
+00:56:20,340 --> 00:56:21,080
+la ritroveranno
+
+2698
+00:56:21,080 --> 00:56:21,500
+in parte
+
+2699
+00:56:21,500 --> 00:56:22,220
+dopo la guerra
+
+2700
+00:56:22,220 --> 00:56:23,060
+a Mosca
+
+2701
+00:56:23,060 --> 00:56:24,160
+dove i russi
+
+2702
+00:56:24,160 --> 00:56:24,820
+dalla Germania
+
+2703
+00:56:24,820 --> 00:56:25,800
+se l'erano portata via
+
+2704
+00:56:25,800 --> 00:56:27,120
+quindi lui vive
+
+2705
+00:56:27,120 --> 00:56:28,140
+questi ultimi anni
+
+2706
+00:56:28,140 --> 00:56:29,460
+tenta ancora
+
+2707
+00:56:29,460 --> 00:56:30,280
+insegna
+
+2708
+00:56:30,280 --> 00:56:31,100
+in un clima
+
+2709
+00:56:31,100 --> 00:56:32,080
+di antisemitismo
+
+2710
+00:56:32,080 --> 00:56:33,060
+crescente
+
+2711
+00:56:33,060 --> 00:56:35,240
+e poi
+
+2712
+00:56:35,240 --> 00:56:36,540
+e poi finisce
+
+2713
+00:56:36,540 --> 00:56:37,420
+che anche la Francia
+
+2714
+00:56:37,420 --> 00:56:37,900
+di Vichy
+
+2715
+00:56:37,900 --> 00:56:38,520
+viene occupata
+
+2716
+00:56:38,520 --> 00:56:39,360
+dai tedeschi
+
+2717
+00:56:39,360 --> 00:56:40,480
+e lì
+
+2718
+00:56:40,480 --> 00:56:42,060
+gli stessi dirigenti
+
+2719
+00:56:42,060 --> 00:56:42,580
+locali
+
+2720
+00:56:42,580 --> 00:56:43,320
+della sua università
+
+2721
+00:56:43,320 --> 00:56:43,760
+gli dicono
+
+2722
+00:56:43,760 --> 00:56:44,800
+ma tu che sei ebreo
+
+2723
+00:56:44,800 --> 00:56:45,780
+è meglio
+
+2724
+00:56:45,780 --> 00:56:46,760
+che ti nascondi
+
+2725
+00:56:46,760 --> 00:56:48,320
+cosa fa il professor Bloch
+
+2726
+00:56:48,320 --> 00:56:49,100
+a questo punto
+
+2727
+00:56:49,100 --> 00:56:50,100
+la famiglia
+
+2728
+00:56:50,100 --> 00:56:51,660
+nella casa di campagna
+
+2729
+00:56:51,660 --> 00:56:54,480
+i due figli maggiori
+
+2730
+00:56:54,480 --> 00:56:55,600
+li fa espatriare
+
+2731
+00:56:55,600 --> 00:56:56,320
+in Spagna
+
+2732
+00:56:56,320 --> 00:56:57,280
+da dove spera
+
+2733
+00:56:57,280 --> 00:56:57,900
+che poi riescano
+
+2734
+00:56:57,900 --> 00:56:58,400
+a raggiungere
+
+2735
+00:56:58,400 --> 00:56:58,900
+De Gaulle
+
+2736
+00:56:58,900 --> 00:56:59,640
+e le forze
+
+2737
+00:56:59,640 --> 00:57:00,460
+della Francia libera
+
+2738
+00:57:00,460 --> 00:57:01,020
+in Africa
+
+2739
+00:57:01,020 --> 00:57:01,940
+Etienne
+
+2740
+00:57:01,940 --> 00:57:02,600
+che vi ho citato
+
+2741
+00:57:02,600 --> 00:57:03,540
+prima più di una volta
+
+2742
+00:57:03,540 --> 00:57:04,960
+lo ricorda così
+
+2743
+00:57:04,960 --> 00:57:05,800
+l'ho visto
+
+2744
+00:57:05,800 --> 00:57:06,780
+l'ultima volta
+
+2745
+00:57:06,780 --> 00:57:08,580
+il 18 dicembre
+
+2746
+00:57:08,580 --> 00:57:09,420
+del 42
+
+2747
+00:57:09,420 --> 00:57:11,480
+me lo ricordo male
+
+2748
+00:57:11,480 --> 00:57:11,880
+a Bloch
+
+2749
+00:57:11,880 --> 00:57:12,520
+sarebbe piaciuta
+
+2750
+00:57:12,520 --> 00:57:13,060
+questa cosa
+
+2751
+00:57:13,060 --> 00:57:13,760
+i ricordi
+
+2752
+00:57:13,760 --> 00:57:14,720
+è un'immagine
+
+2753
+00:57:14,720 --> 00:57:15,380
+così vaga
+
+2754
+00:57:15,380 --> 00:57:16,100
+nostro padre
+
+2755
+00:57:16,100 --> 00:57:16,780
+che sparisce
+
+2756
+00:57:16,780 --> 00:57:17,640
+nella scalinata
+
+2757
+00:57:17,640 --> 00:57:18,580
+della stazione
+
+2758
+00:57:18,580 --> 00:57:19,340
+di Perpignan
+
+2759
+00:57:19,340 --> 00:57:20,400
+dove ci aveva
+
+2760
+00:57:20,400 --> 00:57:21,140
+accompagnati
+
+2761
+00:57:21,140 --> 00:57:22,020
+a prendere il treno
+
+2762
+00:57:22,020 --> 00:57:22,800
+per la Spagna
+
+2763
+00:57:22,800 --> 00:57:24,380
+e poi
+
+2764
+00:57:24,380 --> 00:57:25,280
+sistemati così
+
+2765
+00:57:25,280 --> 00:57:26,340
+due figli grandi
+
+2766
+00:57:26,340 --> 00:57:27,220
+il professor Bloch
+
+2767
+00:57:27,220 --> 00:57:28,000
+va a Lione
+
+2768
+00:57:28,000 --> 00:57:28,940
+che è la grande città
+
+2769
+00:57:28,940 --> 00:57:29,580
+più vicina
+
+2770
+00:57:29,580 --> 00:57:31,140
+con i suoi contatti
+
+2771
+00:57:31,140 --> 00:57:32,120
+cerca di contattare
+
+2772
+00:57:32,120 --> 00:57:33,240
+qualcuno della resistenza
+
+2773
+00:57:33,240 --> 00:57:33,660
+finalmente
+
+2774
+00:57:33,660 --> 00:57:35,060
+lo presentano
+
+2775
+00:57:35,060 --> 00:57:36,040
+al leader
+
+2776
+00:57:36,040 --> 00:57:36,940
+di uno dei movimenti
+
+2777
+00:57:36,940 --> 00:57:37,740
+di resistenza
+
+2778
+00:57:37,740 --> 00:57:39,020
+e questo
+
+2779
+00:57:39,020 --> 00:57:39,980
+Georges Altman
+
+2780
+00:57:39,980 --> 00:57:41,300
+capo di un movimento
+
+2781
+00:57:41,300 --> 00:57:41,780
+che si chiama
+
+2782
+00:57:41,780 --> 00:57:42,760
+Le Franc Tireur
+
+2783
+00:57:42,760 --> 00:57:44,120
+il Franco Tiratore
+
+2784
+00:57:44,120 --> 00:57:45,800
+pubblica un giornale
+
+2785
+00:57:45,800 --> 00:57:46,420
+clandestino
+
+2786
+00:57:46,420 --> 00:57:47,360
+fanno molte cose
+
+2787
+00:57:47,360 --> 00:57:48,380
+e Georges Altman
+
+2788
+00:57:48,380 --> 00:57:49,320
+racconta
+
+2789
+00:57:49,320 --> 00:57:50,220
+mi è arrivato
+
+2790
+00:57:50,220 --> 00:57:50,980
+nell'ufficio
+
+2791
+00:57:50,980 --> 00:57:52,440
+questo signore
+
+2792
+00:57:52,440 --> 00:57:53,620
+un gentiluomo
+
+2793
+00:57:53,620 --> 00:57:55,400
+con la legion d'onore
+
+2794
+00:57:55,400 --> 00:57:56,060
+all'occhiello
+
+2795
+00:57:56,060 --> 00:57:57,580
+giacca e cravatta
+
+2796
+00:57:57,580 --> 00:57:58,360
+gli occhialini
+
+2797
+00:57:58,360 --> 00:57:59,200
+il bastone
+
+2798
+00:57:59,200 --> 00:57:59,920
+in una mano
+
+2799
+00:57:59,920 --> 00:58:00,700
+la borsa
+
+2800
+00:58:00,700 --> 00:58:01,460
+nell'altra
+
+2801
+00:58:01,460 --> 00:58:02,620
+poco opulento
+
+2802
+00:58:02,620 --> 00:58:03,740
+e mi ha detto
+
+2803
+00:58:03,740 --> 00:58:04,320
+piacere
+
+2804
+00:58:04,320 --> 00:58:04,960
+io vorrei lavorare
+
+2805
+00:58:04,960 --> 00:58:05,300
+con voi
+
+2806
+00:58:05,300 --> 00:58:06,160
+nella resistenza
+
+2807
+00:58:06,160 --> 00:58:07,660
+dice
+
+2808
+00:58:07,660 --> 00:58:08,360
+all'inizio
+
+2809
+00:58:08,360 --> 00:58:09,240
+sembrava una cosa
+
+2810
+00:58:09,240 --> 00:58:10,360
+così improbabile
+
+2811
+00:58:10,360 --> 00:58:13,200
+dopodiché
+
+2812
+00:58:13,200 --> 00:58:14,440
+lo mettono
+
+2813
+00:58:14,440 --> 00:58:15,000
+alla prova
+
+2814
+00:58:15,000 --> 00:58:16,340
+portare le lettere
+
+2815
+00:58:16,340 --> 00:58:17,240
+portare i giornali
+
+2816
+00:58:17,240 --> 00:58:18,100
+clandestini
+
+2817
+00:58:18,100 --> 00:58:18,660
+scoprono
+
+2818
+00:58:18,660 --> 00:58:19,480
+che è bravissimo
+
+2819
+00:58:19,480 --> 00:58:20,160
+ancora
+
+2820
+00:58:20,160 --> 00:58:21,220
+il professor Bloch
+
+2821
+00:58:21,220 --> 00:58:22,060
+è di nuovo in guerra
+
+2822
+00:58:22,060 --> 00:58:23,280
+per la terza volta
+
+2823
+00:58:23,280 --> 00:58:23,940
+in vita sua
+
+2824
+00:58:23,940 --> 00:58:25,600
+e tanto per cambiare
+
+2825
+00:58:25,600 --> 00:58:26,660
+lo sa fare bene
+
+2826
+00:58:26,660 --> 00:58:28,140
+molto rapidamente
+
+2827
+00:58:28,140 --> 00:58:28,860
+si accorgono
+
+2828
+00:58:28,860 --> 00:58:29,840
+che è bravissimo
+
+2829
+00:58:29,840 --> 00:58:31,180
+e quindi comincia
+
+2830
+00:58:31,180 --> 00:58:32,020
+a fare carriera
+
+2831
+00:58:32,020 --> 00:58:33,380
+all'interno del suo movimento
+
+2832
+00:58:33,380 --> 00:58:34,880
+diventa rapidamente
+
+2833
+00:58:34,880 --> 00:58:35,740
+il rappresentante
+
+2834
+00:58:35,740 --> 00:58:36,620
+del suo movimento
+
+2835
+00:58:36,620 --> 00:58:37,980
+nel direttivo
+
+2836
+00:58:37,980 --> 00:58:38,900
+della resistenza
+
+2837
+00:58:38,900 --> 00:58:39,640
+in tutta la Francia
+
+2838
+00:58:39,640 --> 00:58:40,460
+meridionale
+
+2839
+00:58:40,460 --> 00:58:41,480
+e poi
+
+2840
+00:58:41,480 --> 00:58:42,360
+verso la fine
+
+2841
+00:58:42,360 --> 00:58:43,460
+diventa
+
+2842
+00:58:43,460 --> 00:58:44,400
+provvisoriamente
+
+2843
+00:58:44,400 --> 00:58:45,460
+capo di tutto
+
+2844
+00:58:45,460 --> 00:58:46,220
+il direttivo
+
+2845
+00:58:46,220 --> 00:58:47,180
+della resistenza
+
+2846
+00:58:47,180 --> 00:58:48,260
+non comunista
+
+2847
+00:58:48,260 --> 00:58:49,080
+i comunisti
+
+2848
+00:58:49,080 --> 00:58:50,160
+la fanno per conto loro
+
+2849
+00:58:50,160 --> 00:58:51,580
+in tutta la Francia
+
+2850
+00:58:51,580 --> 00:58:52,340
+meridionale
+
+2851
+00:58:52,340 --> 00:58:53,580
+ha cioè
+
+2852
+00:58:53,580 --> 00:58:55,060
+delle responsabilità
+
+2853
+00:58:55,060 --> 00:58:56,800
+enormi
+
+2854
+00:58:56,800 --> 00:58:57,780
+e ha delle identità
+
+2855
+00:58:57,780 --> 00:58:58,460
+clandestine
+
+2856
+00:58:58,460 --> 00:58:58,980
+ovviamente
+
+2857
+00:58:58,980 --> 00:59:00,420
+ha degli uffici
+
+2858
+00:59:00,420 --> 00:59:01,180
+clandestini
+
+2859
+00:59:01,180 --> 00:59:02,200
+delle segretarie
+
+2860
+00:59:02,200 --> 00:59:02,980
+clandestine
+
+2861
+00:59:02,980 --> 00:59:03,540
+scrivono
+
+2862
+00:59:03,540 --> 00:59:04,220
+pubblicano
+
+2863
+00:59:04,220 --> 00:59:04,880
+tengono
+
+2864
+00:59:04,880 --> 00:59:06,220
+corrispondenza
+
+2865
+00:59:06,220 --> 00:59:07,480
+raccolgono informazioni
+
+2866
+00:59:07,480 --> 00:59:08,620
+mandano ordini
+
+2867
+00:59:08,620 --> 00:59:09,860
+tutto questo
+
+2868
+00:59:09,860 --> 00:59:11,020
+nella città di Lione
+
+2869
+00:59:11,020 --> 00:59:13,440
+dove nel frattempo
+
+2870
+00:59:13,440 --> 00:59:14,000
+a comandare
+
+2871
+00:59:14,000 --> 00:59:14,740
+la Gestapo
+
+2872
+00:59:14,740 --> 00:59:16,160
+è arrivato
+
+2873
+00:59:16,160 --> 00:59:16,720
+un ufficiale
+
+2874
+00:59:16,720 --> 00:59:17,180
+che si chiama
+
+2875
+00:59:17,180 --> 00:59:18,180
+Klaus Barbie
+
+2876
+00:59:18,180 --> 00:59:19,980
+e che diventerà
+
+2877
+00:59:19,980 --> 00:59:20,500
+poi famoso
+
+2878
+00:59:20,500 --> 00:59:21,440
+perché lo processeranno
+
+2879
+00:59:21,440 --> 00:59:23,140
+solo tanti anni dopo
+
+2880
+00:59:23,140 --> 00:59:23,940
+e che sarà
+
+2881
+00:59:23,940 --> 00:59:24,680
+soprannominato
+
+2882
+00:59:24,680 --> 00:59:25,960
+il boia di Lione
+
+2883
+00:59:25,960 --> 00:59:27,660
+mentre la Gestapo
+
+2884
+00:59:27,660 --> 00:59:28,480
+di Klaus Barbie
+
+2885
+00:59:28,480 --> 00:59:29,560
+cerca di annientare
+
+2886
+00:59:29,560 --> 00:59:30,400
+la resistenza
+
+2887
+00:59:30,400 --> 00:59:31,180
+Bloch
+
+2888
+00:59:31,180 --> 00:59:32,600
+fa di tutto
+
+2889
+00:59:32,600 --> 00:59:35,520
+e le testimonianze
+
+2890
+00:59:35,520 --> 00:59:36,120
+ci dicono
+
+2891
+00:59:36,120 --> 00:59:37,460
+era bravissimo
+
+2892
+00:59:37,460 --> 00:59:38,520
+prima che arrivasse lui
+
+2893
+00:59:38,520 --> 00:59:39,360
+era un tale caos
+
+2894
+00:59:39,360 --> 00:59:40,860
+non funzionava niente
+
+2895
+00:59:40,860 --> 00:59:41,840
+lui è l'unico
+
+2896
+00:59:41,840 --> 00:59:42,740
+che sapeva organizzare
+
+2897
+00:59:42,740 --> 00:59:43,740
+il lavoro come si deve
+
+2898
+00:59:43,740 --> 00:59:45,380
+era anche l'unico
+
+2899
+00:59:45,380 --> 00:59:46,220
+che non dava del tuo
+
+2900
+00:59:46,220 --> 00:59:46,780
+a nessuno
+
+2901
+00:59:46,780 --> 00:59:48,080
+continua a dare
+
+2902
+00:59:48,080 --> 00:59:48,900
+del lei a tutti
+
+2903
+00:59:48,900 --> 00:59:50,120
+e fa funzionare
+
+2904
+00:59:50,120 --> 00:59:50,640
+le cose
+
+2905
+00:59:50,640 --> 00:59:52,080
+scrive sui giornali
+
+2906
+00:59:52,080 --> 00:59:52,900
+clandestini
+
+2907
+00:59:52,900 --> 00:59:54,100
+ma ancora di più
+
+2908
+00:59:54,100 --> 00:59:56,280
+fa continue ispezioni
+
+2909
+00:59:56,280 --> 00:59:57,060
+nella regione
+
+2910
+00:59:57,060 --> 00:59:57,700
+per contattare
+
+2911
+00:59:57,700 --> 00:59:58,460
+i vari gruppi
+
+2912
+00:59:58,460 --> 00:59:59,400
+col pretesto
+
+2913
+00:59:59,400 --> 01:00:00,200
+di fare ricerche
+
+2914
+01:00:00,200 --> 01:00:00,800
+d'archivio
+
+2915
+01:00:00,800 --> 01:00:02,300
+va in archivio
+
+2916
+01:00:02,300 --> 01:00:02,800
+poi la sera
+
+2917
+01:00:02,800 --> 01:00:03,760
+va a trovare i gruppi
+
+2918
+01:00:03,760 --> 01:00:05,400
+ogni mese
+
+2919
+01:00:05,400 --> 01:00:06,440
+va a Parigi
+
+2920
+01:00:06,440 --> 01:00:07,520
+in segreto
+
+2921
+01:00:07,520 --> 01:00:07,980
+perché non ci
+
+2922
+01:00:07,980 --> 01:00:09,040
+ebrei oltretutto
+
+2923
+01:00:09,040 --> 01:00:09,800
+ogni mese
+
+2924
+01:00:09,800 --> 01:00:10,600
+va segretamente
+
+2925
+01:00:10,600 --> 01:00:11,120
+a Parigi
+
+2926
+01:00:11,120 --> 01:00:11,900
+per partecipare
+
+2927
+01:00:11,900 --> 01:00:12,500
+a riunioni
+
+2928
+01:00:12,500 --> 01:00:14,440
+dato che va a Parigi
+
+2929
+01:00:14,440 --> 01:00:15,160
+ne approfitta
+
+2930
+01:00:15,160 --> 01:00:15,900
+va al cinema
+
+2931
+01:00:15,900 --> 01:00:17,460
+che gli manca
+
+2932
+01:00:17,460 --> 01:00:18,260
+evidentemente
+
+2933
+01:00:18,260 --> 01:00:19,380
+ogni tanto
+
+2934
+01:00:19,380 --> 01:00:20,180
+al ristorante
+
+2935
+01:00:20,180 --> 01:00:20,720
+se ce n'è ancora
+
+2936
+01:00:20,720 --> 01:00:21,080
+qualcuno
+
+2937
+01:00:21,080 --> 01:00:21,760
+che funziona
+
+2938
+01:00:21,760 --> 01:00:22,540
+va a trovare
+
+2939
+01:00:22,540 --> 01:00:22,940
+il suo amico
+
+2940
+01:00:22,940 --> 01:00:23,740
+Lucien Fevre
+
+2941
+01:00:23,740 --> 01:00:25,300
+passa davanti
+
+2942
+01:00:25,300 --> 01:00:26,100
+a casa sua
+
+2943
+01:00:26,100 --> 01:00:27,240
+alla sua ex casa
+
+2944
+01:00:27,240 --> 01:00:28,160
+dove adesso
+
+2945
+01:00:28,160 --> 01:00:29,320
+abitano degli ufficiali
+
+2946
+01:00:29,320 --> 01:00:29,940
+tedeschi
+
+2947
+01:00:29,940 --> 01:00:30,920
+e dove sul
+
+2948
+01:00:30,920 --> 01:00:32,200
+sul balcone
+
+2949
+01:00:32,200 --> 01:00:33,000
+hanno messo
+
+2950
+01:00:33,000 --> 01:00:33,660
+un riflettore
+
+2951
+01:00:33,660 --> 01:00:35,320
+dell'antiaerea
+
+2952
+01:00:35,320 --> 01:00:37,120
+va a trovare
+
+2953
+01:00:37,120 --> 01:00:37,460
+Fevre
+
+2954
+01:00:37,460 --> 01:00:38,280
+e discutono
+
+2955
+01:00:38,280 --> 01:00:39,600
+dopo la guerra
+
+2956
+01:00:39,600 --> 01:00:40,260
+bisognerà
+
+2957
+01:00:40,260 --> 01:00:41,080
+riformare
+
+2958
+01:00:41,080 --> 01:00:41,660
+la scuola
+
+2959
+01:00:41,660 --> 01:00:42,320
+l'università
+
+2960
+01:00:42,320 --> 01:00:43,080
+riformare
+
+2961
+01:00:43,080 --> 01:00:43,320
+no
+
+2962
+01:00:43,320 --> 01:00:45,000
+rivoluzionare
+
+2963
+01:00:45,000 --> 01:00:45,980
+questo paese
+
+2964
+01:00:45,980 --> 01:00:46,880
+deve cambiare
+
+2965
+01:00:46,880 --> 01:00:48,380
+prepara
+
+2966
+01:00:48,380 --> 01:00:49,180
+l'organigramma
+
+2967
+01:00:49,180 --> 01:00:49,920
+del futuro governo
+
+2968
+01:00:49,920 --> 01:00:50,500
+della Francia
+
+2969
+01:00:50,500 --> 01:00:51,200
+perché ai vertici
+
+2970
+01:00:51,200 --> 01:00:51,820
+della resistenza
+
+2971
+01:00:51,820 --> 01:00:52,620
+fanno anche questo
+
+2972
+01:00:52,620 --> 01:00:54,200
+preparano l'insurrezione
+
+2973
+01:00:54,200 --> 01:00:55,000
+quando sbarcheranno
+
+2974
+01:00:55,000 --> 01:00:55,520
+gli americani
+
+2975
+01:00:55,520 --> 01:00:56,120
+in Normandia
+
+2976
+01:00:56,120 --> 01:00:57,360
+dobbiamo essere pronti
+
+2977
+01:00:57,360 --> 01:00:58,320
+tutto pronto
+
+2978
+01:00:58,320 --> 01:00:59,100
+e dopo
+
+2979
+01:00:59,100 --> 01:00:59,960
+quando prenderemo
+
+2980
+01:00:59,960 --> 01:01:00,500
+il potere
+
+2981
+01:01:00,500 --> 01:01:01,000
+dobbiamo avere
+
+2982
+01:01:01,000 --> 01:01:01,740
+tutto pronto
+
+2983
+01:01:01,740 --> 01:01:03,480
+nel frattempo
+
+2984
+01:01:03,480 --> 01:01:04,240
+la moglie ogni tanto
+
+2985
+01:01:04,240 --> 01:01:04,900
+va a trovarlo
+
+2986
+01:01:04,900 --> 01:01:05,900
+dalla casa di campagna
+
+2987
+01:01:05,900 --> 01:01:06,660
+nell'appartamento
+
+2988
+01:01:06,660 --> 01:01:07,260
+clandestino
+
+2989
+01:01:07,260 --> 01:01:07,700
+a Lione
+
+2990
+01:01:07,700 --> 01:01:08,700
+gli porta un cambio
+
+2991
+01:01:08,700 --> 01:01:09,540
+di biancheria
+
+2992
+01:01:09,540 --> 01:01:10,780
+gli porta qualche roba
+
+2993
+01:01:10,780 --> 01:01:11,460
+cucinata
+
+2994
+01:01:11,460 --> 01:01:12,480
+se no
+
+2995
+01:01:12,480 --> 01:01:13,500
+si scrivono
+
+2996
+01:01:13,500 --> 01:01:15,260
+lui scrive continuamente
+
+2997
+01:01:15,260 --> 01:01:15,760
+alla moglie
+
+2998
+01:01:15,760 --> 01:01:16,660
+le lettere sono
+
+2999
+01:01:16,660 --> 01:01:17,180
+come dire
+
+3000
+01:01:17,180 --> 01:01:18,220
+raffigurano
+
+3001
+01:01:18,220 --> 01:01:19,500
+un'alternanza di umori
+
+3002
+01:01:19,500 --> 01:01:20,200
+ci sono i momenti
+
+3003
+01:01:20,200 --> 01:01:20,920
+di speranza
+
+3004
+01:01:20,920 --> 01:01:22,220
+ci sono anche i momenti
+
+3005
+01:01:22,220 --> 01:01:23,100
+di depressione
+
+3006
+01:01:23,100 --> 01:01:23,700
+in cui dice
+
+3007
+01:01:23,700 --> 01:01:25,040
+lo so che ti ho lasciata
+
+3008
+01:01:25,040 --> 01:01:25,580
+lì sola
+
+3009
+01:01:25,580 --> 01:01:27,000
+con i quattro figli
+
+3010
+01:01:27,000 --> 01:01:27,680
+rimasti
+
+3011
+01:01:27,680 --> 01:01:29,020
+ma cosa dovevo fare
+
+3012
+01:01:29,020 --> 01:01:31,640
+e intanto
+
+3013
+01:01:31,640 --> 01:01:32,840
+passano i mesi
+
+3014
+01:01:32,840 --> 01:01:34,360
+passa anche il mio tempo
+
+3015
+01:01:34,360 --> 01:01:35,000
+ma in cinque minuti
+
+3016
+01:01:35,000 --> 01:01:35,480
+finiamo
+
+3017
+01:01:35,480 --> 01:01:37,120
+passano i mesi
+
+3018
+01:01:37,120 --> 01:01:38,220
+e il clima a Lione
+
+3019
+01:01:38,220 --> 01:01:39,380
+si fa sempre più pesante
+
+3020
+01:01:39,380 --> 01:01:40,520
+perché Klaus Barbie
+
+3021
+01:01:40,520 --> 01:01:42,400
+sa fare il suo mestiere
+
+3022
+01:01:42,400 --> 01:01:44,160
+e Bloch si rende conto
+
+3023
+01:01:44,160 --> 01:01:44,640
+di una cosa
+
+3024
+01:01:44,640 --> 01:01:45,140
+non per niente
+
+3025
+01:01:45,140 --> 01:01:45,760
+è uno storico
+
+3026
+01:01:45,760 --> 01:01:46,500
+si rende conto
+
+3027
+01:01:46,500 --> 01:01:47,280
+che lì è una questione
+
+3028
+01:01:47,280 --> 01:01:48,020
+di probabilità
+
+3029
+01:01:48,020 --> 01:01:49,240
+ogni giorno che passa
+
+3030
+01:01:49,240 --> 01:01:50,240
+è più probabile
+
+3031
+01:01:50,240 --> 01:01:51,160
+che mi arrestino
+
+3032
+01:01:51,160 --> 01:01:54,200
+a Fevre confida
+
+3033
+01:01:54,200 --> 01:01:55,020
+ogni tanto
+
+3034
+01:01:55,020 --> 01:01:56,080
+delle premonizioni
+
+3035
+01:01:56,080 --> 01:01:57,180
+di una morte
+
+3036
+01:01:57,180 --> 01:01:57,880
+orribile
+
+3037
+01:01:57,880 --> 01:02:01,240
+l'ultima lettera
+
+3038
+01:02:01,240 --> 01:02:02,160
+alla moglie
+
+3039
+01:02:02,160 --> 01:02:03,200
+la scrive il mattino
+
+3040
+01:02:03,200 --> 01:02:03,960
+dell'otto marzo
+
+3041
+01:02:03,960 --> 01:02:05,020
+del quarantaquattro
+
+3042
+01:02:05,020 --> 01:02:06,240
+le dice
+
+3043
+01:02:06,240 --> 01:02:06,940
+lo so guarda
+
+3044
+01:02:06,940 --> 01:02:07,880
+che sei sui da sola
+
+3045
+01:02:07,880 --> 01:02:09,420
+e ci sono tante decisioni
+
+3046
+01:02:09,420 --> 01:02:09,960
+da prendere
+
+3047
+01:02:09,960 --> 01:02:11,060
+i due figli grandi
+
+3048
+01:02:11,060 --> 01:02:11,760
+sono in Spagna
+
+3049
+01:02:11,760 --> 01:02:12,840
+e ormai stanno raggiungendo
+
+3050
+01:02:12,840 --> 01:02:13,220
+De Gaulle
+
+3051
+01:02:13,220 --> 01:02:14,440
+ma il terzo figlio
+
+3052
+01:02:14,440 --> 01:02:15,580
+è diventato maggiorenne
+
+3053
+01:02:15,580 --> 01:02:16,540
+e vuole andare
+
+3054
+01:02:16,540 --> 01:02:17,240
+con i partigiani
+
+3055
+01:02:17,240 --> 01:02:17,780
+anche lui
+
+3056
+01:02:17,780 --> 01:02:19,180
+bisogna decidere
+
+3057
+01:02:19,180 --> 01:02:19,840
+cosa fargli fare
+
+3058
+01:02:19,840 --> 01:02:20,620
+a questo ragazzo
+
+3059
+01:02:20,620 --> 01:02:21,440
+e Bloch le dice
+
+3060
+01:02:21,440 --> 01:02:22,100
+guarda lo so
+
+3061
+01:02:22,100 --> 01:02:22,580
+lo so che
+
+3062
+01:02:22,580 --> 01:02:24,960
+scusami se sono così lontano
+
+3063
+01:02:24,960 --> 01:02:26,660
+questa lettera
+
+3064
+01:02:26,660 --> 01:02:27,060
+la scrive
+
+3065
+01:02:27,060 --> 01:02:28,320
+la mattina dell'otto marzo
+
+3066
+01:02:28,320 --> 01:02:29,500
+poi esce
+
+3067
+01:02:29,500 --> 01:02:32,420
+mentre è appena uscito
+
+3068
+01:02:32,420 --> 01:02:33,180
+una macchina
+
+3069
+01:02:33,180 --> 01:02:33,780
+della Gestapo
+
+3070
+01:02:33,780 --> 01:02:34,620
+si ferma davanti
+
+3071
+01:02:34,620 --> 01:02:35,560
+al portone di casa
+
+3072
+01:02:35,560 --> 01:02:37,060
+scendono
+
+3073
+01:02:37,060 --> 01:02:37,640
+vanno a prendere
+
+3074
+01:02:37,640 --> 01:02:38,420
+la portinaia
+
+3075
+01:02:38,420 --> 01:02:39,240
+è quel tizio là
+
+3076
+01:02:39,240 --> 01:02:40,400
+che abita al secondo piano
+
+3077
+01:02:40,400 --> 01:02:40,800
+ah sì sì
+
+3078
+01:02:40,800 --> 01:02:41,420
+è appena uscito
+
+3079
+01:02:41,420 --> 01:02:42,300
+è andato di là
+
+3080
+01:02:42,300 --> 01:02:44,400
+gli corrono dietro
+
+3081
+01:02:44,400 --> 01:02:45,320
+e lo arrestano
+
+3082
+01:02:45,320 --> 01:02:46,100
+su un ponte
+
+3083
+01:02:46,100 --> 01:02:46,960
+su uno dei tanti
+
+3084
+01:02:46,960 --> 01:02:48,040
+ponti di Lione
+
+3085
+01:02:48,040 --> 01:02:52,000
+negli stessi giorni
+
+3086
+01:02:52,000 --> 01:02:52,580
+viene arrestata
+
+3087
+01:02:52,580 --> 01:02:53,020
+in pratica
+
+3088
+01:02:53,020 --> 01:02:53,860
+l'intera direzione
+
+3089
+01:02:53,860 --> 01:02:54,340
+regionale
+
+3090
+01:02:54,340 --> 01:02:55,180
+della Resistenza
+
+3091
+01:02:55,180 --> 01:02:55,680
+c'è qualcuno
+
+3092
+01:02:55,680 --> 01:02:56,200
+evidentemente
+
+3093
+01:02:56,200 --> 01:02:56,900
+che ha confessato
+
+3094
+01:02:56,900 --> 01:02:57,640
+sotto tortura
+
+3095
+01:02:57,640 --> 01:02:58,820
+ormai sanno i nomi
+
+3096
+01:02:58,820 --> 01:03:00,200
+io qui ho scoperto
+
+3097
+01:03:00,200 --> 01:03:01,400
+una cosa che non sapevo
+
+3098
+01:03:01,400 --> 01:03:02,340
+ho scoperto tante cose
+
+3099
+01:03:02,340 --> 01:03:02,980
+che non sapevo
+
+3100
+01:03:02,980 --> 01:03:04,040
+tutti nel mio mestiere
+
+3101
+01:03:04,040 --> 01:03:05,120
+sappiamo che Mark Bloch
+
+3102
+01:03:05,120 --> 01:03:06,280
+è un eroe della Resistenza
+
+3103
+01:03:06,280 --> 01:03:07,480
+ma non sapevo
+
+3104
+01:03:07,480 --> 01:03:09,060
+quanto era importante
+
+3105
+01:03:09,060 --> 01:03:11,280
+la stampa di Vichy
+
+3106
+01:03:11,280 --> 01:03:12,760
+annuncia
+
+3107
+01:03:12,760 --> 01:03:14,120
+la Resistenza
+
+3108
+01:03:14,120 --> 01:03:14,620
+a Lione
+
+3109
+01:03:14,620 --> 01:03:15,600
+è distrutta
+
+3110
+01:03:15,600 --> 01:03:16,800
+il capo
+
+3111
+01:03:16,800 --> 01:03:17,720
+dei terroristi
+
+3112
+01:03:17,720 --> 01:03:18,760
+era un ebreo
+
+3113
+01:03:18,760 --> 01:03:20,940
+Mark Bloch
+
+3114
+01:03:20,940 --> 01:03:21,440
+aveva preso
+
+3115
+01:03:21,440 --> 01:03:22,300
+come pseudonimo
+
+3116
+01:03:22,300 --> 01:03:23,700
+Narbonne
+
+3117
+01:03:23,700 --> 01:03:24,440
+che è una città
+
+3118
+01:03:24,440 --> 01:03:25,500
+francese del sud
+
+3119
+01:03:25,500 --> 01:03:26,720
+i giornali di Vichy
+
+3120
+01:03:26,720 --> 01:03:28,040
+sanno e scrivono
+
+3121
+01:03:28,040 --> 01:03:28,780
+il capo
+
+3122
+01:03:28,780 --> 01:03:29,560
+della Resistenza
+
+3123
+01:03:29,560 --> 01:03:30,520
+era un ebreo
+
+3124
+01:03:30,520 --> 01:03:31,660
+che aveva preso
+
+3125
+01:03:31,660 --> 01:03:32,660
+come nome
+
+3126
+01:03:32,660 --> 01:03:34,060
+di guerra
+
+3127
+01:03:34,060 --> 01:03:34,860
+il nome
+
+3128
+01:03:34,860 --> 01:03:35,380
+di una città
+
+3129
+01:03:35,380 --> 01:03:36,380
+francese del sud
+
+3130
+01:03:36,380 --> 01:03:37,320
+i tedeschi
+
+3131
+01:03:37,320 --> 01:03:38,620
+sono ancora più espliciti
+
+3132
+01:03:38,620 --> 01:03:40,460
+il Völkischer
+
+3133
+01:03:40,460 --> 01:03:41,180
+Beobachter
+
+3134
+01:03:41,180 --> 01:03:41,940
+il giornale
+
+3135
+01:03:41,940 --> 01:03:42,680
+il quotidiano
+
+3136
+01:03:42,680 --> 01:03:43,900
+del partito nazista
+
+3137
+01:03:43,900 --> 01:03:45,200
+si occupa
+
+3138
+01:03:45,200 --> 01:03:45,840
+dell'arresto
+
+3139
+01:03:45,840 --> 01:03:46,360
+di Bloch
+
+3140
+01:03:46,360 --> 01:03:47,700
+un ebreo
+
+3141
+01:03:47,700 --> 01:03:48,460
+dirigeva
+
+3142
+01:03:48,460 --> 01:03:49,240
+i terroristi
+
+3143
+01:03:49,240 --> 01:03:49,920
+in Francia
+
+3144
+01:03:49,920 --> 01:03:51,800
+l'ambasciatore tedesco
+
+3145
+01:03:51,800 --> 01:03:52,420
+a Vichy
+
+3146
+01:03:52,420 --> 01:03:53,260
+Abetz
+
+3147
+01:03:53,260 --> 01:03:54,120
+scrive
+
+3148
+01:03:54,120 --> 01:03:55,300
+al ministero degli esteri
+
+3149
+01:03:55,300 --> 01:03:55,920
+a Berlino
+
+3150
+01:03:55,920 --> 01:03:56,520
+dicendo
+
+3151
+01:03:56,520 --> 01:03:57,880
+il capo
+
+3152
+01:03:57,880 --> 01:03:58,800
+della direzione
+
+3153
+01:03:58,800 --> 01:03:59,800
+del movimento
+
+3154
+01:03:59,800 --> 01:04:00,560
+di resistenza
+
+3155
+01:04:00,560 --> 01:04:01,060
+a Lione
+
+3156
+01:04:01,060 --> 01:04:02,460
+era un ebreo
+
+3157
+01:04:02,460 --> 01:04:03,320
+francese
+
+3158
+01:04:03,320 --> 01:04:04,000
+chiamato
+
+3159
+01:04:04,000 --> 01:04:04,600
+Bloch
+
+3160
+01:04:04,600 --> 01:04:05,760
+ecco
+
+3161
+01:04:05,760 --> 01:04:06,460
+io onestamente
+
+3162
+01:04:06,460 --> 01:04:07,120
+non lo sapevo
+
+3163
+01:04:07,120 --> 01:04:07,300
+che
+
+3164
+01:04:07,300 --> 01:04:08,980
+ai più alti vertici
+
+3165
+01:04:08,980 --> 01:04:10,100
+dello stato nazista
+
+3166
+01:04:10,100 --> 01:04:11,340
+la cattura
+
+3167
+01:04:11,340 --> 01:04:12,280
+di Mark Bloch
+
+3168
+01:04:12,280 --> 01:04:13,000
+fosse stata
+
+3169
+01:04:13,000 --> 01:04:13,640
+celebrata
+
+3170
+01:04:13,640 --> 01:04:15,040
+come un grande successo
+
+3171
+01:04:15,040 --> 01:04:15,760
+dopodiché
+
+3172
+01:04:15,760 --> 01:04:16,880
+cosa succede
+
+3173
+01:04:16,880 --> 01:04:17,500
+che lo portano
+
+3174
+01:04:17,500 --> 01:04:18,180
+al quartiere generale
+
+3175
+01:04:18,180 --> 01:04:18,820
+della Gestapo
+
+3176
+01:04:18,820 --> 01:04:19,580
+a casa
+
+3177
+01:04:19,580 --> 01:04:20,460
+di Klaus Barbie
+
+3178
+01:04:20,460 --> 01:04:22,600
+quello che succede
+
+3179
+01:04:22,600 --> 01:04:23,060
+a Bloch
+
+3180
+01:04:23,060 --> 01:04:23,780
+noi lo sappiamo
+
+3181
+01:04:23,780 --> 01:04:24,420
+dal diario
+
+3182
+01:04:24,420 --> 01:04:25,000
+di un capo
+
+3183
+01:04:25,000 --> 01:04:25,740
+della resistenza
+
+3184
+01:04:25,740 --> 01:04:26,740
+che è rimasto libero
+
+3185
+01:04:26,740 --> 01:04:27,540
+e che via via
+
+3186
+01:04:27,540 --> 01:04:28,720
+annotava le cose
+
+3187
+01:04:28,720 --> 01:04:29,800
+che veniva a sapere
+
+3188
+01:04:29,800 --> 01:04:31,660
+14 marzo
+
+3189
+01:04:31,660 --> 01:04:32,180
+lo storico
+
+3190
+01:04:32,180 --> 01:04:32,820
+Mark Bloch
+
+3191
+01:04:32,820 --> 01:04:34,220
+è stato arrestato
+
+3192
+01:04:34,220 --> 01:04:34,740
+a Lione
+
+3193
+01:04:34,740 --> 01:04:36,780
+20 marzo
+
+3194
+01:04:36,780 --> 01:04:38,140
+Mark Bloch
+
+3195
+01:04:38,140 --> 01:04:39,100
+è stato visto
+
+3196
+01:04:39,100 --> 01:04:40,020
+in un corridoio
+
+3197
+01:04:40,020 --> 01:04:41,300
+il viso
+
+3198
+01:04:41,300 --> 01:04:42,060
+tumefatto
+
+3199
+01:04:42,060 --> 01:04:43,180
+e insanguinato
+
+3200
+01:04:43,180 --> 01:04:45,560
+qualche tempo dopo
+
+3201
+01:04:45,560 --> 01:04:46,780
+a Lione
+
+3202
+01:04:46,780 --> 01:04:48,020
+Mark Bloch
+
+3203
+01:04:48,020 --> 01:04:49,160
+è stato torturato
+
+3204
+01:04:49,160 --> 01:04:50,900
+immersioni
+
+3205
+01:04:50,900 --> 01:04:51,980
+nell'acqua gelida
+
+3206
+01:04:51,980 --> 01:04:53,020
+bruciature
+
+3207
+01:04:53,020 --> 01:04:53,620
+dalla pianta
+
+3208
+01:04:53,620 --> 01:04:54,400
+dei piedi
+
+3209
+01:04:54,400 --> 01:04:56,160
+tre costole rotte
+
+3210
+01:04:56,160 --> 01:04:57,660
+è appena uscito
+
+3211
+01:04:57,660 --> 01:04:58,400
+da una bronco
+
+3212
+01:04:58,400 --> 01:04:59,120
+polmonite
+
+3213
+01:04:59,120 --> 01:05:00,620
+perché naturalmente
+
+3214
+01:05:00,620 --> 01:05:01,160
+con l'immersione
+
+3215
+01:05:01,160 --> 01:05:01,720
+in acqua gelida
+
+3216
+01:05:01,720 --> 01:05:02,520
+ti prendi la bronco
+
+3217
+01:05:02,520 --> 01:05:02,940
+polmonite
+
+3218
+01:05:02,940 --> 01:05:03,360
+dopodiché
+
+3219
+01:05:03,360 --> 01:05:03,900
+la Gestapo
+
+3220
+01:05:03,900 --> 01:05:04,360
+ti riporta
+
+3221
+01:05:04,360 --> 01:05:05,300
+in infermeria
+
+3222
+01:05:05,300 --> 01:05:06,460
+e ti cura
+
+3223
+01:05:06,460 --> 01:05:07,420
+perché ha ancora
+
+3224
+01:05:07,420 --> 01:05:08,760
+bisogno di interrogarti
+
+3225
+01:05:08,760 --> 01:05:10,240
+è chiuso
+
+3226
+01:05:10,240 --> 01:05:10,800
+nella prigione
+
+3227
+01:05:10,800 --> 01:05:11,480
+di Montluc
+
+3228
+01:05:11,480 --> 01:05:12,200
+a Lione
+
+3229
+01:05:12,200 --> 01:05:13,420
+insieme a centinaia
+
+3230
+01:05:13,420 --> 01:05:14,500
+di altri resistenti
+
+3231
+01:05:14,500 --> 01:05:15,260
+catturati
+
+3232
+01:05:15,260 --> 01:05:17,320
+e poi
+
+3233
+01:05:17,320 --> 01:05:18,640
+il 6 giugno
+
+3234
+01:05:18,640 --> 01:05:19,440
+del 44
+
+3235
+01:05:19,440 --> 01:05:20,060
+gli americani
+
+3236
+01:05:20,060 --> 01:05:20,520
+e gli inglesi
+
+3237
+01:05:20,520 --> 01:05:21,500
+sbarcano in Normandia
+
+3238
+01:05:21,500 --> 01:05:23,160
+è sicuramente
+
+3239
+01:05:23,160 --> 01:05:24,080
+l'ultima notizia
+
+3240
+01:05:24,080 --> 01:05:24,720
+che Mark Bloch
+
+3241
+01:05:24,720 --> 01:05:25,280
+ha fatto in tempo
+
+3242
+01:05:25,280 --> 01:05:25,660
+ad avere
+
+3243
+01:05:25,660 --> 01:05:26,160
+di come stava
+
+3244
+01:05:26,160 --> 01:05:26,960
+andando la guerra
+
+3245
+01:05:26,960 --> 01:05:30,160
+sbarcati gli americani
+
+3246
+01:05:30,160 --> 01:05:30,600
+i tedeschi
+
+3247
+01:05:30,600 --> 01:05:31,200
+si preparano
+
+3248
+01:05:31,200 --> 01:05:32,320
+a evacuare la Francia
+
+3249
+01:05:32,320 --> 01:05:34,280
+e per evacuare la Francia
+
+3250
+01:05:34,280 --> 01:05:35,080
+non si vogliono
+
+3251
+01:05:35,080 --> 01:05:36,100
+lasciare dietro nessuno
+
+3252
+01:05:36,100 --> 01:05:37,400
+cominciano a fucilare
+
+3253
+01:05:37,400 --> 01:05:38,380
+sistematicamente
+
+3254
+01:05:38,380 --> 01:05:39,080
+i prigionieri
+
+3255
+01:05:39,080 --> 01:05:39,720
+di Montluc
+
+3256
+01:05:39,720 --> 01:05:42,800
+un giorno 20
+
+3257
+01:05:42,800 --> 01:05:43,980
+un giorno 50
+
+3258
+01:05:43,980 --> 01:05:45,160
+in tutto
+
+3259
+01:05:45,160 --> 01:05:45,660
+fra giugno
+
+3260
+01:05:45,660 --> 01:05:46,360
+e settembre
+
+3261
+01:05:46,360 --> 01:05:47,120
+vengono uccisi
+
+3262
+01:05:47,120 --> 01:05:49,060
+713 prigionieri
+
+3263
+01:05:49,060 --> 01:05:50,040
+di quella prigione
+
+3264
+01:05:50,040 --> 01:05:51,820
+Mark Bloch
+
+3265
+01:05:51,820 --> 01:05:52,420
+è fra i primi
+
+3266
+01:05:52,420 --> 01:05:53,300
+il 16 giugno
+
+3267
+01:05:53,300 --> 01:05:54,520
+quella sera
+
+3268
+01:05:54,520 --> 01:05:55,240
+ne portano fuori
+
+3269
+01:05:55,240 --> 01:05:55,720
+30
+
+3270
+01:05:55,720 --> 01:05:57,240
+ammanettati
+
+3271
+01:05:57,240 --> 01:05:58,060
+li caricano
+
+3272
+01:05:58,060 --> 01:05:58,860
+su camionette
+
+3273
+01:05:58,860 --> 01:06:00,700
+li portano fuori città
+
+3274
+01:06:00,700 --> 01:06:01,620
+a un'ora di distanza
+
+3275
+01:06:01,620 --> 01:06:02,240
+in un campo
+
+3276
+01:06:02,240 --> 01:06:03,020
+deserto
+
+3277
+01:06:03,020 --> 01:06:04,080
+li fanno scendere
+
+3278
+01:06:04,080 --> 01:06:04,740
+a gruppi
+
+3279
+01:06:04,740 --> 01:06:05,920
+e li falciano
+
+3280
+01:06:05,920 --> 01:06:07,040
+a raffiche di mitra
+
+3281
+01:06:07,040 --> 01:06:09,100
+Etienne Bloch
+
+3282
+01:06:09,100 --> 01:06:09,600
+il figlio
+
+3283
+01:06:09,600 --> 01:06:11,200
+che è uno molto polemico
+
+3284
+01:06:11,200 --> 01:06:12,560
+dice anche questo
+
+3285
+01:06:12,560 --> 01:06:13,180
+si dice sempre
+
+3286
+01:06:13,180 --> 01:06:13,940
+mio padre è stato
+
+3287
+01:06:13,940 --> 01:06:14,840
+fucilato
+
+3288
+01:06:14,840 --> 01:06:16,540
+che bel eufemismo
+
+3289
+01:06:16,540 --> 01:06:17,680
+fucilato
+
+3290
+01:06:17,680 --> 01:06:18,320
+uno si immagina
+
+3291
+01:06:18,320 --> 01:06:18,640
+il proto
+
+3292
+01:06:18,640 --> 01:06:19,120
+ecco
+
+3293
+01:06:19,120 --> 01:06:20,340
+li hanno abbattuti
+
+3294
+01:06:20,340 --> 01:06:21,060
+in mezzo a un campo
+
+3295
+01:06:21,060 --> 01:06:21,760
+in piena notte
+
+3296
+01:06:21,760 --> 01:06:22,740
+a raffiche di mitra
+
+3297
+01:06:22,740 --> 01:06:23,920
+ora
+
+3298
+01:06:23,920 --> 01:06:25,360
+in questi casi
+
+3299
+01:06:25,360 --> 01:06:26,740
+in queste fucilazioni
+
+3300
+01:06:26,740 --> 01:06:27,480
+collettive
+
+3301
+01:06:27,480 --> 01:06:28,380
+in piena notte
+
+3302
+01:06:28,380 --> 01:06:29,120
+nel nulla
+
+3303
+01:06:29,120 --> 01:06:30,660
+succedeva abbastanza
+
+3304
+01:06:30,660 --> 01:06:31,180
+spesso
+
+3305
+01:06:31,180 --> 01:06:31,860
+che qualcuno
+
+3306
+01:06:31,860 --> 01:06:32,680
+si salvava
+
+3307
+01:06:32,680 --> 01:06:33,960
+dei 30
+
+3308
+01:06:33,960 --> 01:06:34,700
+portati fuori
+
+3309
+01:06:34,700 --> 01:06:35,320
+con Bloch
+
+3310
+01:06:35,320 --> 01:06:36,040
+due
+
+3311
+01:06:36,040 --> 01:06:37,260
+vengono solo feriti
+
+3312
+01:06:37,260 --> 01:06:38,560
+e poi in qualche modo
+
+3313
+01:06:38,560 --> 01:06:39,720
+riescono a venire fuori
+
+3314
+01:06:39,720 --> 01:06:40,640
+e si salvano
+
+3315
+01:06:40,640 --> 01:06:42,240
+e hanno raccontato
+
+3316
+01:06:42,240 --> 01:06:43,680
+cos'è successo
+
+3317
+01:06:43,680 --> 01:06:44,840
+quindi abbiamo
+
+3318
+01:06:44,840 --> 01:06:45,340
+una testa
+
+3319
+01:06:45,340 --> 01:06:46,060
+uno non ha parlato
+
+3320
+01:06:46,060 --> 01:06:46,320
+non ha detto
+
+3321
+01:06:46,320 --> 01:06:46,960
+non si ricordava niente
+
+3322
+01:06:46,960 --> 01:06:48,200
+l'altro ha testimoniato
+
+3323
+01:06:48,200 --> 01:06:50,480
+uso questa parola
+
+3324
+01:06:50,480 --> 01:06:51,500
+ricordate cosa direbbe
+
+3325
+01:06:51,500 --> 01:06:52,360
+il professor Bloch
+
+3326
+01:06:52,360 --> 01:06:54,480
+una testimonianza
+
+3327
+01:06:54,480 --> 01:06:54,980
+certo
+
+3328
+01:06:54,980 --> 01:06:56,580
+andiamoci piano
+
+3329
+01:06:56,580 --> 01:06:59,340
+dice il superstite
+
+3330
+01:06:59,340 --> 01:07:00,040
+ho sentito
+
+3331
+01:07:00,040 --> 01:07:00,840
+molti compagni
+
+3332
+01:07:00,840 --> 01:07:01,340
+cadere
+
+3333
+01:07:01,340 --> 01:07:02,720
+gridando
+
+3334
+01:07:02,720 --> 01:07:04,720
+addio mamma
+
+3335
+01:07:04,720 --> 01:07:06,120
+oppure addio moglie
+
+3336
+01:07:06,120 --> 01:07:08,440
+oppure viva la Francia
+
+3337
+01:07:08,440 --> 01:07:10,680
+ho saputo dopo
+
+3338
+01:07:10,680 --> 01:07:12,100
+dice questo superstite
+
+3339
+01:07:12,100 --> 01:07:13,540
+che quello lì
+
+3340
+01:07:13,540 --> 01:07:14,740
+che ha detto viva la Francia
+
+3341
+01:07:14,740 --> 01:07:16,180
+era Mark Bloch
+
+3342
+01:07:16,180 --> 01:07:17,600
+professore alla Sorbona
+
+3343
+01:07:17,600 --> 01:07:19,500
+e tutti hanno poi detto
+
+3344
+01:07:19,500 --> 01:07:20,120
+Mark Bloch
+
+3345
+01:07:20,120 --> 01:07:20,620
+è morto
+
+3346
+01:07:20,620 --> 01:07:22,100
+gridando viva la Francia
+
+3347
+01:07:22,100 --> 01:07:23,900
+naturalmente
+
+3348
+01:07:23,900 --> 01:07:24,660
+il professor Bloch
+
+3349
+01:07:24,660 --> 01:07:25,000
+avrebbe detto
+
+3350
+01:07:25,000 --> 01:07:25,620
+ma lui come fa
+
+3351
+01:07:25,620 --> 01:07:26,360
+cos'è sta storia
+
+3352
+01:07:26,360 --> 01:07:27,460
+ho saputo dopo
+
+3353
+01:07:27,460 --> 01:07:28,460
+è solo lui
+
+3354
+01:07:28,460 --> 01:07:29,560
+che c'era lì
+
+3355
+01:07:29,560 --> 01:07:30,520
+da chi altri
+
+3356
+01:07:30,520 --> 01:07:31,600
+l'ha saputo dopo
+
+3357
+01:07:31,600 --> 01:07:33,360
+il professor Bloch
+
+3358
+01:07:33,360 --> 01:07:33,800
+direbbe
+
+3359
+01:07:33,800 --> 01:07:34,900
+ecco le false notizie
+
+3360
+01:07:34,900 --> 01:07:35,860
+come si diffondono
+
+3361
+01:07:35,860 --> 01:07:36,660
+perché uno
+
+3362
+01:07:36,660 --> 01:07:37,400
+se l'aspetta
+
+3363
+01:07:37,400 --> 01:07:38,280
+corrispondono
+
+3364
+01:07:38,280 --> 01:07:39,160
+a chi altri
+
+3365
+01:07:39,160 --> 01:07:39,820
+poteva gridare
+
+3366
+01:07:39,820 --> 01:07:40,700
+viva la Francia
+
+3367
+01:07:40,700 --> 01:07:42,160
+questo non lo sapremo mai
+
+3368
+01:07:42,160 --> 01:07:42,600
+quindi
+
+3369
+01:07:42,600 --> 01:07:44,020
+un'altra cosa
+
+3370
+01:07:44,020 --> 01:07:44,860
+è più probabile
+
+3371
+01:07:44,860 --> 01:07:47,040
+c'è una leggenda
+
+3372
+01:07:47,040 --> 01:07:48,140
+questa è una leggenda
+
+3373
+01:07:48,140 --> 01:07:49,440
+secondo cui
+
+3374
+01:07:49,440 --> 01:07:50,440
+ma che si diffonde
+
+3375
+01:07:50,440 --> 01:07:51,500
+già nel 45
+
+3376
+01:07:51,500 --> 01:07:52,140
+subito
+
+3377
+01:07:52,140 --> 01:07:53,720
+Bloch prima di morire
+
+3378
+01:07:53,720 --> 01:07:54,560
+aveva accanto a sé
+
+3379
+01:07:54,560 --> 01:07:55,140
+un compagno
+
+3380
+01:07:55,140 --> 01:07:55,780
+un ragazzino
+
+3381
+01:07:55,780 --> 01:07:56,560
+un sedicenne
+
+3382
+01:07:56,560 --> 01:07:58,100
+non c'era nessun sedicenne
+
+3383
+01:07:58,100 --> 01:07:59,200
+fra i fucilati di quel giorno
+
+3384
+01:07:59,200 --> 01:08:00,460
+aveva accanto a sé
+
+3385
+01:08:00,460 --> 01:08:00,900
+un ragazzino
+
+3386
+01:08:00,900 --> 01:08:02,020
+che tremava di paura
+
+3387
+01:08:02,020 --> 01:08:03,800
+e il professor Bloch
+
+3388
+01:08:03,800 --> 01:08:04,360
+gli dice
+
+3389
+01:08:04,360 --> 01:08:05,800
+non aver paura
+
+3390
+01:08:05,800 --> 01:08:06,260
+piccolo
+
+3391
+01:08:06,260 --> 01:08:07,060
+non fa male
+
+3392
+01:08:07,060 --> 01:08:09,180
+il figlio Etienne
+
+3393
+01:08:09,180 --> 01:08:09,560
+dice
+
+3394
+01:08:09,560 --> 01:08:10,740
+eh figuriamoci
+
+3395
+01:08:10,740 --> 01:08:12,180
+le leggende
+
+3396
+01:08:12,180 --> 01:08:13,380
+chi può dirlo
+
+3397
+01:08:13,380 --> 01:08:14,620
+in realtà
+
+3398
+01:08:14,620 --> 01:08:15,700
+l'unico superstite
+
+3399
+01:08:15,700 --> 01:08:16,020
+ha detto
+
+3400
+01:08:16,020 --> 01:08:17,920
+una cosa un po' diversa
+
+3401
+01:08:17,920 --> 01:08:18,800
+l'unico superstite
+
+3402
+01:08:18,800 --> 01:08:19,180
+ha detto
+
+3403
+01:08:19,180 --> 01:08:20,420
+hanno portato fuori
+
+3404
+01:08:20,420 --> 01:08:21,020
+dalla camionetta
+
+3405
+01:08:21,020 --> 01:08:21,480
+i primi
+
+3406
+01:08:21,480 --> 01:08:22,440
+abbiamo sentito
+
+3407
+01:08:22,440 --> 01:08:23,480
+le raffiche di Mitra
+
+3408
+01:08:23,480 --> 01:08:24,980
+e Bloch mi ha detto
+
+3409
+01:08:24,980 --> 01:08:26,980
+quel che c'è di buono
+
+3410
+01:08:26,980 --> 01:08:28,080
+è che non si ha
+
+3411
+01:08:28,080 --> 01:08:29,360
+il tempo di soffrire
+
+3412
+01:08:29,360 --> 01:08:31,460
+questa cosa qui
+
+3413
+01:08:31,460 --> 01:08:32,340
+credibile
+
+3414
+01:08:32,340 --> 01:08:33,460
+diventa
+
+3415
+01:08:33,460 --> 01:08:34,360
+fulmineamente
+
+3416
+01:08:34,360 --> 01:08:34,880
+il fatto
+
+3417
+01:08:34,880 --> 01:08:36,100
+che ha rassicurato
+
+3418
+01:08:36,100 --> 01:08:36,760
+il ragazzino
+
+3419
+01:08:36,760 --> 01:08:37,120
+dicendo
+
+3420
+01:08:37,120 --> 01:08:37,920
+non aver paura
+
+3421
+01:08:37,920 --> 01:08:39,000
+non fa male
+
+3422
+01:08:39,000 --> 01:08:39,800
+ecco mi sono dilungato
+
+3423
+01:08:39,800 --> 01:08:40,180
+su questo
+
+3424
+01:08:40,180 --> 01:08:41,200
+perché credo
+
+3425
+01:08:41,200 --> 01:08:42,120
+che a Bloch
+
+3426
+01:08:42,120 --> 01:08:43,300
+avrebbe dato soddisfazione
+
+3427
+01:08:43,300 --> 01:08:44,260
+sapere che la sua morte
+
+3428
+01:08:44,260 --> 01:08:45,520
+è diventata una leggenda
+
+3429
+01:08:45,520 --> 01:08:46,820
+e una fonte
+
+3430
+01:08:46,820 --> 01:08:47,640
+di miti
+
+3431
+01:08:47,640 --> 01:08:48,300
+di questo tipo
+
+3432
+01:08:48,300 --> 01:08:49,360
+che lui si sarebbe divertito
+
+3433
+01:08:49,360 --> 01:08:49,940
+a smontare
+
+3434
+01:08:49,940 --> 01:08:50,720
+ma per chiudere
+
+3435
+01:08:50,720 --> 01:08:51,880
+userò ancora le sue parole
+
+3436
+01:08:51,880 --> 01:08:53,740
+le parole del suo testamento
+
+3437
+01:08:53,740 --> 01:08:54,600
+scritto pochi mesi
+
+3438
+01:08:54,600 --> 01:08:55,340
+prima di morire
+
+3439
+01:08:55,340 --> 01:08:57,160
+chiede funerali civili
+
+3440
+01:08:57,160 --> 01:08:59,140
+però vuole che si lega
+
+3441
+01:08:59,140 --> 01:08:59,780
+un suo testo
+
+3442
+01:08:59,780 --> 01:09:00,380
+al funerale
+
+3443
+01:09:00,380 --> 01:09:02,340
+prima delle famose citazioni
+
+3444
+01:09:02,340 --> 01:09:02,940
+al merito
+
+3445
+01:09:02,940 --> 01:09:04,180
+per le azioni eroiche
+
+3446
+01:09:04,180 --> 01:09:05,320
+nella prima guerra mondiale
+
+3447
+01:09:05,320 --> 01:09:07,940
+non ho chiesto
+
+3448
+01:09:07,940 --> 01:09:08,940
+che sulla mia tomba
+
+3449
+01:09:08,940 --> 01:09:10,160
+fossero recitate
+
+3450
+01:09:10,160 --> 01:09:11,420
+le preghiere ebraiche
+
+3451
+01:09:11,420 --> 01:09:13,620
+anche se le loro cadenze
+
+3452
+01:09:13,620 --> 01:09:14,960
+hanno accompagnato
+
+3453
+01:09:14,960 --> 01:09:16,000
+all'ultimo riposo
+
+3454
+01:09:16,000 --> 01:09:17,520
+tanti dei miei antenati
+
+3455
+01:09:17,520 --> 01:09:18,760
+e anche mio padre
+
+3456
+01:09:18,760 --> 01:09:20,600
+non l'ha chiesto
+
+3457
+01:09:20,600 --> 01:09:20,820
+dice
+
+3458
+01:09:20,820 --> 01:09:22,320
+ma mi sarebbe ancora
+
+3459
+01:09:22,320 --> 01:09:23,060
+più odioso
+
+3460
+01:09:23,060 --> 01:09:24,120
+che qualcuno
+
+3461
+01:09:24,120 --> 01:09:24,940
+potesse vedere
+
+3462
+01:09:24,940 --> 01:09:26,120
+in questo mio sforzo
+
+3463
+01:09:26,120 --> 01:09:27,100
+di sincerità
+
+3464
+01:09:27,100 --> 01:09:29,000
+un rinnegamento
+
+3465
+01:09:29,000 --> 01:09:31,120
+affermo dunque
+
+3466
+01:09:31,120 --> 01:09:32,140
+davanti alla morte
+
+3467
+01:09:32,140 --> 01:09:34,160
+che sono nato ebreo
+
+3468
+01:09:34,160 --> 01:09:35,440
+e che non ho mai pensato
+
+3469
+01:09:35,440 --> 01:09:36,240
+di negarlo
+
+3470
+01:09:36,240 --> 01:09:38,080
+dopodiché precisa
+
+3471
+01:09:38,080 --> 01:09:39,020
+non voglio preghiere
+
+3472
+01:09:39,020 --> 01:09:39,820
+perché anche in questo
+
+3473
+01:09:39,820 --> 01:09:40,900
+non voglio mentire
+
+3474
+01:09:40,900 --> 01:09:42,560
+io non ci credo
+
+3475
+01:09:42,560 --> 01:09:43,100
+e perciò
+
+3476
+01:09:43,100 --> 01:09:44,020
+nemmeno in questo momento
+
+3477
+01:09:44,020 --> 01:09:44,800
+voglio mentire
+
+3478
+01:09:44,800 --> 01:09:47,560
+vorrei che sulla mia pietra tombale
+
+3479
+01:09:47,560 --> 01:09:49,100
+fossero incise
+
+3480
+01:09:49,100 --> 01:09:50,440
+queste semplici parole
+
+3481
+01:09:50,440 --> 01:09:53,440
+di lexit veritatem
+
+3482
+01:09:53,440 --> 01:09:55,200
+ha amato la verità
+
+3483
+01:09:55,200 --> 01:09:56,020
+grazie
+
+3484
+01:09:56,020 --> 01:09:58,020
+grazie
+
+3485
+01:09:58,020 --> 01:10:00,020
+grazie
+
+3486
+01:10:00,020 --> 01:10:02,020
+grazie
+
+3487
+01:10:02,020 --> 01:10:04,020
+grazie
+
+3488
+01:10:04,020 --> 01:10:06,020
+grazie
+
+3489
+01:10:34,020 --> 01:10:34,980
+grazie a tutti
+
+3490
+01:10:34,980 --> 01:10:36,580
+a domani sera
+
+3491
+01:10:36,580 --> 01:10:38,580
+grazie
+
