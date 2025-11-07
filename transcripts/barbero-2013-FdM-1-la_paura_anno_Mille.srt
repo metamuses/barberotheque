@@ -1,1984 +1,1852 @@
 1
-00:00:00,000 --> 00:00:02,600
-Bene, buonasera.
+00:00:00,000 --> 00:00:17,660
+Bene, buonasera, grazie. Dunque, quest'anno, come sapete, il tema dei nostri tre incontri
 
 2
-00:00:02,600 --> 00:00:32,580
-Bene, grazie.
+00:00:17,660 --> 00:00:23,620
+è, potremmo dire, tutto quello che credevamo di sapere sul medioevo e che invece non è
 
 3
-00:00:32,600 --> 00:01:02,580
-Bene, grazie.
+00:00:23,620 --> 00:00:29,120
+vero. È il tema di un periodo storico, il medioevo, che tutti abbiamo in mente, che
 
 4
-00:01:02,600 --> 00:01:04,600
-Bene, grazie.
+00:00:29,120 --> 00:00:33,600
+tutti crediamo di poter immaginare, a cui pensiamo di poter attribuire un'infinità
 
 5
-00:01:04,600 --> 00:01:05,600
-Bene, grazie.
+00:00:33,600 --> 00:00:39,840
+di immagini, di episodi, di avvenimenti, di situazioni, e che però è un periodo che
 
 6
-00:01:05,600 --> 00:01:07,600
-Bene.
+00:00:39,840 --> 00:00:45,680
+è stato, in realtà, inventato dopo, in gran parte. Non vi sto dicendo che Carlo Magno
 
 7
-00:01:07,600 --> 00:01:09,600
-Bene, grazie.
+00:00:45,680 --> 00:00:51,280
+non è esistito, ma che tante cose che noi diamo per scontate quando si parla di medioevo,
 
 8
-00:01:09,600 --> 00:01:39,600
-
+00:00:51,280 --> 00:00:57,720
+quando uno va a vedere, invece, sono molto più leggendarie che non autentiche. Ad
 
 9
-00:01:39,600 --> 00:01:41,600
-Bene, grazie.
+00:00:57,720 --> 00:01:02,360
+direi vero, quello di cui parliamo stasera è, forse, come dire, la cosa meno sensazionale,
 
 10
-00:01:41,600 --> 00:01:43,600
-Bene, grazie.
+00:01:02,360 --> 00:01:06,640
+in questo senso, che quando ho cominciato a raccontare agli amici gli argomenti di cui
 
 11
-00:01:43,600 --> 00:01:45,600
-Bene, grazie.
+00:01:06,640 --> 00:01:11,720
+pensavo di parlare qui quest'anno, ho visto che quando gli dicevo, guarda che lo use
 
 12
-00:01:45,600 --> 00:01:47,600
-Bene, grazie.
+00:01:11,720 --> 00:01:17,400
+prima in hoctis, oppure l'idea della terra piatta, non è mica detto che davvero nel
 
 13
-00:01:47,600 --> 00:01:49,600
-Bene, grazie.
+00:01:17,400 --> 00:01:23,240
+medioevo. Ecco, vedevo che rimanevano più stupiti. Il tema di cui parliamo stasera,
 
 14
-00:01:49,600 --> 00:01:51,600
-Bene, grazie.
+00:01:23,240 --> 00:01:29,220
+le paure dell'anno mille, invece, è forse un pochino più passato di moda. Non tutti
 
 15
-00:01:51,600 --> 00:01:53,600
-Bene, grazie.
+00:01:29,220 --> 00:01:33,720
+forse siamo convinti che ci fossero quelle paure, perfino su internet, quando uno va
 
 16
-00:01:53,600 --> 00:01:55,600
-Bene, grazie.
+00:01:33,720 --> 00:01:40,600
+a vedere, e cerchi paure, terrori dell'anno mille, nella maggior parte dei siti, in realtà
 
 17
-00:01:55,600 --> 00:01:57,600
-Bene, grazie.
+00:01:40,600 --> 00:01:47,480
+trovi la leggenda delle paure dell'anno mille. Quindi forse sfondo una porta aperta,
 
 18
-00:01:57,600 --> 00:01:59,600
-Bene, grazie.
+00:01:47,480 --> 00:01:53,800
+e però credo che si possa essere interessante lo stesso, andare a vedere come è stata costruita
 
 19
-00:01:59,600 --> 00:02:01,600
-Bene, grazie.
+00:01:53,800 --> 00:02:00,840
+a un certo punto un'immagine del medioevo, che si rivela completamente leggendaria,
 
 20
-00:02:01,600 --> 00:02:03,600
-Bene, grazie.
+00:02:00,840 --> 00:02:06,520
+completamente inventata, e a cui invece per molto tempo gli eruditi, gli studiosi hanno
 
 21
-00:02:03,600 --> 00:02:05,600
-Bene, grazie.
+00:02:06,520 --> 00:02:12,440
+creduto, hanno creduto e come. Proprio perché dicevo che è una vecchia storia, magari
 
 22
-00:02:05,600 --> 00:02:07,600
-Bene, grazie.
+00:02:12,440 --> 00:02:17,200
+un po' passata di moda, ricordiamolo rapidamente di cosa sto parlando. Le paure dell'anno
 
 23
-00:02:07,600 --> 00:02:09,600
-Bene, grazie.
+00:02:17,200 --> 00:02:25,040
+mille non si riferiscono genericamente al fatto che nel medioevo ci fossero dei movimenti
 
 24
-00:02:09,600 --> 00:02:11,600
-Bene, grazie.
+00:02:25,040 --> 00:02:30,840
+ogni tanto che annunciavano la prossima fine del mondo. Non si riferiscono solo al fatto
 
 25
-00:02:11,600 --> 00:02:13,600
-Bene, grazie.
+00:02:30,840 --> 00:02:37,400
+che per i cristiani del medioevo il problema di quando arriverà alla fine del mondo fosse
 
 26
-00:02:13,600 --> 00:02:15,600
-Bene, grazie.
+00:02:37,400 --> 00:02:44,720
+un problema sentito, quello non è in discussione. Quando si parla dei terrori dell'anno mille
 
 27
-00:02:15,600 --> 00:02:17,600
-Bene, grazie.
+00:02:44,800 --> 00:02:51,040
+ci si riferisceReally ha un'immagine ben precisa, all'idea che nel medioevo pensavano
 
 28
-00:02:17,600 --> 00:02:19,600
-grazie.
+00:02:51,040 --> 00:02:58,160
+che il mondo sarebbe finito nell'anno mille. Quindi quando l'anno mille ha cominciato a
 
 29
-00:02:19,600 --> 00:02:21,600
-Bene, grazie.
+00:02:58,160 --> 00:03:06,000
+avvicinarsi, perché voi capite che queste cose finché le dici nell'anno 750, ma quando l'anno
 
 30
-00:02:21,600 --> 00:02:23,600
-Bene, grazie.
+00:03:06,000 --> 00:03:12,540
+mille ha cominciato a avvicinarsi, secondo questo racconto, la gente ha avuto paura sul serio.
 
 31
-00:02:23,600 --> 00:02:25,600
-Bene, grazie.
+00:03:13,140 --> 00:03:20,020
+E negli ultimi anni, prima dell'anno mille, il mondo si è quasi fermato, non aveva più senso
 
 32
-00:02:25,600 --> 00:02:27,600
-Bene, grazie.
+00:03:20,020 --> 00:03:25,540
+mettersi e darsi da fare, fondare una famiglia, lavorare. Tanto il mondo finisce mandate, tra 3 anni,
 
 33
-00:02:27,600 --> 00:02:29,600
-Bene, grazie.
+00:03:25,540 --> 00:03:35,300
+tra due, l'anno prossimo finisce brigade, e negli ultimi mesi dell'anno 999 il mondo si è davvero
 
 34
-00:02:29,600 --> 00:02:34,960
-riferiscono solo al fatto che per i cristiani del Medioevo il problema di quando arriverà
+00:03:35,300 --> 00:03:41,700
+fermato. Secondo questa storia che troviamo contata da tanti studiosi, da tanti dotti della
 
 35
-00:02:34,960 --> 00:02:42,220
-la fine del mondo fosse un problema sentito. Quello non è in discussione. Quando si parla
+00:03:41,700 --> 00:03:46,140
+nostra epoca dell'ottocento, del novecento ancora. Negli ultimi mesi dell'anno novecento
 
 36
-00:02:42,220 --> 00:02:48,220
-dei terrori dell'anno 1000 ci si riferisce proprio a un'immagine ben precisa, all'idea
+00:03:46,140 --> 00:03:52,560
+e noventa nove la gente si affollava nelle chiese a pregare e piangere sperando di salvarsi
 
 37
-00:02:48,220 --> 00:02:56,960
-cioè che nel Medioevo pensavano che il mondo sarebbe finito nell'anno 1000 e quindi quando
+00:03:52,560 --> 00:03:58,940
+perché appena fosse finito l'anno novecento e noventa nove finiva il mondo. Ecco io adesso
 
 38
-00:02:56,960 --> 00:03:01,840
-l'anno 1000 ha cominciato a avvicinarsi, perché voi capite che queste cose finché le dici
+00:03:58,940 --> 00:04:05,400
+ve l'ho detta con parole mie ma in realtà vorrei ricordare quanto profondamente era sentito
 
 39
-00:03:01,840 --> 00:03:10,800
-nell'anno 750, ma quando l'anno 1000 ha cominciato a avvicinarsi, secondo questo racconto la gente
+00:04:05,400 --> 00:04:11,920
+questo tema in particolare nella cultura dell'ottocento e che impatto romantico aveva
 
 40
-00:03:10,800 --> 00:03:17,380
-ha cominciato a aver paura sul serio e negli ultimi anni prima dell'anno 1000 il mondo si
+00:04:11,920 --> 00:04:18,960
+questa immagine di un intero mondo piegato dal terrore perché aspetta la fine del mondo.
 
 41
-00:03:17,380 --> 00:03:22,820
-è quasi fermato, non aveva più senso mettersi e darsi da fare, fondare una famiglia, lavorare,
+00:04:18,960 --> 00:04:28,160
+Vi leggo poche righe di un brano del Carducci. Carducci scrive questo nel primo dei suoi
 
 42
-00:03:22,820 --> 00:03:31,320
-tanto il mondo finisce fra tre anni, fra due, l'anno prossimo finisce e negli ultimi mesi
+00:04:28,160 --> 00:04:35,720
+discorsi sullo svolgimento della letteratura nazionale. È una storia della letteratura
 
 43
-00:03:31,320 --> 00:03:39,000
-dell'anno 999 il mondo si è davvero fermato, secondo questa storia che troviamo raccontata
+00:04:35,720 --> 00:04:40,840
+italiana perché Carducci si preoccupa dei terrore dell'anno mille. Ne parleremo. Intanto sentiamo
 
 44
-00:03:39,000 --> 00:03:45,120
-da tanti studiosi, da tanti dotti della nostra epoca dell'800, del 900 ancora. Negli ultimi
+00:04:40,840 --> 00:04:50,240
+Carducci che era uno che sapeva scrivere. Vimmaginate il levare del sole nel primo giorno
 
 45
-00:03:45,120 --> 00:03:52,560
-mesi dell'anno 999 la gente si affollava nelle chiese a pregare e piangere sperando di salvarsi
+00:04:50,240 --> 00:04:58,600
+dell'anno mille. Questo fatto di tutte le mattine ricordate che fu quasi miracolo, fu
 
 46
-00:03:52,560 --> 00:04:00,280
-perché appena fosse finito l'anno 999 finiva il mondo. Ecco io adesso ve l'ho detta con parole
+00:04:58,600 --> 00:05:07,440
+promessa di vita nuova per le generazioni uscenti dal secolo decimo e poi dice Carducci i terrori
 
 47
-00:04:00,280 --> 00:04:06,920
-mie, ma in realtà vorrei ricordare quanto profondamente era sentito questo tema, in particolare
+00:05:07,440 --> 00:05:12,520
+che si erano accumulati per anni e anni e naturalmente anche le ragioni di aver paura,
 
 48
-00:04:06,920 --> 00:04:15,980
-nella cultura dell'800 e che impatto romantico aveva questa immagine di un intero mondo piegato
+00:05:12,520 --> 00:05:18,880
+le epidemie, le carestie, i prodigi. Tutto questo all'avvicinarsi dell'anno mille si coagula
 
 49
-00:04:15,980 --> 00:04:23,460
-dal terrore perché aspetta la fine del mondo. Vi leggo poche righe di un brano del
+00:05:18,880 --> 00:05:28,800
+in un'immensa paura collettiva. Sempre Carducci, mille e non più mille, aveva secondo la tradizione
 
 50
-00:04:23,460 --> 00:04:32,420
-Carducci. Carducci scrive questo nel primo dei suoi discorsi sullo svolgimento della letteratura
+00:05:28,800 --> 00:05:39,520
+detto Gesù. Dopo mille anni leggevasi nell'apocalipsi Satana sarà disolto. Dopodiché segue appunto
 
 51
-00:04:32,420 --> 00:04:37,800
-nazionale. È una storia della letteratura italiana, perché Carducci si preoccupa dei
+00:05:39,520 --> 00:05:43,840
+la descrizione delle folle gementi nelle chiesi negli ultimi giorni dell'anno mille,
 
 52
-00:04:37,800 --> 00:04:43,420
-terrore dell'anno 1000. Ne parleremo. Intanto sentiamo Carducci che era uno che sapeva scrivere
+00:05:43,920 --> 00:05:52,000
+1999. E poi c'è lo straordinario colpo di scena. Il primo giorno dell'anno mille il sole
 
 53
-00:04:43,420 --> 00:04:53,700
-«Vi immaginate il levar del sole nel primo giorno dell'anno 1000? Questo fatto di tutte
+00:05:52,000 --> 00:06:01,360
+sorge e non è successo niente. E che stupore di gioia e che grido salì al cielo dalle
 
 54
-00:04:53,700 --> 00:05:02,340
-le mattine ricordate che fu quasi miracolo? Fu promessa di vita nuova per le generazioni
+00:06:01,360 --> 00:06:10,000
+turbe raccolte in gruppi silenziosi intorno a manieri feudali, accosciate e sindiozzanti
 
 55
-00:05:02,340 --> 00:05:09,180
-uscenti dal secolo X». E poi dice Carducci i terrori che si erano accumulati per anni
+00:06:10,000 --> 00:06:19,440
+nelle chiesi tenebrose e nei chiostri, quando il sole, eterno fonte di luce e di vita, si levò
 
 56
-00:05:09,180 --> 00:05:15,080
-e anni e naturalmente anche le ragioni di aver paura, le epidemie, le carestie, i prodigi,
+00:06:19,440 --> 00:06:28,160
+triomfale la mattina dell'anno mille. Formidabile naturalmente. Carducci è un grande scrittore,
 
 57
-00:05:15,540 --> 00:05:21,060
-tutto questo all'avvicinarsi dell'anno 1000 si coagula in un'immensa paura collettiva.
+00:06:28,160 --> 00:06:34,200
+ma queste cose le scrivevano anche i miei colleghi, gli storici nell'ottocento. Giusto per non negarci
 
 58
-00:05:21,840 --> 00:05:31,280
-Sempre Carducci. Mille e non più mille. Aveva, secondo la tradizione, detto Gesù. Dopo
+00:06:34,200 --> 00:06:41,320
+niente, due righe da uno storico francese, il Lavallet a lievo di Michelet. Storia dei
 
 59
-00:05:31,280 --> 00:05:39,680
-mille anni, leggevasi nell'Apocalipsi, Satana sarà disciolto. Dopodiché segue appunto la
+00:06:41,320 --> 00:06:50,040
+francesi, 1844. Traducco alla buona. La credenza nella fine del mondo, credenza che sembrava
 
 60
-00:05:39,680 --> 00:05:44,660
-descrizione delle folle gementi nelle chiese negli ultimi giorni dell'anno 1000, del 999,
+00:06:50,040 --> 00:06:57,160
+giustificata dalle pesti, le fami, le calamità di ogni genere che desolavano l'Europa, provocava
 
 61
-00:05:45,880 --> 00:05:52,580
-e poi c'è lo straordinario colpo di scena. Il primo giorno dell'anno 1000 il sole sorge
+00:06:57,160 --> 00:07:06,320
+una atonia universale. Tutto era ghiacciato di paura nell'attesa del giorno fatale. Ogni
 
 62
-00:05:52,580 --> 00:06:01,980
-e non è successo niente. E che stupore di gioia e che grido salì al cielo dalle turbe
+00:07:06,320 --> 00:07:11,800
+impresa si era fermata, ogni movimento si era arrestato, non c'era più un'esperanza
 
 63
-00:06:01,980 --> 00:06:11,140
-raccolte in gruppi silenziosi intorno a manieri feudali, accosciate e singhiozzanti nelle chiese
+00:07:11,800 --> 00:07:17,720
+né avvenire, si raddoppiava di fervore religioso, con gioia del professore Di Freddi che vedo
 
 64
-00:06:11,140 --> 00:06:20,680
-tenebrose e nei chiostri, quando il sole, eterno fonte di luce e di vita, si levò trionfale
+00:07:17,720 --> 00:07:23,760
+qui davanti a me. Ci si accumulava, ci si affollavano i conventi, si donavano i propri
 
 65
-00:06:20,680 --> 00:06:28,560
-la mattina dell'anno 1000. Formidabile, naturalmente. Carducci è un grande scrittore, ma queste
+00:07:23,760 --> 00:07:29,760
+beni alla chiesa e da ogni parte si sentiva questo grido lugubre, la fine del mondo si
 
 66
-00:06:28,560 --> 00:06:33,860
-cose le scrivevano anche i miei colleghi, gli storici, nell'Ottocento. Giusto per non
+00:07:29,760 --> 00:07:38,160
+avvicina. Bene, abbiamo assodato se non altro un punto, nell'Ottocento erano tutti i convinti
 
 67
-00:06:33,860 --> 00:06:40,040
-negarci niente, due righe da uno storico francese, il Lavallè, allievo di Michelet.
+00:07:38,160 --> 00:07:45,680
+che ci fosse stato questo terrore collettivo che ha bloccato la società europea. Abbiamo
 
 68
-00:06:40,040 --> 00:06:49,520
-Storia dei francesi, 1844. Traduco alla buona. La credenza nella fine del mondo, credenza
+00:07:45,680 --> 00:07:50,960
+modo di controllare, abbiamo modo di andare a vedere cosa succedeva davvero nell'anno
 
 69
-00:06:49,520 --> 00:06:55,200
-che sembrava giustificata dalle pesti, le fami, le calamità di ogni genere che desolavano
+00:07:50,960 --> 00:07:59,320
+1999. Eh beh, un po' di fatica sì, andiamo a cercare dei documenti scritti in quell'anno.
 
 70
-00:06:55,200 --> 00:07:04,160
-l'Europa, provocava una atonia universale. Tutto era ghiacciato di paura nell'attesa del
+00:07:59,320 --> 00:08:08,200
+Per esempio, cosa faceva il Papa alla fine del 1999? Papa che doveva essere abbastanza
 
 71
-00:07:04,160 --> 00:07:10,800
-giorno fatale. Ogni impresa si era fermata, ogni movimento si era arrestato, non c'era
+00:08:08,200 --> 00:08:14,240
+interessato all'argomento evidentemente. Noi abbiamo una bolla papale, pensate che
 
 72
-00:07:10,800 --> 00:07:16,840
-più né speranza né avvenire. Si raddoppiava di fervore religioso, con gioia del professor
+00:08:14,240 --> 00:08:25,800
+è fortuna, del 31 dicembre 1999. Il 31 dicembre 1999, Papa Silvestro II conferma i privilegi
 
 73
-00:07:16,840 --> 00:07:22,920
-Odifreddi che vedo qui davanti a me. Ci si accumulava, ci si affollava nei conventi, si
+00:08:25,800 --> 00:08:32,540
+di un grande monastero tedesco, il monastero di Fulda. Sono vari privilegi che la sede romana
 
 74
-00:07:22,920 --> 00:07:28,920
-donavano i propri beni alla chiesa e da ogni parte si sentiva questo grido lugubre. La fine
+00:08:32,540 --> 00:08:40,920
+conferma su richiesta della Bate e il Papa consegna questa bolla datata 31 dicembre 1999
 
 75
-00:07:28,920 --> 00:07:36,860
-del mondo si avvicina. Bene, abbiamo assodato se non altro un punto. Nell'ottocento erano
+00:08:40,920 --> 00:08:48,480
+alla Bate di Fulda dicendogli, ti confermo tutti i privilegi del tuo monastero, a te
 
 76
-00:07:36,860 --> 00:07:43,760
-tutti convinti che ci fosse stato questo terrore collettivo che ha bloccato la società europea.
+00:08:48,480 --> 00:08:56,280
+e ai tuoi successori, a patto che in futuro ogni abate che verrà eletto venga a chiedere
 
 77
-00:07:45,080 --> 00:07:50,920
-Abbiamo modo di controllare, abbiamo modo di andare a vedere cosa succedeva davvero nell'anno
+00:08:56,280 --> 00:09:03,880
+a Roma la conferma della sua elezione. Inoltre, voi in cambio di questi privilegi, monaci
 
 78
-00:07:50,920 --> 00:07:58,380
-novecentonovantanove. Con un po' di fatica sì. Andiamo a cercare dei documenti scritti
+00:09:03,880 --> 00:09:10,360
+di Fulda, dovete pagare un'offerta ogni anno di 12 denari alla sede romana da pagare
 
 79
-00:07:58,380 --> 00:08:07,320
-in quell'anno. Per esempio, cosa faceva il Papa alla fine del novecentonovantanove? Papa
+00:09:10,360 --> 00:09:18,840
+in futuro ogni anno. Almeno questi due non si stavano aspettando la fine del mondo evidentemente.
 
 80
-00:08:07,320 --> 00:08:12,600
-che doveva essere abbastanza interessato all'argomento evidentemente. Noi abbiamo una bolla
+00:09:18,840 --> 00:09:25,920
+È vero che Papa Silvestro II era un personaggio speciale, era un grande erudito, un grande
 
 81
-00:08:12,600 --> 00:08:20,480
-papale, pensate che fortuna, del trentun dicembre novecentonovantanove. Il trentun dicembre
+00:09:25,920 --> 00:09:30,520
+dotto, tanto dotto che qualcuno addirittura lo sospettava anche di un po' di intralazzi
 
 82
-00:08:20,480 --> 00:08:27,580
-novecentonovantanove Papa Silvestro II conferma i privilegi di un grande monastero tedesco,
+00:09:30,520 --> 00:09:36,400
+con la magia, si chiamava Gerberto di Oriac prima di diventare Papa, magari lui era un
 
 83
-00:08:27,620 --> 00:08:34,740
-il monastero di Fulda. Sono vari privilegi che la sede romana conferma su richiesta dell'abate
+00:09:36,520 --> 00:09:40,880
+po' speciale, magari gli sprovveduti e la gente qualunque invece se l'aspettavano questa
 
 84
-00:08:34,740 --> 00:08:42,180
-e il Papa consegna questa bolla datata trentun dicembre novecentonovantanove all'abate di Fulda
+00:09:40,880 --> 00:09:48,280
+fine del mondo. Andiamo a vedere cosa faceva la gente qualunque nel 1999. Tra un po' di
 
 85
-00:08:42,180 --> 00:08:51,200
-dicendogli ti confermo tutti i privilegi del tuo monastero a te e ai tuoi successori a patto
+00:09:48,280 --> 00:09:52,920
+documenti che ho trovato venecito uno a caso, ho cercato fra quelli piemontesi che per me
 
 86
-00:08:51,200 --> 00:08:59,440
-che in futuro ogni abate che verrà eletto venga a chiedere a Roma la conferma della sua elezione.
+00:09:52,920 --> 00:10:02,120
+era più comodo. Siamo a Tortona, in un mese imprecisato del 1999. Due fratelli, uno è un
 
 87
-00:08:59,440 --> 00:09:06,480
-inoltre voi in cambio di questi privilegi monaci di Fulda dovete pagare un'offerta ogni
+00:10:02,120 --> 00:10:08,600
+rete a Delberto, l'altro è un laico e Renzone, sono due piccoli imprenditori, prendono in
 
 88
-00:09:06,480 --> 00:09:14,700
-anno di dodici denari alla sede romana da pagare in futuro ogni anno. Almeno questi due
+00:10:08,600 --> 00:10:16,080
+affitto delle case e delle terre dei campi dal monastero di San Marziano di Tortona. Prendono
 
 89
-00:09:14,700 --> 00:09:22,540
-non si stavano aspettando la fine del mondo evidentemente. È vero che Papa Silvestro II era
+00:10:16,080 --> 00:10:22,320
+in affitto queste terre con un contratto scritto, cosa che nell'anno 1999 in certe parti d'Europa
 
 90
-00:09:22,540 --> 00:09:28,780
-un personaggio speciale, era un grande erudito, un grande dotto, tanto dotto che qualcuno addirittura
+00:10:22,320 --> 00:10:27,640
+non si usava più tanto, perché in molte parti d'Europa andavano più alla buona, un contratto,
 
 91
-00:09:28,780 --> 00:09:34,080
-lo sospettava anche di un po' di intrallazzi con la magia, si chiamava Gerberto di Oriac prima
+00:10:27,640 --> 00:10:33,760
+uno sputo sul palmo, stretta di mano. In Italia, paese più vicino alle sue radici classiche,
 
 92
-00:09:34,080 --> 00:09:38,420
-di diventare Papa. Magari lui era uno un po' speciale, magari gli sprovveduti e la gente
+00:10:33,760 --> 00:10:39,760
+si usava di più andare dal notaio anche per fare un contratto d'affitto. Facevano questo
 
 93
-00:09:38,420 --> 00:09:44,160
-qualunque invece se l'aspettavano questa fine del mondo. Andiamo a vedere cosa faceva la gente
+00:10:39,760 --> 00:10:46,480
+contratto d'affitto che chiamavano il Libretto, libellus in latino. Questo contratto d'affitto
 
 94
-00:09:44,160 --> 00:09:49,940
-qualunque nel novecentonovantanove. Tra un po' di documenti che ho trovato ve ne cito uno
+00:10:46,480 --> 00:10:54,120
+noi ce l'abbiamo. La Bate dà in affitto queste terre a questi due fratelli per la durata
 
 95
-00:09:49,940 --> 00:09:57,040
-a caso, ho cercato fra quelli piemontesi che per me era più comodo. Siamo a Tortona, in un
+00:10:54,120 --> 00:11:00,400
+di, qui vi voglio preparare, nelle nostre campagne fino a un po' di tempo fa era in vigore
 
 96
-00:09:57,040 --> 00:10:03,820
-mese imprecisato del novecentonovantanove. Due fratelli, uno è un prete, Adelberto, l'altro
+00:11:00,400 --> 00:11:06,280
+la mezzadria. E la mezzadria voi sapete che era un sistema, come dire, in apparenza paritaria
 
 97
-00:10:03,820 --> 00:10:10,800
-è un laico e Renzone, sono due piccoli imprenditori, prendono in affitto delle case e delle terre
+00:11:06,280 --> 00:11:10,240
+o in realtà molto squilibrato a favore del padrone e normalmente il contratto durava
 
 98
-00:10:10,800 --> 00:10:17,100
-e dei campi dal monastero di San Marziano di Tortona. Prendono in affitto queste terre
-
-99
-00:10:17,100 --> 00:10:22,320
-con un contratto scritto, cosa che nell'anno novecentonovantanove in certe parti d'Europa
-
-100
-00:10:22,320 --> 00:10:26,620
-non si usava più tanto, perché in molte parti di Europa andavano più alla buona. Un
-
-101
-00:10:26,620 --> 00:10:32,780
-contratto, uno sputo sul palmo, stretta di mano. In Italia, il paese più vicino alle
-
-102
-00:10:32,780 --> 00:10:38,240
-sue radici classiche, si usava di più andare dal notaio, anche per fare un contratto d'affitto.
-
-103
-00:10:39,140 --> 00:10:46,100
-Facevano questo contratto d'affitto che chiamavano il libretto, libellus in latino. Questo contratto
-
-104
-00:10:46,100 --> 00:10:52,100
-d'affitto noi ce l'abbiamo. L'abate dà in affitto queste terre a questi due fratelli
-
-105
-00:10:52,100 --> 00:10:59,660
-per la durata di, qui vi voglio preparare, nelle nostre campagne fino a un po' di tempo
-
-106
-00:10:59,660 --> 00:11:05,600
-fa era in vigore la mezzadria e la mezzadria voi sapete che era un sistema in apparenza
-
-107
-00:11:05,600 --> 00:11:10,220
-paritario, in realtà molto squilibrato a favore del padrone e normalmente il contratto durava
-
-108
-00:11:10,220 --> 00:11:16,460
+00:11:10,240 --> 00:11:16,480
 un anno. Alla fine del raccolto a San Martino il mezzadro consegnava tutto e se il padrone
 
+99
+00:11:16,480 --> 00:11:20,920
+voleva cacciarlo lo poteva cacciare. L'albero degli zoccoli di Hermano Olmi, tanto per
+
+100
+00:11:20,920 --> 00:11:27,600
+citare un film che magari molte hanno visto. Nel Medioevo non era così. Nel Medioevo c'erano
+
+101
+00:11:27,600 --> 00:11:31,680
+poche braccia e uno dei grandi problemi per un proprietario terriero, tanto più per i
+
+102
+00:11:31,680 --> 00:11:37,040
+monaci che avevano altro a cui pensare che non star sempre dietro ai campi, un grande
+
+103
+00:11:37,040 --> 00:11:41,360
+problema per i proprietari terrieri era di trovare lavoratori che stessero lì, anzi
+
+104
+00:11:41,360 --> 00:11:46,400
+se mai di costringerli a stare lì se possibile, anziché cacciarli. Quindi nel Medioevo usavano
+
+105
+00:11:46,400 --> 00:11:54,600
+contratti a lunga scadenza. Nell'anno 1999 la Bate di San Marziano di Tortona dà inaffitto
+
+106
+00:11:54,600 --> 00:12:02,280
+queste terre del monastero a questi due fratelli per la durata di 29 anni. A condizione che
+
+107
+00:12:02,280 --> 00:12:08,960
+dovranno abitarci, coltivarle, non permettere che queste terre vadano in malora e ogni anno
+
+108
+00:12:08,960 --> 00:12:17,520
+pagheranno al monastero un terzo del grano raccolto e metà del vino. Non solo, fa comodo
+
 109
-00:11:16,460 --> 00:11:21,260
-voleva cacciarlo lo poteva cacciare. L'albero degli zoccoli di Armando Olmi, tanto per citare
+00:12:17,520 --> 00:12:21,680
+al padrone verri lì per 29 anni, ma anche a loro fa comodo una bella garanzia per il
 
 110
-00:11:21,260 --> 00:11:27,560
-un film che magari molti hanno visto. Nel Medioevo non era così. Nel Medioevo c'erano
+00:12:21,680 --> 00:12:29,320
+contadino. Dunque la garanzia sta a contratto. Vidiamo queste terre per 29 anni. Se nell'arco
 
 111
-00:11:27,560 --> 00:11:32,140
-poche braccia e uno dei grandi problemi per un proprietario terriero, tanto più per i monaci
+00:12:29,320 --> 00:12:35,240
+di questi 29 anni qualche mio successore a Bate dovesse cercare di riprendersela, pagherà
 
 112
-00:11:32,140 --> 00:11:37,400
-che avevano altro a cui pensare che non star sempre dietro ai campi, un grande problema
-
-113
-00:11:37,400 --> 00:11:41,800
-per i proprietari terrieri era di trovare lavoratori che stessero lì, anzi semmai di
-
-114
-00:11:41,800 --> 00:11:47,100
-costringerli a stare lì se possibile, anziché cacciarli. Quindi nel Medioevo usavano contratti
-
-115
-00:11:47,100 --> 00:11:54,900
-a lunga scadenza. Nell'anno 999 l'abate di San Marziano di Tortona dà in affitto queste
-
-116
-00:11:54,900 --> 00:12:02,640
-terre del monastero a questi due fratelli per la durata di 29 anni, a condizione che dovranno
-
-117
-00:12:02,640 --> 00:12:08,980
-abitarci, coltivarle, non permettere che queste terre vadano in malora e ogni anno
-
-118
-00:12:08,980 --> 00:12:17,500
-pagheranno al monastero un terzo del grano raccolto e metà del vino. Non solo fa comodo
-
-119
-00:12:17,500 --> 00:12:21,600
-al padrone averli lì per 29 anni, ma anche a loro fa comodo, è una bella garanzia per
-
-120
-00:12:21,600 --> 00:12:29,340
-il contadino. Dunque la garanzia sta a contratto. Vi diamo queste terre per 29 anni. Se nell'arco
-
-121
-00:12:29,340 --> 00:12:35,040
-di questi 29 anni qualche mio successore abate dovesse cercare di riprendersele pagherà
-
-122
-00:12:35,040 --> 00:12:41,860
+00:12:35,240 --> 00:12:41,840
 la penale di 20 soldi d'argento prevista dal contratto. Dunque anche questi nell'anno
 
-123
-00:12:41,860 --> 00:12:48,580
-999 non si aspettavano che il mondo finisse l'anno dopo evidentemente. Non c'è proprio
+113
+00:12:41,840 --> 00:12:48,600
+1999 non si aspettavano che il mondo finisse l'anno dopo, evidentemente. Non c'è proprio
 
-124
-00:12:48,580 --> 00:12:57,100
-nessuno che parla della fine del mondo nell'anno 999. Alla fine un documento l'ho trovato che
+114
+00:12:48,600 --> 00:12:57,000
+nessuno che parla della fine del mondo nell'anno 1999. Alla fine un documento l'ho trovato,
 
-125
-00:12:57,100 --> 00:13:03,460
-parla della fine del mondo, ma bisogna vedere in che termini. È un diploma dell'imperatore
+115
+00:12:57,000 --> 00:13:03,480
+che parla della fine del mondo, ma bisogna vedere in che termini. È un diploma dell'imperatore
 
-126
-00:13:03,460 --> 00:13:11,060
-Ottone III. L'imperatore Ottone III quell'anno è andato a Roma per varie brighe sue. Arriva
+116
+00:13:03,480 --> 00:13:08,920
+ottone terzo. L'imperatore ottone terzo quell'anno è andato a Roma per varie brighe
 
-127
-00:13:11,060 --> 00:13:15,400
-a Roma e naturalmente si affolla la gente che gli chiede, si affollano i postulanti che
+117
+00:13:08,920 --> 00:13:15,320
+sue. Arriva a Roma e naturalmente si affolla la gente che gli chiede, si affollano i postulanti,
 
-128
-00:13:15,400 --> 00:13:19,580
-gli chiedono donazioni, conferme, diplomi, benefici e così via. Tra l'altro arrivano
+118
+00:13:15,320 --> 00:13:19,600
+che gli chiedono donazioni conferme, diplomi, beneficie, così via. Tra l'altro arrivano
 
-129
-00:13:19,580 --> 00:13:26,620
-i monaci di Farfa. Farfa è un grande monastero laziale. Anche loro hanno dei privilegi naturalmente.
+119
+00:13:19,600 --> 00:13:26,720
+i monaci di Farfa. Farfa è un grande monastero naziale. Anche loro hanno dei privilegi naturalmente.
 
-130
-00:13:27,640 --> 00:13:33,100
+120
+00:13:26,720 --> 00:13:33,120
 Farfa è un grande monastero imperiale, appartiene all'imperatore, però loro hanno un privilegio
 
-131
-00:13:33,100 --> 00:13:38,940
+121
+00:13:33,120 --> 00:13:38,960
 che l'imperatore non lo può regalare a qualcun altro quel monastero. Come invece gli imperatori
 
+122
+00:13:38,960 --> 00:13:44,320
+facevano volentieri. Hai un vecchio consigliere da premiare che deve andare in pensione, un
+
+123
+00:13:44,320 --> 00:13:51,540
+tipo importante. Cosa ne fai? Lo nomini abbate di un monastero che va da lì e si goda le
+
+124
+00:13:51,540 --> 00:13:57,920
+ricchezza di quel monastero. Queste cose ai monaci piacciono poco. I monaci di Farfa
+
+125
+00:13:57,920 --> 00:14:02,560
+hanno il privilegio, non possono essere dati in questo modo a nessuno. I loro abbate se
+
+126
+00:14:02,560 --> 00:14:08,440
+lo eleggono loro. L'imperatore ottone terzo dice benissimo, siamo d'accordo. Ve lo concediamo.
+
+127
+00:14:08,440 --> 00:14:16,040
+Confermiamo questo privilegio, dice l'imperatore, il 3 ottobre 999. Traducco dal latino. Per
+
+128
+00:14:16,040 --> 00:14:23,920
+cui d'ora in poi, ineterno, mai più nessuno dei nostri successori potrà dare in beneficio
+
+129
+00:14:23,920 --> 00:14:31,680
+a qualcuno il monastero di Farfa, ma rimanga sempre di proprietà dello Stato, res pubblica.
+
+130
+00:14:31,680 --> 00:14:39,760
+Se qualche papa in futuro o qualche imperatore nostro successore dovesse invece soggiogare
+
+131
+00:14:39,760 --> 00:14:49,000
+quel monastero a qualcuno, si ricordi che quando poi verrà Cristo e tutti quanti dovremo
+
 132
-00:13:38,940 --> 00:13:44,380
-facevano volentieri? Hai un vecchio consigliere da premiare che deve andare in pensione, un
+00:14:49,000 --> 00:14:56,920
+rendergli i nostri conti, dovrà rispondere di aver infranto la mia promessa. Perché Cristo
 
 133
-00:13:44,380 --> 00:13:52,020
-tipo importante. Cosa ne fai? Lo nomini abate di un monastero che va da lì e si goda le ricchezze
+00:14:56,920 --> 00:15:05,600
+verrà, la fine del mondo ci sarà e tutti dovremo rendere i conti prima o poi. Ma chiaramente
 
 134
-00:13:52,020 --> 00:13:58,800
-di quel monastero. Queste cose ai monaci piacciono poco. I monaci di Farfa hanno il privilegio,
+00:15:05,600 --> 00:15:14,080
+anche l'imperatore non si aspettava che il mondo finisse l'anno dopo. C'è un altro
 
 135
-00:13:58,940 --> 00:14:04,320
-non possono essere dati in questo modo a nessuno. Il loro abate se lo eleggono loro. L'imperatore
+00:15:14,080 --> 00:15:22,080
+modo di controllare. Beh sì, c'erano dei cronisti all'epoca, certo che c'erano persone di
 
 136
-00:14:04,320 --> 00:14:09,860
-Ottone III dice benissimo, siamo d'accordo, ve lo concediamo. Confermiamo questo privilegio,
+00:15:22,080 --> 00:15:27,760
+solito studiosi e quindi di solito all'epoca uomini di chiesa, monaci, che a un bel momento
 
 137
-00:14:10,000 --> 00:14:18,820
-dice l'imperatore, il 3 ottobre 999. Traduco dal latino. Per cui d'ora in poi, in eterno,
+00:15:27,760 --> 00:15:34,000
+decidevano di mettersi a tavolino e scrivere i grandi avvenimenti a cui assistevano. Magari
 
 138
-00:14:19,360 --> 00:14:25,680
-mai più nessuno dei nostri successori potrà dare in beneficio a qualcuno il monastero di
+00:15:34,000 --> 00:15:40,400
+anche solo poche righe, magari invece anche di più, anno per anno. Ci sono parecchi cronisti
 
 139
-00:14:25,680 --> 00:14:31,760
-Farfa, ma rimanga sempre di proprietà dello Stato. Res pubblica.
+00:15:40,400 --> 00:15:46,320
+che hanno vissuto l'anno mille e che scrivono, nel 998 è successo questo e quell'altro,
 
 140
-00:14:31,760 --> 00:14:39,740
-Se qualche Papa in futuro o qualche imperatore nostro successore dovesse invece soggiogare
+00:15:46,320 --> 00:15:51,800
+nel 999 è successo questo, nel 1000 è successo quest'altro, l'imperatore è andato a Roma,
 
 141
-00:14:39,740 --> 00:14:49,680
-quel monastero a qualcuno, si ricordi che quando poi verrà Cristo e tutti quanti dovremo rendergli
+00:15:51,800 --> 00:15:59,840
+nel 1001 è tornato in Germania e così via. Non c'è nessuno che dica c'era il terrore
 
 142
-00:14:49,680 --> 00:14:57,300
-i nostri conti, dovrà rispondere di aver infranto la mia promessa. Perché Cristo verrà,
+00:15:59,840 --> 00:16:12,200
+dell'anno mille, c'erano le folle, c'erano dei movimenti, penite niente. Dobbiamo pensare
 
 143
-00:14:57,300 --> 00:15:05,360
-la fine del mondo ci sarà e tutti dovremo rendere i conti prima o poi. Ma chiaramente
+00:16:12,200 --> 00:16:16,680
+che nel medioevo erano gente così laica e disinvolta che della fine del mondo non
 
 144
-00:15:05,360 --> 00:15:10,360
-anche l'imperatore non si aspettava che l'anno finisse l'anno dopo, che il mondo finisse
+00:16:16,680 --> 00:16:22,800
+gli importava niente, no evidentemente, l'abbiamo appena visto, della fine del mondo gli importava.
 
 145
-00:15:10,360 --> 00:15:10,860
-l'anno dopo.
+00:16:22,880 --> 00:16:31,000
+Il problema è quando verrà la fine del mondo. C'è modo di saperlo, torniamo un po' indietro.
 
 146
-00:15:10,860 --> 00:15:19,760
-C'è un altro modo di controllare? Beh sì. C'erano dei cronisti all'epoca, certo
+00:16:31,000 --> 00:16:35,880
+Noi l'abbiamo detto, il Carducci dice mille, non più mille ha citato l'Apocalisse, ecco,
 
 147
-00:15:19,760 --> 00:15:25,320
-che c'erano. Persone, di solito studiosi e quindi di solito all'epoca uomini di chiesa,
+00:16:35,880 --> 00:16:44,880
+andiamo un po' a vedere cosa ne sapevano loro della fine del mondo. Sapevano tutto tra
 
 148
-00:15:25,400 --> 00:15:32,040
-monaci, che a un bel momento decidevano di mettersi a tavolino e scrivere i grandi avvenimenti
+00:16:44,880 --> 00:16:51,560
+nella data, sapevano tutto perché c'è il libro dell'Apocalisse che descrive esattamente
 
 149
-00:15:32,040 --> 00:15:37,340
-a cui assistevano. Magari anche solo poche righe, magari invece anche di più, anno per
+00:16:51,560 --> 00:16:57,040
+come avverrà la fine del mondo. Il libro dell'Apocalisse che è l'ultimo libro canonico
 
 150
-00:15:37,340 --> 00:15:44,740
-anno. Ci sono parecchi cronisti che hanno vissuto l'anno 1000 e che scrivono, nel 998
+00:16:57,040 --> 00:17:03,320
+del nuovo testamento attribuito a San Giovanni Evangelista ma probabilmente non è vero. Comunque
 
 151
-00:15:44,740 --> 00:15:50,200
-è successo questo e quell'altro, nel 99 è successo questo, nel 1000 è successo quest'altro,
+00:17:03,320 --> 00:17:11,080
+è testo antico, fine e primo secolo, un testo totalmente delirante, va detto, visionario che
 
 152
-00:15:50,280 --> 00:15:55,820
-l'imperatore è andato a Roma, nel 1001 è tornato in Germania e così via. Non c'è
+00:17:11,080 --> 00:17:19,800
+racconta le cose più straordinarie e che complessivamente si presenta come la descrizione della fine
 
 153
-00:15:55,820 --> 00:16:03,420
-nessuno che dica c'era il terrore dell'anno 1000, c'erano le folle, c'erano dei movimenti,
+00:17:19,800 --> 00:17:24,600
+del mondo. Questa cosa per gli ecclesiastici del Medioeva era molto importante e molto
 
 154
-00:16:03,700 --> 00:16:15,920
-penite niente. Dobbiamo pensare che nel Medioevo erano gente così laica e disinvolta, che della
+00:17:24,600 --> 00:17:30,520
+utile anche. Immaginate un cronista che vuole scrivere la storia universale. Va in biblioteca,
 
 155
-00:16:15,920 --> 00:16:20,380
-fine del mondo non gli importava niente? No, evidentemente, l'abbiamo appena visto, della
+00:17:30,520 --> 00:17:36,520
+comincia, trova gli storici antichi, i greci, i romani, i cartaginesi, Annibale e così via,
 
 156
-00:16:20,380 --> 00:16:28,260
-fine del mondo gli importava. Il problema è quando verrà la fine del mondo. C'è modo
+00:17:36,520 --> 00:17:42,160
+Costantino, il grande imperatore cristiano, i barbari, Carlo Magno. Poi siamo arrivati
 
 157
-00:16:28,260 --> 00:16:33,160
-di saperlo. Torniamo un po' indietro. Noi l'abbiamo detto, il Carducci dice mille, non
+00:17:42,160 --> 00:17:49,240
+adesso al presente, lascio un po' di pagine bianche e poi volendo alla parte finale la
 
 158
-00:16:33,160 --> 00:16:39,440
-più mille, ha citato l'Apocalisse. Ecco, andiamo un po' a vedere. Cosa ne sapevano loro della
+00:17:49,240 --> 00:17:53,320
+posso già mettere perché si sa già come sarà la fine del mondo. Basta andare a prendere
 
 159
-00:16:39,440 --> 00:16:48,200
-fine del mondo? Sapevano tutto, tranne la data. Sapevano tutto perché c'è il libro
+00:17:53,320 --> 00:17:58,640
+l'Apocalisse e la descrive, verrà l'Anticristo, commetterà ogni sorta di nefandezza e poi
 
 160
-00:16:48,200 --> 00:16:54,460
-dell'Apocalisse che descrive esattamente come avverrà la fine del mondo. Il libro
+00:17:58,640 --> 00:18:09,760
+verrà sconfitto, tornerà a Cristo. L'Apocalisse, come vi dicevo, è un testo visionario e farraginoso
 
 161
-00:16:54,460 --> 00:17:00,420
-dell'Apocalisse che è l'ultimo libro canonico del Nuovo Testamento, attribuito a San Giovanni
+00:18:09,760 --> 00:18:17,040
+dove si trova di tutto. A un certo punto l'autore dell'Apocalisse comincia a giocare con numero
 
 162
-00:17:00,420 --> 00:17:08,640
-Evangelista ma probabilmente non è vero, comunque testo antico, fine primo secolo, un testo totalmente
+00:18:17,160 --> 00:18:24,040
+1.000. Non si capisce tape niente e non è che mi dovete credere, adesso ve lo leggo. Ma
 
 163
-00:17:08,640 --> 00:17:16,540
-delirante, va detto, visionario, che racconta le cose più straordinarie e che complessivamente
+00:18:24,040 --> 00:18:31,240
+che c'entri l'anno 1.000 o meglio il numero 1.000? Questo è evidente. Apocalisse 20 versetti
 
 164
-00:17:16,540 --> 00:17:22,940
-si presenta come la descrizione della fine del mondo. Questa cosa per gli ecclesiastici
+00:18:31,240 --> 00:18:39,440
+1.7. Poi vi dì un angelo che scendeva dal cielo e che aveva la chiave dell'abisso e una
 
 165
-00:17:22,940 --> 00:17:27,180
-del Medioevo era molto importante e molto utile anche. Immaginate un cronista che vuole
+00:18:39,440 --> 00:18:46,880
+gran catena in mano. Egli prese il dragone, il serpente antico che è il diavolo.
 
 166
-00:17:27,180 --> 00:17:33,260
-scrivere la storia universale. Va in biblioteca, comincia, trova gli storici antichi, i greci,
+00:18:46,880 --> 00:18:55,440
+E' satana. E lo leggo per 1.000 anni. Poi lo gettò nell'abisso che chiuse e si gillò
 
 167
-00:17:33,380 --> 00:17:38,660
-i romani, i cartaginesi, Annibale e così via, Costantino il grande imperatore cristiano,
+00:18:55,440 --> 00:19:02,200
+sopra di lui, perché non seducesse più le nazioni finché fossero compiuti i 1.000 anni.
 
 168
-00:17:38,880 --> 00:17:45,700
-i barbari, Carlo Magno. Poi siamo arrivati adesso al presente, lascio un po' di pagine
+00:19:02,200 --> 00:19:09,880
+Uno legge questo e dice cosa vorrà dire? Eh, sembrerebbe dire che in certo punto per 1.000
 
 169
-00:17:45,700 --> 00:17:51,340
-bianche e poi volendo la parte finale la posso già mettere perché si sa già come sarà
+00:19:09,880 --> 00:19:16,480
+anni satana è reso impotente perché? Perché è venuto Cristo? Certo, saranno 1.000 anni da
 
 170
-00:17:51,340 --> 00:17:56,640
-la fine del mondo. Basta andare a prendere l'Apocalisse e la descrive. Verrà l'anticristo,
+00:19:16,480 --> 00:19:21,440
+quando è venuto Cristo? E poi però allora qua dice che dopo 1.000 anni lo liberano satana.
 
 171
-00:17:56,780 --> 00:18:03,280
-commetterà ogni sorta di nefandezze, poi verrà sconfitto, tornerà Cristo. L'Apocalisse,
+00:19:21,440 --> 00:19:27,040
+E subito dopo verrà la fine del mondo. Questa è una linea di ragionamento che è possibile.
 
 172
-00:18:03,420 --> 00:18:12,840
-come vi dicevo, è un testo visionario e farraginoso dove si trova di tutto. A un certo punto
+00:19:27,040 --> 00:19:34,760
+E' talmente possibile, se mi permettete una piccola parentesi, che anche oggi, perché
 
 173
-00:18:12,840 --> 00:18:21,060
-l'autore dell'Apocalisse comincia a giocare col numero mille. Non si capisce niente e non
+00:19:34,760 --> 00:19:38,080
+non è che noi oggi ne sappiamo di più che nel medioevo, anche oggi salta fuori ogni
 
 174
-00:18:21,060 --> 00:18:27,040
-è che mi dovete credere, adesso ve lo leggo, ma che c'entri l'anno mille o meglio il numero
+00:19:38,080 --> 00:19:44,280
+tanto la setta. È vero che succede più facilmente nel Texas protestante che non qui da noi,
 
 175
-00:18:27,040 --> 00:18:32,000
-mille, questo è evidente. Apocalisse 20, versetti 1, 7.
+00:19:44,280 --> 00:19:48,880
+ma anche oggi salta fuori ogni tanto la setta che dice guardate che verrà la fine del mondo
 
 176
-00:18:32,000 --> 00:18:39,920
-Poi vidi un angelo che scendeva dal cielo e che aveva la chiave dell'abisso e una gran
-
-177
-00:18:39,920 --> 00:18:47,920
-catena in mano. Egli prese il dragone, il serpente antico, che è il diavolo e Satana,
-
-178
-00:18:48,660 --> 00:18:56,340
-e lo legò per mille anni. Poi lo gettò nell'abisso che chiuse e sigillò sopra di lui,
-
-179
-00:18:56,340 --> 00:19:04,300
-perché non seducesse più le nazioni finché fossero compiuti i mille anni. Uno legge questo
-
-180
-00:19:04,300 --> 00:19:11,220
-e dice cosa vorrà dire? Sembrerebbe dire che a un certo punto per mille anni Satana è
-
-181
-00:19:11,220 --> 00:19:16,820
-reso impotente, perché? Perché è venuto Cristo, certo, saranno mille anni da quando
-
-182
-00:19:16,820 --> 00:19:21,960
-è venuto Cristo. E poi però allora qua dice che dopo mille anni lo liberano Satana e
-
-183
-00:19:21,960 --> 00:19:27,000
-subito dopo verrà la fine del mondo. Questa è una linea di ragionamento che è possibile.
-
-184
-00:19:28,580 --> 00:19:34,800
-È talmente possibile, se mi permettete una piccola parentesi, che anche oggi, perché
-
-185
-00:19:34,800 --> 00:19:38,160
-non è che noi oggi ne sappiamo di più che nel Medioevo, anche oggi salta fuori ogni
-
-186
-00:19:38,160 --> 00:19:44,460
-tanto la setta, è vero che succede più facilmente nel Texas protestante che non qui da noi, ma
-
-187
-00:19:44,460 --> 00:19:48,880
-anche oggi salta fuori ogni tanto la setta che dice guardate che verrà la fine del mondo
-
-188
-00:19:48,880 --> 00:19:53,780
+00:19:48,880 --> 00:19:53,760
 e tutti gli adepti donano tutti i loro beni al capo della setta e poi a volte si suicidano
 
-189
-00:19:53,780 --> 00:19:59,640
-anche tutti quanti insieme. Ecco, questi movimenti, queste sette, noi come li chiamiamo? Li chiamiamo
+177
+00:19:53,760 --> 00:19:59,640
+anche tutti quanti insieme. Ecco questi movimenti, queste sette noi come li chiamiamo? Li chiamiamo
 
-190
-00:19:59,640 --> 00:20:07,060
+178
+00:19:59,640 --> 00:20:07,080
 movimenti millenaristi. Parliamo di sette millenariste, di millenarismo, quando ci riferiamo
 
+179
+00:20:07,080 --> 00:20:12,440
+a qualcuno che predica ad avvicinarsi della fine del mondo. Parliamo di millenarismo
+
+180
+00:20:12,440 --> 00:20:19,520
+perché continuiamo a essere impregnati di queste cose che si leggono nell'apocalisse,
+
+181
+00:20:19,520 --> 00:20:28,320
+che accosta i mille anni alla fine del mondo. E dunque, all'avvicinarsi dell'anno mille,
+
+182
+00:20:28,320 --> 00:20:33,000
+c'è stato qualcuno, abbiamo appena visto che nel 1999 non ci pensava più, si era messo
+
+183
+00:20:33,000 --> 00:20:40,360
+il cuore in pace, ma in quei decenni c'è stato qualcuno che ha fatto questi ragionamenti
+
+184
+00:20:40,440 --> 00:20:45,920
+sul libro dell'apocalisse e che ha cominciato a dire in giro, preparatevi perché guardate
+
+185
+00:20:45,920 --> 00:20:53,360
+che nell'anno mille il mondo finisce prende. C'è stato qualcuno? Sì. Noi abbiamo un racconto
+
+186
+00:20:53,360 --> 00:21:00,000
+preciso. Chi racconta è un monaco, tanto per cambiare, in quest'epoca quasi tutti quelli
+
+187
+00:21:00,000 --> 00:21:05,200
+che hanno voglia di raccontare storie sono monaci. Si chiama Abone Abbate di Fleurie in
+
+188
+00:21:05,200 --> 00:21:10,080
+Francia. Abone di Fleurie, grande studioso, grande scrittore, grande intellettuale, uno
+
+189
+00:21:10,120 --> 00:21:19,120
+che ha letto molto e capisce retrace molto, scrive un libretto nell'anno 998 dedicato al
+
+190
+00:21:19,160 --> 00:21:25,760
+re di Francia Roberto. Abone di Fleurie dice al re di Francia, guarda che nel tuo regno ci
+
 191
-00:20:07,060 --> 00:20:12,680
-a qualcuno che predica l'avvicinarsi della fine del mondo. Parliamo di millenarismo perché
+00:21:25,760 --> 00:21:31,520
+sono parecchie cose che non vanno, ci sono parecchie cose che andrebbero corrette. Non sta
 
 192
-00:20:12,680 --> 00:20:20,240
-continuiamo a essere impregnati di queste cose che si leggono nell'Apocalisse, che accosta
+00:21:31,520 --> 00:21:38,080
+parlando del fatto che i conti, anziché rendere giustizia, intascano bustarelle, non è di quello
 
 193
-00:20:20,240 --> 00:20:22,320
-i mille anni alla fine del mondo.
+00:21:38,080 --> 00:21:44,400
+che parla, parla delle credenze, della cultura, di come funziona la chiesa. Dice, guarda che
 
 194
-00:20:22,320 --> 00:20:30,300
-E dunque, all'avvicinarsi dell'anno mille, c'è stato qualcuno, abbiamo appena visto
+00:21:44,400 --> 00:21:51,400
+nel tuo regno ci sono molti errori che vanno corretti. Per esempio ci sono dei chierici che
 
 195
-00:20:30,300 --> 00:20:37,160
-che nel 999 non ci pensavano più, si era messi il cuore in pace, ma in quei decenni c'è
+00:21:51,400 --> 00:21:56,880
+non sanno bene il credo e quando recitano il credo sbagliano, dovrebbero dire allo spirito
 
 196
-00:20:37,160 --> 00:20:43,000
-stato qualcuno che ha fatto questi ragionamenti sul libro dell'Apocalisse e che ha cominciato
+00:21:56,880 --> 00:22:01,040
+santo procede dal padre e dal figlio, invece dicono procede dal padre, dimenticano il figlio,
 
 197
-00:20:43,000 --> 00:20:49,780
-a dire in giro preparatevi perché guardate che nell'anno mille il mondo finisce. C'è stato
+00:22:01,040 --> 00:22:07,680
+questo non va mica bene, va corretto. Ci sono dei chierici che fanno degli sbagli nel calcolare
 
 198
-00:20:49,780 --> 00:20:58,700
-qualcuno? Sì. Noi abbiamo un racconto preciso. Chi racconta è un monaco, tanto per cambiare,
+00:22:07,680 --> 00:22:12,960
+il calendario liturgico, fanno cominciare l'avvento un giorno prima e anche questo non va bene,
 
 199
-00:20:58,780 --> 00:21:03,040
-in quest'epoca quasi tutti quelli che hanno voglia di raccontare storie sono monaci. Si
+00:22:12,960 --> 00:22:20,720
+dice Abone, il re deve provvedere. E poi dice Abone, nel tuo regno, in passato, adesso
 
 200
-00:21:03,040 --> 00:21:09,120
-chiama Abbone, abate di Fleury in Francia. Abbone di Fleury, grande studioso, grande scrittore,
+00:22:20,720 --> 00:22:26,080
+un po' che non succede, siamo nel 998, ma in passato ogni tanto venivano fuori queste
 
 201
-00:21:09,220 --> 00:21:15,160
-grande intellettuale, uno che ha letto molto e capisce molto, scrive un libretto nell'anno
+00:22:26,080 --> 00:22:30,960
+storie della fine del mondo e bisognava darci un grande affare per tranquillizzare la gente.
 
 202
-00:21:15,160 --> 00:21:25,040
-998, dedicato al re di Francia Roberto. Abbone di Fleury dice al re di Francia, guarda
+00:22:31,920 --> 00:22:41,120
+Abone dice, io mi ricordo quando era un ragazzino, e si calcola che siamo intorno al 970, quando
 
 203
-00:21:25,040 --> 00:21:29,220
-che nel tuo regno ci sono parecchie cose che non vanno, ci sono parecchie cose che andrebbero
+00:22:41,120 --> 00:22:48,840
+era un ragazzino io stesso ho sentito a Parigi, in una chiesa di Parigi, un predicatore che
 
 204
-00:21:29,220 --> 00:21:35,580
-corrette. Non sta parlando del fatto che i conti, anziché rendere giustizia, intascano
+00:22:48,840 --> 00:22:56,440
+avvertiva che nell'anno mille sarebbe venuta la fine del mondo. E io, dice Abone, che già da
 
 205
-00:21:35,580 --> 00:21:42,540
-Bustarelle. Non è di quello che parla, parla delle credenze, della cultura, di come funziona
+00:22:56,440 --> 00:23:02,280
+ragazzino era uno che aveva studiato, io allora mi ricordo che mi sono sforzato di farlo starzitto
 
 206
-00:21:42,540 --> 00:21:46,980
-la Chiesa. Dice guarda che nel tuo regno ci sono molti errori che vanno corretti. Per
+00:23:02,280 --> 00:23:09,120
+e di spiegare a tutti che si sbagliava citando l'apocalisse e il libro di Daniele e il Vangelo
 
 207
-00:21:46,980 --> 00:21:54,880
-esempio ci sono dei chierici che non sanno bene il credo e quando recitano il credo
+00:23:09,120 --> 00:23:18,520
+e così via. Poi dice Abone, è venuto fuori quell'altro sbaglio sulla fine del mondo. Mi ricordo
 
 208
-00:21:54,880 --> 00:21:59,160
-sbagliano. Dovrebbero dire lo Spirito Santo procede dal padre e dal figlio, invece dicono
+00:23:18,520 --> 00:23:25,760
+che ai tempi del buon abate Riccardo, e siamo sempre intorno al 970 più o meno, sono arrivate
 
 209
-00:21:59,160 --> 00:22:04,640
-procede dal padre, dimenticano il figlio. Questo non va mica bene, va corretto. Ci sono
+00:23:25,760 --> 00:23:31,520
+al nostro monastero delle lettere che dicevano che in Lorena c'era qualcuno che aveva fatto
 
 210
-00:22:04,640 --> 00:22:10,140
-dei chierici che fanno degli sbagli nel calcolare il calendario liturgico, fanno cominciare l'avvento
+00:23:31,520 --> 00:23:38,800
+questo calcolo assurdo, aveva detto, io vi chiedo scusa se vi trascino in queste cose complesse,
 
 211
-00:22:10,140 --> 00:22:16,300
-un giorno prima e anche questo non va bene, dice Abbone, il re deve provvedere. E poi
+00:23:38,800 --> 00:23:45,680
+ma questa gente viveva di questi ragionamenti e di queste sottigliezze, qualcuno aveva detto
 
 212
-00:22:16,300 --> 00:22:23,980
-dice Abbone, nel tuo regno in passato, adesso è un po' che non succede, siamo nel 998, ma
+00:23:45,680 --> 00:23:57,200
+l'anno in cui il venerdì santo coinciderà con l'annunciazione, cioè il 25 marzo, ci sarà la
 
 213
-00:22:23,980 --> 00:22:28,920
-in passato ogni tanto venivano fuori queste storie della fine del mondo e bisognava darsi
+00:23:57,200 --> 00:24:05,160
+fine del mondo. Se ci ragioniamo un attimo perché questo? È chiaro, in quell'anno si chiuda un
 
 214
-00:22:28,920 --> 00:22:34,620
-un grande affare per tranquillizzare la gente. Abbone dice, io mi ricordo quando ero
+00:24:05,160 --> 00:24:11,600
+circolo, l'annunciazione è l'arrivo di Gesù che è ovviamente l'evento più grande della
 
 215
-00:22:34,620 --> 00:22:42,840
-un ragazzino, e si calcola che siamo intorno al 970, quando ero un ragazzino io stesso ho
+00:24:11,600 --> 00:24:16,480
+storia del mondo, l'avenuta di Gesù ai loro occhi. Il venerdì santo è la morte di Gesù,
 
 216
-00:22:42,840 --> 00:22:50,360
-sentito a Parigi, in una chiesa di Parigi, un predicatore che avvertiva che nell'anno
+00:24:16,480 --> 00:24:23,040
+se un anno le due date coincidono, siccome noi esseri umani siamo in grado di metterci in
 
 217
-00:22:50,360 --> 00:22:57,460
-1000 sarebbe venuta la fine del mondo. E io, dice Abbone, che già da ragazzino era uno
+00:24:23,040 --> 00:24:29,480
+testa le cose più folli e di crederci, intorno al 970 c'era qualcuno che andava in giro dicendo,
 
 218
-00:22:57,460 --> 00:23:03,080
-che aveva studiato, io allora mi ricordo che mi sono sforzato di farlo star zitto e di
+00:24:29,480 --> 00:24:35,720
+guardate che ovviamente io sono andato a vedere sul calendario Perpetuo, quando è che c'era stata
 
 219
-00:23:03,080 --> 00:23:09,120
-spiegare a tutti che si sbagliava citando l'Apocalisse e il libro di Daniele e il Vangelo
+00:24:35,720 --> 00:24:41,120
+l'ultima volta questa coincidenza nel 908, era passato un bel po' di tempo, quando c'è stata
 
 220
-00:23:09,120 --> 00:23:15,160
-e così via. Poi, dice Abbone, è venuto fuori quell'altro
+00:24:41,120 --> 00:24:47,960
+di nuovo questa coincidenza delle venerdì santo con l'annunciazione nel 970, guarda lì, si vede
 
 221
-00:23:15,160 --> 00:23:22,160
-sbaglio sulla fine del mondo. Mi ricordo che ai tempi del buon Abate Riccardo, e siamo
+00:24:47,960 --> 00:24:54,760
+che l'anno prima qualcuno ha fatto quel calcolo, ma la cosa interessante è che Abbone che ci sta
 
 222
-00:23:22,160 --> 00:23:28,160
-sempre intorno al 970 più o meno, sono arrivate al nostro monastero delle lettere che dicevano
+00:24:54,760 --> 00:25:00,920
+raccontando questa cosa dice, quando è arrivata questa notizia il buon abbate Riccardo mi ha detto
 
 223
-00:23:28,160 --> 00:23:36,700
-che in Lorena c'era qualcuno che aveva fatto questo calcolo assurdo, aveva detto, io vi chiedo
+00:25:00,920 --> 00:25:07,000
+Abbone, occupatene tu, scrivi tu in Lorena per spiegare che queste sono tutte fregniacce,
 
 224
-00:23:36,700 --> 00:23:42,400
-scusa se vi trascino in queste cose complesse, ma questa gente viveva di questi ragionamenti
+00:25:07,080 --> 00:25:12,280
+non si esprime così tecnicamente ma è chiaro che questo è il senso del discorso e io dice
 
 225
-00:23:42,400 --> 00:23:52,540
-e di queste sottigliezze. Qualcuno aveva detto, l'anno in cui il venerdì santo coinciderà
+00:25:12,280 --> 00:25:20,600
+Abbone ho scritto spiegando quanto fosse folle questo ragionamento, ergo facciamo il punto,
 
 226
-00:23:52,540 --> 00:24:01,180
-con l'annunciazione, cioè il 25 marzo, ci sarà la fine del mondo. Se ci ragioniamo
+00:25:20,600 --> 00:25:30,400
+è assodato che l'idea della fine del mondo che arriva ogni tanto girava e che anche associarla
 
 227
-00:24:01,180 --> 00:24:07,600
-un attimo, perché questo? È chiaro, in quell'anno si chiude un circolo, l'annunciazione è l'arrivo
+00:25:30,400 --> 00:25:36,120
+con l'anno mille non era affatto impossibile a qualcuno è venuto in mente, quello che è
 
 228
-00:24:07,600 --> 00:24:12,920
-di Gesù, che è ovviamente l'evento più grande della storia del mondo, la venuta di
+00:25:36,120 --> 00:25:42,080
+assodato che queste cose ogni tanto venivano fuori e che venivano immediatamente messe a tacere,
 
 229
-00:24:12,920 --> 00:24:19,360
-Gesù, ai loro occhi. Il venerdì santo è la morte di Gesù. Se un anno, le due date
+00:25:42,080 --> 00:25:48,360
+non avevano nessuna possibilità di espandersi e di circolare perché i pastori provvedevano
 
 230
-00:24:19,360 --> 00:24:24,240
-coincidono, siccome noi esseri umani siamo in grado di metterci in testa le cose più
+00:25:48,360 --> 00:25:56,800
+immediatamente a fermare questi ragionamenti e nell'anno 998 quando scrive Abbone sono ricordi
 
 231
-00:24:24,240 --> 00:24:30,160
-folli e di crederci, intorno al 970 c'era qualcuno che andava in giro dicendo, guardate
+00:25:56,800 --> 00:26:05,680
+di giovinezza ma perché? La battera Riccardo dice ad Abbone queste sono tutte frotte le
 
 232
-00:24:30,160 --> 00:24:35,480
-che, ovviamente io sono andato a vedere sul calendario perpetuo, quando è che c'era
+00:26:05,680 --> 00:26:11,840
+scrivi tu perché sono così convinti gli uomini di Chiesa che non funzionano questi calcoli,
 
 233
-00:24:35,480 --> 00:24:40,020
-stata l'ultima volta questa coincidenza? Nel 908, era passato un bel po' di tempo,
+00:26:11,840 --> 00:26:18,880
+che è sbagliato cercare di prevedere quando verrà la fine del mondo ecco il punto è proprio
 
 234
-00:24:40,400 --> 00:24:44,880
-quando c'è stata di nuovo questa coincidenza del venerdì santo con l'annunciazione? Nel
+00:26:18,880 --> 00:26:26,480
+questo non è che i calcoli non funzionano e che gli uomini di Chiesa del Medioevo sanno che è
 
 235
-00:24:44,880 --> 00:24:53,300
-970, guarda lì, si vede che l'anno prima qualcuno ha fatto quel calcolo, ma la cosa interessante
+00:26:26,480 --> 00:26:33,260
+sbagliato cercare di prevedere la fine del mondo ed è sbagliato e giudizio universale naturalmente
 
 236
-00:24:53,300 --> 00:24:58,960
-è che Abbone, che ci sta raccontando questa cosa, dice, quando è arrivata questa notizia
+00:26:33,260 --> 00:26:43,000
+è sbagliato perché sta scritto nella Bibbia che non si può sapere Matteo 24 36 quanto a quel
 
 237
-00:24:58,960 --> 00:25:05,680
-il buon abate Riccardo mi ha detto, Abbone, occupatene tu, scrivi tu in Lorena per spiegare
+00:26:43,000 --> 00:26:54,320
+giorno e a quell'ora però nessuno lo sa San Paolo prima lettera ai testalonicesi il giorno del Signore
 
 238
-00:25:05,680 --> 00:25:10,460
-che queste sono tutte fregnacce. Non si esprime così tecnicamente, ma è chiaro che questo
+00:26:54,320 --> 00:27:01,640
+verrà come viene un ladro nella notte cioè non è che si annuncia prima arriva quando non lo sai
 
 239
-00:25:10,460 --> 00:25:15,660
-è il senso del discorso. E io, dice Abbone, ho scritto spiegando quanto fosse folle questo
+00:27:01,640 --> 00:27:13,040
+quando diranno sempre San Paolo pace e sicurezza allora l'improvviso li colpirà la rovina ergo il
 
 240
-00:25:15,660 --> 00:25:25,220
-ragionamento. Ergo, facciamo il punto, è assodato che l'idea della fine del mondo che
+00:27:13,040 --> 00:27:19,400
+Signore lo ha detto chiaramente io verrò ma voi non potete sapere quando anzi verrò quando
 
 241
-00:25:25,220 --> 00:25:33,260
-arriva ogni tanto girava e che anche associarla con l'anno mille non era affatto impossibile,
+00:27:19,400 --> 00:27:26,600
+meno ve lo aspettate quel giorno e quell'ora nessuno lo sa e quindi è perfettamente inutile
 
 242
-00:25:33,320 --> 00:25:38,340
-a qualcuno è venuto in mente. Quello che è assodato è che queste cose ogni tanto venivano
+00:27:26,600 --> 00:27:33,040
+mettersi a ragionare su queste cose il primo che lo dice chiaramente è un pensatore cristiano
 
 243
-00:25:38,340 --> 00:25:44,400
-fuori e che venivano immediatamente messe a tacere. Non avevano nessuna possibilità
+00:27:33,040 --> 00:27:38,920
+dei primi tempi che avrà un'influenza enorme sul pensiero cristiano medievale e cioè santa
 
 244
-00:25:44,400 --> 00:25:52,180
-di espandersi e di circolare perché i pastori provvedevano immediatamente a fermare questi
+00:27:38,920 --> 00:27:49,920
+agostino santa agostino ci ragiona su e lo scrive molto chiaramente calcolare i tempi per sapere
 
 245
-00:25:52,180 --> 00:26:01,080
-ragionamenti. E nell'anno 998, quando scrive Abbone, sono ricordi di giovinezza. Ma perché
+00:27:49,920 --> 00:27:57,760
+quando sarà la fine di questo mondo o l'avvento del signore mi sembra nient'altro che voler sapere
 
 246
-00:26:01,080 --> 00:26:07,620
-l'abate Riccardo dice ad Abbone queste sono tutte frottole, scrivi tu, perché sono così
+00:27:57,760 --> 00:28:08,320
+qualcosa che lui stesso il signore ha detto che nessuno può sapere poi fra parentesi c'è anche
 
 247
-00:26:07,620 --> 00:26:14,680
-convinti gli uomini di chiesa che non funzionano questi calcoli, che è sbagliato cercare di
+00:28:08,320 --> 00:28:15,160
+un altro piccolo ragionamento che santa agostino che conosce i suoi testi tira fuori subito sta
 
 248
-00:26:14,680 --> 00:26:20,040
-prevedere quando verrà la fine del mondo. Ecco, il punto è proprio questo. Non è che
+00:28:15,160 --> 00:28:23,840
+scritto anche dice perché non sappiamo quando viene ma magari viene l'anno prossimo calma sta
 
 249
-00:26:20,040 --> 00:26:27,460
-i calcoli non funzionano, è che gli uomini di chiesa del Medioevo sanno che è sbagliato
+00:28:23,840 --> 00:28:29,320
+scritto che prima che venga l'antichristo e poi la fine del mondo il vangelo dovrà essere
 
 250
-00:26:27,460 --> 00:26:33,300
-cercare di prevedere la fine del mondo. Ed è sbagliato, è giudizio universale naturalmente,
+00:28:29,320 --> 00:28:38,920
+predicato a tutti i popoli della terra è stato già predicato no perciò non sarà per l'anno prossimo
 
 251
-00:26:33,300 --> 00:26:42,780
-è sbagliato perché sta scritto nella Bibbia che non si può sapere. Matteo 24, 36. Quanto
+00:28:38,920 --> 00:28:51,320
+dunque facciamo anche qui il punto siamo arrivati a dire che tensioni millenaristiche preoccupazioni
 
 252
-00:26:42,780 --> 00:26:52,080
-a quel giorno e a quell'ora però nessuno lo sa. San Paolo, prima lettera ai testalonicesi.
+00:28:51,320 --> 00:28:57,800
+per la fine del mondo nell'arco del medioevo di tanto in tanto vengono fuori ma non hanno spazio
 
 253
-00:26:53,080 --> 00:26:59,680
-Il giorno del Signore verrà come viene un ladro nella notte. Cioè non è che si annuncia
+00:28:57,800 --> 00:29:04,800
+per allargarsi perché dall'alto non sono accettate e ve ne faccio un esempio tanto per farvi
 
 254
-00:26:59,680 --> 00:27:06,680
-prima. Arriva quando non lo sai. Quando diranno, sempre San Paolo, pace e sicurezza,
+00:29:04,800 --> 00:29:11,480
+vedere come queste cose in realtà capitavano anche spesso è ma come fossero poi circoscrite vi
 
 255
-00:27:07,380 --> 00:27:15,400
-allora all'improvviso li colpirà la rovina. Ergo, il Signore lo ha detto chiaramente, io
+00:29:11,480 --> 00:29:21,200
+faccio un esempio parecchio prima dell'anno mille torniamo indietro 847 siamo nell'anno 847 in
 
 256
-00:27:15,400 --> 00:27:21,840
-verrò ma voi non potete sapere quando, anzi verrò quando meno ve lo aspettate. Quel giorno
+00:29:21,200 --> 00:29:29,200
+germania un analista racconta che ama gonza e saltata fuori una donna che sostiene di prevedere
 
 257
-00:27:21,840 --> 00:27:28,100
-e quell'ora nessuno lo sa. E quindi è perfettamente inutile mettersi a ragionare su queste cose.
+00:29:29,200 --> 00:29:38,400
+il futuro una pseudoprofetissa si chiama fiota questa donna sostiene di conoscere la data della
 
 258
-00:27:28,480 --> 00:27:35,480
-Il primo che lo dice chiaramente è un pensatore cristiano dei primi tempi che avrà un'influenza
+00:29:38,400 --> 00:29:45,800
+fine del mondo e guarda caso sarà l'anno prossimo lei conosce questa cosa dice il monoco che nessuno
 
 259
-00:27:35,480 --> 00:27:42,940
-enorme sul pensiero cristiano medievale e cioè Sant'Agostino. Sant'Agostino ci ragiona
+00:29:45,800 --> 00:29:51,800
+può sapere come se fosse dio che gliela rivelata e la gente anzi non la gente il monaco uso un termine
 
 260
-00:27:42,940 --> 00:27:51,480
-su e lo scrive molto chiaramente. Calcolare i tempi per sapere quando sarà la fine di
+00:29:51,800 --> 00:29:58,440
+di significativo i plebei perché queste cose sono soltanto i poveracci che ci possono credere però
 
 261
-00:27:51,480 --> 00:27:59,780
-questo mondo o l'avvento del Signore mi sembra nient'altro che voler sapere qualcosa che lui
+00:29:58,440 --> 00:30:03,400
+di poveracci ce ne tanti questa donna va dicendo che lei lo sa che la fine del mondo sarà l'anno
 
 262
-00:27:59,780 --> 00:28:08,600
-stesso, il Signore, ha detto che nessuno può sapere. Poi fra parentesi c'è anche un altro
+00:30:03,400 --> 00:30:11,520
+prossimo e molti plebei le credono e vanno da lei e le portano dei regali chiedendole di pregare per
 
 263
-00:28:08,600 --> 00:28:14,120
-piccolo ragionamento che Sant'Agostino, che conosce i suoi testi, tira fuori subito.
+00:30:11,520 --> 00:30:21,520
+loro il vescovo di magonza si secca un po la convoca la interroga e viene fuori almeno la donna
 
 264
-00:28:15,020 --> 00:28:21,380
-Sta scritto anche, dice perché non sappiamo quando viene ma magari viene l'anno prossimo.
+00:30:21,520 --> 00:30:27,920
+dice che questa cosa gliela suggerita un prete suo amico dicendole tu vai in giro a predicare
 
 265
-00:28:22,440 --> 00:28:29,580
-Calma. Sta scritto che prima che venga l'anticristo e poi la fine del mondo il Vangelo dovrà essere
+00:30:27,920 --> 00:30:32,880
+che l'anno prossimo viene la fine del mondo vedrai la gente quanti regali ci porta e infatti è proprio
 
 266
-00:28:29,580 --> 00:28:38,400
-predicato a tutti i popoli della Terra. È stato già predicato? No. Perciò non sarà per l'anno
+00:30:32,880 --> 00:30:38,840
+successo così il vescovo si consulta con altri vescovi decidono a questa una bella bastonatura
 
 267
-00:28:38,400 --> 00:28:50,320
-prossimo. Dunque, facciamo anche qui il punto. Siamo arrivati a dire che tensioni millenaristiche,
+00:30:38,840 --> 00:30:43,440
+ogni a toglie nessuno la fanno frustare sulla pubblica piazza e poi fuori dai piedi e che non
 
 268
-00:28:50,540 --> 00:28:55,880
-preoccupazioni per la fine del mondo, nell'arco del Medioevo di tanto in tanto vengono fuori,
+00:30:43,440 --> 00:30:49,520
+così più farsi sentire e così viene come dire spento il movimento millenaristico di magonza
 
 269
-00:28:56,420 --> 00:29:03,820
-ma non hanno spazio per allargarsi, perché dall'alto non sono accettate. E ve ne faccio
+00:30:49,520 --> 00:31:01,160
+dell'anno 847 a questo punto quanto tempo mi sono già giocato be buona parte per nostra fortuna
 
 270
-00:29:03,820 --> 00:29:08,460
-un esempio, tanto per farvi vedere come queste cose in realtà capitavano anche spesso, ma
+00:31:01,160 --> 00:31:10,040
+se voi ricordate da dove siamo partiti noi siamo partiti da gente e non gente da poco ma un
 
 271
-00:29:08,460 --> 00:29:14,660
-come fossero poi circoscritte. Vi faccio un esempio parecchio prima dell'anno 1000, torniamo
+00:31:10,040 --> 00:31:21,680
+carducci storici accreditati autorevoli del loro tempo che ci hanno detto che negli ultimi mesi e
 
 272
-00:29:14,660 --> 00:29:26,540
-indietro. 847. Siamo nell'anno 847. In Germania un analista racconta che a Magonza è saltata
+00:31:21,680 --> 00:31:26,080
+giorni prima dell'anno mille c'era il terrore collettivo le chiese piazza inutile che ve lo
 
 273
-00:29:26,540 --> 00:29:34,320
-fuori una donna che sostiene di prevedere il futuro, una pseudoprofetissa, si chiama
+00:31:26,080 --> 00:31:35,560
+dicano sembrerebbe assodato che quell'immagine è interamente immaginaria appunto è inventata
 
 274
-00:29:34,320 --> 00:29:41,280
-Fiota. Questa donna sostiene di conoscere la data della fine del mondo. E guarda caso
+00:31:35,560 --> 00:31:43,600
+non è vero che è successo questo allora però voi capite che si pone allo storico un problema
 
 275
-00:29:41,280 --> 00:29:46,720
-sarà l'anno prossimo. Lei conosce questa cosa, dice il monaco, che nessuno può sapere, come
+00:31:43,600 --> 00:31:51,560
+diverso ma anche è abbastanza interessante se non è mai successo chi è che l'ha inventata questa
 
 276
-00:29:46,720 --> 00:29:52,540
-se fosse Dio che gliel'ha rivelata. E la gente, anzi non la gente, il monaco usa un termine significativo,
+00:31:51,560 --> 00:31:58,720
+storia chi quando perché come possibile al di là dell'angoscia di scoprire che noi storici
 
 277
-00:29:52,540 --> 00:29:58,480
-i plebei. Perché queste cose sono soltanto i poveracci che ci possono credere. Però
+00:31:58,720 --> 00:32:04,760
+possiamo credere e raccontare vedo sempre solo di freddi che ride sotto i baffi ma anche voi
 
 278
-00:29:58,480 --> 00:30:03,040
-di poveracci ce n'è tanti. Questa donna va dicendo che lei lo sa, che la fine del mondo
+00:32:04,760 --> 00:32:10,880
+matematici secondo me certe volte comunque noi storici possiamo a me convincerci di cose e
 
 279
-00:30:03,040 --> 00:30:10,680
-sarà l'anno prossimo. E molti plebei le credono e vanno da lei e le portano dei regali, chiedendole
+00:32:10,880 --> 00:32:18,600
+convincere chi ci legge che poi cent'anni dopo si scopre che sono totalmente inventate e non è
 
 280
-00:30:10,680 --> 00:30:20,420
-di pregare per loro. Il vescovo di Magonza si secca un po'. La convoca, la interroga e viene
+00:32:18,600 --> 00:32:23,280
+piacevole rendersi ne conto dirle verità il rimedio è andare a cercare di capire come è
 
 281
-00:30:20,420 --> 00:30:26,500
-fuori, almeno la donna, dice che questa cosa gliel'ha suggerita un prete suo amico, dicendole
+00:32:23,280 --> 00:32:29,400
+successo perché almeno se uno capisce tape come succedono queste cose forse si può starci un
 
 282
-00:30:26,500 --> 00:30:30,880
-tu vai in giro a predicare che l'anno prossimo viene la fine del mondo, vedrai la gente quanti
+00:32:29,400 --> 00:32:36,560
+po più attenti forse come successa questa storia molti studiose ci sono messi a cercare di ricostruire
 
 283
-00:30:30,880 --> 00:30:36,840
-regali ci porta. E infatti è proprio successo così. Il vescovo si consulta con altri vescovi,
+00:32:36,560 --> 00:32:44,480
+la genealogia di questa leggenda dei terrori dell'anno mille ed è saltata fuori proprio proprio
 
 284
-00:30:36,920 --> 00:30:40,880
-decidono a questa una bella bastonatura, non gliela toglie nessuno, la fanno frustare
+00:32:44,480 --> 00:32:52,920
+una genealogia nel senso di una serie di autori che si sono uno dopo l'altro copiati
 
 285
-00:30:40,880 --> 00:30:45,780
-sulla pubblica piazza e poi fuori dai piedi e che non osi più farsi sentire. E così
+00:32:52,920 --> 00:33:01,120
+aggiungendo ognuno qualcosina il meccanismo è questo e a volte ci vogliono secoli perché
 
 286
-00:30:45,780 --> 00:30:57,300
-viene, come dire, spento il movimento millenaristico di Magonza dell'anno 847. A questo punto,
+00:33:01,120 --> 00:33:07,440
+questo capiti io adesso mi sono chiesto a lungo preparando questa lezione gli faccio tutto l'elenco
 
 287
-00:30:58,440 --> 00:31:05,260
-quanto tempo mi sono già giocato, beh buona parte per nostra fortuna, se voi ricordate
+00:33:07,440 --> 00:33:16,920
+oppure lo a brevio ne faccio qualche esempio il primo colpevole è un cronista del medioevo un
 
 288
-00:31:05,260 --> 00:31:10,720
-da dove siamo partiti. Noi siamo partiti da gente, e non gente da poco, ma un Carducci,
+00:33:16,920 --> 00:33:25,680
+monaco che scrive intorno al 1100 cent'anni dopo i fatti è un bravo cronista si chiama si
 
 289
-00:31:10,720 --> 00:31:21,320
-storici, accreditati e autorevoli del loro tempo, che ci hanno detto che negli ultimi
+00:33:25,680 --> 00:33:32,680
+geberto si geberto di giamblu scrive una cronica ha letto tanti libri ha letto gli analisti dell'anno
 
 290
-00:31:21,320 --> 00:31:25,620
-mesi e giorni prima dell'anno 1000 c'era il terrore collettivo, le chiese piene, insomma
+00:33:32,680 --> 00:33:40,240
+mille i quali delle paure non parlava per niente è vero però che nell'anno mille qualche cronista
 
 291
-00:31:25,620 --> 00:31:33,780
-è inutile che ve lo ridicano. Sembrerebbe assodato che quell'immagine è interamente immaginaria,
+00:33:40,240 --> 00:33:47,240
+ha menzionato un terremoto e i terremoti voi capite è un afferserio perché il terremoto è un
 
 292
-00:31:33,780 --> 00:31:40,940
-appunto, è inventata. Non è vero che è successo questo. Allora però voi capite che
+00:33:47,240 --> 00:33:55,760
+segnale vuol dire qualcosa poi si geberto legge le sue fonti e scopre che nel 1002 c'è stata una
 
 293
-00:31:40,940 --> 00:31:47,740
-si pone allo storico un problema diverso, ma anch'esso abbastanza interessante. Se non
+00:33:55,840 --> 00:34:03,680
+cometa e anche la cometa è una cosa seria perché dio non si prende il disturbo di modificare
 
 294
-00:31:47,740 --> 00:31:54,480
-è mai successo, chi è che l'ha inventata questa storia? Chi, quando, perché, come è
+00:34:03,680 --> 00:34:10,280
+l'armonia delle stelle se non c'è un motivo molto preciso di mandare un avvertimento agli
 
 295
-00:31:54,480 --> 00:32:01,900
-possibile, al di là dell'angoscia di scoprire che noi storici possiamo credere e raccontare,
+00:34:10,280 --> 00:34:17,960
+uomini si geberto fa due più due e già che c'è semplifica un po terremoto nel mille cometa
 
 296
-00:32:01,900 --> 00:32:05,680
-vedo sempre il professore di Freddy che ride sotto i baffi, ma anche voi matematici, secondo
+00:34:17,960 --> 00:34:23,920
+nel mille due si geberto dice senti qui qui c'è di mezzo il mille evidentemente quell'anno
 
 297
-00:32:05,680 --> 00:32:11,720
-me, certe volte. Comunque, noi storici possiamo, ahimè, convincerci di cose e convincere chi
+00:34:23,920 --> 00:34:29,440
+era un anno un po speciale si geberto semplifica nell'anno mille ci sono stati un terremoto
 
 298
-00:32:11,720 --> 00:32:19,240
-ci legge, che poi cent'anni dopo si scopre che sono totalmente inventate. E non è piacevole
+00:34:29,440 --> 00:34:38,960
+una cometa ed è apparsa un serpente nel cielo non dice va detto onore di si geberto di giamblu non
 
 299
-00:32:19,240 --> 00:32:23,960
-rendersene conto, dire la verità. Il rimedio è andare a cercare di capire com'è successo,
+00:34:38,960 --> 00:34:44,800
+dice e tutti hanno avuto paura della fine del mondo lui si limita a accumulare questi prodigi
 
 300
-00:32:24,340 --> 00:32:29,700
-perché almeno se uno capisce come succedono queste cose, forse si può starci un po' più
+00:34:44,800 --> 00:34:50,040
+e lui stesso un millenarista l'anno mille è passato però l'impressione di quella cifra tonda
 
 301
-00:32:29,700 --> 00:32:36,380
-attenti, forse. Com'è successa questa storia? Molti studiosi si sono messi a cercare di
+00:34:50,040 --> 00:35:00,360
+continua a funzionare passano altri 70 anni 1170 circa un altro cronista cister cense ghiom godel
 
 302
-00:32:36,380 --> 00:32:43,580
-ricostruire la genealogia di questa leggenda dei terrori dell'anno 1000. Ed è saltata fuori
+00:35:00,360 --> 00:35:08,960
+che ha letto anche lui i cronisti dell'anno mille degli anni successivi ha scoperto che nell'anno
 
 303
-00:32:43,580 --> 00:32:52,960
-proprio una genealogia, nel senso di una serie di autori che si sono uno dopo l'altro copiati
+00:35:08,960 --> 00:35:21,840
+1010 c'erano state delle visioni carestia ecclissi ce n'è abbastanza ghiom godel scrive nell'anno
 
 304
-00:32:52,960 --> 00:33:01,120
-aggiungendo ognuno qualcosina. Il meccanismo è questo. E a volte ci vogliono secoli perché
+00:35:21,840 --> 00:35:30,320
+1010 ci sono stati tutti questi prodigi e molta gente ha avuto paura che il mondo finisse nelle
 
 305
-00:33:01,120 --> 00:33:06,500
-questo capiti. Io adesso mi sono chiesto a lungo, preparando questa lezione, gli faccio
+00:35:30,320 --> 00:35:36,280
+sue fonti non c'era questo quelli che erano vissuti nel 1010 gli han detto c'è stata l'eclisse ma
 
 306
-00:33:06,500 --> 00:33:15,640
-tutto l'elenco oppure lo abbrevio, ne faccio qualche esempio. Il primo colpevole è un
+00:35:36,280 --> 00:35:41,960
+ghiom godel non è mica uno sciocco lo sa cosa pensa la gente quando vede l'eclisse e allora ecco
 
 307
-00:33:15,640 --> 00:33:24,560
-cronista del Medioevo, un monaco, che scrive intorno al 1100, cent'anni dopo i fatti. E
+00:35:41,960 --> 00:35:48,520
+il primo che parla di un terrore collettivo peccato per noi che lo mette nel 1010 è esasperante ma
 
 308
-00:33:24,560 --> 00:33:29,760
-un bravo cronista si chiama Sigeberto, Sigeberto di Jean Blu, scrive una cronaca, ha letto tanti
+00:35:48,520 --> 00:35:58,400
+è così dopo di che il medioevo continua lungo tutta questa epoca che gli amici di carducci
 
 309
-00:33:29,760 --> 00:33:35,260
-libri, ha letto gli analisti dell'anno 1000, i quali delle paure non parlavano per niente.
+00:35:58,400 --> 00:36:05,320
+immaginavano come epoca di credulità e ignoranza non c'è più nessun altro che si sogni di riprendere
 
 310
-00:33:35,980 --> 00:33:44,200
-È vero però che nell'anno 1000 qualche cronista ha menzionato un terremoto. E i terremoti, voi
+00:36:05,320 --> 00:36:14,400
+questa frasetta sui terrori poi finalmente arriva il rinascimento in quell'epoca illuminata che è
 
 311
-00:33:44,200 --> 00:33:51,960
-capite, è un affare serio perché il terremoto è un segnale, vuol dire qualcosa. Poi Sigeberto
+00:36:14,400 --> 00:36:19,960
+il rinascimento comincia una salta fuori storici che invece ci credono che la gente avesse avuto
 
 312
-00:33:51,960 --> 00:33:59,440
-legge le sue fonti e scopre che nel 1002 c'è stata una cometa. E anche la cometa è una
+00:36:19,960 --> 00:36:26,640
+paura della fine del mondo salta fuori per esempio il tritemio che pochi di noi giustamente
 
 313
-00:33:59,440 --> 00:34:06,680
-cosa seria perché Dio non si prende il disturbo di modificare l'armonia delle stelle se non c'è
+00:36:26,640 --> 00:36:32,440
+hanno sentito nominare ma che è un importante umanista tedesco inizio del 500 che nella sua
 
 314
-00:34:06,680 --> 00:34:13,580
-un motivo molto preciso, di mandare un avvertimento agli uomini. Sigeberto fa 2 più 2 e già che
+00:36:32,440 --> 00:36:39,080
+cronaca anche lui ha letto sigiberto di giamblu e anche lui quindi dice nell'anno mille ci fu
 
 315
-00:34:13,580 --> 00:34:21,240
-c'è semplifica un po'. Terremoto nel 1000, cometa nel 1002. Sigeberto dice, senti,
+00:36:39,080 --> 00:36:46,480
+il terremoto e ci fu la cometa e ci furono le visioni e molti si spaventarono temendo che
 
 316
-00:34:21,340 --> 00:34:25,860
-qui c'è di mezzo il 1000 evidentemente, quell'anno era un anno un po' speciale. Sigeberto
+00:36:46,480 --> 00:36:53,000
+arrivasse l'ultimo giorno questo non l'ha letto in sigiberto di giamblu ma voi capite come funziona
 
 317
-00:34:25,860 --> 00:34:32,580
-semplifica. Nell'anno 1000 ci sono stati un terremoto, una cometa ed è apparso un serpente
+00:36:53,000 --> 00:37:00,200
+è un umanista ormai il rinascimento quei poveracci la stava nelle tenebre del medioevo quando hanno
 
 318
-00:34:32,580 --> 00:34:39,940
-nel cielo. Non dice, va detto a onore di Sigeberto e di Jean Blu, non dice, e tutti
+00:37:00,280 --> 00:37:04,920
+visto tutti quei prodigi figurati se non si sono spaventati si sono spaventati e come
 
 319
-00:34:39,940 --> 00:34:45,660
-hanno avuto paura della fine del mondo. Lui si limita a accumulare questi prodigi. E lui
+00:37:04,920 --> 00:37:16,280
+e il tritemio lo scrive e continua così autori su autori riprendono questa chiacchiera e ognuno
 
 320
-00:34:45,660 --> 00:34:50,080
-stesso è un millenarista. L'anno 1000 è passato, però l'impressione di quella cifra tonda
+00:37:16,280 --> 00:37:21,720
+ci ricama sopra perché è bello immaginarsi la questa scena è di tutto un mondo che si
 
 321
-00:34:50,080 --> 00:34:59,300
-continua a funzionare. Passano altri 70 anni, 1170 circa. Un altro cronista, Cister Cense,
+00:37:21,720 --> 00:37:26,960
+ferma per il terrore e mi rendo conto che a dirlo così sembra incredibile perché noi
 
 322
-00:34:59,720 --> 00:35:07,120
-Guillaume Godel, che ha letto anche lui i cronisti dell'anno 1000 e degli anni successivi,
+00:37:26,960 --> 00:37:32,360
+abbiamo questa ostinata convinzione che quando leggiamo qualcosa è perché l'autore la sa
 
 323
-00:35:07,840 --> 00:35:18,160
-ha scoperto che nell'anno 1010 c'erano state delle visioni, carestia, eclissi. Ce n'è
+00:37:32,360 --> 00:37:40,400
+quella cosa che scrive e quindi è vera e non è assolutamente così si possono scrivere le cose
 
 324
-00:35:18,160 --> 00:35:25,960
-abbastanza. Guillaume Godel scrive, nell'anno 1010 ci sono stati tutti questi prodigi e molta
+00:37:40,400 --> 00:37:45,440
+più stupefacenti e magari l'autore se ne convince anche ma se gli vai a chiedere come fa a bella
 
 325
-00:35:25,960 --> 00:35:33,140
-gente ha avuto paura che il mondo finisse. Nelle sue fonti non c'era questo. Quelli che
+00:37:45,440 --> 00:37:54,520
+siamo stare perché qui prenderei una via ma comunque diventa un luogo comune tutti sanno nel
 
 326
-00:35:33,140 --> 00:35:37,100
-erano vissuti nel 1010 gli hanno detto c'è stata l'eclisse. Ma Guillaume Godel non è
+00:37:54,600 --> 00:38:03,080
+600 nel 700 nell' 800 che ci sono stati i terrori dell'anno mille va detto che c'è un motivo che li
 
 327
-00:35:37,100 --> 00:35:42,720
-mica uno sciocco, lo sa cosa pensa la gente quando vede l'eclisse. E allora ecco il primo
+00:38:03,080 --> 00:38:09,880
+incoraggia in questa credenza e che noi possiamo anche capirli poveretti perché in realtà specialmente
 
 328
-00:35:42,720 --> 00:35:48,420
-che parla di un terrore collettivo. Peccato per noi che lo mette nel 1010. È esasperante,
+00:38:09,880 --> 00:38:17,080
+nel 700 nel 700 comincia una storia grafica scientifica moderna si comincia a rifare la
 
 329
-00:35:48,540 --> 00:35:58,460
-ma è così. Dopodiché il Medioevo continua. Lungo tutta questa epoca che gli amici di Carducci
+00:38:17,080 --> 00:38:24,360
+storia del passato non solo copiando i vecchi cronisti ma confrontando i documenti nel 700
 
 330
-00:35:58,460 --> 00:36:05,400
-immaginavano come epoca di credulità e ignoranza, non c'è più nessun altro che si sogni di riprendere
+00:38:24,360 --> 00:38:33,600
+comincia anche la storia delle nazioni moderne delle letterature moderne ora le nazioni moderne
 
 331
-00:36:05,400 --> 00:36:14,220
-questa frasetta sui terrori. Poi finalmente arriva il Rinascimento. In quell'epoca illuminata
+00:38:33,600 --> 00:38:41,120
+sonnate nel medioevo le letterature nostre sonnate nel medioevo ma prima o dopo l'anno mille
 
 332
-00:36:14,220 --> 00:36:19,200
-che è il Rinascimento cominciano a saltare fuori storici che invece ci credono che la
+00:38:41,120 --> 00:38:47,160
+dopo l'anno mille evidentemente tutti abbiamo studiato scuola storia della letteratura italiana
 
 333
-00:36:19,200 --> 00:36:25,940
-gente avesse avuto paura della fine del mondo. Salta fuori per esempio il Tritemio, che pochi
+00:38:47,760 --> 00:38:56,040
+e comincia tutto dopo l'anno mille prima niente e allora i primi studiosi i primi eruditi che si
 
 334
-00:36:25,940 --> 00:36:30,560
-di noi giustamente hanno sentito nominare, ma che è un importante umanista tedesco, inizio
+00:38:56,040 --> 00:39:02,880
+mettono a fare queste grandi storie di insieme scoprono che il medioevo fin grosso modo all'anno
 
 335
-00:36:30,560 --> 00:36:36,720
-del Cinquecento, che nella sua cronaca anche lui ha letto Sigeberto di Jean Blu. E anche
+00:39:02,880 --> 00:39:10,360
+mille è un'epoca che ha lasciato poche testimonianze succede un poche cose dopo invece esplode tutto
 
 336
-00:36:36,720 --> 00:36:41,740
-lui quindi dice che nell'anno 1000 ci fu il terremoto e ci fu la cometa e ci furono le
+00:39:10,360 --> 00:39:16,000
+la letteratura provenzale quella francese lingua doil poi quella italiana i trovatori trovi tutto
 
 337
-00:36:41,740 --> 00:36:49,500
-visioni. E molti si spaventarono temendo che arrivasse l'ultimo giorno. Questo non l'ha
+00:39:16,000 --> 00:39:24,680
+le grandi cattedrali una grande civiltà che nasce dopo l'anno mille ora tutti questi
 
 338
-00:36:49,500 --> 00:36:54,800
-letto in Sigeberto di Jean Blu. Ma voi capite come funziona? È un umanista. Ormai è il
+00:39:24,680 --> 00:39:30,840
+eruditi e questi studiosi sanno che nell'anno mille il mondo si era fermato per il terrore e
 
 339
-00:36:54,800 --> 00:37:00,600
-Rinascimento. Quei poveracci là stavano nelle tenebre del Medioevo. Quando hanno visto
+00:39:30,840 --> 00:39:38,080
+allora è facilissimo dare quel colpetto che aggiusta tutto l'anno mille diventa il punto
 
 340
-00:37:00,600 --> 00:37:06,020
-tutti quei prodigi? Figurati se non si sono spaventati. Si sono spaventati e come? E il
+00:39:38,080 --> 00:39:43,680
+di partenza perché è chiaro che fino all'anno mille la gente era troppo terrorizzato per fare
 
 341
-00:37:06,020 --> 00:37:16,280
-Tritemio lo scrive. E continua così. Autori su autori riprendono questa chiacchiera e ognuno
+00:39:43,680 --> 00:39:50,880
+qualcosa e dopo invece ci sono messi in movimento sembra una barzelletta a dirlo così è stato
 
 342
-00:37:16,280 --> 00:37:22,180
-ci ricama sopra. Perché è bello immaginarsela questa scena di tutto un mondo che si ferma
+00:39:50,880 --> 00:39:57,440
+sostenuto molto seriamente vicito a un libro importantissimo nella storia della cultura
 
 343
-00:37:22,180 --> 00:37:27,320
-per il terrore. E mi rendo conto che a dirlo così sembra incredibile, perché noi abbiamo
+00:39:57,440 --> 00:40:05,200
+italiana la bate Bettinelli che nel alla fine del 700 pubblica una prima grande storia della
 
 344
-00:37:27,320 --> 00:37:33,440
-questa ostinata convinzione che quando leggiamo qualcosa è perché l'autore la sa quella cosa
+00:40:05,200 --> 00:40:11,000
+letteratura e della cultura italiana Bettinelli non è uno qualunque il suo libro è un libro
 
 345
-00:37:33,440 --> 00:37:41,580
-che scrive e quindi è vera. E non è assolutamente così. Si possono scrivere le cose più stupefacenti
+00:40:11,000 --> 00:40:18,560
+importantissimo come dire preveggente addirittura basti dire che il libro del Bettinelli uscito nel
 
 346
-00:37:41,580 --> 00:37:45,620
-e magari l'autore se ne convince anche, ma se gli vai a chiedere come fa, vabbè lasciamo
+00:40:18,560 --> 00:40:32,920
+1773 si intitola Risorgimento d'Italia negli studi nelle arti e nei costumi dopo il mille e di
 
 347
-00:37:45,620 --> 00:37:54,580
-stare perché qui prenderei una via. Ma comunque diventa un luogo comune. Tutti sanno nel
+00:40:32,920 --> 00:40:39,400
+conseguenza con cosa comincia il libro del Bettinelli comincia raccontando come che per fortuna il
 
 348
-00:37:54,580 --> 00:38:02,320
-600, nel 700, nell'800 che ci sono stati i terrori dell'anno 1000. Va detto che c'è un
+00:40:39,400 --> 00:40:44,200
+mondo si è rimesso il movimento e in particolare l'Italia che aveva tante belle cose da fare ma
 
 349
-00:38:02,320 --> 00:38:07,260
-motivo che li incoraggia in questa credenza e che noi possiamo anche capirli, poveretti,
+00:40:44,200 --> 00:40:54,040
+fino all'anno mille nessuno si muoveva dopo il mille tornossi al quanto alle arti che erano prima
 
 350
-00:38:07,360 --> 00:38:14,820
-perché in realtà, specialmente nel 700, nel 700 comincia una storiografia scientifica,
+00:40:54,040 --> 00:41:03,720
+state neglette per una credenza universale che la fine del decimo secolo dovesse essere ancora quella
 
 351
-00:38:14,920 --> 00:38:20,280
-moderna. Si comincia a rifare la storia del passato non solo copiando i vecchi cronisti,
+00:41:03,720 --> 00:41:11,120
+del mondo notate che il Bettinelli è curiosissimo sgrida gli storici perché dice gli storici ne
 
 352
-00:38:20,600 --> 00:38:28,760
-ma confrontando i documenti. Nel 700 comincia anche la storia delle nazioni moderne, delle
+00:41:11,120 --> 00:41:16,080
+parlano poco di questa faccenda e che invece è importantissima dice il Bettinelli perché è
 
 353
-00:38:28,760 --> 00:38:37,300
-letterature moderne. Ora, le nazioni moderne sono nate nel Medioevo, le letterature nostre
+00:41:16,080 --> 00:41:21,120
+chiaro che quelle paure impedivano che nascesse la letteratura italiana che è quello che interessa
 
 354
-00:38:37,300 --> 00:38:44,940
-sono nate nel Medioevo, ma prima o dopo l'anno 1000? Dopo l'anno 1000, evidentemente. Tutti
+00:41:21,120 --> 00:41:29,720
+lui e tutto il resto quell'opinione che stesse per finire il mondo non è credibile quanto pregiudicasse
 
 355
-00:38:44,940 --> 00:38:48,820
-abbiamo studiato a scuola la storia della letteratura italiana, no? E comincia tutto
+00:41:29,720 --> 00:41:39,240
+insino all'ultimo giorno del secolo decimo e non è credibile quanto danno toglie se cioè quanto
 
 356
-00:38:48,820 --> 00:38:55,760
-dopo l'anno 1000. Prima niente. E allora i primi studiosi, i primi eruditi che si mettono
+00:41:39,240 --> 00:41:48,600
+bene abbia fatto il non aspettato principio del mille l'orror sempre presente d'una prossima
 
 357
-00:38:55,760 --> 00:39:02,940
-a fare queste grandi storie d'insieme, scoprono che il Medioevo, fin grosso modo all'anno
+00:41:48,600 --> 00:41:55,320
+desolazione universale tolsi ad ognuno speranze questa orrenda disperazione non dovette lasciare
 
 358
-00:39:02,940 --> 00:39:09,980
-1000, è un'epoca che ha lasciato poche testimonianze, succedono poche cose, dopo invece esplode
+00:41:55,320 --> 00:41:59,640
+altri pensieri eccetera eccetera eccetera vi ero manticcheggiando poi sorge il sore dell'anno
 
 359
-00:39:09,980 --> 00:39:15,300
-tutto. La letteratura provenzale, quella francese in lingua d'oile, poi quella italiana, i trovatori,
+00:41:59,640 --> 00:42:06,120
+mille ma l'abbia già sentita questa storia e carducci ho cominciato con quello questo che
 
 360
-00:39:15,300 --> 00:39:24,360
-tutto. Le grandi cattedrali, una grande civiltà che nasce dopo l'anno 1000. Ora, tutti
+00:42:06,120 --> 00:42:12,360
+sto leggendo adesso è Bettinelli un secolo prima ma anche carducci ricordate in che occasione
 
 361
-00:39:24,360 --> 00:39:29,540
-questi eruditi e questi studiosi sanno che nell'anno 1000 il mondo si era fermato per
+00:42:12,360 --> 00:42:19,480
+scrive queste cose io l'ho detto prima ma voi non ve lo ricordate nel suo primo discorso sullo
 
 362
-00:39:29,540 --> 00:39:37,720
-il terrore. E allora è facilissimo dare quel colpetto che aggiusta tutto. L'anno 1000 diventa
+00:42:19,480 --> 00:42:28,120
+svolgimento della letteratura nazionale in altre parole c'è un filo diretto preciso chi nel
 
 363
-00:39:37,720 --> 00:39:43,400
-il punto di partenza, perché è chiaro che fino all'anno 1000 la gente era troppo terrorizzata
+00:42:28,120 --> 00:42:34,560
+700 e nell' 800 vuole fare la storia della grandezza italiana della civiltà italiana prima
 
 364
-00:39:43,400 --> 00:39:49,560
-per fare qualcosa. E dopo invece si sono messi in movimento. Sembra una barzelletta dirlo
+00:42:34,560 --> 00:42:41,960
+del mille non trova niente e di conseguenza parte dai terrori e quello che succede in italia
 
 365
-00:39:49,560 --> 00:39:56,960
-così. È stato sostenuto molto seriamente. Vi cito un libro importantissimo nella storia
+00:42:41,960 --> 00:42:52,280
+succede in france succede negli altri paesi ognuno per conto suo bene siamo quasi siamo a buon
 
 366
-00:39:56,960 --> 00:40:04,000
-della cultura italiana. L'abate Bettinelli, che alla fine del Settecento pubblica una prima
+00:42:52,280 --> 00:42:59,040
+punto direi c'è ancora un aspetto che io vorrei sottolineare di questa faccenda e che la rende
 
 367
-00:40:04,000 --> 00:40:09,920
-grande storia della letteratura e della cultura italiana. Bettinelli non è uno qualunque,
+00:42:59,040 --> 00:43:04,080
+forse in qualche misura un po più attuale rispetto come dire a tutti questi discorsi di
 
 368
-00:40:10,240 --> 00:40:15,840
-il suo libro è un libro importantissimo, come dire, preveggente addirittura. Basti dire
+00:43:04,080 --> 00:43:17,920
+monaci del dodicesimo secolo che vi ho inflitto nell' 800 sono tutti così convinti dei terrori
 
 369
-00:40:15,840 --> 00:40:27,140
-che il libro del Bettinelli, uscito nel 1773, si intitola Risorgimento d'Italia. Negli studi,
+00:43:17,920 --> 00:43:25,360
+dell'anno mille anche perché nell' 800 si stanno combattendo delle battaglie ideologiche molto
 
 370
-00:40:27,340 --> 00:40:34,840
-nelle arti e nei costumi, dopo il 1000. E di conseguenza con cosa comincia il libro del
+00:43:25,360 --> 00:43:33,320
+precise carducci che abbiamo visto uno dei principali come dire autori di questa leggenda o quelli
 
 371
-00:40:34,840 --> 00:40:40,720
-Bettinelli? Comincia raccontando com'è che per fortuna il mondo si era immesso in movimento.
+00:43:33,320 --> 00:43:38,480
+che hanno uno di quelli che l'hanno espressa nel modo più romantico più evocativo e carducci è anche
 
 372
-00:40:40,720 --> 00:40:47,080
-E in particolare l'Italia, che aveva tante belle cose da fare, ma fino all'anno 1000 nessuno
+00:43:38,480 --> 00:43:44,760
+quello dell'inno a satana naturalmente e il carducci delle invettive contro il vaticano
 
 373
-00:40:47,080 --> 00:40:55,720
-si muoveva. Dopo il 1000 tornossi alquanto alle arti, che erano prima state neglette per
+00:43:44,760 --> 00:43:52,120
+contro la chiesa del suo tempo reazionaria nemica del progresso e il carducci delle poesie che
 
 374
-00:40:56,320 --> 00:41:04,440
-una credenza universale che la fine del X secolo dovesse essere ancora quella del mondo.
+00:43:52,120 --> 00:43:58,440
+attaccano il gran prete che in vaticano continua a fare il re e a tagliare le teste degli oppositori
 
 375
-00:41:04,440 --> 00:41:11,200
-Notate che il Bettinelli, curiosissimo, sgrida gli storici, perché dice che gli storici ne
+00:43:58,440 --> 00:44:04,000
+nell' 800 si combatte fra tante battaglie che si combattono si combatte anche una battaglia
 
 376
-00:41:11,200 --> 00:41:16,060
-parlano poco di questa faccenda. E che invece è importantissima, dice il Bettinelli, perché
+00:44:04,000 --> 00:44:14,640
+della cultura laica progressista scientifica positivista contro la superstizione e la chiesa
 
 377
-00:41:16,060 --> 00:41:20,800
-è chiaro che quelle paure impedivano che nascesse la letteratura italiana, che è quello che
+00:44:14,640 --> 00:44:21,280
+dell' 800 è vista da molti di questi che si battono per una cultura laica e progressista è vista come
 
 378
-00:41:20,800 --> 00:41:28,320
-interessa a lui e tutto il resto. Quell'opinione, che stesse per finire il mondo, non è credibile
+00:44:21,280 --> 00:44:30,080
+un nemico non a caso va detto quindi mi permette una piccola parentesi perché le cose vanno
 
 379
-00:41:28,320 --> 00:41:37,900
-quanto pregiudicasse in sino all'ultimo giorno del secolo X. E non è credibile quanto danno
+00:44:30,080 --> 00:44:35,920
+contextualizzate se c'è un anticlericalismo così violento nell' 800 e anche naturalmente perché
 
 380
-00:41:37,900 --> 00:41:46,760
-togliesse, cioè quanto bene abbia fatto, il non aspettato principio del 1000. L'orror
+00:44:35,920 --> 00:44:42,480
+la chiesa di allora fa di tutto per farsi considerare come un nemico perché la chiesa di allora è
 
 381
-00:41:46,760 --> 00:41:53,100
-sempre presente di una prossima desolazione universale tolse ad ognuno speranze. Questa
+00:44:42,480 --> 00:44:46,920
+spaventata dal progresso è cosa che si possa dire tranquillamente perché la chiesa di oggi lui ha
 
 382
-00:41:53,100 --> 00:41:57,100
-orrenda disperazione, non dovette lasciare altri pensieri, eccetera, eccetera, eccetera,
+00:44:46,920 --> 00:44:52,400
+riconosciuto ampiamente la chiesa dell' 800 è terrorizzata dal progresso è terrorizzata dal
 
 383
-00:41:57,120 --> 00:42:01,960
-e via romanticheggiando. Poi sorge il sole dell'anno 1000. Ma l'abbiamo già sentita questa
+00:44:52,400 --> 00:44:57,960
+liberalismo è terrorizzata dalla scienza combatte il modernismo in tutte le sue forme
 
 384
-00:42:01,960 --> 00:42:07,740
-storia? E Carducci, ho cominciato con quello. Questo che sto leggendo adesso è Bettinelli,
+00:44:57,960 --> 00:45:06,240
+scomunica chiude porte è chiaro che dall'altra parte la chiesa è vista come il nemico oscurantista
 
 385
-00:42:08,100 --> 00:42:14,600
-un secolo prima. Ma anche Carducci, ricordate in che occasione scrive queste cose? Io l'ho
+00:45:06,240 --> 00:45:15,000
+allora se la chiesa e la religione cristiana sono fonte di superstizioni e di ignoranza
 
 386
-00:42:14,600 --> 00:42:21,180
-detto prima, ma voi non ve lo ricordate. Nel suo primo discorso sullo svolgimento della
+00:45:15,000 --> 00:45:25,560
+ancor più sarà successo così in quella brutta lontana epoca da cui per fortuna siamo usciti in
 
 387
-00:42:21,180 --> 00:42:29,320
-letteratura nazionale. In altre parole c'è un filo diretto preciso. Chi nel 700 e nell'800
+00:45:25,560 --> 00:45:32,080
+cui la chiesa dominava il mondo il medioevo nel medioevo certamente la chiesa così ragionano
 
 388
-00:42:29,320 --> 00:42:35,480
-vuole fare la storia della grandezza italiana, della civiltà italiana, prima del 1000 non
+00:45:32,080 --> 00:45:38,760
+carducci e tanti altri e miscelae in francia regnavano davvero le tenebre e allora non c'è da
 
 389
-00:42:35,480 --> 00:42:42,880
-trova niente e di conseguenza parte dai terrori. E quello che succede in Italia succede in Francia,
+00:45:38,760 --> 00:45:47,480
+stupirsi se la gente era così ignorante se la gente era in preda tutte le paure se all'arrivo
 
 390
-00:42:42,880 --> 00:42:54,300
-succede negli altri paesi, ognuno per conto suo. Bene, siamo a buon punto, direi. C'è
+00:45:47,480 --> 00:45:54,120
+dell'anno mille il mondo si è fermato per il terrore ma se da una parte c'è chi combatte
 
 391
-00:42:54,300 --> 00:42:59,580
-ancora un aspetto che io vorrei sottolineare di questa faccenda e che la rende forse in
+00:45:54,120 --> 00:46:01,240
+questa battaglia anche dall'altra c'è chi combatte anche dal campo ecclesiastico c'è chi
 
 392
-00:42:59,580 --> 00:43:04,500
-qualche misura un po' più attuale rispetto, come dire, a tutti questi discorsi di monaci
+00:46:01,240 --> 00:46:09,320
+studia e scrive e pubblica per dire che non è vero niente che la chiesa non era fatto come dire
 
 393
-00:43:04,500 --> 00:43:18,500
-del XII secolo che vi ho inflitto. Nell'800 sono tutti così convinti dei terrori dell'anno
+00:46:09,320 --> 00:46:20,680
+fautrice di ignoranza e superstizione anzi la chiesa faceva tutt'altro e allora i primi che dicono ma
 
 394
-00:43:18,500 --> 00:43:26,080
-1000 anche perché nell'800 si stanno combattendo delle battaglie ideologiche molto precise.
+00:46:20,680 --> 00:46:26,800
+questi terrori dell'anno mille di cui siete tutti così sicuri ma è poi vero scusate che ci sono
 
 395
-00:43:26,080 --> 00:43:34,480
-Carducci, che abbiamo visto è uno dei principali autori di questa leggenda, o uno di quelli
+00:46:26,800 --> 00:46:33,600
+stati and vogliamo andare a controllare vedere i cronisti di quegli anni cosa scrivevano cioè
 
 396
-00:43:34,480 --> 00:43:38,800
-che l'hanno espressa nel modo più romantico, più evocativo, beh Carducci è anche quello
+00:46:33,600 --> 00:46:40,760
+in sostanza fare un po quello che io ho fatto stasera i primi che fanno queste cose non sono
 
 397
-00:43:38,800 --> 00:43:45,180
-dell'inno a Satana, naturalmente. È il Carducci delle invettive contro il Vaticano, contro
+00:46:40,760 --> 00:46:46,520
+spinti semplicemente non sono studiosi spinti dall'amore della verità ma sono anche combattenti
 
 398
-00:43:45,180 --> 00:43:52,020
-la Chiesa del suo tempo, reazionaria, nemica del progresso. È il Carducci delle poesie
+00:46:46,520 --> 00:46:57,600
+di una guerra il primo articolo che esce nel 1873 che parla in francia dei pretesi terrori
 
 399
-00:43:52,020 --> 00:43:57,100
-che attaccano il gran prete che in Vaticano continua a fare il re e a tagliare le teste
+00:46:57,600 --> 00:47:05,960
+dell'anno mille e di un prete uno studioso ecclesiastico don plen per cui dimostrare che i
 
 400
-00:43:57,100 --> 00:44:03,280
-degli oppositori. Nell'800 si combatte, fra tante battaglie che si combattono, si combatte
+00:47:05,960 --> 00:47:10,120
+terrori dell'anno mille non ci sono mai stati non è soltanto un punto di precisazione storica
 
 401
-00:44:03,280 --> 00:44:13,240
-anche una battaglia della cultura laica, progressista, scientifica, positivista, contro la superstizione.
+00:47:10,120 --> 00:47:14,960
+ma vuol dire dimostrare che han torto i laici e gli scienziati positivisti a parlare della
 
 402
-00:44:14,100 --> 00:44:19,960
-E la Chiesa dell'800 è vista da molti di questi che si battono per una cultura laica
+00:47:14,960 --> 00:47:22,640
+chiesa come di una fautore appunto della tenebra dell'ignoranza non è vero niente e qui devo
 
 403
-00:44:19,960 --> 00:44:28,840
-e progressista è vista come un nemico. Non a caso va detto, qui mi permetto una piccola
+00:47:22,640 --> 00:47:28,480
+anche confessare che è molto imbarazzante questa faccenda per me perché io devo dire ho già detto
 
 404
-00:44:28,840 --> 00:44:33,360
-parentesi perché le cose vanno contestualizzate, se c'è un anticlericalismo così violento
+00:47:28,480 --> 00:47:35,320
+un po prima e lo dico di nuovo che tutto sommato sui due piatti della bilancia allora nelle
 
 405
-00:44:33,360 --> 00:44:39,980
-nell'800 è anche naturalmente perché la Chiesa di allora fa di tutto per farsi considerare
+00:47:35,320 --> 00:47:41,520
+condizioni di allora aveva ragione i mangiapreti e aveva torto la chiesa la chiesa stava davvero
 
 406
-00:44:39,980 --> 00:44:44,640
-come un nemico, perché la Chiesa di allora è spaventata dal progresso. Sono cose che si
+00:47:41,520 --> 00:47:46,240
+combattendo delle battaglie sbagliate contro tutto ciò che c'era di moderno il liberalismo la
 
 407
-00:44:44,640 --> 00:44:48,800
-possono dire tranquillamente perché la Chiesa di oggi lo ha riconosciuto ampiamente. La Chiesa
+00:47:46,240 --> 00:47:53,320
+democrazia l'unità d'italia ogni sorta di cose aveva ragione quegli altri per me però quegli
 
 408
-00:44:48,800 --> 00:44:54,020
-dell'800 è terrorizzata dal progresso, è terrorizzata dal liberalismo, è terrorizzata
+00:47:53,320 --> 00:47:59,040
+altri che avevano ragione per dimostrare che avevano ragione hanno costruito hanno fatto una
 
 409
-00:44:54,020 --> 00:45:00,540
-dalla scienza, combatte il modernismo in tutte le sue forme, scomunica, chiude porte. È
+00:47:59,040 --> 00:48:08,000
+cattiva storografia hanno costruito una leggenda e ci hanno creduto i preti di pionono che difendevano
 
 410
-00:45:00,540 --> 00:45:10,540
-chiaro che dall'altra parte la Chiesa è vista come il nemico oscurantista. Allora, se la Chiesa
+00:48:08,000 --> 00:48:14,040
+il vaticano forse più scurantista e reazionario che ci sia stato negli ultimi secoli però aveva
 
 411
-00:45:10,540 --> 00:45:19,740
-e la religione cristiana sono fonte di superstizioni e di ignoranza, ancor più sarà successo così
+00:48:14,040 --> 00:48:20,840
+ragione e hanno fatto una storografia giusta e sono andati a scoprire la verità l'ultimissima cosa
 
 412
-00:45:19,740 --> 00:45:26,940
-in quella brutta, lontana epoca da cui per fortuna siamo usciti, in cui la Chiesa dominava
+00:48:20,840 --> 00:48:26,760
+che vorrei dirvi che prosegue questo discorso e lo attualizza ancora di più e che sembra era strano
 
 413
-00:45:26,940 --> 00:45:33,400
-il mondo, il Medioevo. Nel Medioevo certamente la Chiesa, così ragionano Carducci e tanti altri
+00:48:26,760 --> 00:48:36,040
+ma non è ancora del tutto finita e cioè c'è ancora almeno in francia che è un paese dove
 
 414
-00:45:33,400 --> 00:45:40,540
-e i Michelet in Francia, regnavano davvero le tenebre. E allora non c'è da stupirsi se
+00:48:36,040 --> 00:48:41,560
+le spaccature ideologiche sono un po diverse dalle nostre ma sono profonde specialmente quella
 
 415
-00:45:40,540 --> 00:45:47,560
-la gente era così ignorante, se la gente era in preda a tutte le paure, se all'arrivo
+00:48:41,560 --> 00:48:49,240
+fra cultura laica della repubblica e cultura cattolica c'è ancora oggi una qualche dimensione di
 
 416
-00:45:47,560 --> 00:45:54,180
-dell'anno 1000 il mondo si è fermato per il terrore. Ma se da una parte c'è chi combatte
+00:48:49,240 --> 00:48:57,560
+attualità in questa polemica sui terrori dell'anno mille e mi spiego è uscito da pochissimo tempo
 
 417
-00:45:54,180 --> 00:46:01,180
-questa battaglia, anche dall'altra c'è chi combatte, anche dal campo ecclesiastico c'è
+00:48:57,680 --> 00:49:07,880
+un libro che fin dal titolo è chiaramente programmatico i falsi terrori dell'anno mille e di uno
 
 418
-00:46:01,180 --> 00:46:08,000
-chi studia e scrive e pubblica per dire che non è vero niente, che la Chiesa non era
+00:49:07,880 --> 00:49:16,200
+studioso molto famoso in francia non ancora in italia che si chiama silvan gugenheim come la
 
 419
-00:46:08,000 --> 00:46:15,560
-affatto, come dire, fautrice di ignoranza e superstizione, anzi, la Chiesa faceva tutt'altro.
+00:49:16,200 --> 00:49:21,120
+Peggy gugenheim dell'arte contemporanea sarà quindi anche lui di origine ebraica vero similmente
 
 420
-00:46:15,560 --> 00:46:24,500
-E allora i primi che dicono, ma questi terrori dell'anno 1000, di cui siete tutti così sicuri,
+00:49:21,200 --> 00:49:27,600
+ma è uno studioso cattolico che ha scritto questo libro molto militante i falsi terrori dell'anno
 
 421
-00:46:25,080 --> 00:46:31,780
-ma è poi vero, scusate, che ci sono stati. Vogliamo andare a controllare, vedere i cronisti
+00:49:27,600 --> 00:49:34,560
+mille dicendo in sostanza questo è vero che i terrori dell'anno mille non ci sono stati ormai
 
 422
-00:46:31,780 --> 00:46:36,580
-di quegli anni cosa scrivevano, cioè in sostanza fare un po' quello che io ho fatto stasera.
+00:49:34,560 --> 00:49:42,440
+lo sanno tutti ma non basta bisogna di si parla di più questa leggenda perché se andiamo a vedere
 
 423
-00:46:37,180 --> 00:46:44,120
-I primi che fanno queste cose non sono spinti semplicemente, non sono studiosi spinti dall'amore
+00:49:42,440 --> 00:49:50,000
+la storiafia del novecento la grande storiafia francese db quegli studiosi quando ci sono
 
 424
-00:46:44,120 --> 00:46:50,840
-della verità, ma sono anche combattenti di una guerra. Il primo articolo che esce nel
+00:49:50,000 --> 00:49:57,760
+occupati dell'anno mille dice gugenheim certo hanno ammesso che i terrori sono una leggenda ma
 
 425
-00:46:50,840 --> 00:47:01,360
-1873, che parla, in Francia, dei pretesi terrori dell'anno 1000, è di un prete, uno
+00:49:57,760 --> 00:50:04,160
+hanno molto insistito sul fatto che comunque c'era il millenarismo c'erano questi movimenti c'era
 
 426
-00:47:01,360 --> 00:47:06,900
-studioso, ecclesiastico, Don Plain, per cui dimostrare che i terrori dell'anno 1000 non
+00:50:04,160 --> 00:50:11,600
+un'atmosfera pesante di in cui etudine in sostanza gugenheim attaccando alcuni mostri sacri della
 
 427
-00:47:06,900 --> 00:47:11,480
-ci sono mai stati non è soltanto un punto di precisazione storica, ma vuol dire dimostrare
+00:50:11,600 --> 00:50:17,960
+storiafia del novecento come appunto jos db gugenheim dice questi in realtà grandi maestri per
 
 428
-00:47:11,480 --> 00:47:16,140
-che hanno torto i laici, gli scienziati, i positivisti a parlare della Chiesa come di
+00:50:17,960 --> 00:50:22,720
+carità però hanno creato di nuovo un'impressione falsa sono tornati a dare questa impressione
 
 429
-00:47:16,140 --> 00:47:23,380
-un fautore appunto della tenebra e dell'ignoranza. Non è vero niente. E qui devo anche confessare
+00:50:22,720 --> 00:50:31,040
+dell'anno mille come epoca tenebrosa inquieta oscura mentre dice gugenheim non è vero niente
 
 430
-00:47:23,380 --> 00:47:28,500
-che è molto imbarazzante questa faccenda, per me. Perché io devo dire, ho già detto
+00:50:31,040 --> 00:50:39,920
+perché è interessante scoprire questo perché gugenheim come vi dicevo è uno studioso non
 
 431
-00:47:28,500 --> 00:47:34,600
-un po' prima e lo dico di nuovo, che tutto sommato sui due piatti della bilancia, allora,
+00:50:39,920 --> 00:50:46,760
+solo cattolico ma arci cattolico ultra che è diventato famoso in francia non per questo libro
 
 432
-00:47:34,600 --> 00:47:40,960
-nelle condizioni di allora avevano ragione i mangiapreti e aveva torto la Chiesa. La Chiesa
+00:50:46,760 --> 00:50:51,480
+sui terrori dell'anno mille gugenheim è diventato famoso in francia per un libro che è uscito
 
 433
-00:47:40,960 --> 00:47:45,600
-stava davvero combattendo delle battaglie sbagliate contro tutto ciò che c'era di moderno,
+00:50:51,480 --> 00:51:00,120
+cinque anni fa che si intitola aristotele al monsang michel il monsang michel avete presente
 
 434
-00:47:45,640 --> 00:47:50,400
-il liberalismo, la democrazia, l'unità d'Italia, ogni sorta di cose. Avevano ragione quegli
+00:51:00,120 --> 00:51:04,640
+la famosa bazzia in normandia quella che sta in mezzo al mare quando c'è la marea rimane
 
 435
-00:47:50,400 --> 00:47:57,260
-altri, per me. Però quegli altri che avevano ragione, per dimostrare che avevano ragione,
+00:51:04,640 --> 00:51:12,840
+isolata dalla terra ferma gugenheim in aristotele al monsang michel sostiene e dico sostiene perché
 
 436
-00:47:57,260 --> 00:48:02,580
-hanno costruito, hanno fatto una cattiva storiografia. Hanno costruito una leggenda
+00:51:12,840 --> 00:51:17,240
+il suo libro ha provocato polemiche furibonde con illustri studiosi che hanno detto che è tutta
 
 437
-00:48:02,580 --> 00:48:10,320
-e ci hanno creduto. I preti di Pio IX, che difendevano il Vaticano forse più oscurantista
+00:51:17,240 --> 00:51:22,400
+spazzatura e altri illustri studiosi che hanno detto che invece è molto interessante quindi io non
 
 438
-00:48:10,320 --> 00:48:15,260
-e reazionario che ci sia stato negli ultimi secoli, però avevano ragione e hanno fatto
+00:51:22,400 --> 00:51:28,600
+l'ho ancora letto riferisco soltanto quel che so in sintesi gugenheim in questo libro sostiene
 
 439
-00:48:15,260 --> 00:48:21,620
-una storiografia giusta e sono andati a scoprire la verità. L'ultimissima cosa che vorrei dirvi,
+00:51:28,600 --> 00:51:33,720
+di aver scoperto che nel monasterio del monsang michel nel medioevo c'era un grande centro
 
 440
-00:48:21,620 --> 00:48:28,040
-che prosegue questo discorso e lo attualizza ancora di più, è che sembrerà strano, ma
+00:51:33,720 --> 00:51:41,480
+di traduzione dal greco in latino e lì si traduceva direttamente dal greco in latino
 
 441
-00:48:28,040 --> 00:48:35,880
-non è ancora del tutto finita. E cioè c'è ancora, almeno in Francia, che è un paese
+00:51:41,480 --> 00:51:49,240
+aristotele e tolomeo gli scienziati greci e così via io credo che voi capiate già le
 
 442
-00:48:35,880 --> 00:48:41,260
-dove le spaccature ideologiche sono un po' diverse dalle nostre, ma sono profonde, specialmente
+00:51:49,240 --> 00:51:54,680
+implicazioni di questo ma gugenheim per non farsi mancar niente le esplicita nel suo libro
 
 443
-00:48:41,260 --> 00:48:48,600
-quella fra cultura laica della Repubblica e cultura cattolica. C'è ancora oggi una qualche
+00:51:54,680 --> 00:52:00,840
+queste pagine le ho viste sono andato a vederle gugenheim dice e quindi non è vero quello che
 
 444
-00:48:48,600 --> 00:48:54,880
-dimensione di attualità in questa polemica sui terrori dell'anno 1000. E mi spiego.
+00:52:00,840 --> 00:52:07,880
+ci hanno sempre raccontato che grazie agli arabi che noi abbiamo potuto possedere la filosofia e
 
 445
-00:48:55,880 --> 00:49:02,600
-E' uscito da pochissimo tempo un libro che fin dal titolo è chiaramente programmatico.
+00:52:07,880 --> 00:52:14,360
+la scienza greca la filosofia e la scienza greca dice gugenheim noi cristiani ce le siamo
 
 446
-00:49:02,980 --> 00:49:12,440
-I falsi terrori dell'anno 1000. E' di uno studioso molto famoso in Francia, non ancora in Italia,
+00:52:14,360 --> 00:52:20,520
+tradotte direttamente dal greco e non avevamo nessun bisogno degli arabi e tanto per essere
 
 447
-00:49:12,440 --> 00:49:19,140
-che si chiama Sylvain Guggenheim, come la Peggy Guggenheim dell'arte contemporanea, sarà
+00:52:20,520 --> 00:52:25,520
+ancora più chiaro nelle ultime pagine del libro gugenheim dice ed il resto si sa che l'arabo
 
 448
-00:49:19,140 --> 00:49:24,380
-quindi anche lui di origine ebraica, verosimilmente, ma è uno studioso cattolico, che ha scritto
+00:52:25,520 --> 00:52:30,480
+è una lingua completamente inedatta per parlare di argomenti scientifici che gli arabi come mentalità
 
 449
-00:49:24,380 --> 00:49:30,600
-questo libro molto militante, I falsi terrori dell'anno 1000, dicendo in sostanza questo.
+00:52:30,480 --> 00:52:35,600
+non sono un popolo di scienziati e di conseguenza era ridicolo pensare che noi dovessimo qualche
 
 450
-00:49:31,880 --> 00:49:37,520
-E' vero che i terrori dell'anno 1000 non ci sono stati, ormai lo sanno tutti. Ma non basta,
+00:52:35,600 --> 00:52:42,200
+cosa alla cultura islamica e medievale noi non dobbiamo niente voi capite che è un argomento
 
 451
-00:49:37,520 --> 00:49:43,480
-bisogna dissiparla di più questa leggenda. Perché se andiamo a vedere la storiografia
+00:52:42,200 --> 00:52:48,720
+un filino provocatorio e di fatti in francia ci sono stati i dibattiti furibondi su questo libro
 
 452
-00:49:43,480 --> 00:49:50,540
-del Novecento, la grande storiografia francese, Duby, quegli studiosi, quando si sono occupati
+00:52:48,720 --> 00:52:58,600
+ora capite colpisce che lo stesso studioso che scrive Aristotele al Monsa Michel il libro
 
 453
-00:49:50,540 --> 00:49:58,040
-dell'anno 1000, dice Guggenheim, certo hanno ammesso che i terrori sono una leggenda, ma hanno
+00:52:58,600 --> 00:53:04,640
+successivo che scrive è per dire ricordiamo ce lo che i terrore dell'anno mille non ci sono mai
 
 454
-00:49:58,040 --> 00:50:04,220
-molto insistito sul fatto che comunque c'era il millenarismo, c'erano questi movimenti, c'era
+00:53:04,640 --> 00:53:09,600
+stati perché qui i laici c'hanno di nuovo un po' confuso le idee si parla troppo di
 
 455
-00:50:04,220 --> 00:50:10,860
-un'atmosfera pesante, di inquietudine. In sostanza Guggenheim, attaccando alcuni mostri
+00:53:09,600 --> 00:53:16,560
+millenarismo medievale invece non è vero niente io qui non mi schiero i terrore non ci sono mai
 
 456
-00:50:10,860 --> 00:50:16,380
-sacri della storiografia del Novecento, come appunto Georges Duby, Guggenheim dice, questi
+00:53:16,560 --> 00:53:22,080
+stati questo è evidente chiarissimo è ma quello che mi interessava far vedere in conclusione è come
 
 457
-00:50:16,380 --> 00:50:20,600
-in realtà, grandi maestri per carità, però hanno creato di nuovo un'impressione falsa,
+00:53:22,080 --> 00:53:28,640
+quali sono come sono complesse insomma le vie con cui si creano i miti e con cui poi rimangono
 
 458
-00:50:20,900 --> 00:50:27,800
-sono tornati a dare questa impressione dell'anno 1000 come epoca tenebrosa, inquieta, oscura.
+00:53:28,640 --> 00:53:34,200
+radicati magari si creano in modo del tutto innocente uno che ha aggiunto una righina in
 
 459
-00:50:27,800 --> 00:50:36,220
-Mentre dice Guggenheim, non è vero niente. Perché è interessante scoprire questo? Perché
+00:53:34,200 --> 00:53:40,800
+una cronaca e magari rimangono lì silenziosi per secoli poi viene il momento in cui una certa
 
 460
-00:50:36,220 --> 00:50:43,240
-Guggenheim, come vi dicevo, è uno studioso non solo cattolico, ma arci cattolico, ultra,
+00:53:40,800 --> 00:53:47,320
+cosa torna utile nelle battaglie di quel momento e allora la si tira fuori e lo spirito critico
 
 461
-00:50:44,100 --> 00:50:49,320
-che è diventato famoso in Francia, non per questo libro sui terrori dell'anno 1000. Guggenheim
+00:53:47,320 --> 00:53:53,320
+sparisce è un meccanismo estremamente impressionante per chi di voi ci sarà anche domani dopo
 
 462
-00:50:49,320 --> 00:50:54,020
-è diventato famoso in Francia per un libro che è uscito cinque anni fa, che si intitola
+00:53:53,320 --> 00:53:59,720
+domani racconteremo esempi credo più divertenti di questo se io vuole di casi simili questo era
 
 463
-00:50:54,020 --> 00:51:00,640
-Aristotele al Mont Saint Michel. Il Mont Saint Michel l'avete presente, è la famosa
-
-464
-00:51:00,640 --> 00:51:05,040
-Abbazia in Normandia, quella che sta in mezzo al mare quando c'è la marea rimane isolata
-
-465
-00:51:05,040 --> 00:51:12,660
-dalla terraferma. Guggenheim, in Aristotele al Mont Saint Michel, sostiene, e dico sostiene
-
-466
-00:51:12,660 --> 00:51:16,860
-perché il suo libro ha provocato polemiche furibonde con illustri studiosi che hanno detto
-
-467
-00:51:16,860 --> 00:51:21,500
-che è tutta spazzatura e altri illustri studiosi che hanno detto che invece è molto interessante.
-
-468
-00:51:21,500 --> 00:51:26,020
-quindi io non l'ho ancora letto, vi riferisco soltanto quel che so in sintesi. Guggenheim,
-
-469
-00:51:26,140 --> 00:51:31,520
-in questo libro, sostiene di aver scoperto che nel monastero del Mont Saint Michel, nel
-
-470
-00:51:31,520 --> 00:51:40,160
-Medioevo, c'era un grande centro di traduzione dal greco in latino e lì si traduceva direttamente
-
-471
-00:51:40,160 --> 00:51:48,500
-dal greco in latino Aristotele e Tolomeo, gli scienziati greci e così via. Io credo che voi
-
-472
-00:51:48,500 --> 00:51:52,680
-capiate già le implicazioni di questo, ma Guggenheim, per non farsi mancare niente,
-
-473
-00:51:53,340 --> 00:51:57,520
-le esplicita nel suo libro. Queste pagine le ho viste, sono andato a vederle. Guggenheim
-
-474
-00:51:57,520 --> 00:52:04,400
-dice, e quindi non è vero quello che ci hanno sempre raccontato, che è grazie agli arabi
-
-475
-00:52:04,400 --> 00:52:11,200
-che noi abbiamo potuto possedere la filosofia e la scienza greca. La filosofia e la scienza
-
-476
-00:52:11,200 --> 00:52:16,640
-greca, dice Guggenheim, noi cristiani ce le siamo tradotte direttamente dal greco e non
-
-477
-00:52:16,640 --> 00:52:22,120
-avevamo nessun bisogno degli arabi. E tanto per essere ancora più chiaro, nelle ultime
-
-478
-00:52:22,120 --> 00:52:26,760
-pagine del libro Guggenheim dice, e del resto si sa, che l'arabo è una lingua completamente
-
-479
-00:52:26,760 --> 00:52:31,540
-inadatta per parlare di argomenti scientifici, che gli arabi come mentalità non sono un popolo
-
-480
-00:52:31,540 --> 00:52:36,000
-di scienziati e di conseguenza era ridicolo pensare che noi gli dovessimo qualche cosa.
-
-481
-00:52:37,120 --> 00:52:42,240
-Alla cultura islamica medievale noi non dobbiamo niente. Voi capite che è un argomento
-
-482
-00:52:42,240 --> 00:52:48,460
-un filino provocatorio. E di fatti in Francia ci sono stati dibattiti furibondi su questo
-
-483
-00:52:48,460 --> 00:52:57,400
-libro. Ora capite? Colpisce che lo stesso studioso che scrive Aristotele al Mont Saint-Michel,
-
-484
-00:52:58,200 --> 00:53:04,200
-il libro successivo che scrive è per dire, ricordiamocelo che il terrore dell'anno mila
-
-485
-00:53:04,200 --> 00:53:09,000
-non ci sono mai stati. Perché qui i laici hanno di nuovo un po' confuso le idee. Si
-
-486
-00:53:09,000 --> 00:53:15,040
-parla troppo di millenarismo medievale, invece non è vero niente. Io qui non mi schiero,
-
-487
-00:53:15,780 --> 00:53:19,760
-i terrore non ci sono mai stati, questo è evidente, chiarissimo, ma quello che mi interessava
-
-488
-00:53:19,760 --> 00:53:27,660
-far vedere in conclusione è come sono complesse le vie con cui si creano i miti e con cui poi
-
-489
-00:53:27,660 --> 00:53:33,720
-rimangono radicati. Magari si creano in modo del tutto innocente uno che ha aggiunto una
-
-490
-00:53:33,720 --> 00:53:40,020
-righina in una cronaca e magari rimangono lì silenziosi per secoli. Poi viene il momento
-
-491
-00:53:40,020 --> 00:53:46,580
-in cui una certa cosa torna utile nelle battaglie di quel momento e allora la si tira fuori e
-
-492
-00:53:46,580 --> 00:53:52,520
-lo spirito critico sparisce. È un meccanismo estremamente impressionante. Per chi di voi ci
-
-493
-00:53:52,520 --> 00:53:56,320
-sarà anche domani e dopodomani, racconteremo esempi credo più divertenti di questo, se Dio
-
-494
-00:53:56,320 --> 00:54:01,740
-vuole, di casi simili. Questo era il primo, questo avevo da raccontarvi stasera e quindi
-
-495
-00:54:01,740 --> 00:54:03,640
-qui mi fermo. Grazie.
-
-496
-00:54:26,320 --> 00:54:27,320
-Grazie.
+00:53:59,720 --> 00:54:03,600
+il primo questo avevo da raccontarvi stasera e quindi qui vi fermo grazie
 
