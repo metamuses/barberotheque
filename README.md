@@ -7,11 +7,13 @@ A digital library of Alessandro Barbero's lectures in audio and text form.
 ## Process
 
 ### Manual search
-Searched on YouTube some videos of Alessandro Barbero's lectures and compiled a
-csv with basic metadata of each video.
+We searched on YouTube  videos of Alessandro Barbero's lectures and compiled
+the [`barbero.csv`](metadata/barbero.csv) file with basic metadata of each
+chosen source.
 
 ### Audio download
-Downloaded the audio of each video using `yt-dlp` into M4A format.
+We downloaded the audio-only version of each video using `yt-dlp` into the
+[`audio`](audio/) folder as M4A files.
 
 ```shell
 # extract all youtube URLs into a batch file
@@ -26,15 +28,24 @@ yt-dlp \
   --output "audio/barbero-%(extractor)s-%(id)s.%(ext)s"
 ```
 
+We decided to use M4A format with AAC compression, as it provides better audio
+fidelity at smaller file sizes, which is beneficial for accurate transcription
+with Whisper, compared to MP3 which introduces more compression artifacts that
+could hurt transcription accuracy.
+
 ### Semantic renaming
-Compiled the `metadata/barbero.csv` with the reasoned semantic filenames, adding the
-column `semantic_filename` and filling it manually.
-Then renamed all files in the `compressed/` folder to their semantic filenames
-using the script `scripts/rename_files.py`.
+We compiled the [`barbero.csv`](metadata/barbero.csv) with the reasoned semantic
+filenames, adding the column `semantic_filename` and filling it manually.  
+Then we mass-renamed all files in the [`audio`](audio/) folder to their semantic
+version using the script [`rename_files.py`](scripts/rename_files.py).
+
+```shell
+python scripts/rename_files.py
+```
 
 ### Whisper transcription
-Transcribed each audio file using OpenAI Whisper in Italian language using the
-`turbo` model.
+We transcribed each audio file using OpenAI Whisper in Italian language using
+the `turbo` model. When it failed on some files, we retried with the `small` model.
 
 ```shell
 for file in audio/*.m4a; do
@@ -48,17 +59,18 @@ done
 ```
 
 ### Keywords/entities extraction
-Extracted keywords and named entities from each transcript txt file using SpaCy
-NLP model for italian (`it_core_news_lg`), saving the results as CSV files in
-the `keywords/` and `entities/` folders.
+We extracted keywords and named entities from each transcript txt file using
+SpaCy NLP model for italian (`it_core_news_lg`), saving the results as CSV files
+in the `keywords/` and `entities/` folders.
 
 ```shell
 python scripts/keywords.py
 ```
 
 ### Manual compilation of keywords
-Added manually a list of reasoned keywords for each lecture in the
-`metadata/barbero.csv` file in the columns `keywords` and `entities`.
+We choose manually the list of reasoned keywords for each lecture and we added
+them to [`barbero.csv`](metadata/barbero.csv) file in the columns `keywords` and
+`entities`.
 
 ### Audio compression
 We compressed the audio files to reduce their size for easier storage and
@@ -78,7 +90,6 @@ done
 ```
 
 ## Disclaimer
-
 This repository and all files contained within are used solely for educational
 purposes as part of a university project. No copyright infringement is intended.
 All media, texts, and materials remain the property of their respective owners
